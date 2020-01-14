@@ -1,0 +1,53 @@
+-   [INTRODUCTION ](/)
+    -  [Goal](introduction/goal.md)
+    -  [Good enough!](introduction/good-enough.md)
+    -  [Architectural constraints](introduction/architectural-constraints/)
+        -  	[Client-server architecture](introduction/architectural-constraints/Client-server-architecture.md)
+        -  	Statelessness
+        -  	Cacheability
+        -  	Layered system
+        -  	Resource identification in requests
+        -  	Resource manipulation through representations
+        -  	Self-descriptive messages
+        -  	HATEOAS: Hypermedia as the engine of application state
+    -   Web API versioning
+        -   Majorless versioning
+        -   Additions and bug fixes
+        -   New web API name suggestions
+    -   External Links
+
+-   [URLS, HTTP AND HEADERS]()
+    -  [URL endpoints](#user-content-url-endpoints)
+        -   Web API versioning
+    -  [Readonly Methods](#user-content-readonly-methods)
+        -  	GET
+        -  	POST (GET by POST)
+        -  	HEAD (Optional)
+    -  [Writable Methods](#user-content-writable-methods)
+        -  	POST
+        -  	PUT
+        -  	DELETE
+    -  [HTTP Headers](#user-content-http-headers)
+        -  	Request headers
+        -  	Response headers
+        -  	Response Codes
+    -   Response Formats
+        -   Read-only meta/index data
+
+-   [SWAGGER / OPENAPI]()
+    -   Using OpenAPI
+    -   Storing and publishing OpenAPI files
+    -   Serving OpenAPI files using the API Proxy
+
+-   [READ-ONLY META/INDEX DATA COMMON JSON FORMAT]()
+    -  [JSON](#user-content-json)
+        -   JSON request payloads
+        -   Response Body
+        -   Error response
+        -   "msg"
+        -   "type"
+        -   "props"
+        -   "data"
+        -   "meta"
+        -   errors"
+        -   links"
