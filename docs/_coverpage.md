@@ -12,7 +12,7 @@
 - Follow best practices
 - Learn from past mistakes
 
-[Gitlab](https://kwvmxgit.ad.nerc.ac.uk/pautva/api-guidance-docs)
+[Gitlab](http://apis.glpages.ad.nerc.ac.uk/api-guidance-docs)
 [Get Started](goal.md)
 
 <!-- background color -->
