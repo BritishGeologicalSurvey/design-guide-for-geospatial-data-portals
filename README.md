@@ -6,9 +6,9 @@ Project is based on [docsify](https://docsify.js.org/) documentation site genera
 
 ## Updating pages
 
-* Edit markdown files directly in [Gitlab](https://kwvmxgit.ad.nerc.ac.uk/apis/api-guidance-docs/tree/master/docs) or click the 'Edit on Gitlab' button on any page and it will take you the right file.
-* Make your changes and commit (or submit a merge request for somebody else to review).
-* Once the changes merge into master it will be deployed on [gitlab pages](http://apis.glpages.ad.nerc.ac.uk/api-guidance-docs)
+* Edit markdown files directly in [Gitlab](https://kwvmxgit.ad.nerc.ac.uk/apis/api-guidance-docs/tree/master/docs) or click the 'Edit on Gitlab' button on any page and it will take you the right file
+* Make your changes and commit (or submit a merge request for somebody else to review)
+* Once the changes merge into master, the project will be deployed on [gitlab pages](http://apis.glpages.ad.nerc.ac.uk/api-guidance-docs)
 
 ![Edit on gitlab](https://i.ibb.co/9hgk9kY/edit-on-gitlab.png)
 
