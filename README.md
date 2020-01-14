@@ -1,6 +1,6 @@
 # API Guidance Document
 
-[API Guidance Docs on Gitlab pages](http://pautva.glpages.ad.nerc.ac.uk/api-guidance-docs)
+[API Guidance Docs on Gitlab pages](http://apis.glpages.ad.nerc.ac.uk/api-guidance-docs)
 
 Project is based on [docsify](https://docsify.js.org/) documentation site generator.
 
