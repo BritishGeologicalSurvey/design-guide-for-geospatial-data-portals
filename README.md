@@ -11,6 +11,8 @@ Project is based on [docsify](https://docsify.js.org/) documentation site genera
 * Once the changes merge into master, the project will be deployed on [gitlab pages](http://apis.glpages.ad.nerc.ac.uk/api-guidance-docs)
 
 ![Edit on gitlab](https://i.ibb.co/9hgk9kY/edit-on-gitlab.png)
+![Edit on gitlab - GIF](https://ibb.co/ws9bhFg)
+
 
 ## Creating new pages
 
