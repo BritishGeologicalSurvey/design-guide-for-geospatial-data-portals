@@ -3,18 +3,18 @@
     -  [Good enough!](introduction/good-enough.md)
     -  [Architectural constraints](introduction/architectural-constraints/)
         -  	[Client-server architecture](introduction/architectural-constraints/Client-server-architecture.md)
-        -  	Statelessness
-        -  	Cacheability
-        -  	Layered system
-        -  	Resource identification in requests
-        -  	Resource manipulation through representations
-        -  	Self-descriptive messages
-        -  	HATEOAS: Hypermedia as the engine of application state
-    -   Web API versioning
-        -   Majorless versioning
-        -   Additions and bug fixes
-        -   New web API name suggestions
-    -   External Links
+        -  	[Statelessness](introduction/architectural-constraints/statelessness.md)
+        -  	[Cacheability](introduction/architectural-constraints/cacheability.md)
+        -  	[Layered system](introduction/architectural-constraints/layered-system.md)
+        -  	[Resource identification in requests](introduction/architectural-constraints/resource-identification-in-requests.md)
+        -  	[Resource manipulation through representations](introduction/architectural-constraints/resource-manipulation-through-representations.md)
+        -  	[Self-descriptive messages](introduction/architectural-constraints/self-descriptive-messages.md)
+        -  	[HATEOAS: Hypermedia as the engine of application state](introduction/architectural-constraints/hateoas-hypermedia-as-the-engine-of-application-state.md)
+    -   [Web API versioning]()
+        -   [Majorless versioning]()
+        -   [Additions and bug fixes]()
+        -   [New web API name suggestions]()
+    -   [External Links]()
 
 -   [URLS, HTTP AND HEADERS]()
     -  [URL endpoints](#user-content-url-endpoints)

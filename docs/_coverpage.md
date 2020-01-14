@@ -13,7 +13,7 @@
 - Learn from past mistakes
 
 [Gitlab](http://apis.glpages.ad.nerc.ac.uk/api-guidance-docs)
-[Get Started](goal.md)
+[Get Started](introduction/goal.md)
 
 <!-- background color -->
 ![color](#4f4f4f)
