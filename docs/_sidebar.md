@@ -1,4 +1,4 @@
--   [INTRODUCTION ](/)
+-   [INTRODUCTION ](introduction/)
     -  [Goal](introduction/goal.md)
     -  [Good enough!](introduction/good-enough.md)
     -  [Architectural constraints](introduction/architectural-constraints/)
@@ -16,7 +16,7 @@
         -   [New web API name suggestions]()
     -   [External Links]()
 
--   [URLS, HTTP AND HEADERS]()
+-   [URLS, HTTP and Headers](urls-https-and-headers/)
     -  [URL endpoints](#user-content-url-endpoints)
         -   Web API versioning
     -  [Readonly Methods](#user-content-readonly-methods)
@@ -31,15 +31,15 @@
         -  	Request headers
         -  	Response headers
         -  	Response Codes
-    -   Response Formats
+    -   [Response Formats](#user-content-http-headers)
         -   Read-only meta/index data
 
--   [SWAGGER / OPENAPI]()
+-   [Swagger / OpenAPI](swagger-openapi/)
     -   Using OpenAPI
     -   Storing and publishing OpenAPI files
     -   Serving OpenAPI files using the API Proxy
 
--   [READ-ONLY META/INDEX DATA COMMON JSON FORMAT]()
+-   [Read-Only Meta/Index Data Common JSON Format](meta-index-data/)
     -  [JSON](#user-content-json)
         -   JSON request payloads
         -   Response Body
