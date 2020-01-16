@@ -1,53 +1,38 @@
--   [INTRODUCTION ](introduction/)
-    -  [Goal](introduction/goal.md)
-    -  [Good enough!](introduction/good-enough.md)
-    -  [Architectural constraints](introduction/architectural-constraints/)
-        -  	[Client-server architecture](introduction/architectural-constraints/Client-server-architecture)
-        -  	[Statelessness](introduction/architectural-constraints/statelessness)
-        -  	[Cacheability](introduction/architectural-constraints/cacheability)
-        -  	[Layered system](introduction/architectural-constraints/layered-system)
-        -  	[Resource identification in requests](introduction/architectural-constraints/resource-identification-in-requests)
-        -  	[Resource manipulation through representations](introduction/architectural-constraints/resource-manipulation-through-representations)
-        -  	[Self-descriptive messages](introduction/architectural-constraints/self-descriptive-messages)
-        -  	[HATEOAS: Hypermedia as the engine of application state](introduction/architectural-constraints/hateoas-hypermedia-as-the-engine-of-application-state)
-    -   [Web API versioning]()
-        -   [Majorless versioning]()
-        -   [Additions and bug fixes]()
-        -   [New web API name suggestions]()
-    -   [External Links]()
+- Introduction
 
--   [URLS, HTTP and Headers](urls-https-and-headers/)
-    -  [URL endpoints](#user-content-url-endpoints)
-        -   Web API versioning
-    -  [Readonly Methods](#user-content-readonly-methods)
-        -  	GET
-        -  	POST (GET by POST)
-        -  	HEAD (Optional)
-    -  [Writable Methods](#user-content-writable-methods)
-        -  	POST
-        -  	PUT
-        -  	DELETE
-    -  [HTTP Headers](#user-content-http-headers)
-        -  	Request headers
-        -  	Response headers
-        -  	Response Codes
-    -   [Response Formats](#user-content-http-headers)
-        -   Read-only meta/index data
+  - [Goal](introduction/goal.md)
+  - [Good enough!](introduction/good-enough.md)
+  - [Architectural constraints](introduction/architectural-constraints.md)
+  - [Web API versioning](introduction/web-api-versioning.md)
+  - [External Links](introduction/external-links.md)
 
--   [Swagger / OpenAPI](swagger-openapi/)
-    -   Using OpenAPI
-    -   Storing and publishing OpenAPI files
-    -   Serving OpenAPI files using the API Proxy
+- URLs, HTTP and Headers
 
--   [Read-Only Meta/Index Data Common JSON Format](meta-index-data/)
-    -  [JSON](#user-content-json)
-        -   JSON request payloads
-        -   Response Body
-        -   Error response
-        -   "msg"
-        -   "type"
-        -   "props"
-        -   "data"
-        -   "meta"
-        -   errors"
-        -   links"
+  - [URL endpoints](configuration.md)
+  - [Readonly Methods](themes.md)
+  - [Writable Methods](plugins.md)
+  - [HTTP Headers](wrcite-a-plugin.md)
+  - [Response Formats](markdown.md)
+
+- Swagger / OpenAPI
+
+  - [Using OpenAPI](deploy.md)
+  - [Storing and publishing OpenAPI files](helpers.md)
+  - [Serving OpenAPI files using the API Proxy](vue.md)
+
+- JSON Format
+
+  - [JSON](deploy.md)
+
+---
+
+- [FAQ](changelog.md)
+- [Changelog](changelog.md)
+
+---
+
+- Links
+- [![Code](https://icongr.am/feather/code.svg?size=16&color=808080)Markdown Cheetsheet](https://jhildenbiddle.github.io/docsify-themeable/#/markdown)
+- [![Github](https://icongram.jgog.in/simple/github.svg?color=808080&size=16)Gitlab Project](https://kwvmxgit.ad.nerc.ac.uk/apis/api-guidance-docs/blob/master/docs/introduction/README.md)
+- [![NPM](https://icongram.jgog.in/simple/npm.svg?colored&size=16)Template Documentation](https://docsify.now.sh/)
+<!-- - [![Twitter](https://icongram.jgog.in/simple/twitter.svg?colored&size=16)@jhildenbiddle](http://twitter.com/jhildenbiddle) -->

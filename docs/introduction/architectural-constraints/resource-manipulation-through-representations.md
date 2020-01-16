@@ -1,1 +1,0 @@
-# Resource manipulation through representations

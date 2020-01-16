@@ -1,3 +1,2 @@
-# Api Guidance Documentation
+# Introduction
 
-Where do I start?
