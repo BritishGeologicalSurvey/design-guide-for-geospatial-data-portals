@@ -2,7 +2,7 @@
 
 
 
-![logo](_media/icon.svg)
+![logo](_media/api-logo.svg)
 
 # API Guidance Documentation <small>0.1</small>
 
@@ -12,8 +12,8 @@
 - Follow best practices
 - Learn from past mistakes
 
-[Gitlab](http://apis.glpages.ad.nerc.ac.uk/api-guidance-docs)
-[Get Started](introduction/goal.md)
+[Gitlab](https://kwvmxgit.ad.nerc.ac.uk/apis/api-guidance-docs)
+[Get Started](/introduction/goal)
 
 <!-- background color -->
 ![color](#4f4f4f)
