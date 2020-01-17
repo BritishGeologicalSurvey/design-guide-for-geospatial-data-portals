@@ -1,6 +1,6 @@
 ## Ready to build an API?
 
-Start with the [introduction](main-content/introduction)
+Start with the [introduction](main-content/introduction).
 
 ## Looking for a reference implementation?
 
@@ -10,7 +10,8 @@ Start with the [introduction](main-content/introduction)
 
 ## Have a specific question?
 
-Use the search bar in the top left to search this documentation or check the [FAQ section](other/faq).
+* Use the search bar in the top left to search this documentation
+* Check the [FAQ section](other/faq)
 
 
 
