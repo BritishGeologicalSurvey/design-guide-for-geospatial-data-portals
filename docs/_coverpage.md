@@ -13,7 +13,7 @@
 - Learn from past mistakes
 
 [GitLab](https://kwvmxgit.ad.nerc.ac.uk/apis/api-guidance-docs)
-[Get Started](/introduction/goal)
+[Get Started](main-content/introduction)
 
 <!-- background color -->
 ![color](#4f4f4f)
