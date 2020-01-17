@@ -10,7 +10,7 @@
 
 - Develop APIs faster
 - Follow best practices
-- Learn from past mistakes
+- Find reference implementations
 
 [GitLab](https://kwvmxgit.ad.nerc.ac.uk/apis/api-guidance-docs)
 [Get Started](main-content/introduction)
