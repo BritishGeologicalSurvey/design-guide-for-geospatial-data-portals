@@ -45,7 +45,7 @@ Sometimes it might be difficult to give a single non-ambiguous name to a resourc
 
 ### API Versioning
 
-[Read more about API versioning here](/introduction#web-api-versioning)
+[Read more about API versioning here](main-content/introduction#web-api-versioning)
 
 
 ## Readonly Methods
