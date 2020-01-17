@@ -24,14 +24,11 @@
         maxLevel   : 3,
         subMaxLevel: 2,
         repo: 'https://kwvmxgit.ad.nerc.ac.uk/apis/api-guidance-docs',
-        // search: [
-        //     '/', // => /README.md
-        // ],
-        pagination: {
-            crossChapter: true,
-            crossChapterText: true,
-        },
-        // complete configuration parameters
+        // Where to search
+        search: [
+            '/', // => /README.md
+        ],
+        // How to search
         search: {
             maxAge: 86400000, // Expiration time, the default one day
             paths: 'auto', // or 'auto'
@@ -57,6 +54,10 @@
             // To avoid search index collision
             // between multiple websites under the same domain
             namespace: 'api-guidance-docs',
+        },
+        pagination: {
+            crossChapter: true,
+            crossChapterText: true,
         },
         loadSidebar: true,
         loadNavbar: true,
