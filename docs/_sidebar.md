@@ -26,6 +26,14 @@
 
 ---
 
+- Reference implementations
+
+  - [Python](#)
+  - [Node.js](#)
+  - [Java](#)
+
+---
+
 - [FAQ](changelog.md)
 - [Changelog](changelog.md)
 
@@ -34,5 +42,5 @@
 - Links
 - [![Code](https://icongr.am/feather/code.svg?size=16&color=808080)Markdown Cheetsheet](https://jhildenbiddle.github.io/docsify-themeable/#/markdown)
 - [![Github](https://icongram.jgog.in/simple/github.svg?color=808080&size=16)Gitlab Project](https://kwvmxgit.ad.nerc.ac.uk/apis/api-guidance-docs/blob/master/docs/introduction/README.md)
-- [![NPM](https://icongram.jgog.in/simple/npm.svg?colored&size=16)Template Documentation](https://docsify.now.sh/)
+<!-- - [![NPM](https://icongram.jgog.in/simple/npm.svg?colored&size=16)Template Documentation](https://docsify.now.sh/) -->
 <!-- - [![Twitter](https://icongram.jgog.in/simple/twitter.svg?colored&size=16)@jhildenbiddle](http://twitter.com/jhildenbiddle) -->
