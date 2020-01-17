@@ -10,7 +10,7 @@ Project is based on [docsify](https://docsify.js.org/) documentation site genera
 * Make your changes and commit (or submit a merge request for somebody else to review)
 * Once the changes merge into master, the project will be deployed on [gitlab pages](http://apis.glpages.ad.nerc.ac.uk/api-guidance-docs)
 
-![Edit on gitlab](https://i.ibb.co/9hgk9kY/edit-on-gitlab.png)
+![Edit on gitlab](https://i.ibb.co/ZM63jr8/Inkedscreenshot-LI.jpg)
 ![Edit on gitlab - GIF](docs/_media/edit-markdown.gif)
 
 
