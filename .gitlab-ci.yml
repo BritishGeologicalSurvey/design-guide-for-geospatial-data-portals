@@ -1,6 +1,5 @@
 stages:
   - publish
-  - deploy
 
 cache:
   # Required to keep artifacts from old builds, e.g. from master
