@@ -1,4 +1,4 @@
-# API Guidance Document
+# API Guidance Documentation
 
 [API Guidance Docs on Gitlab pages](http://apis.glpages.ad.nerc.ac.uk/api-guidance-docs)
 
