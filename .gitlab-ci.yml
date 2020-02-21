@@ -8,29 +8,30 @@ cache:
 
 pages:
   stage: publish
-  script:
-  - mkdir .public
-  - mkdir -p public/$CI_COMMIT_REF_NAME/
-  - cp -r docs/. public/$CI_COMMIT_REF_NAME/
-  - mv .public public/$CI_COMMIT_REF_NAME/
-  artifacts:
-    name: "$CI_COMMIT_REF_NAME"
-    paths:
-    - public
-    expire_in: 5 days
-  when: always
-  except:
-  - master
-  
-  stage: publish
-  script:
-  - mkdir .public
-  - mkdir -p public/$CI_COMMIT_REF_NAME/
-  - cp -r docs/. public/$CI_COMMIT_REF_NAME/
-  - mv .public public/$CI_COMMIT_REF_NAME/
-  artifacts:
-    name: "$CI_COMMIT_REF_NAME"
-    paths:
-    - public
-  only:
-  - master
+  job1:
+      script:
+      - mkdir .public
+      - mkdir -p public/$CI_COMMIT_REF_NAME/
+      - cp -r docs/. public/$CI_COMMIT_REF_NAME/
+      - mv .public public/$CI_COMMIT_REF_NAME/
+      artifacts:
+        name: "$CI_COMMIT_REF_NAME"
+        paths:
+        - public
+        expire_in: 5 days
+      when: always
+      except:
+      - master
+
+  job2:
+      script:
+      - mkdir .public
+      - mkdir -p public/$CI_COMMIT_REF_NAME/
+      - cp -r docs/. public/$CI_COMMIT_REF_NAME/
+      - mv .public public/$CI_COMMIT_REF_NAME/
+      artifacts:
+        name: "$CI_COMMIT_REF_NAME"
+        paths:
+        - public
+      only:
+      - master
