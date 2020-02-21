@@ -22,7 +22,7 @@ Project is based on [docsify](https://docsify.js.org/) documentation site genera
 
 ## Running documentation localy
 
-You can also run the project locally, make the changes and then submit your changes to gitlab.
+You can also run the project locally, make the changes and then submit your changes to gitlab
 
 * Pull the project to your computer
 * cd into api-guidance-docs
