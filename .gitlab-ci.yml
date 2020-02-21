@@ -6,8 +6,8 @@ cache:
   paths:
     - public
 
-pages-build-dev:
-  pages:
+pages:
+  pages-build-dev:
       stage: publish
       script:
       - mkdir .public
@@ -22,9 +22,8 @@ pages-build-dev:
       when: always
       except:
         - master
-    
-pages-build-master:
-  pages:
+        
+  pages-build-master:
       stage: publish
       script:
       - mkdir .public
