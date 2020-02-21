@@ -12,7 +12,7 @@ pages:
   - mkdir .public
   - mkdir -p public/$CI_COMMIT_REF_NAME/
   - cp -r docs/. public/$CI_COMMIT_REF_NAME/
-  - mv .public/$CI_COMMIT_REF_NAME/ public
+  - mv .public public/$CI_COMMIT_REF_NAME/
   artifacts:
     name: "$CI_COMMIT_REF_NAME"
     paths:
