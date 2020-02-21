@@ -20,7 +20,7 @@ Project is based on [docsify](https://docsify.js.org/) documentation site genera
 * Add a line in the `_sidebar.md` to create a link to that file in the sidebar (e.g `-  [Readonly Methods](readonly-methods.md)`)
 * Once the changes merge into master it will be deployed on [gitlab pages](http://apis.glpages.ad.nerc.ac.uk/api-guidance-docs)
 
-## Running documentation localy
+## Running documentation locally
 
 You can also run the project locally, make the changes and then submit your changes to gitlab.
 
