@@ -7,7 +7,7 @@ cache:
     - public
 
 pages:
-  stage: deploy
+  stage: publish
   script:
   - mkdir .public
   - mkdir -p public/$CI_COMMIT_REF_NAME/
