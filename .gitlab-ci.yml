@@ -17,4 +17,20 @@ pages:
     name: "$CI_COMMIT_REF_NAME"
     paths:
     - public
+    expire_in: 5 days
   when: always
+  except:
+  - master
+  
+  stage: deploy
+  script:
+  - mkdir .public
+  - mkdir -p public/$CI_COMMIT_REF_NAME/
+  - cp -r docs/. public/$CI_COMMIT_REF_NAME/
+  - mv .public public/$CI_COMMIT_REF_NAME/
+  artifacts:
+    name: "$CI_COMMIT_REF_NAME"
+    paths:
+    - public
+  only:
+  - master
