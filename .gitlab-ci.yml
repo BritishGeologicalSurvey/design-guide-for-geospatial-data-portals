@@ -5,8 +5,8 @@ cache:
   # Required to keep artifacts from old builds, e.g. from master
   paths:
     - public
-
-pages:
+    
+deploy-dev:
   stage: publish
   script:
   - mkdir .public
@@ -21,8 +21,8 @@ pages:
   when: always
   except:
     - master
-        
-pages:
+
+deploy-master:    
   stage: publish
   script:
   - mkdir .public
