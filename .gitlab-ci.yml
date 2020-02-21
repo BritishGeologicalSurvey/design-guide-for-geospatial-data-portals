@@ -1,11 +1,38 @@
-pages:
-  stage: deploy
+stages:
+  - publish
+
+cache:
+  # Required to keep artifacts from old builds, e.g. from master
+  paths:
+    - public
+
+pages-build-dev:
+  stage: publish
   script:
   - mkdir .public
-  - cp -r docs/. public
-  - mv .public public
+  - mkdir -p public/$CI_COMMIT_REF_NAME/
+  - cp -r docs/. public/$CI_COMMIT_REF_NAME/
+  - mv .public public/$CI_COMMIT_REF_NAME/
   artifacts:
+    name: "$CI_COMMIT_REF_NAME"
     paths:
     - public
+    expire_in: 5 days
+  when: always
+  except:
+    - master
+    
+pages-build-master:
+  stage: publish
+  script:
+  - mkdir .public
+  - mkdir -p public/$CI_COMMIT_REF_NAME/
+  - cp -r docs/. public/$CI_COMMIT_REF_NAME/
+  - mv .public public/$CI_COMMIT_REF_NAME/
+  artifacts:
+    name: "$CI_COMMIT_REF_NAME"
+    paths:
+    - public
+  when: always
   only:
-  - master
+    - master
