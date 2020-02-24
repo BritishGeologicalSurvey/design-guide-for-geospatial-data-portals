@@ -35,6 +35,25 @@ To get more clarity on the use-cases and requirements you can ask the following 
 * What do they want from the API?
 * How will they use the API?
 
+## API user experience
+
+> In the API space, we build something on a machine for a machine to use and this is wrong because there are people on the other side 
+> of API clients.
+>
+> *- Ronnie Mitra*
+
+To help make the developer user experience better you can follow the usability rules defined by [Peter Morville](https://semanticstudios.com/about/) known as [UX Honeycomb](https://semanticstudios.com/user_experience_design/).
+
+![UX Honeycomb](../_media/ux-honeycomb.png "UX Honeycomb")
+
+1. **Useful**: Is the API useful from an end user’s point of view?
+2. **Usable**: Can the API be quickly used by a developer and provide easy-to-use functionality?
+3. **Desirable**: Is the functionality provided by the API something that generates desire in developers and end users?
+4. **Findable**: Can the API documentation be found easily, and can developers start using it immediately?
+5. **Accessible**: Can the API provide functionality for end users who have technical constraints/limitations in consuming it?
+6. **Credible**: Is the data provided by the API trustworthy?
+7. **Valuable**: Does the API contribute to the company’s bottom line and improve customer satisfaction?
+
 ## Architectural constraints
 These constraints restrict the ways that the server should process and respond to client requests so that, by operating within these constraints, the service gains desirable non-functional properties, such as performance, scalability, simplicity, modifiability, visibility, portability, and reliability.
 
