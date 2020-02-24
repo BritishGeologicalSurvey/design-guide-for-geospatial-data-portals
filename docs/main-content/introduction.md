@@ -79,11 +79,10 @@ _'/gtf2'_ suggests to users that it is the second version, which is absolutely f
 
 ## External Links
 
-*  [representational-state-transfer](https://en.wikipedia.org/wiki/Representational_state_transfer)
-*  [client-server-model](https://en.wikipedia.org/wiki/Client-server_model)
-*  [rfc3339](https://xml2rfc.tools.ietf.org/public/rfc/html/rfc3339.html#anchor14)
-*  [rfc7231](https://tools.ietf.org/html/draft-ietf-httpbis-p2-semantics-26)
-*  [openapi-3-spec](https://swagger.io/specification/#dataTypes)
-*  [openapi-3-json-schema](https://swagger.io/specification/#schema-object-98)  
-*  [json-schema](http://json-schema.org/)
+*  [Representational state transfer REST](https://en.wikipedia.org/wiki/Representational_state_transfer)
+*  [Client–server model](https://en.wikipedia.org/wiki/Client-server_model)
+*  [Internet Date/Time Format RFC3339 / ISO8601](https://xml2rfc.tools.ietf.org/public/rfc/html/rfc3339.html#anchor14)
+*  [Hypertext Transfer Protocol (HTTP/1.1): Semantics and Content RFC7231](https://tools.ietf.org/html/draft-ietf-httpbis-p2-semantics-26)
+*  [OpenAPI Specification 3.0.3](https://swagger.io/specification/)
+*  [JSON Schema](https://json-schema.org/specification.html)
 
