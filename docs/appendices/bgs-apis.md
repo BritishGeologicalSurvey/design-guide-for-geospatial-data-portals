@@ -1,4 +1,4 @@
-# List of existing BGS APIs (internal and external)
+# List of existing BGS APIs
 
 ---
 
