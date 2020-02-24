@@ -35,6 +35,11 @@ To get more clarity on the use-cases and requirements you can ask the following 
 * What do they want from the API?
 * How will they use the API?
 
+Following the principles outlined in this documentation will help you:
+
+1. Design the **right thing**
+2. Design the **thing right**
+
 ## API user experience
 
 > In the API space, we build something on a machine for a machine to use and this is wrong because there are people on the other side 
