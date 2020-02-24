@@ -1,6 +1,7 @@
 ## Ready to build an API?
 
-Start with the [introduction](main-content/introduction).
+* Start with the [introduction](main-content/introduction).
+* Ask these [questions](main-content/introduction#user-research) to understand API user requirements better.
 
 ## Looking for a reference implementation?
 
