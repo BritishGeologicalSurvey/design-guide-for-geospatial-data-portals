@@ -34,14 +34,14 @@ The root of an API document must contain the following keys:
 
 *NOTE: The optional "tags" and "security" keys are currently out-of-scope of this guidance*
 
-### openapi
+### openapi (REQUIRED)
 
 This indicates the version of OpenAPI used and will currently be 
 ```javascript
 "openapi":"3.0.3",
 ```
 
-### info
+### info (REQUIRED)
 
 | key | type | description |
 | ------ | ------ | ------ |
@@ -65,9 +65,11 @@ The "termsOfService", "contact" and "license" keys for most BGS data will be the
 	}
 ```
 
-### servers
+*NOTE: If the data or service being provided is not clearly part of BGS OpenGeoscience, the "termsOfService", "contact" and "license" MUST be double-checked and approved before an API can be released.*
 
-For most external APIs all we need here is the root URL of the API service (so that full API urls can be assembled along with the "paths" data)
+### servers (REQUIRED)
+
+For most external APIs all we need here is the root URL of the API service (so that full API urls can be assembled with the endpoint "paths" data)
 
 ```javascript
 "servers":[
@@ -85,7 +87,7 @@ For internal APIs we can add more options to cover the various stages of develop
     ]
 ```
 
-### components
+### components (REQUIRED)
 
 | key | type | description |
 | ------ | ------ | ------ |
@@ -96,7 +98,9 @@ For internal APIs we can add more options to cover the various stages of develop
 
 #### components.schemas
 
-TODO (LINK TO STORE OF PRE-GENERATED SCHEMA DEFINITIONS HERE)
+TODO 
+
+*(LINK TO STORE OF PRE-GENERATED SCHEMA DEFINITIONS HERE)*
 
 #### components.parameters
 
@@ -110,8 +114,19 @@ TODO
 
 TODO
 
+*NOTE: The optional components keys "requestBodies", "headers", "securitySchemes", "links" and "callbacks"  are currently out-of-scope of this guidance*
 
-### paths
+### paths (REQUIRED)
 
 TODO
 
+### externalDocs (OPTIONAL)
+
+Links to External Documents are optional but can be very useful for the API consumer e.g. if a link to a WWW page with futher information about a dataset (scope, limitations etc.) is available 
+
+```javascript
+"externalDocs":[
+	{"name":"About this data","url":"//www.bgs.ac.uk/data/dataset/home.html"}
+	]
+```	
+	
