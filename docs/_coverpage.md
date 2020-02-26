@@ -12,7 +12,7 @@
 - Follow best practices
 - Find reference implementations
 
-[Developing APIs](main-content/introduction)
+[Introduction](main-content/introduction)
 [Reference Implementations](reference-implementations/python)
 
 <!-- background color -->
