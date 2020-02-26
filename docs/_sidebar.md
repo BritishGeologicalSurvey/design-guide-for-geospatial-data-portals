@@ -2,9 +2,16 @@
 
 ---
 
+- API Design Guidelines
+  
+  - [URLs for endpoints](main-content/urls-https-headers)
+  - [Designing APIs](main-content/designing-apis)
+
+---
+
 - Developing APIs
 
-  - [URLs, HTTP and Headers](main-content/urls-https-headers)
+  - [API URLs](main-content/urls-https-headers)
   - [Using OpenAPI](main-content/openapi)
   - [Response Formats](main-content/response-formats)
 
@@ -21,6 +28,7 @@
 - Appendices
 
   - [JSON Schema Library](appendices/json-schema-library.md)
+  - [HTTP and Headers](appendices/http-and-headers.md)
   - [BGS APIs](appendices/bgs-apis.md)
   - [Third-party APIs](appendices/third-party-apis.md)
 
