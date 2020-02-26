@@ -2,6 +2,8 @@
 
 ## BGS Index and Meta data API template (LINK)
 
+(LINK to GIT REPOSITRY)
+
 For simple APIs serving BGS data where:
 * Data is in a DB Query Layer (with maybe a couple of dictionaries)
 * The Query Layer is an index of maps/reports/rocks/fossils/...
@@ -10,6 +12,8 @@ For simple APIs serving BGS data where:
 * API provides only "search", "full details" and "dictionary (dropdown)" endpoints
 
 ## Time series and Sensor data
+
+(LINK to GIT REPOSITRY)
 
 TODO
 
