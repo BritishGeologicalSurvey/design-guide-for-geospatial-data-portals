@@ -24,4 +24,4 @@ For these very similar (and repetitive) use cases, we have a response template t
 
 - [Index Data JSON Format](main-content/json-format)
 
-Hopefully this will speed up development and introduse more consistency across these APIs
+Hopefully this will speed up development and introduce more consistency across these APIs
