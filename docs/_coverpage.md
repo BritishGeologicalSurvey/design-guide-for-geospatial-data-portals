@@ -12,8 +12,8 @@
 - Follow best practices
 - Find reference implementations
 
-[GitLab](https://kwvmxgit.ad.nerc.ac.uk/apis/api-guidance-docs)
-[Get Started](main-content/introduction)
+[Developing APIs](main-content/introduction)
+[Reference Implementations](reference-implementations/python)
 
 <!-- background color -->
 ![color](#4f4f4f)
