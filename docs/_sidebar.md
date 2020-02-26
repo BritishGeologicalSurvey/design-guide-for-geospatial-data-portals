@@ -1,14 +1,12 @@
 - [Introduction](main-content/introduction)
-- [URLs, HTTP and Headers](main-content/urls-https-headers)
-- [Using OpenAPI](main-content/openapi)
-- [JSON Format](main-content/json-format)
 
 ---
 
-- Appendices
+- Developing APIs
 
-  - [BGS APIs](appendices/bgs-apis.md)
-  - [Third-party APIs](appendices/third-party-apis.md)
+  - [URLs, HTTP and Headers](main-content/urls-https-headers)
+  - [Using OpenAPI](main-content/openapi)
+  - [Response Formats](main-content/response-formats)
 
 ---
 
@@ -17,6 +15,14 @@
   - [Python](reference-implementations/python)
   - [Node.js](reference-implementations/node)
   - [Java](reference-implementations/java)
+
+---
+
+- Appendices
+
+  - [JSON Schema Library](appendices/json-schema-library.md)
+  - [BGS APIs](appendices/bgs-apis.md)
+  - [Third-party APIs](appendices/third-party-apis.md)
 
 ---
 
