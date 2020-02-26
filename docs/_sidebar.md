@@ -6,7 +6,7 @@
 
   - [URLs, HTTP and Headers](main-content/urls-https-headers)
   - [Using OpenAPI](main-content/openapi)
-  - [Response Formats](main-content/Response-format)
+  - [Response Formats](main-content/response-formats)
 
 ---
 
