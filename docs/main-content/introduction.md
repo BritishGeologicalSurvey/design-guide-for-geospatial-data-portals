@@ -1,5 +1,11 @@
 # Introduction
 
+## Scope
+
+These guidelines are intended for use in making RESTful (or at least RESTish) APIs that return relatively simple data as JSON.
+
+There are alternative API approaches that may be better suited for other use cases e.g. [GraphQL](https://graphql.org/), [gRPC](https://grpc.io/), or [Linked Data](http://linkeddata.org/).
+
 ## Purpose
 
 The goal of these guidelines is to help BGS application developers create web APIs that are:

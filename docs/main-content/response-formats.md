@@ -2,11 +2,12 @@
 
 An API can return almost any type of data, but *usually* returns some sort of *standard* text format that is well understood by browsers e.g. JSON or XML.
 
-- Time-Series Data Fromats ? SOS
-- OGC XML Formats (WFS, WMS, WCS, ...)
-- ISO XML Formats (?)
-- Linked Data Formats (RDF, LD-JSON)
-- Arbitrary JSON (often only used to support an Application)
+- Time-Series Data Formats (e.g [SOS](https://en.wikipedia.org/wiki/Sensor_Observation_Service))
+- OGC XML Formats ([WFS](https://en.wikipedia.org/wiki/Web_Feature_Service), [WMS](https://en.wikipedia.org/wiki/Web_Map_Service), [WCS](https://en.wikipedia.org/wiki/Web_Coverage_Service), ...)
+- ISO XML Formats (METADATA)
+- Linked Data Formats ([RDF-XML](https://www.w3.org/RDF/), LD-JSON)
+- Arbitrary JSON (often only used to support a single application)
+- HTML (used for client-side-includes and by some JavaScript templating libraries)
 
 ## Index and meta data response format
 
@@ -22,6 +23,6 @@ We have many existing use cases that are all very similar:
 
 For these very similar (and repetitive) use cases, we have a response template that should be used if at all possible:
 
-- [Index Data JSON Format](main-content/json-format)
+- **[Index Data JSON Format](main-content/json-format)** specification
 
 Hopefully this will speed up development and introduce more consistency across these APIs
