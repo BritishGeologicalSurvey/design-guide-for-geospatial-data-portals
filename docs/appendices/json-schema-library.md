@@ -31,6 +31,19 @@ GeoJsonFeature{
 ```
 
 ```
+GeoJsonFeatureCollection{
+    type*           string
+                    enum[FeatureCollection]
+    features*       GeoJsonFeature
+    timeStamp       string($date-time)
+    numberMatched   integer
+                    minimum: 0
+    numberReturned  integer
+                    minimum: 0
+}
+```
+
+```
 GeoJson Feature object containing Polygon with 4 vertices. 
 
 GeoJsonFeatureBoundingBox{
