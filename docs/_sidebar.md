@@ -4,7 +4,6 @@
 
 - API Design Guidelines
   
-  - [URLs for endpoints](main-content/urls-https-headers)
   - [Designing APIs](main-content/designing-apis)
 
 ---
