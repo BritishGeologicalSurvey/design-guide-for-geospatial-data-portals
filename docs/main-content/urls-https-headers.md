@@ -44,7 +44,7 @@ Sometimes it might be difficult to give a single non-ambiguous name to a resourc
 
 ### API Versioning
 
-[Read more about API versioning here](main-content/designing-apis#web-api-versioning)
+[Read more about API versioning here](main-content/versioning-apis)
 
 
 
