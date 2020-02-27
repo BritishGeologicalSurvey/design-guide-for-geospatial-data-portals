@@ -1,25 +1,21 @@
-Deploying APIs
+# Deploying APIs
 
-	Internal (intranet) 
+## Internal (intranet) 
 	
-		{LINK TO PROXY}
-		
-		{JAVA SERVERS}
+* {LINK TO PROXY}
+* {JAVA SERVERS}
+* {VMS/DOCKER}
 	
-		{VMS/DOCKER}
-	
-	External (*.bgs.ac.uk)
+## External (*.bgs.ac.uk)
 
-		{LINK TO PROXY}
-		
-		{JAVA SERVERS}
-		
-		{VMS/DOCKER}
+* {LINK TO PROXY}
+* {JAVA SERVERS}
+* {VMS/DOCKER}
+
+## Security
 	
-	Security
-	
-		SSL provided by F5 ...
+SSL provided by F5 ...
 		
-	External Caching
+## External Caching
 		
-		Varnish or similar or maybe F5?
+Varnish or similar or maybe F5?
