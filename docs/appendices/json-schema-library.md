@@ -1,9 +1,38 @@
 # JSON Schema Library
 
-OpenAPI specification for a project can be viewed using Swagger Editor for easy readability. 
-When creating a schema user specified fields should be surrounded by quotations and are done so to differentiate 
-between given OpenAPI fields. Sometimes it is logical to inherit schemas and allOf allows schemas to embed another 
-schema as a subschema using the $ref syntax.
+This is a list of common properties between projects and to provide guidance on how to structure your schemas. 
+Your project specific OpenAPI specification can be viewed using the [**Swagger Editor**](https://editor.swagger.io/) 
+for easy readability and will expand on what is below. In the editor when creating a schema 
+with user specified fields those fields should be surrounded by quotations to differentiate between 
+given OpenAPI fields:
+
+```
+DictionaryItem:
+      type: object
+      properties:
+        "id":
+          type: string
+        "translation":
+          type: string
+        "description":
+          type: string
+```
+
+Sometimes it is logical to inherit schemas and OpenAPI allow schemas to embed another schema as a 
+subschema using the allOf keyword. $ref is used to make reference to sections in the API, for 
+example a HierarchicalDictionaryItem contains a nested HierarchicalDictionaryItem:
+
+```
+HierarchicalDictionaryItem:
+      allOf:
+      - $ref: '#/components/schemas/DictionaryItem'
+      type: object
+      properties:
+        "narrower":
+          type: array
+          items:
+            $ref: '#/components/schemas/HierarchicalDictionaryItem'
+```
 
 ## BGS Dictionary references (Lexicon, RCS, Map Sheets...)
 
