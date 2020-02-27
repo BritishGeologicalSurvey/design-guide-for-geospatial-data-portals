@@ -4,11 +4,11 @@
 
 *  **BGS Intranet** [BETA APIs Index](http://bgsbeta/scripts/APIs/). This page brings together a list of existing BGS LAN APIs used by various intranet applications.
 
-*  **Intranet Sensor API** [BGS Intranet Sensor API](http://nercbgskwjava2:8080/JavaApps/sensor). Current Sensor API (Java - Graham Smith - code in SubVersion)
+*  **Intranet Sensor API** [BGS Intranet Sensor API](http://bgskwjava2:8080/JavaApps/sensor). Current Sensor API (Java - Graham Smith - code in SubVersion)
 
 *  **DMZ Sensor API**. New DMZ Sensor API (Project in [GIT](https://kwvmxgit.ad.nerc.ac.uk/sensors))
 
-*  **Propbase** [BGS Intranet API](http://nercbgskwjava2:8080/JavaApps/Propbase). Propbase API (Java - Graham Smith - code in SubVersion)
+*  **Propbase** [BGS Intranet API](http://bgskwjava2:8080/JavaApps/Propbase). Propbase API (Java - Graham Smith - code in SubVersion)
 
 *  **SEA Portal** [BETA Portal](http://bgskwjava4:8080/sea/). API and OpenApi spec (Project in [GIT](https://kwvmxgit.ad.nerc.ac.uk/java-web/seas-portal/))
 
