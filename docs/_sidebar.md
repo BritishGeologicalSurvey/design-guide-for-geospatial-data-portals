@@ -5,6 +5,7 @@
 - Design
   
   - [Designing APIs](main-content/designing-apis)
+  - [API and Data versioning](main-content/versioning-apis)
 
 ---
 
