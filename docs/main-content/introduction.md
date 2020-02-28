@@ -65,4 +65,4 @@ that provides access to a catalogue of online resources:
 
  8.1. in addition, data object includes a hierarchical dictionary object (code,translation,description, array of child objects)
 
- 8.2. in addition, data object includesa full spatial footprint attribute in geojson (a feature collection)
+ 8.2. in addition, data object includes a full spatial footprint attribute in geojson (a feature collection)

@@ -1,0 +1,181 @@
+openapi: "3.0.2"
+info:
+  description: "Open API specification for SEAs portal API"
+  version: "1.0.0"
+  title: "SEAs Portal"
+  termsOfService: "https://www.bgs.ac.uk/help/terms_of_use.html"
+  contact:
+    email: "enquiries@bgs.ac.uk"
+    
+servers: 
+ - url: "https://webservices.bgs.ac.uk/sea"
+   description: "Production server"
+   
+paths:
+    /[items]:
+      get:
+        summary: "Returns array of [items]"
+        description: ""
+        responses:
+            '200':
+              description: "A JSON array of [items]"
+              content:
+                application/json:
+                  schema:
+                    properties:
+                      "items":
+                        type: array
+                        items:
+                          $ref: ''
+        parameters:
+          - name: "q"
+            in: "query"
+            description: "search text in items to match one or match multiple query parameters in any order. query params are comma delimited (q-multi=param1,param2,param3)"
+            required: false
+            schema: 
+              type: array
+              items:
+                oneOf:
+                  - type: string
+                  - type: integer                
+          - name: "start_date"
+            in: query
+            description: "start date for date range. Must be used  with end_date"
+            required: false
+            schema:
+              type: string
+              format: date
+          - name: "end_date"
+            in: query
+            description: "end date for date range. Must be used  with start_date"
+            required: false
+            schema:
+              type: string
+              format: date
+          - name: "bbox"
+            in: query
+            description: "features with intersecting bounding box are returned. The bounding box has 4 vertices"
+            required: false
+            schema:
+              type: array
+              minItems: 4
+              maxItems: 4
+              items:
+                type: number
+    /[items]/{itemID}:
+        get:
+          summary: "Returns array of [items]"
+          description: ""
+          responses:
+            '200':
+              description: "A JSON array of [items]"
+              content:
+                application/geo+json:
+                  schema:
+                    $ref: '#/components/schemas/Item'
+            '400':
+              description: "Invalid itemID value"
+          parameters:
+              - name: "itemID"
+                in: "path"
+                description: "Identifier of item object"
+                required: true
+                schema: 
+                  type: string
+components:
+  schemas:
+    Item:
+        type: object
+        properties:
+          "id":
+            type: integer
+            description: "item ID"
+          "name":
+            type: string
+            description: "item name"
+          "description":
+            description: "item description"
+          "date":
+            type: string
+            format: date
+          "time":
+            type: string
+            format: datetime
+          "hierarchicalObj":
+            type: array
+            description: "item contains a hierarchical dic obj"
+            items:
+              $ref: '#/components/schemas/HierarchicalDictionaryItem' 
+          "spatialEvents":
+            type: array
+            items:
+              - $ref: '#/components/schemas/GeoJsonFeatureCollection'
+            description: "GEOJSON FeatureCollection containing point,line, polygon features"
+    HierarchicalDictionaryItem:
+      type: object
+      properties:
+        "id":
+          type: string
+        "translation":
+          type: string
+        "description":
+          type: string
+        "narrower":
+          type: array
+          items:
+            $ref: '#/components/schemas/HierarchicalDictionaryItem'
+    GeoJsonFeatureCollection:
+      type: object
+      required:
+        - "type"
+        - "features"
+      properties:
+        "type":
+          type: string
+          enum:
+          - FeatureCollection
+        "features":
+          allOf:
+           - $ref: '#/components/schemas/GeoJsonFeature'
+        "timeStamp":
+          type: string
+          format: date-time
+        "numberMatched":
+          type: integer
+          minimum: 0
+        "numberReturned":
+          type: integer
+          minimum: 0
+      externalDocs:
+        description: "featureCollectionGeoJSON schema defined by OGC"
+        url: "https://raw.githubusercontent.com/opengeospatial/WFS_FES/master/core/openapi/schemas/featureCollectionGeoJSON.yaml"
+    GeoJsonFeature:
+      type: "object"
+      required:
+        - "type"
+        - "geometry"
+        - "properties"
+      properties:
+        "type":
+          type: string
+          format: date
+          enum:
+          - Feature
+        "geometry":
+          description: "geojson geometry"
+          externalDocs:
+            description: "geometryGeoJSON schema defined by OGC"
+            url: "https://raw.githubusercontent.com/opengeospatial/WFS_FES/master/core/openapi/schemas/geometryGeoJSON.yaml"
+        "properties":
+          type: object
+          nullable: true
+        "id":
+          oneOf:
+          - type: string
+          - type: integer
+      externalDocs:
+        description: "featureGeoJSON schema defined by OGC"
+        url: "https://raw.githubusercontent.com/opengeospatial/WFS_FES/master/core/openapi/schemas/featureGeoJSON.yaml"
+externalDocs:
+  description: "Find out more about Swagger"
+  url: "http://swagger.io"
