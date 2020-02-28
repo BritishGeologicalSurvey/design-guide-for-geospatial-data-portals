@@ -1,0 +1,14 @@
+{
+  "type": "object",
+  "properties": {
+    "id": {
+      "type": "string"
+    },
+    "translation": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    }
+  }
+}

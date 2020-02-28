@@ -1,0 +1,41 @@
+{
+  "type": "object",
+  "required": [
+    "type",
+    "geometry",
+    "properties"
+  ],
+  "properties": {
+    "type": {
+      "type": "string",
+      "enum": [
+        "Feature"
+      ]
+    },
+    "geometry": {
+      "description": "geojson geometry",
+      "externalDocs": {
+        "description": "geometryGeoJSON schema defined by OGC",
+        "url": "https://raw.githubusercontent.com/opengeospatial/WFS_FES/master/core/openapi/schemas/geometryGeoJSON.yaml"
+      }
+    },
+    "properties": {
+      "type": "object",
+      "nullable": true
+    },
+    "id": {
+      "oneOf": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "integer"
+        }
+      ]
+    }
+  },
+  "externalDocs": {
+    "description": "featureGeoJSON schema defined by OGC",
+    "url": "https://raw.githubusercontent.com/opengeospatial/WFS_FES/master/core/openapi/schemas/featureGeoJSON.yaml"
+  }
+}
