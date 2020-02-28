@@ -118,7 +118,26 @@ TODO
 
 ### paths (REQUIRED)
 
-TODO
+The paths section of the specification defines the resource endpoints the API provides. Each path should have one or more operations to access a endpoint (get,post,put,patch,delete).
+Below is an example of a get operation to retrieve an JSON array of subject data objects along with an expected response and the schema the json will follow. 
+
+```yaml 
+/subjects:
+    get:
+      summary: "Returns nested array of subject terms"
+      description: "Returns nested array of document subjects as id,translation,description values from a hierarchical keyphrase list"
+      responses:
+        '200':
+          description: "A JSON array of key value value triples"
+          content:
+            application/json:
+              schema:
+                properties:
+                  "items":
+                    type: array
+                    items:
+                      $ref: '#/components/schemas/HierarchicalDictionaryItem'
+```
 
 ### externalDocs (OPTIONAL)
 
