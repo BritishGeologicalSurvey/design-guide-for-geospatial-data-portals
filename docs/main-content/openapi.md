@@ -26,11 +26,11 @@ The root of an API document must contain the following keys:
 
 | key | type | description |
 | ------ | ------ | ------ |
-| openapi | string | Open API Version - currently "3.0.3" |
-| info | object |  API Description and terms  |
-| servers | array |  API Server URL |
-| components | object |  Reusable definitions to be used in "paths" object |
-| paths | object | The available paths and operations for the API |
+| **openapi** | string | Open API Version - currently "3.0.3" |
+| **info** | object |  API Description and terms  |
+| **servers** | array |  API Server URL |
+| **components** | object |  Reusable definitions to be used in "paths" object |
+| **paths** | object | The available paths and operations for the API |
 
 *NOTE: The optional "tags" and "security" keys are currently out-of-scope of this guidance*
 
@@ -41,16 +41,16 @@ This indicates the version of OpenAPI used and will currently be
 "openapi":"3.0.3",
 ```
 
-### info (REQUIRED)
+### info (REQUIRED) [SPEC](http://spec.openapis.org/oas/v3.0.0#info-object)
 
 | key | type | description |
 | ------ | ------ | ------ |
-| title | string | Short API Title / Name |
-| description | string |  Description of the API and what it does |
-| version | string | Version of the API |
-| termsOfService | string(url) | (usually bolier plate - see below) |
-| contact | object | (usually bolier plate - see below) |
-| license | object | (usually bolier plate - see below) |
+| **title** | string | Short API Title / Name |
+| **description** | string |  Description of the API and what it does |
+| **version** | string | Version of the API |
+| **termsOfService** | string(url) | (usually bolier plate - see below) |
+| **contact** | object | (usually bolier plate - see below) |
+| **license** | object | (usually bolier plate - see below) |
 
 The "termsOfService", "contact" and "license" keys for most BGS data will be the same as OpenGeoscience e.g.
 
@@ -67,7 +67,7 @@ The "termsOfService", "contact" and "license" keys for most BGS data will be the
 
 *NOTE: If the data or service being provided is not clearly part of BGS OpenGeoscience, the "termsOfService", "contact" and "license" MUST be double-checked and approved before an API can be released.*
 
-### servers (REQUIRED)
+### servers (REQUIRED) [SPEC](http://spec.openapis.org/oas/v3.0.0#server-object)
 
 For most external APIs all we need here is the root URL of the API service (so that full API urls can be assembled with the endpoint "paths" data)
 
@@ -87,40 +87,13 @@ For internal APIs we can add more options to cover the various stages of develop
     ]
 ```
 
-### components (REQUIRED)
+### paths (REQUIRED) [SPEC](http://spec.openapis.org/oas/v3.0.0#paths-object)
 
-| key | type | description |
-| ------ | ------ | ------ |
-| schemas | object | JSON Schema definitions of all properties in API responses or requests - referenced by "responses" and/or "parameters"  |
-| parameters | object | Definitions of request parameters - referenced by "paths" - references "schemas" for property details |
-| responses | object | Definitions of response objects - referenced by "paths" - references "schemas" for property details |
-| examples | object | TODO |
+Holds the relative paths to the individual endpoints and their operations. The path is appended to a URL from the Server Object in order to construct the full URL.
 
-#### components.schemas
+Wherever possible a path description should use "$ref" pointers to response, parameter and schema definitions.
 
-TODO 
-
-*(LINK TO STORE OF PRE-GENERATED SCHEMA DEFINITIONS HERE)*
-
-#### components.parameters
-
-TODO
-
-#### components.responses
-
-TODO
-
-#### components.examples
-
-TODO
-
-*NOTE: The optional components keys "requestBodies", "headers", "securitySchemes", "links" and "callbacks"  are currently out-of-scope of this guidance*
-
-### paths (REQUIRED)
-
-TODO
-
-### externalDocs (OPTIONAL)
+### externalDocs (OPTIONAL) [SPEC](http://spec.openapis.org/oas/v3.0.0#external-documentation-object)
 
 Links to External Documents are optional but can be very useful for the API consumer e.g. if a link to a WWW page with futher information about a dataset (scope, limitations etc.) is available 
 
@@ -130,3 +103,33 @@ Links to External Documents are optional but can be very useful for the API cons
 	]
 ```	
 	
+### components (REQUIRED) [SPEC](http://spec.openapis.org/oas/v3.0.0#components-object)
+
+| key | type | description |
+| ------ | ------ | ------ |
+| **schemas** | object | JSON Schema definitions of all properties in API responses or requests - referenced by "responses" and/or "parameters"  |
+| **parameters** | object | Definitions of request parameters - referenced by "paths" - references "schemas" for property details |
+| **responses** | object | Definitions of response objects - referenced by "paths" - references "schemas" for property details |
+| **examples** | object | Definitions of example objects - referenced by responses or requests|
+
+All schema, parameter, response and example definitions should follow their OpenAPI specifications:
+
+#### components.schemas (REQUIRED) [SPEC](http://spec.openapis.org/oas/v3.0.0#schema-object)
+
+Pre-generated schema definitions for many common uses can be cut-and-pasted from the **[JSON Schema Library](/appendices/json-schema-library)** 
+
+#### components.parameters (REQUIRED) [SPEC](http://spec.openapis.org/oas/v3.0.0#parameter-object)
+
+Pre-generated parameter definitions for many common uses can be cut-and-pasted from the **[JSON Schema Library](/appendices/json-schema-library)** 
+
+#### components.responses (REQUIRED) [SPEC](http://spec.openapis.org/oas/v3.0.0#responses-object)
+
+Pre-generated response definitions for many common uses can be cut-and-pasted from the **[JSON Schema Library](/appendices/json-schema-library)** 
+
+#### components.examples (REQUIRED) [SPEC](http://spec.openapis.org/oas/v3.0.0#example-object)
+
+Pre-generated example definitions for many common uses can be cut-and-pasted from the **[JSON Schema Library](/appendices/json-schema-library)** 
+	
+---
+	
+*NOTE: The optional components keys "requestBodies", "headers", "securitySchemes", "links" and "callbacks"  are currently out-of-scope of this guidance*
