@@ -1,16 +1,16 @@
 openapi: "3.0.2"
 info:
-  description: "Open API specification for SEAs portal API"
+  description: ""
   version: "1.0.0"
-  title: "SEAs Portal"
+  title: ""
   termsOfService: "https://www.bgs.ac.uk/help/terms_of_use.html"
   contact:
     email: "enquiries@bgs.ac.uk"
-    
-servers: 
- - url: "https://webservices.bgs.ac.uk/sea"
+
+servers:
+ - url: ""
    description: "Production server"
-   
+
 paths:
     /[items]:
       get:
@@ -264,8 +264,6 @@ components:
           type: integer
           maximum: 1000
           description: "the maximum number of items returned"
-
-
 externalDocs:
   description: "Find out more about Swagger"
   url: "http://swagger.io"
