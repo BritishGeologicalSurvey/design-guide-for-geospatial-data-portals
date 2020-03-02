@@ -3,7 +3,7 @@
 ## Why use OpenAPI?
 
 OpenAPI is a broadly adopted industry standard for describing modern APIs, overseen by the OpenAPI Initiative, an open-source collaboration project of the Linux Foundation.
-An [OpenAPI definition](https://swagger.io/specification/) is a JSON/YAML file that is stored in a web accessible location and describes how to use the API.
+An [OpenAPI definition](http://spec.openapis.org/oas/v3.0.3) is a JSON/YAML file that is stored in a web accessible location and describes how to use the API.
 
 An OpenAPI definition can then be used by documentation generation tools to display the API, code generation tools to generate servers and clients in various programming languages, testing tools, and many other use cases.
 With a small amount of additional metadata (an index of APIs with pointers to their OpenAPI files) we can also auto-generate API discovery tools.
@@ -41,7 +41,7 @@ This indicates the version of OpenAPI used and will currently be
 "openapi":"3.0.3",
 ```
 
-### info (REQUIRED) [SPEC](http://spec.openapis.org/oas/v3.0.0#info-object)
+### info (REQUIRED) [SPEC](http://spec.openapis.org/oas/v3.0.3#info-object)
 
 | key | type | description |
 | ------ | ------ | ------ |
@@ -67,7 +67,7 @@ The "termsOfService", "contact" and "license" keys for most BGS data will be the
 
 *NOTE: If the data or service being provided is not clearly part of BGS OpenGeoscience, the "termsOfService", "contact" and "license" MUST be double-checked and approved before an API can be released.*
 
-### servers (REQUIRED) [SPEC](http://spec.openapis.org/oas/v3.0.0#server-object)
+### servers (REQUIRED) [SPEC](http://spec.openapis.org/oas/v3.0.3#server-object)
 
 For most external APIs all we need here is the root URL of the API service (so that full API urls can be assembled with the endpoint "paths" data)
 
@@ -87,13 +87,13 @@ For internal APIs we can add more options to cover the various stages of develop
     ]
 ```
 
-### paths (REQUIRED) [SPEC](http://spec.openapis.org/oas/v3.0.0#paths-object)
+### paths (REQUIRED) [SPEC](http://spec.openapis.org/oas/v3.0.3#paths-object)
 
 Holds the relative paths to the individual endpoints and their operations. The path is appended to a URL from the Server Object in order to construct the full URL.
 
 Wherever possible a path description should use "$ref" pointers to response, parameter and schema definitions.
 
-### externalDocs (OPTIONAL) [SPEC](http://spec.openapis.org/oas/v3.0.0#external-documentation-object)
+### externalDocs (OPTIONAL) [SPEC](http://spec.openapis.org/oas/v3.0.3#external-documentation-object)
 
 Links to External Documents are optional but can be very useful for the API consumer e.g. if a link to a WWW page with futher information about a dataset (scope, limitations etc.) is available 
 
@@ -103,7 +103,7 @@ Links to External Documents are optional but can be very useful for the API cons
 	]
 ```	
 	
-### components (REQUIRED) [SPEC](http://spec.openapis.org/oas/v3.0.0#components-object)
+### components (REQUIRED) [SPEC](http://spec.openapis.org/oas/v3.0.3#components-object)
 
 | key | type | description |
 | ------ | ------ | ------ |
@@ -114,19 +114,19 @@ Links to External Documents are optional but can be very useful for the API cons
 
 All schema, parameter, response and example definitions should follow their OpenAPI specifications:
 
-#### components.schemas (REQUIRED) [SPEC](http://spec.openapis.org/oas/v3.0.0#schema-object)
+#### components.schemas (REQUIRED) [SPEC](http://spec.openapis.org/oas/v3.0.3#schema-object)
 
 Pre-generated schema definitions for many common uses can be cut-and-pasted from the **[JSON Schema Library](/appendices/json-schema-library)** 
 
-#### components.parameters (REQUIRED) [SPEC](http://spec.openapis.org/oas/v3.0.0#parameter-object)
+#### components.parameters (REQUIRED) [SPEC](http://spec.openapis.org/oas/v3.0.3#parameter-object)
 
 Pre-generated parameter definitions for many common uses can be cut-and-pasted from the **[JSON Schema Library](/appendices/json-schema-library)** 
 
-#### components.responses (REQUIRED) [SPEC](http://spec.openapis.org/oas/v3.0.0#responses-object)
+#### components.responses (REQUIRED) [SPEC](http://spec.openapis.org/oas/v3.0.3#responses-object)
 
 Pre-generated response definitions for many common uses can be cut-and-pasted from the **[JSON Schema Library](/appendices/json-schema-library)** 
 
-#### components.examples (REQUIRED) [SPEC](http://spec.openapis.org/oas/v3.0.0#example-object)
+#### components.examples (REQUIRED) [SPEC](http://spec.openapis.org/oas/v3.0.3#example-object)
 
 Pre-generated example definitions for many common uses can be cut-and-pasted from the **[JSON Schema Library](/appendices/json-schema-library)** 
 	
