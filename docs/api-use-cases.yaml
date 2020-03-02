@@ -30,6 +30,7 @@ paths:
         parameters:
           - name: "q"
             in: "query"
+            # extend to allow google style search functions for tokenised words in any order
             description: "search text in items to match one or match multiple query parameters in any order. query params are comma delimited (q-multi=param1,param2,param3)"
             required: false
             schema: 
@@ -62,6 +63,28 @@ paths:
               maxItems: 4
               items:
                 type: number
+          - name: "dic"
+            # change to array type similar to bbox param
+            in: query
+            description: ""
+            required: false
+            schema:
+              type: object
+              properties:
+                "prop1":
+                  type:
+                "prop2":
+                  type:
+              example:
+                {
+                  "attr1": 1,
+                  "attr2": 2,
+                  "attri3": 3
+                }
+              # uri query ?dic[attr1]=?&dic[attr2]=?&dic[attr3]=?
+            style: deepObject
+            # explode specifies if the object generates seperate params for each obj property
+            explode: true
     /[items]/{itemID}:
         get:
           summary: "Returns array of [items]"
@@ -85,32 +108,37 @@ paths:
 components:
   schemas:
     Item:
-        type: object
-        properties:
-          "id":
-            type: integer
-            description: "item ID"
-          "name":
-            type: string
-            description: "item name"
-          "description":
-            description: "item description"
-          "date":
-            type: string
-            format: date
-          "time":
-            type: string
-            format: datetime
-          "hierarchicalObj":
-            type: array
-            description: "item contains a hierarchical dic obj"
-            items:
-              $ref: '#/components/schemas/HierarchicalDictionaryItem' 
-          "spatialEvents":
-            type: array
-            items:
-              - $ref: '#/components/schemas/GeoJsonFeatureCollection'
-            description: "GEOJSON FeatureCollection containing point,line, polygon features"
+      type: object
+      properties:
+        "id":
+          type: integer
+          description: "item ID"
+        "name":
+          type: string
+          description: "item name"
+        "description":
+          description: "item description"
+        "date":
+          type: string
+          format: date
+        "time":
+          type: string
+          format: date-time
+        "dicAttribute":
+          type: array
+          description: "item contains a dic obj"
+          items:
+            $ref: '#/components/schemas/DictionaryItem'
+        "featureCollection":
+          allOf:
+            - $ref: '#/components/schemas/GeoJsonFeatureCollection'
+          description: "GEOJSON FeatureCollection containing point,line, polygon features"
+        "bbox":
+          allOf:
+          - $ref: '#/components/schemas/PolygonGeoJsonBoundingBox'
+        "point":
+          allOf:
+            - $ref: "#/components/schemas/PointGeoJson"
     HierarchicalDictionaryItem:
       type: object
       properties:
@@ -124,6 +152,10 @@ components:
           type: array
           items:
             $ref: '#/components/schemas/HierarchicalDictionaryItem'
+    DictionaryItem:
+
+
+
     GeoJsonFeatureCollection:
       type: object
       required:
@@ -176,6 +208,46 @@ components:
       externalDocs:
         description: "featureGeoJSON schema defined by OGC"
         url: "https://raw.githubusercontent.com/opengeospatial/WFS_FES/master/core/openapi/schemas/featureGeoJSON.yaml"
+    PolygonGeoJsonBoundingBox:
+      type: object
+      description: "GeoJson Polygon geometry with exactly 4 vertices"
+      required:
+        - type
+        - coordinates
+      properties:
+        "type":
+          type: string
+          enum:
+            - Polygon
+        "coordinates":
+          type: array
+          items:
+            type: array
+            minItems: 4
+            maxItems: 4
+            items:
+              type: array
+              minItems: 2
+              items:
+                type: number
+    PointGeoJson:
+      type: object
+      required:
+        - type
+        - coordinates
+      properties:
+        "type":
+          type: string
+          enum:
+            - Point
+        "coordinates":
+          type: array
+          minItems: 2
+          items:
+            type: number
+      externalDocs:
+        description: "pointGeoJSON schema defined by OGC"
+        url: "https://github.com/opengeospatial/ogcapi-features/blob/master/core/openapi/schemas/pointGeoJSON.yaml"
 externalDocs:
   description: "Find out more about Swagger"
   url: "http://swagger.io"
