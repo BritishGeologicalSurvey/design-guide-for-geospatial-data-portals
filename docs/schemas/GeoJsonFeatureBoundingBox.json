@@ -1,0 +1,42 @@
+{
+  "type": "object",
+  "description": "GeoJson Feature object containing Polygon with 4 vertices",
+  "required": [
+    "type",
+    "geometry",
+    "properties"
+  ],
+  "properties": {
+    "type": {
+      "type": "string",
+      "enum": [
+        "Feature"
+      ]
+    },
+    "geometry": {
+      "allOf": [
+        {
+          "$ref": "PolygonGeoJsonBoundingBox.json"
+        }
+      ]
+    },
+    "properties": {
+      "type": "object",
+      "nullable": true
+    },
+    "id": {
+      "oneOf": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "integer"
+        }
+      ]
+    }
+  },
+  "externalDocs": {
+    "description": "based on featureGeoJSON schema defined by OGC",
+    "url": "https://raw.githubusercontent.com/opengeospatial/WFS_FES/master/core/openapi/schemas/featureGeoJSON.yaml"
+  }
+}
