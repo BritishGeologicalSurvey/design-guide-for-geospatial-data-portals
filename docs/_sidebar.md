@@ -12,6 +12,7 @@
 - Develop
 
   - [API URLs](main-content/urls-https-headers)
+  - [Common Patterns](main-content/common-patterns)
   - [Using OpenAPI](main-content/openapi)
   - [Response Formats](main-content/response-formats)
 
