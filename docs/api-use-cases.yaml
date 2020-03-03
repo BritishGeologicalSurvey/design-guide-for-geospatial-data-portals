@@ -23,6 +23,13 @@ paths:
                 application/geo+json:
                   schema:
                     properties:
+                      "rel":
+                        type: object
+                        properties:
+                          "text/html":
+                            type: string
+                          "self":
+                            type: string
                       "paging":
                         $ref: '#/components/schemas/PagingItem'
                       "items":
@@ -138,7 +145,7 @@ components:
     DictionaryItem:
       type: object
       properties:
-        "id":
+        "code":
           type: string
         "translation":
           type: string
