@@ -23,6 +23,7 @@ paths:
                 application/geo+json:
                   schema:
                     properties:
+<<<<<<< HEAD
                       "rel":
                         type: object
                         properties:
@@ -30,6 +31,8 @@ paths:
                             type: string
                           "self":
                             type: string
+=======
+>>>>>>> e058efa394f53f4553ef89754f2741aca9b4418d
                       "paging":
                         $ref: '#/components/schemas/PagingItem'
                       "items":
