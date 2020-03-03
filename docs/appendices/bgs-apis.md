@@ -2,6 +2,8 @@
 
 ---
 
+This is not a comprehensive list of internal APIs. It just shows a few relevant examples.
+
 *  **BGS Intranet** [BETA APIs Index](http://bgsbeta/scripts/APIs/). This page brings together a list of existing BGS LAN APIs used by various intranet applications.
 
 *  **Intranet Sensor API** [BGS Intranet Sensor API](http://bgskwjava2:8080/JavaApps/sensor). Current Sensor API (Java - Graham Smith - code in SubVersion)
@@ -12,7 +14,7 @@
 
 *  **SEA Portal** [BETA Portal](http://bgskwjava4:8080/sea/). API and OpenApi spec (Project in [GIT](https://kwvmxgit.ad.nerc.ac.uk/java-web/seas-portal/))
 
-*  **Laboratory Data Management System** (Project in [GIT](https://kwvmxgit.ad.nerc.ac.uk/database/laboratory-data-management-system))
+*  **Laboratory Data Management System - LIMS** (Project in [GIT](https://kwvmxgit.ad.nerc.ac.uk/database/laboratory-data-management-system) and [OpenAPI Document](https://kwvmxgit.ad.nerc.ac.uk/bgs-lims/laboratory-data-management-system/blob/master/doc/openapi.yaml))
 
 *  **Geochronology and Tracers Facility (GTF)** [LIVE website](https://www.bgs.ac.uk/sciencefacilities/laboratories/geochemistry/gtf/search/) (Project in [GIT](https://kwvmxgit.ad.nerc.ac.uk/java-web/gtf/uk.ac.bgs.gtf))
 

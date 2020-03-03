@@ -2,7 +2,7 @@
 
 ## Design process
 
-("Design process overview" see comments from Chris on issue #20)
+("Design process overview" see [comments from Chris on issue #20](https://kwvmxgit.ad.nerc.ac.uk/apis/api-guidance-docs/issues/20))
 
 TODO
 
@@ -15,6 +15,17 @@ The primary focus of development should be on design. A design developed solely 
 As an example, a web API designed with to service a single or multi page web service (SPA/MPA) where a user explores data, much like a set of HTML pages with hyperlinks to other pages, may find adhering to HATEOAS by providing a range of hyperlinks. An embedded web API for a very specific purpose will probably have little use for additional links; only implementing if a clear need arises.
 
 ![API Design Process by Postman](../_media/api-design-process.png "API Design Process by Postman")
+
+## Naming APIs
+
+A new name for the new web API will need to be considered but it shouldn't be too much hassle. As an example, here are some alternative names for the _'/gtf'_ (Geochronology and tracers facility) web API:
+* _'/gtf2'_
+* _'/geotf'_
+* _'/geotrace'_
+* _'/gtf-next-generation'_
+* _'/gtf9000'_
+
+_'/gtf2'_ suggests to users that it is the second version, which is absolutely fine and after considering the way people refer to popular software this is possible the best way forward. The _'2'_ is part of the name and does not have the same semantic meaning that a major version number has. Big software companies use this approach and you often find the number on the front of the box doesn't match the actual product version. For example, Windows 8 has the official version number 6.2. Perhaps they are coming at it from a marketing perspective but the idea is the same, to distinctly separate products.
 
 ## Best Practice
 
