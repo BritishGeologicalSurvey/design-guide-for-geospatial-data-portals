@@ -18,6 +18,10 @@ DictionaryItem:
           type: string
 ```
 
+<div class="dicContainer">
+
+</div>
+
 Sometimes it is logical to inherit schemas and OpenAPI allow schemas to embed another schema as a 
 subschema using the allOf keyword. $ref is used to make reference to sections in the API, for 
 example a HierarchicalDictionaryItem contains a nested HierarchicalDictionaryItem:
