@@ -11,7 +11,7 @@ An API can return almost any type of data, but *usually* returns some sort of *s
 
 ## Template response formats
 
-For APIs with the functionality outlined in [https://kwvmxgit.ad.nerc.ac.uk/apis/api-guidance-docs/blob/use-cases-update/docs/main-content/introduction.md#core-use-cases],
+For APIs with the functionality outlined in [the core use cases](main-content/introduction.md#core-use-cases),
 we have templates for all the expected response objects:
 
 - **[Index Data JSON Format](main-content/json-format)** specification
