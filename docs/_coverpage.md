@@ -12,7 +12,7 @@
 - Follow best practices
 - Find reference implementations
 
-[Introduction](main-content/introduction)
+[Start Here](main-content/introduction)
 [Reference Implementations](reference-implementations/python)
 
 <!-- background color -->

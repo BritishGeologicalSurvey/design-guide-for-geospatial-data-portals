@@ -1,7 +1,7 @@
-## Architectural constraints
-These constraints restrict the ways that the server should process and respond to client requests so that, by operating within these constraints, the service gains desirable non-functional properties, such as performance, scalability, simplicity, modifiability, visibility, portability, and reliability.
+## Architectural patterns
+These patterns/constraints restrict the ways that the server should process and respond to client requests so that, by operating within these patterns, the service gains desirable non-functional properties, such as performance, scalability, simplicity, modifiability, visibility, portability, and reliability.
 
-Source: all constraints are adaptation of [Representational state transfer REST](https://en.wikipedia.org/wiki/Representational_state_transfer)
+Source: all patterns are adaptation of [Representational state transfer REST](https://en.wikipedia.org/wiki/Representational_state_transfer)
 
 ### Client-server architecture
 The client–server model is a distributed application structure that partitions tasks or workloads between the providers of a resource or service, called servers, and service requesters, called clients.

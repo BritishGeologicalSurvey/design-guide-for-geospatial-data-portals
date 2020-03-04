@@ -8,7 +8,7 @@ The goal of these guidelines is to help BGS application developers create web AP
 * **Fit for purpose** -  by good design and understanding of user needs, and architecture that provides non-functional requirements
 * **Sufficiently documented** - by using OpenAPI 
 * **Consistent and predictable in behaviour**  - by re-using patterns for architecture, query parameters, response data schemas, versioning
-* **Quick and easy to implement** - by providing the boiler plate code and libraries that handle the architecture and repeatable stuff so you only have to code the parts that are particular to you
+* **Quick and easy to implement** - by providing the boiler plate code and libraries that handle the architecture and repeatable stuff so you only have to code the parts that are particular to your project
 
 ## Scope
 
