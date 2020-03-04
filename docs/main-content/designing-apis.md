@@ -18,7 +18,9 @@ As an example, a web API designed with to service a single or multi page web ser
 
 ## Naming APIs
 
-A new name for the new web API will need to be considered but it shouldn't be too much hassle. As an example, here are some alternative names for the _'/gtf'_ (Geochronology and tracers facility) web API:
+A name for the new web API will need to be created. The name chosen will be used as the root "folder" in all API calls, so it must be URL compatible string - for widest compatibility use [ASCII characters 040-255](https://en.wikipedia.org/wiki/ASCII) only.
+
+As an example, here are some alternative names for the _'/gtf'_ (Geochronology and tracers facility) web API:
 * _'/gtf2'_
 * _'/geotf'_
 * _'/geotrace'_
@@ -26,6 +28,8 @@ A new name for the new web API will need to be considered but it shouldn't be to
 * _'/gtf9000'_
 
 _'/gtf2'_ suggests to users that it is the second version, which is absolutely fine and after considering the way people refer to popular software this is possible the best way forward. The _'2'_ is part of the name and does not have the same semantic meaning that a major version number has. Big software companies use this approach and you often find the number on the front of the box doesn't match the actual product version. For example, Windows 8 has the official version number 6.2. Perhaps they are coming at it from a marketing perspective but the idea is the same, to distinctly separate products.
+
+See [URL endpoints](urls-https-headers) for guidelines on creating the API endpoint paths that will be available under this root URL.
 
 ## Best Practice
 
