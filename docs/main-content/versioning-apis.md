@@ -66,7 +66,7 @@ The dataset version label should be published with each API response.
 
 If there is no inherent dataset version then the datetime stamp of the latest database change should be used as the dataset version.
 
-**TODO (extension) how to support requests for a specific version of the data, i.e. to duplicate the response they would have got on a particular date**
+**TODO #47 (extension) how to support requests for a specific version of the data, i.e. to duplicate the response they would have got on a particular date**
 
 Check that each dataset used in an API has a published metadata record and the update frequency is declared in it. 
 
@@ -94,4 +94,4 @@ So we are allowed to put an array of dataset objects (name, version...) into the
 
 
 
-**TODO - how to link to the metadata record for each dataset used ? instead of array above ? as another property of the array ?**
+**TODO #46 - how to link to the metadata record for each dataset used ? instead of array above ? as another property of the array ?**
