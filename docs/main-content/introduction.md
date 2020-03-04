@@ -28,34 +28,31 @@ There are alternative API approaches that may be better suited for other use cas
 - [JSON Schema Library](appendices/json-schema-library.md) A cut-and-paste library of Schemas for commonly used parameters and properties. Use these to quickly generate consistent OpenAPI specifications.
  
 
-## Use cases covered
+## Core use cases
 
-## Index and meta data response format
 
 Within BGS we serve a large amount of index and meta data to users. This accounts for more than 80% of application activity on www.bgs.ac.uk.
 
-We have many existing use cases that are all very similar:
+The API design is very similar for all of these:
 
-- Data is in a DB Query Layer (with maybe a couple of dictionaries)
+- Data is in a database Query Layer (with maybe a couple of dictionaries)
 - The Query Layer is an just index of maps/reports/rocks/fossils/... 
 - Each item has relatively few simple properties
-- Each item optionally has a link to an external resource (e.g. large image viewer or PDF download)
+- Each item optionally has a link to an online resource (e.g. large image viewer or PDF download)
 - API provides only "search", "full details" and "dictionary (dropdown)" endpoints
+- API provides read only access to data
+- All data returned by the API is in the public domain under Open Government Licence
 
-For these very similar (and repetitive) use cases, we have a response template that should be used if at all possible:
 
-- **[Index Data JSON Format](main-content/json-format)** specification
+As such, this style of API is the core use case for these guidelines, templates and reference implementations, though additional considerations are also covered.
 
-Hopefully this will speed up development and introduce more consistency across these APIs
-
-These guidelines and implementation examples are included to enable you to provide any of the following functionality for an API 
-that provides access to a catalogue of online resources: 
+In detail, our core use case API covers functionality to:
 
 1. Request all items and return JSON array of data objects
 
- 1.1. return the response array in pages of a configurable size
+ 1.1. return the response array in pages of a configurable size with suitable paging links
 
-2. Provide attributes within each data object in the array
+2. Provide attributes within each data object in the array that includes
 
  2.2. an integer attribute
 
@@ -88,3 +85,5 @@ that provides access to a catalogue of online resources:
  8.1. in addition, data object includes a hierarchical dictionary object (code,translation,description, array of child objects)
 
  8.2. in addition, data object includes a full spatial footprint attribute in geojson (a feature collection)
+9. Return basic metadata about the API itself
+10. Return a link to metadata about the collection of data items
