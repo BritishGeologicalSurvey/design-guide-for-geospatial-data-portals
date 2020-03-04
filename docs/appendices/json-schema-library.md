@@ -18,13 +18,14 @@ DictionaryItem:
           type: string
 ```
 
-<div class="dicContainer">
+<div class="schema-container" data-schema-name="DictionaryItem">
 
 </div>
 
 Sometimes it is logical to inherit schemas and OpenAPI allow schemas to embed another schema as a 
 subschema using the allOf keyword. $ref is used to make reference to sections in the API, for 
 example a HierarchicalDictionaryItem contains a nested HierarchicalDictionaryItem:
+
 
 ```
 HierarchicalDictionaryItem:
@@ -37,6 +38,10 @@ HierarchicalDictionaryItem:
           items:
             $ref: '#/components/schemas/HierarchicalDictionaryItem'
 ```
+
+<div class="schema-container" data-schema-name="HierarchicalDictionaryItem">
+
+</div>
 
 ## BGS Dictionary references (Lexicon, RCS, Map Sheets...)
 

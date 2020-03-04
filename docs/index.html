@@ -22,6 +22,7 @@
         name: 'API Guidance Documentation',
         search: 'auto', // default
         coverpage: true,
+        execute: true,
         auto2top   : true,
         maxLevel   : 3,
         subMaxLevel: 2,
@@ -69,7 +70,30 @@
                 'https://kwvmxgit.ad.nerc.ac.uk/apis/api-guidance-docs/tree/master/docs/',
                 undefined,
                 'Edit on Gitlab'
-            )
+            ),
+            function render(hook, vm){
+                hook.doneEach(function()    {
+
+                    $(document).ready(function() {
+                        var list = document.getElementsByClassName("schema-container");
+                        $.each(list,function(k,elem){
+                            $.getJSON("./api-spec-example.json", function (data) {
+                                $.each(data.components.schemas,function(name,schema){
+                                    if($(elem).data('schema-name') === name) {
+                                        jsonStr = JSON.stringify(schema, null, 2);
+                                        htmlStr = '```\n' + name + '\n\n' + jsonStr + '\n```';
+                                        pre = $("<pre class='dicItem'></pre>").text(htmlStr);
+                                        $(elem).append(pre);
+                                    }
+                                });
+
+                            });
+                        });
+                    });
+                });
+            }
+
+
         ],
 
     }
