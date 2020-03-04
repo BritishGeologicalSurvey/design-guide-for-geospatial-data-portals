@@ -85,5 +85,7 @@ In detail, our core use case API covers functionality to:
  8.1. in addition, data object includes a hierarchical dictionary object (code,translation,description, array of child objects)
 
  8.2. in addition, data object includes a full spatial footprint attribute in geojson (a feature collection)
+ 
 9. Return basic metadata about the API itself
+
 10. Return a link to metadata about the collection of data items
