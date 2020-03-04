@@ -39,6 +39,7 @@ NB not to be confused with another  **required** field:
 
  **"version"** which is to hold the "OpenAPI Specification Version"
 
+**TODO - (extension) include links to previous/replacement/latest api versions ?**
 
 ## Data Versioning (provenance)
 
