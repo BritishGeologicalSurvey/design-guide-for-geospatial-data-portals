@@ -216,43 +216,46 @@ Here are a few recommendations:
 
 ## "type"
 `type` serves a very similar purpose as the first digit of HTTP response codes. More detailed information about the error or errors can be found within the `errors` array:
-Value | Description | HTTP response code equivalent
-:--- | :--- | :---:
-`success` | The whole request was fulfilled | `2XX`
-`part-success` | Only part of the request could be fulfilled | `2XX`
-`bad-request` | The request could not be fulfilled due to an issue with the request | `4XX`
-`server-error` | The request could not be fulfilled due to an issue with the server | `5XX`
+
+|Value | Description | HTTP response code equivalent |
+| ------ | ------ | ------ |
+|`success` | The whole request was fulfilled | `2XX` |
+|`part-success` | Only part of the request could be fulfilled | `2XX` |
+|`bad-request` | The request could not be fulfilled due to an issue with the request | `4XX` |
+|`server-error` | The request could not be fulfilled due to an issue with the server | `5XX` |
 
 ## "props"
 Describes the structure and properties of the items within the `data` array. This is allows the front end to be separated from the specifics of the web API. Generic front ends can then display data, with its metadata, regardless of which web API it's looking at. Each property can be described using the following properties:
-Property | Description | Required
-:--- | :--- | :---:
-`type` | Property data type, see 'Data types and formats' section for a full list | Always
-`title` | Human readable label of the property | Always
-`desc` | Human readable description of the property |
-`props` | The nested properties if an object |
-`items` | The nested items if an array |
-`symPrefix` | The symbol that precedes the value |
-`symPostfix` | The symbol that follows the value |
-`symDesc` | Human readable name of the property
+
+|Property | Description | Required |
+| ------ | ------ | ------ |
+|`type` | Property data type, see 'Data types and formats' section for a full list | Always |
+|`title` | Human readable label of the property | Always
+|`desc` | Human readable description of the property | |
+|`props` | The nested properties if an object | |
+|`items` | The nested items if an array | |
+|`symPrefix` | The symbol that precedes the value | |
+|`symPostfix` | The symbol that follows the value | |
+|`symDesc` | Human readable name of the property | |
 
 These are the data types available for referencing by properties:
-Type | Comments
-:--- | :---
-`int` | Signed 32 bits
-`long` | Signed 64 bits
-`float` |
-`double` |
-`string` |
-`byte` | Base64 encoded characters
-`binary` | Any sequence of octets
-`boolean` |
-`date` | As defined by full-date - [RFC3339][rfc3339]
-`time` | As defined by full-time - [RFC3339][rfc3339]
-`date-time` | As defined by date-time - [RFC3339][rfc3339]
-`object` |
-`array` |
-`special` | Dynamic or complex property with no appropriate type or should not be presented by generic viewers
+
+| Type | Comments |
+| ------ | ------ |
+| `int` | Signed 32 bits |
+| `long` | Signed 64 bits |
+| `float` | |
+| `double` | |
+| `string` | |
+| `byte` | Base64 encoded characters |
+| `binary` | Any sequence of octets |
+| `boolean` | |
+| `date` | As defined by full-date - [RFC3339][rfc3339] |
+| `time` | As defined by full-time - [RFC3339][rfc3339] |
+| `date-time` | As defined by date-time - [RFC3339][rfc3339] |
+| `object` | |
+| `array` | |
+| `special` | Dynamic or complex property with no appropriate type or should not be presented by generic viewers |
 
 ```json
 "props": {
@@ -338,11 +341,11 @@ Any response, regardless of type, can contain errors or warnings in its `errors`
 
 It's up to the development teams to decide the best approach to errors and warnings for a particular web API. Errors can also be warnings, which shouldn't stop clients from continuing to use the service, in the short term at least.
 
-Name/Key | Description | Required
-:--- | :--- | :---:
-`error` | Type of error | Always
-`propName` | Usually only used with the `parameter` type. Property/parameter name or key that was in error so the error can be linked to it's source; such as an input field of a form |
-`desc` | Human readable description of the error | Always
+| Name/Key | Description | Required |
+| ------ | ------ | ------ |
+| `error` | Type of error | Always |
+| `propName` | Usually only used with the `parameter` type. Property/parameter name or key that was in error so the error can be linked to it's source; such as an input field of a form | |
+| `desc` | Human readable description of the error | Always |
 
 ```json
 "errors": [
@@ -360,21 +363,23 @@ Name/Key | Description | Required
 ```
 
 Types of errors:
-Type | description | HTTP response code equivalent
-:--- | :--- | :---:
-`warning` | General warning, should not be used to indicate the source of request failure although may be used to suggest where there might be an error |
-`request` | Any error with a request that is __not__ a `parameter` error | `4XX`
-`parameter` | A parameter is missing or invalid | `4XX`
-`service` | Any service or server error | `5XX`
+
+| Type | description | HTTP response code equivalent |
+| ------ | ------ | ------ |
+| `warning` | General warning, should not be used to indicate the source of request failure although may be used to suggest where there might be an error | |
+| `request` | Any error with a request that is __not__ a `parameter` error | `4XX` |
+| `parameter` | A parameter is missing or invalid | `4XX` |
+| `service` | Any service or server error | `5XX` |
 
 ## "links"
 An array of objects to related resources or alternative actions. Each object should contain enough information required to meaningfully describe and access the linked resource:
-Type | description | required
-:--- | :--- | :---:
-`title` | Human readable label for the link | Always
-`ref` | The link its self | Always
-`type` | Data format of the returned response |
-`rel` | How the link is related to the requested resource |
+
+| Type | description | required |
+| ------ | ------ | ------ |
+| `title` | Human readable label for the link | Always |
+| `ref` | The link its self | Always |
+| `type` | Data format of the returned response | |
+| `rel` | How the link is related to the requested resource | |
 
 ```json
 "links": [
