@@ -67,6 +67,21 @@ The "termsOfService", "contact" and "license" keys for most BGS data will be the
 
 *NOTE: If the data or service being provided is not clearly part of BGS OpenGeoscience, the "termsOfService", "contact" and "license" MUST be double-checked and approved before an API can be released.*
 
+If an API serves data from one or more referenceable datasets, then add a **"x-datasets"** extension key into "info" section.
+
+The which is an array of dataset objects:
+
+```javascript
+"info":{
+    ...
+	"x-datasets":{
+	    {"title":"Dataset One","link":"METADATALINK1",...},
+	    {"title":"Dataset Two","link":"METADATALINK2",...}
+	    }
+	}
+```
+**TODO:** define required and optional properties of a dataset object
+
 ### servers (REQUIRED) [SPEC](http://spec.openapis.org/oas/v3.0.3#server-object)
 
 For most external APIs all we need here is the root URL of the API service (so that full API urls can be assembled with the endpoint "paths" data)
@@ -116,9 +131,23 @@ All schema, parameter, response and example definitions should follow their Open
 
 #### components.schemas (REQUIRED) [SPEC](http://spec.openapis.org/oas/v3.0.3#schema-object)
 
+These definitions should follow [JSONSchema](https://json-schema.org/specification.html) syntax - the following keys are required:
+
+| key | type | required | notes |
+| ------ | ------ | ------ | ------ |
+| **type** | string | YES |  |
+| **title** | string | YES | short label - could be used as a column heading |
+| **description** | string | YES | full description e.g. with acronyms expanded and including units | 
+
+Additional keys (e.g. maxLength, maxItems, enum) should be used as necessary to refine the required data type. 
+
 Pre-generated schema definitions for many common uses can be cut-and-pasted from the **[JSON Schema Library](/appendices/json-schema-library)** 
 
 #### components.parameters (REQUIRED) [SPEC](http://spec.openapis.org/oas/v3.0.3#parameter-object)
+
+All parameter definitions **MUST** provide one or more valid test values using either the **"example"** *(one)* or **"examples"** *(many)* keys. 
+This allows for the generation of auto-generated test pages to offer users and external developers **working** example values to try out. 
+It may also be used for automated testing of APIs.
 
 Pre-generated parameter definitions for many common uses can be cut-and-pasted from the **[JSON Schema Library](/appendices/json-schema-library)** 
 
