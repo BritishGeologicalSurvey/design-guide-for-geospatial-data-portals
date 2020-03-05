@@ -113,56 +113,8 @@
                 }
             });
         }
-
     }
-
-
-
-    function renderJson(){
-        isInitialzed = false;
-
-
-
-        function render(){
-            $(document).ready(function() {
-                var list = document.getElementsByClassName("dicContainer");
-                console.log(list);
-                $.each(list,function(k,elem){
-                    pre = $("<pre class='dicItem'></pre>");
-                    $.getJSON("./api-spec-example.json", function (data) {
-                        jsonStr = JSON.stringify(data.components.schemas.DictionaryItem, null, 2);
-                        $(pre).append("```yaml <br/>"+ jsonStr  +"<br/>```");
-                        // $(pre).append(jsonStr);
-                    });
-                    $(elem).append(pre);
-                });
-
-
-
-                // $.getJSON("./api-spec-example.json", function (data) {
-                //     jsonStr = JSON.stringify(data.components.schemas.DictionaryItem, null, 2);
-                //     // $("#dicItem").append("```yaml <br/>"+ jsonStr  +"<br/>```");
-                //     var item = $(".dicItem");
-                //     console.log(item);
-                //     item.innerHTML = jsonStr;
-                // });
-
-            });
-
-        }
-
-        if (!isInitialzed) {
-            isInitialzed = true;
-            document.addEventListener('click', function(evt) {
-                if(window.location.href.indexOf("json-schema-library") > -1){
-                    render();
-                }
-            });
-        }
-    }
-
     // Main
     // =========================================================================
     initStyleSwitcher();
-    renderJson();
 })();
