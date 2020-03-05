@@ -7,13 +7,19 @@ Guidance is provided here ... consistency ... speed up developemnt ...
 ### Simple Paging - Nearly Static Data with Implicit Order
 
 Assuming a dataset that changes slowly over time and that is of modest size. It is suitable to use a 'limit and offset' pattern to page through a list of items.
-This involves allowing two parameters on the GET of the list uri (see 'Limit and Offset Parameters' below) and including a paging node (see 'PagingItem Schema' below)in the response.
+This involves allowing two parameters on the GET method for the list uri (see 'Limit and Offset Parameters' below) and including a paging node (see 'PagingItem Schema' below) in the response.
 
 There are many other names used in API design for parameters that have the same purpose as 'limit and offset' but with a good description in the Openapi definition it is ok to use these short names.
 
-The 'paging' node defined here trys to cover two ends of the api consumer spectrum, one end that can just wire up the discoverable urls to navigate the list, and the opposite end that would wish to derive a richer navigation.
-So the 'next' and 'prev' give the bare minimum to navigate from the page with 'first' and 'last' being generous additions. Where as the 'total', 'limit' and 'offset' can be used to derive more targetted navigation urls.
+The 'paging' node defined here tries to cover two ends of the API consumer spectrum, one end that can just wire up the discoverable urls to navigate the list, and the opposite end that would wish to derive a richer navigation.
+So the 'next' and 'prev' give the bare minimum to navigate from the loaded page with 'first' and 'last' being generous additions. Whereas the 'total', 'limit' and 'offset' can be used to derive further navigation urls.
 
+
+#### Openapi example
+
+**[Example of simple paging](/api-example-simple-pagination.json)**
+
+#### Openapi Snippets
 
 In Openapi definition of the GET request for the list add this snippet
 
@@ -118,8 +124,7 @@ PagingItem Schema
             "description": "this page contains all available items"
           }
         }
-      }
-``` 
+      }``` 
 
 ### Paging - Frequently Updated Data
 
