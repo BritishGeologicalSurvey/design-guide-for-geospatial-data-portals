@@ -5,22 +5,16 @@
 - Design
   
   - [Designing APIs](main-content/designing-apis)
-  - [API and Data versioning](main-content/versioning-apis)
 
 ---
 
-- Develop
+- Develop the specification
 
+  - [Using OpenAPI](main-content/openapi)
   - [API URLs](main-content/urls-https-headers)
   - [Common Patterns](main-content/common-patterns)
-  - [Using OpenAPI](main-content/openapi)
   - [Response Formats](main-content/response-formats)
-
----
-
-- Deploy
-  
-  - [Deploying APIs](main-content/deploying-apis)
+  - [API and Data versioning](main-content/versioning-apis)
 
 ---
 
@@ -29,6 +23,13 @@
   - [Python](reference-implementations/python)
   - [Node.js](reference-implementations/node)
   - [Java](reference-implementations/java)
+
+
+---
+
+- Deploy
+  
+  - [Deploying APIs](main-content/deploying-apis)
 
 ---
 
