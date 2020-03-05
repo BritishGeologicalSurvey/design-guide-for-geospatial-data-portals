@@ -1,45 +1,8 @@
 # Designing APIs
 
-## Design process
-
-("Design process overview" see [comments from Chris on issue #20](https://kwvmxgit.ad.nerc.ac.uk/apis/api-guidance-docs/issues/20))
-
-TODO
-
-## Design considerations
-
-The following constraints are the ideal for web API development from a functional perspective but not always from a business one. For example, if a feature is implemented that is never used then the resources spent on that feature can often be considered as wasted resources. For this reason, it is recommended that developers focus on a few quality endpoints that are 'Good Enough!' to satisfy the requirements.
-
-The primary focus of development should be on design. A design developed solely to satisfy a set of requirements yet is not coupled with any particular consumer. A good design will be easily extendable with nice to have features later; when a more refined understanding of the different stakeholdings are known and appropriate resources are available. The design allows to iterate more easily and to perform what-if analysis. Also, making changes to the API in the design stage is much easier.
-
-As an example, a web API designed with to service a single or multi page web service (SPA/MPA) where a user explores data, much like a set of HTML pages with hyperlinks to other pages, may find adhering to HATEOAS by providing a range of hyperlinks. An embedded web API for a very specific purpose will probably have little use for additional links; only implementing if a clear need arises.
-
-![API Design Process by Postman](../_media/api-design-process.png "API Design Process by Postman")
-
-## Naming APIs
-
-A name for the new web API will need to be created. The name chosen will be used as the root "folder" in all API calls, so it must be URL compatible string - for widest compatibility use [ASCII characters 040-255](https://en.wikipedia.org/wiki/ASCII) only.
-
-As an example, here are some alternative names for the _'/gtf'_ (Geochronology and tracers facility) web API:
-* _'/gtf2'_
-* _'/geotf'_
-* _'/geotrace'_
-* _'/gtf-next-generation'_
-* _'/gtf9000'_
-
-_'/gtf2'_ suggests to users that it is the second version, which is absolutely fine and after considering the way people refer to popular software this is possible the best way forward. The _'2'_ is part of the name and does not have the same semantic meaning that a major version number has. Big software companies use this approach and you often find the number on the front of the box doesn't match the actual product version. For example, Windows 8 has the official version number 6.2. Perhaps they are coming at it from a marketing perspective but the idea is the same, to distinctly separate products.
-
-See [URL endpoints](urls-https-headers) for guidelines on creating the API endpoint paths that will be available under this root URL.
-
-## Best Practice
-
-* [W3C - Data Access guidelines](https://www.w3.org/TR/dwbp/#dataAccess)
-* [W3C - Data Access APIs guidelines](https://www.w3.org/TR/dwbp/#accessAPIs)
-* [W3C - API example *as used in guidelines*](https://www.w3.org/TR/dwbp/dwbp-api-example.html)
-
 ## User research
 
-In order to design an API that is useful and easy to use, it is important to understand the context in which it will be used and who will use it.
+In order to design an API that is useful and easy to use it is important to understand the context in which it will be used and who will use it.
 
 To get more clarity on the use-cases and requirements you can ask the following questions:
 
@@ -70,4 +33,70 @@ To help make the developer user experience better you can follow the usability r
 5. **Accessible**: Can the API provide functionality for end users who have technical constraints/limitations in consuming it?
 6. **Credible**: Is the data provided by the API trustworthy?
 7. **Valuable**: Does the API contribute to the company’s bottom line and improve customer satisfaction?
+
+## Standards and Best Practice
+
+One of the ways of ensuring your API meets common user requirements is by using appropriate standards, such as published by 
+W3C, OGC, ISO/BSI or domain specific standards bodies. Following these means your API can be easily consumed by the widest audience
+and often makes it available for a range of third party client software.
+
+These guidelines for BGS implement the following international recommendations, which we advise you to read.
+
+* [W3C Data on the Web Best Practices](https://www.w3.org/TR/dwbp/#dataAccess), particularly
+    * [Data Access guidelines](https://www.w3.org/TR/dwbp/#dataAccess)
+    * [Data Access APIs guidelines](https://www.w3.org/TR/dwbp/#accessAPIs)
+    * [API example](https://www.w3.org/TR/dwbp/dwbp-api-example.html)
+* [W3C Spatial Data on the Web Best Practices](https://www.w3.org/TR/sdwbp)
+* [OGC Feature API](https://github.com/opengeospatial/ogcapi-features)
+    
+Other domain specific standards may apply to certain data types e.g. Sensor data, metadata.
+BGS has a dedicated spatial data standards expert (Edd Lewis) who you can seek advice from. 
+
+## Other design considerations
+
+ * Design for extensibility - good enough for now, add more backwards compatible functionality later
+ * Do not necessarily mirror the database structure
+ * Appropriate abstractions
+ * Level of detail in payloads
+ * Flexibility of payloads
+ * How nested/hierarchical/graph data structures are handled:
+   *  Are they flattened.
+   *  Lists of child IDs, followed by requests for specific children.
+   *  What if it's cyclic - how do we break the cycle.
+
+
+Non-functional considerations (thought should be given to these - even if it turns out they are handled by infrastructure):
+
+ * Security
+ * Logging/monitoring/auditing
+ * Deployment
+ * Performance
+ * Public/Private data
+ * Caching (especially of common dictionary calls)
+ * Paging - particulalry of hot data
+ * Data versioning (provenance)
+ * A well defined folder structure is indistinguishable from a read-only REST API (and far more reliable) and could be considered for samll collections of cold data.
+
+## Naming conventions
+
+### URLs
+
+Each API should have a short but descriptive root name in camel case. 
+The name chosen will be used as the root "folder" in all API calls, so it must be URL compatible string - for widest compatibility use [ASCII characters 040-255](https://en.wikipedia.org/wiki/ASCII) only.
+
+** TODO ** Your API may also be assigned to a collection of APIs and be made accessible as a subfolder under one or more collection folders. This behaviour will be handled by the proxy 
+** TODO - will it ? add link to proxy section **
+
+See [URL endpoints](urls-https-headers) for guidelines on creating the API endpoint paths that will be available under this root URL. 
+
+There is no requirement for the root folder or any URLs to be transparent to the user;
+most of the time this will be coded once in a client application and the end user won't be aware of it.
+However, provding a degree of intuitiveness and predictability with the urls does help developers and testers.
+
+### Parameters and response objects
+
+Names for some common query parameters and response objects are defined by the OGC Feaature API standard, the OpenAPI specification and further by
+BGS in these guidelines. See the reference templates for more detail.
+
+
 
