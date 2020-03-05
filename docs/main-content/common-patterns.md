@@ -17,7 +17,7 @@ So the 'next' and 'prev' give the bare minimum to navigate from the loaded page 
 
 #### Openapi example
 
-**[Example of simple paging](/api-example-simple-pagination.json)**
+**[Example of simple paging](/docs/api-example-simple-pagination.json)**
 
 #### Openapi Snippets
 
