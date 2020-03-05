@@ -10,6 +10,7 @@
     <!-- Theme: Simple Dark -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple-dark.css">
     <link rel="stylesheet" href="style.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
     <script type="text/javascript" src="scripts.js"></script>
 </head>
 
@@ -21,6 +22,7 @@
         name: 'API Guidance Documentation',
         search: 'auto', // default
         coverpage: true,
+        execute: true,
         auto2top   : true,
         maxLevel   : 3,
         subMaxLevel: 2,
@@ -68,7 +70,40 @@
                 'https://kwvmxgit.ad.nerc.ac.uk/apis/api-guidance-docs/tree/master/docs/',
                 undefined,
                 'Edit on Gitlab'
-            )
+            ),
+            function render(hook, vm){
+                hook.doneEach(function()    {
+
+                    $(document).ready(function() {
+                        var list = document.getElementsByClassName("schema-container");
+                        $.each(list,function(k,elem){
+                            $.getJSON("./api-spec-example.json", function (data) {
+                                $.each(data.components.schemas,function(name,schema){
+                                    if($(elem).data('schema-name') === name) {
+                                        jsonStr = JSON.stringify(schema, null, 2);
+                                        htmlStr = name + '\n\n' + jsonStr;
+                                        pre = $("<pre v-pre data-lang class='dicItem language-'></pre>");
+                                        code = $("<code class='lang- language-'></code>").text(htmlStr);;
+                                        button = $(`<button class="docsify-copy-code-button"></button>`);
+                                        label = $(`<span class="label">Copy to clipboard</span>`);
+                                        error = $(`<span class="error">Error</span>`);
+                                        success = $(`<span class="success">Copied</span>`);
+                                        $(button).append(label);
+                                        $(button).append(error);
+                                        $(button).append(success);
+                                        $(pre).append(code);
+                                        $(pre).append(button);                               
+                                        $(elem).append(pre);
+                                    }
+                                });
+
+                            });
+                        });
+                    });
+                });
+            }
+
+
         ],
 
     }
