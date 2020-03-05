@@ -81,8 +81,18 @@
                                 $.each(data.components.schemas,function(name,schema){
                                     if($(elem).data('schema-name') === name) {
                                         jsonStr = JSON.stringify(schema, null, 2);
-                                        htmlStr = '```\n' + name + '\n\n' + jsonStr + '\n```';
-                                        pre = $("<pre class='dicItem'></pre>").text(htmlStr);
+                                        htmlStr = name + '\n\n' + jsonStr;
+                                        pre = $("<pre v-pre data-lang class='dicItem language-'></pre>");
+                                        code = $("<code class='lang- language-'></code>").text(htmlStr);;
+                                        button = $(`<button class="docsify-copy-code-button"></button>`);
+                                        label = $(`<span class="label">Copy to clipboard</span>`);
+                                        error = $(`<span class="error">Error</span>`);
+                                        success = $(`<span class="success">Copied</span>`);
+                                        $(button).append(label);
+                                        $(button).append(error);
+                                        $(button).append(success);
+                                        $(pre).append(code);
+                                        $(pre).append(button);                               
                                         $(elem).append(pre);
                                     }
                                 });
