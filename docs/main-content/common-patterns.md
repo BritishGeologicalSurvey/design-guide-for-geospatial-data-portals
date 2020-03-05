@@ -11,13 +11,13 @@ This involves allowing two parameters on the GET method for the list uri (see 'L
 
 There are many other names used in API design for parameters that have the same purpose as 'limit and offset' but with a good description in the Openapi definition it is ok to use these short names.
 
-The 'paging' node defined here tries to cover two ends of the API consumer spectrum, one end that can just wire up the discoverable urls to navigate the list, and the opposite end that would wish to derive a richer navigation.
+The 'paging' node defined here tries to cover two ends of the API consumer spectrum, one end that can just wires up the discoverable urls to navigate the list, and the opposite end that would wish to derive a richer navigation.
 So the 'next' and 'prev' give the bare minimum to navigate from the loaded page with 'first' and 'last' being generous additions. Whereas the 'total', 'limit' and 'offset' can be used to derive further navigation urls.
 
 
 #### Openapi example
 
-**[Example of simple paging](/docs/api-example-simple-pagination.json)**
+**[Example of simple paging](/appendices/api-example-simple-pagination)**
 
 #### Openapi Snippets
 
@@ -75,7 +75,8 @@ Limit and Offset Parameters
         }
       }
     }
-  }``` 
+  }
+``` 
 
 PagingItem Schema
 
@@ -91,19 +92,19 @@ PagingItem Schema
         "properties": {
           "next": {
             "type": "string",
-            "description": "url to access the next page of items"
+            "description": "url to access the next page of items. Missing if there is no next page"
           },
           "prev": {
             "type": "string",
-            "description": "url to access the previous page of items"
+            "description": "url to access the previous page of items. Missing if there is no previous page"
           },
           "first": {
             "type": "string",
-            "description": "url to access the first page of items"
+            "description": "url to access the first page of items. Missing if this is the first page"
           },
           "last": {
             "type": "string",
-            "description": "url to access the next page of items"
+            "description": "url to access the next page of items. Missing if this is the last page"
           },
           "total": {
             "type": "integer",
@@ -124,7 +125,8 @@ PagingItem Schema
             "description": "this page contains all available items"
           }
         }
-      }``` 
+      }
+``` 
 
 ### Paging - Frequently Updated Data
 

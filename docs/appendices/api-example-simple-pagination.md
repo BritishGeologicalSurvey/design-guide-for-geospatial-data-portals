@@ -1,3 +1,4 @@
+```javascript
 {
   "openapi": "3.0.2",
   "info": {
@@ -159,3 +160,4 @@
     "url": "http://swagger.io"
   }
 }
+```
