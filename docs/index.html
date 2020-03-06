@@ -72,40 +72,42 @@
                 'Edit on Gitlab'
             ),
             function render(hook, vm){
-                hook.doneEach(function()    {
-
+                hook.beforeEach(function(content)    {
+                    function displayJson(containerName, name, schema){
+                        var list = document.getElementsByClassName(containerName);
+                        $.each(list,function(k,elem) {
+                            if($(elem).data('name') === name) {
+                                jsonStr = JSON.stringify(schema, null, 2);
+                                htmlStr = `"${name}":${jsonStr}`;
+                                pre = $("<pre v-pre data-lang class='dicItem language-'></pre>");
+                                code = $("<code class='lang- language-'></code>").text(htmlStr);
+                                button = $(`<button class="docsify-copy-code-button"></button>`);
+                                label = $(`<span class="label">Copy to clipboard</span>`);
+                                error = $(`<span class="error">Error</span>`);
+                                success = $(`<span class="success">Copied</span>`);
+                                $(button).append(label, error, success);
+                                $(pre).append(code, button);
+                                $(elem).append(pre);
+                            }
+                        });
+                    }
                     $(document).ready(function() {
-                        var list = document.getElementsByClassName("schema-container");
-                        $.each(list,function(k,elem){
-                            $.getJSON("./api-spec-example.json", function (data) {
-                                $.each(data.components.schemas,function(name,schema){
-                                    if($(elem).data('schema-name') === name) {
-                                        jsonStr = JSON.stringify(schema, null, 2);
-                                        htmlStr = name + '\n\n' + jsonStr;
-                                        pre = $("<pre v-pre data-lang class='dicItem language-'></pre>");
-                                        code = $("<code class='lang- language-'></code>").text(htmlStr);;
-                                        button = $(`<button class="docsify-copy-code-button"></button>`);
-                                        label = $(`<span class="label">Copy to clipboard</span>`);
-                                        error = $(`<span class="error">Error</span>`);
-                                        success = $(`<span class="success">Copied</span>`);
-                                        $(button).append(label);
-                                        $(button).append(error);
-                                        $(button).append(success);
-                                        $(pre).append(code);
-                                        $(pre).append(button);                               
-                                        $(elem).append(pre);
-                                    }
-                                });
-
+                        $.getJSON("./api-spec-example.json", function (data) {
+                           $.each(data.components.schemas,function(name,schema){
+                               displayJson('schema-container', name, schema);
+                            });
+                           $.each(data.components.parameters,function(name,schema){
+                               displayJson('param-container', name, schema);
+                            });
+                            $.each(data.paths,function(name,schema){
+                                displayJson('path-container', name, schema);
                             });
                         });
                     });
+                    return content
                 });
             }
-
-
         ],
-
     }
     </script>
     <!-- Plugins -->

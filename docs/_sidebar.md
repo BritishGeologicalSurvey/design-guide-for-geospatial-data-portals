@@ -35,7 +35,7 @@
 
 - Appendices
 
-  - [JSON Schema Library](appendices/json-schema-library.md)
+  - [Schema Library](appendices/schema-library.md)
   - [Javascript API usage examples](reference-implementations/javascript)
   - [Architectural patterns](appendices/architecture.md)
   - [HTTP and Headers](appendices/http-and-headers.md)
