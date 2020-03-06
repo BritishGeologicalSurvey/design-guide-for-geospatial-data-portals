@@ -17,7 +17,7 @@
     }
   ],
   "paths": {
-    "/getDepos": {
+    "/deposits": {
       "get": {
         "summary": "Returns list of deposits",
         "description": "Returns list of deposits with title as title",
