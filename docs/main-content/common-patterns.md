@@ -67,7 +67,7 @@ The values for these parameters can be set as defaults if your API only supports
 
 [/items?dic=[attribute,value]](appendices/schema-library.md#dic) endpoint meets [use case 7](main-content/introduction.md#use-case-7)
 
-[/items?dic=[attribute1,value1,attribute2,value2]](appendices/schema-library.md#dic) endpoint meets [use case 7](main-content/introduction.md#use-case-8)
+[/items?dic=[attribute1,value1,attribute2,value2]](appendices/schema-library.md#dic) endpoint meets [use case 8](main-content/introduction.md#use-case-8)
 
 **TODO - extension**
 These requests could be proxies to a common BGS vocabulary API  (not yet fully developed)
