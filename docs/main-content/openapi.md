@@ -20,6 +20,12 @@ This guidance aims to describe a level of detail that allows BGS users and autom
 *  OpenAPI documents should comply with **version 3.0.3** (latest as of 25th Feb 2020)
 *  All APIs should support an endpoint **"{server}/openapi"** that returns the **"openapi.json"** definition
 
+## Online tools to help create, validate and convert OpenAPI Documents
+
+*  [Swagger Editor](https://editor.swagger.io/) - paste in YAML or JSON to convert and validate + basic editing tools
+*  [Swagger UI](https://petstore.swagger.io/) - enter URL of an OpenAPI Document to view auto-generated documentation
+
+
 ## Anatomy of a BGS OpenAPI Document
 
 The root of an API document **must** contain the following keys:
@@ -143,6 +149,24 @@ These definitions should follow [JSONSchema](https://json-schema.org/specificati
 
 Additional keys (e.g. maxLength, maxItems, enum) should be used as necessary to refine the required data type. 
 
+```javascript
+"schemas":[
+    "Offset":{
+        "type":"integer",
+        "title":"offset",
+        "description":"The number of items to skip over before the first item returned",
+        "minimum":0,
+        "maximum":1000
+        },
+    "id":{
+        "type":"string",
+        "title":"document id",
+        "description":"Unique document ID within the dataset"
+        },
+	...
+	]
+```	
+
 Pre-generated schema definitions for many common uses can be cut-and-pasted from the **[JSON Schema Library](/appendices/json-schema-library)** 
 
 ---
@@ -153,17 +177,42 @@ All parameter definitions **MUST** provide one or more valid test values using e
 This allows for the generation of auto-generated test pages to offer users and external developers **working** example values to try out. 
 It may also be used for automated testing of APIs.
 
+```javascript
+"parameters":[
+    "Offset":{
+        "name":"offset",
+        "description":"The number of items to skip over before the first item returned",
+        "in":"query",
+        "example":0,
+        "schema":{"$ref":"#/components/schemas/Offset"}
+        },
+    "id":{
+        "name":"id",
+        "description":"Unique document ID within the dataset",
+        "in":"query",
+        "required":true,
+        "example":"AGLA900041",
+        "schema":{"$ref":"#/components/schemas/id"}
+        },
+	...
+	]
+```	
+
 Pre-generated parameter definitions for many common uses can be cut-and-pasted from the **[JSON Schema Library](/appendices/json-schema-library)** 
 
 ---
 
 ### components.responses `(optional - recommended BGS)` [:page_facing_up: OpenAPI Spec](http://spec.openapis.org/oas/v3.0.3#responses-object)
 
+Response definitions should follow the OpenAPI standard.
+
 Pre-generated response definitions for many common uses can be cut-and-pasted from the **[JSON Schema Library](/appendices/json-schema-library)** 
 
 ---
 
 ### components.examples `(optional - recommended BGS)` [:page_facing_up: OpenAPI Spec](http://spec.openapis.org/oas/v3.0.3#example-object)
+
+Example definitions should follow the OpenAPI standard.
 
 Pre-generated example definitions for many common uses can be cut-and-pasted from the **[JSON Schema Library](/appendices/json-schema-library)** 
 	
