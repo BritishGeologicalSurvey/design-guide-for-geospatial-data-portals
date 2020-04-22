@@ -1,0 +1,129 @@
+openapi: 3.0.0
+info:
+  title: API Library
+  description: API Library
+  version: 0.1.0
+  termsOfService: //www.bgs.ac.uk/help/terms_of_use.html
+  contact:
+    email: www-bgs@bgs.ac.uk
+    name: BGS Webmaster
+    url: //www.bgs.ac.uk/contacts/people/home.html
+  license:
+    name: Open Government Licence
+    url: //www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+servers:
+  - url: tbc.dev.ac.uk
+    description: Development server
+  - url: tbc.live.ac.uk
+    description: Live server
+paths:
+  /search:
+    get:
+      description: Search for XXX
+      parameters:
+        - $ref: '#/components/parameters/Limit'
+        - $ref: '#/components/parameters/Offset'
+      responses:
+        '200':
+          description: Search results
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/responseObj'
+components:
+  parameters:
+    Limit:
+      name: Limit
+      in: query
+      description: The number of items to return (0-100)
+      required: false
+      schema:
+        $ref: '#/components/schemas/Limit'
+      example: 20
+    Offset:
+      name: Offset
+      in: query
+      description: The number of items to skip over before the first item returned (0-1000)
+      required: false
+      schema:
+        $ref: '#/components/schemas/Offset'
+      example: 0
+  schemas:
+    responseObj:
+      type: object
+      title: Response object
+      description: Generic Metadata response object
+      properties:
+        self:
+          $ref: '#/components/schemas/echoedRequestUrl'
+        msg:
+          $ref: '#/components/schemas/responseMsg'
+        errors:
+          $ref: '#/components/schemas/responseErrors'
+        type:
+          $ref: '#/components/schemas/responseType'
+        data:
+          $ref: '#/components/schemas/responseData'
+        meta:
+          $ref: '#/components/schemas/responseMetadata'
+    responseErrors:
+      type: array
+      title: Response errors
+      description: Array of errors that occured while dealing with the request
+      minItems: 0
+      maxItems: 99
+      items:
+        $ref: '#/components/schemas/responseMsg'
+    responseMsg:
+      type: string
+      title: Response message
+      description: Message giving details of the response
+      minLength: 1
+      maxLength: 200
+    responseType:
+      type: string
+      title: Response type
+      description: Response type
+      enum:
+        - success
+        - nodata
+        - error
+    responseData:
+      type: array
+      title: Response data
+      description: Array of the requested data items
+      minItems: 0
+      maxItems: 1000
+      items:
+        $ref: '#/components/schemas/responseDataItem'
+    responseMetadata:
+      title: Response Metadata
+      description: 'Response Metadata (paging, links, ...)'
+      type: object
+      properties:
+        Offset:
+          $ref: '#/components/schemas/Offset'
+        Limit:
+          $ref: '#/components/schemas/Limit'
+    responseDataItem:
+      type: object
+      title: Response data item
+      description: Response data item
+      minProperties: 2
+    echoedRequestUrl:
+      type: string
+      title: Requested URL
+      description: The URL that was requested to generate this response
+      format: uri
+    Limit:
+      type: integer
+      title: Limit
+      description: The number of items to return
+      minimum: 1
+      maximum: 100
+    Offset:
+      type: integer
+      title: Offset
+      description: The number of items to skip over before the first item returned
+      minimum: 0
+      maximum: 1000
