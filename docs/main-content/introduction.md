@@ -48,10 +48,10 @@ As such, this style of API is the core use case for these guidelines, templates 
 
 In detail, our core use case API covers functionality to:
 
-```
-    1. Request all items and return JSON array of data objects.
-        1.1.    return the response array in pages of a configurable size with suitable paging links
-```
+
+1. Request all items and return JSON array of data objects.
+    1.1.    return the response array in pages of a configurable size with suitable paging links
+
 
 <pre id="use-case-2">
     
