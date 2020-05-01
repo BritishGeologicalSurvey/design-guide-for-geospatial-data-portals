@@ -87,7 +87,7 @@ The name chosen will be used as the root "folder" in all API calls, so it must b
 ** TODO ** Your API may also be assigned to a collection of APIs and be made accessible as a subfolder under one or more collection folders. This behaviour will be handled by the proxy 
 ** TODO - will it ? add link to proxy section **
 
-See [URL endpoints](urls-https-headers) for guidelines on creating the API endpoint paths that will be available under this root URL. 
+See [URL endpoints](main-content/urls-https-headers) for guidelines on creating the API endpoint paths that will be available under this root URL. 
 
 There is no requirement for the root folder or any URLs to be transparent to the user;
 most of the time this will be coded once in a client application and the end user won't be aware of it.
