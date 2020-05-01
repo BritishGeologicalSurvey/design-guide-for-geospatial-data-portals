@@ -48,13 +48,12 @@ As such, this style of API is the core use case for these guidelines, templates 
 
 In detail, our core use case API covers functionality to:
 
-
-1.    Request all items and return JSON array of data objects.
-    1.1    Return the response array in pages of a configurable size with suitable paging links
-
+<pre id="use-case-1">
+    1.    Request all items and return JSON array of data objects.
+        1.1    Return the response array in pages of a configurable size with suitable paging links
+</pre>
 
 <pre id="use-case-2">
-    
     2. Provide attributes within each data object in the array that includes
         2.1.    an integer attribute
         2.2.    a string attribute
@@ -92,12 +91,10 @@ In detail, our core use case API covers functionality to:
     8. Request all items where a dictionary object attribute matches a list of specified values, returning the same response as 1
 </pre>
 
+<pre id="use-case-9">
+    9. Return basic metadata about the API itself
+</pre>
 
-
-
-
- 
-9. Return basic metadata about the API itself
-
-10. Return a link to metadata about the collection of data items
-
+<pre id="use-case-10">
+    10. Return a link to metadata about the collection of data items
+</pre>
