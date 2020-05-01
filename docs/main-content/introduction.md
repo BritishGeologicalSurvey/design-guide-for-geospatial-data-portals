@@ -25,7 +25,7 @@ There are alternative API approaches that may be better suited for other use cas
 ## Resources
 
 - Get off to a running start with a Reference Implementation in [Java](reference-implementations/java.md), [Node](reference-implementations/node.md) or [Python](reference-implementations/python.md)
-- [JSON Schema Library](appendices/json-schema-library.md) A cut-and-paste library of Schemas for commonly used parameters and properties. Use these to quickly generate consistent OpenAPI specifications.
+- [JSON Schema Library](appendices/schema-library) A cut-and-paste library of Schemas for commonly used parameters and properties. Use these to quickly generate consistent OpenAPI specifications.
  
 
 ## Core use cases
