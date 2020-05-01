@@ -72,7 +72,8 @@ In detail, our core use case API covers functionality to:
 
 <pre id="use-case-4">
     4. Request all items where the description and label attributes contain a specified text string, returning the same response as 1.
-        4.1. extended so that the specified search string is used in a google style search, where double quotes contain phrases to match exactly but otherwise the words are matched in any order
+        4.1. extended so that the specified search string is used in a google style search, where double quotes contain phrases to match exactly but
+        otherwise the words are matched in any order
 </pre>
 
 <pre id="use-case-5">
