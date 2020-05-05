@@ -32,6 +32,7 @@ https://docs.gitlab.com/ee/user/project/repository/#openapi-viewer
 
 You can also run the project locally, make the changes and then submit your changes to gitlab.
 
+* Install docsify: `npm i docsify-cli -g`
 * Pull the project to your computer
 * cd into api-guidance-docs
 * Run the project - `docsify serve ./docs --open`
