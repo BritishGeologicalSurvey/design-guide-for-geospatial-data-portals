@@ -41,7 +41,7 @@
   - [HTTP and Headers](appendices/http-and-headers.md)
   - [BGS APIs](appendices/bgs-apis.md)
   - [Third-party APIs](appendices/third-party-apis.md)
-
+  - [OGC Feature API specification](appendices/ogc-api.md)
 ---
 
 - [FAQ](other/faq.md)
