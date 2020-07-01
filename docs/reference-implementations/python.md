@@ -157,95 +157,8 @@ class SpecimenResponse(MinimalResponse):
             "type": "string",
             "example": "11E"
         },
-        "SAMPLE_NUMBER": {
-            "title": "Sample Number",
-            "type": "integer",
-            "example": 1278
-        },
-        "SAMPLE_SUFFIX": {
-            "title": "Sample Suffix",
-            "type": "string",
-            "example": "."
-        },
-        "REG_NO_UPP": {
-            "title": "Reg No Upp",
-            "type": "string",
-            "example": "11E1278."
-        },
-        "LOCALITY_NAME": {
-            "title": "Locality Name",
-            "type": "string",
-            "example": "Loup of Kilfeddar, New Luce"
-        },
-        "TAXON_CODE": {
-            "title": "Taxon Code",
-            "type": "string",
-            "example": "GRAPTOLITHINA"
-        },
-        "TAXON_DESC": {
-            "title": "Taxon Desc",
-            "type": "string",
-            "example": "Graptolithina"
-        },
-        "GENUS": {
-            "title": "Genus",
-            "type": "string",
-            "example": "Thamnograptus"
-        },
-        "SUBGENUS": {
-            "title": "Subgenus",
-            "type": "string",
-            "example": " "
-        },
-        "SPECIES": {
-            "title": "Species",
-            "type": "string",
-            "example": "capillaris"
-        },
-        "SUBSPECIES": {
-            "title": "Subspecies",
-            "type": "string",
-            "example": " "
-        },
-        "TYPE_STATUS_CODE": {
-            "title": "Type Status Code",
-            "type": "string",
-            "example": "NA"
-        },
-        "TYPE_STATUS_DECODE": {
-            "title": "Type Status Decode",
-            "type": "string",
-            "example": "Not Designated a Type"
-        },
-        "AGE_CODE": {
-            "title": "Age Code",
-            "type": "string",
-            "example": "O4"
-        },
-        "AGE_DECODE": {
-            "title": "Age Decode",
-            "type": "string",
-            "example": "Caradoc Series"
-        },
-        "AUTHOR_UPP": {
-            "title": "Author Upp",
-            "type": "string",
-            "example": " "
-        },
-        "REFERENCE": {
-            "title": "Reference",
-            "type": "string",
-            "example": "   "
-        },
-        "COLLECTOR_DECODE_UPP": {
-            "title": "Collector Decode Upp",
-            "type": "string",
-            "example": "RUSHTON & TUNNICLIFF"
-        },
-        "COLLECTOR_WWW_DISPLAY": {
-            "title": "Collector Www Display",
-            "type": "string",
-            "example": "NO"
+        {
+            ...
         },
         "DONOR_DECODE_UPP": {
             "title": "Donor Decode Upp",
@@ -270,24 +183,9 @@ The `...` notation accepts the values assigned when creating a Specimen object w
 class Specimen(BaseModel):
     SAMPLE_ID: int = Field(..., example=7850)
     SAMPLE_PREFIX: str = Field(..., example="11E")
-    SAMPLE_NUMBER: int = Field(..., example=1278)
-    SAMPLE_SUFFIX: str = Field(..., example=".")
-    REG_NO_UPP: str = Field(..., example="11E1278.")
-    LOCALITY_NAME: str = Field(..., example="Loup of Kilfeddar, New Luce")
-    TAXON_CODE: str = Field(None, example="GRAPTOLITHINA")
-    TAXON_DESC: str = Field(None, example="Graptolithina")
-    GENUS: str = Field(None, example="Thamnograptus")
-    SUBGENUS: str = Field(None, example=" ")
-    SPECIES: str = Field(None, example="capillaris")
-    SUBSPECIES: str = Field(None, example=" ")
-    TYPE_STATUS_CODE: str = Field(..., example="NA")
-    TYPE_STATUS_DECODE: str = Field(..., example="Not Designated a Type")
-    AGE_CODE: str = Field(..., example="O4")
-    AGE_DECODE: str = Field(..., example="Caradoc Series")
-    AUTHOR_UPP: str = Field(None, example=" ")
-    REFERENCE: str = Field(..., example="   ")
-    COLLECTOR_DECODE_UPP: str = Field(None, example="RUSHTON & TUNNICLIFF")
-    COLLECTOR_WWW_DISPLAY: str = Field(..., example="NO")
+        
+        ...
+    
     DONOR_DECODE_UPP: str = Field(None, example=" ")
     DONOR_WWW_DISPLAY: str = Field(..., example="NO")
 
