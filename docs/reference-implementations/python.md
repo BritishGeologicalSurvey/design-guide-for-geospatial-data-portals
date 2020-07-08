@@ -1,24 +1,83 @@
 # Python Implementations
 
-## BGS Index and Meta data API template 
+This page contains information about implementing a BGS-style API service using Python.
 
-(LINK to GIT REPOSITRY)
+## Reference implementation
 
-For simple APIs serving BGS data where:
-* Data is in a DB Query Layer (with maybe a couple of dictionaries)
-* The Query Layer is an index of maps/reports/rocks/fossils/...
-* Each item has relatively few simple properties
-* Each item optionally has a link to an external resource (e.g. large image viewer or PDF download)
-* API provides only "search", "full details" and "dictionary (dropdown)" endpoints
+The reference implementation for a Python-based API service is [Palaeosaurus](https://kwvmxgit.ad.nerc.ac.uk/apis/api-services/palaeosaurus-api).  It is built using the [FastAPI](https://fastapi.tiangolo.com/) framework and uses [Pydantic](https://pydantic-docs.helpmanual.io/) to validate and structure data.  FastAPI automatically generates a JSON OpenAPI specification and uses it to serve interactive documentation via Swagger.  The application runs in a Docker container.
 
-## Time series and Sensor data
+Palaeosaurus demonstrates dictionary-style endpoints (e.g. [/vocab/geochrons](http://hwlapi01.bgslcdevops.test:8001/palaeosaurus/v1/docs#/default/get_vocab_geochrons_palaeosaurus_v1_vocab_geochrons_get)), using a path-parameter as an id (e.g. [/specimen/{specimen_id}](http://hwlapi01.bgslcdevops.test:8001/palaeosaurus/v1/docs#/default/get_specimens_by_id_palaeosaurus_v1_specimen__specimen_id__get)) and a multi-parameter query (e.g. [/specimens/?species=...](http://hwlapi01.bgslcdevops.test:8001/palaeosaurus/v1/docs#/default/get_specimens_palaeosaurus_v1_specimens_get)).
 
-(LINK to GIT REPOSITRY)
+## Code structure of an API endpoint
 
-TODO
+Beneath is the tree of an API project.
+
+```
+.
+├── app
+│   ├── config.py
+│   ├── database.py
+│   ├── errors.py
+│   ├── main.py
+│   ├── models
+│   │   ├── paths.py
+│   │   ├── queries.py
+│   │   └── schemas.py
+│   ├── routes
+│   │   ├── specimens.py
+│   │   ├── vocab_geochrons.py
+│   │   ├── ...
+│   └── sql_common.py
+├── deploy
+└── test
+    ├── integration
+    └── unit
+        └── routes
+├── docker-compose-local.yml
+├── Dockerfile
+├── README.md
+├── requirements.txt
+```
+
+Endpoints are defined in files in the `routes` directory.  They use classes imported from the `models` folder to provide data validation and metadata used to populate the OpenAPI specification (see below for details).  `config.py` contains general and environment-specific configuration settings and `database.py` has a function for connecting to the database depending on the config.  Endpoints are added to FastAPI by adding the router in `main.py`.
+
+Each endpoint has unit tests (to confirm SQL query preparation and data serialisation) and integration tests to confirm the full end-to-end working of an API request.
+
+See [Deploying APIs](http://apis.glpages.ad.nerc.ac.uk/api-guidance-docs/#/main-content/deploying-apis) for details on Docker files and the `deploy` folder.
 
 
-## OpenAPI schema definition for specimen/{specimen_id}
+### Example acceptance criteria
+
+The following checklist can be applied as acceptance criteria to a new endpoint built to fit the specification.
+
+*Layout*
+
++ [ ] Endpoint is single file in `routes` directory
++ [ ] Endpoint takes Config as dependency (so it has access to database parameters etc)
++ [ ] Endpoint function calls a `query_database`, `parse_results` and `prepare_response` functions within their own try/except blocks
++ [ ] If multiple parameters are used, these are validated and grouped together `request_params` dict.
++ [ ] `query_database` function takes `config` (+/- `request_params`) as arguments and calls `prepare_xxx_query` to get SQL query.
++ [ ] `prepare_xxx_query` takes `config` (+/- `request_params.keys()`) arguments and returns a SQL string with correct schema/table names for the environment.  If optional query filters are required, the string is constructed using named placeholders and `prettify`.
+
+*OpenAPI*
+
++ [ ] Response model contains at least `msg`, `type`, `self` and `data` fields
++ [ ] Path and Query model definitions contain example values
++ [ ] Pydantic models for data contain example values
++ [ ] Response schemas are imported from `app.models.schemas`
++ [ ] Endpoint Query models are imported from `app.models.queries`
++ [ ] Endpoint Path models are imported from `app.models.paths`
+
+*Tests*
+
++ [ ] `test/unit/routes/test_<endpoint>.py` contains (at least) tests for the `prepare_xxx_query`.
++ [ ] Tests on `prepare_xxx_query` confirm correct table is selected for each environment
++ [ ] Tests on `prepare_xxx_query` confirm queries contain placeholders for necessary parameters
++ [ ] `test/integration/test_<endpoint>.py` tests (at least) a representative query in both DEVELOP and PRODUCTION environments
++ [ ] If required, integration tests for parameters test: all the parameters present; no parameters present; misspelled parameters
+
+
+## Generating OpenAPI schema definitions from Python data models
 
 The Swagger pages for specimen/{specimen_id are at: http://hwlapi01.bgslcdevops.test:9001/palaeosaurus/v1/docs#/default/get_specimens_by_id_palaeosaurus_v1_specimen__specimen_id__get
 Schema definitions are used in three locations in the OpenAPI specification:
