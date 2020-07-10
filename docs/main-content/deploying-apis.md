@@ -89,7 +89,7 @@ They have a custom `deploy` user SSH public key for CI jobs.  See the [Palaeosau
 
 ## Proxy server
 
-BGS API Proxy servers provides a single points of access to multiple API services.  There is one for each deployment environment.
+BGS API Proxy servers provides a single point of access to multiple API services.  There is one for each deployment environment.
 
 + [Review](http://hwlapi01.bgslcdevops.test:9080)
 + [Develop](http://hwlapi01.bgslcdevops.test:8080)
