@@ -1,4 +1,4 @@
-# SQL snippets for use cases
+# Oracle SQL snippets for use cases
 
 ## Common requirements
 
@@ -26,6 +26,25 @@ For kwextrn connectins this will need to be changed to either use the PUBLISHED 
         Palaeosaurus example: select SAMPLE_ID,SAMPLE_PREFIX,SAMPLE_NUMBER,SAMPLE_SUFFIX FROM BGS.PAL_SAMPLE_WEB_VIEW
 		
         Offshore Hydrocarbons example: select BOREHOLE_ID, WELLNAME from BGS.CSD_UKOFFSHOREHC_WELL_WEB       
+		
+		1.1    Return the response array in pages of a configurable size with suitable paging links
+		
+		# LIMIT / OFFSET doesn't exist in Oracle, so paging is achieved by wrapping query within another and selecting rows from output.
+		Palaeosaurus example: 
+		
+			SELECT T.* FROM (
+					SELECT T.*, rowNum as rowIndex, COUNT(*) OVER() as rowCount FROM (select SAMPLE_ID,SAMPLE_PREFIX,SAMPLE_NUMBER,SAMPLE_SUFFIX FROM BGS.PAL_SAMPLE_WEB_VIEW
+					) T ) T
+			WHERE rowIndex > :offset
+			AND rowIndex <= (:limit + :offset)
+
+		Offshore Hydrocarbons example: 
+		
+			SELECT T.* FROM (
+					SELECT T.*, rowNum as rowIndex, COUNT(*) OVER() as rowCount FROM (select BOREHOLE_ID, WELLNAME from BGS.CSD_UKOFFSHOREHC_WELL_WEB
+					) T ) T
+			WHERE rowIndex > :offset
+			AND rowIndex <= (:limit + :offset)
 </pre>
 
 <pre id="use-case-2">
@@ -84,12 +103,12 @@ For kwextrn connectins this will need to be changed to either use the PUBLISHED 
         
         Palaeosaurus example, as for 2 and append: 
         
-             WHERE UPPER(TAXON_DESC) like upper('%string%')
+             WHERE UPPER(TAXON_DESC) like upper('%:string%')
               
               
         Offshore Hydrocarbons example, as for 2 and append: 
         
-             WHERE UPPER(WELLNAME) like upper('%string%')
+             WHERE UPPER(WELLNAME) like upper('%:string%')
             
         
         4.1. extended so that the specified search string is used in a google style search, where double quotes contain phrases to match exactly but
