@@ -16,7 +16,7 @@ For kwextrn connectins this will need to be changed to either use the PUBLISHED 
 
 ## SQL for Hello world
 
-`select 'Hello world' from DUAL`
+`select 'Hello world' as hello_world from DUAL`
 
 ## SQL for use cases in scope of guidelines
 
