@@ -14,11 +14,11 @@ For kwextrn connectins this will need to be changed to either use the PUBLISHED 
 
 # SQL examples
 
-## Hello world use case
+## Hello world
 
 `select 'Hello world' from DUAL`
 
-
+## Use cases
 <pre id="use-case-1">
     1.    Request all items and return JSON array of data objects.
 	
