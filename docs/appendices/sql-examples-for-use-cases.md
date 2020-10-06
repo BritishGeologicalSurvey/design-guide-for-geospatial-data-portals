@@ -131,7 +131,7 @@ For kwextrn connectins this will need to be changed to either use the PUBLISHED 
     
     Palaeosaurus example to get options for dictionary object to search with (joins dictionary to the data view):
     
-    SELECT dic.code, dic.translation, dic.order_ctrl
+    SELECT distinct dic.code, dic.translation, dic.order_ctrl
 	FROM BGS.DIC_PAL_TAXON dic join BGS.PAL_SAMPLE_WEB_VIEW p
 	on  dic.code = p.taxon_code
 	ORDER BY order_ctrl
