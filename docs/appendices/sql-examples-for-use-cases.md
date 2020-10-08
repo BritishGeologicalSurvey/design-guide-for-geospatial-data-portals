@@ -68,6 +68,7 @@ For kwextrn connectins this will need to be changed to either use the PUBLISHED 
                     TAXON_DESC
               FROM
                     BGS.PAL_SAMPLE_WEB_VIEW
+             WHERE 0=0
               
               
         Offshore Hydrocarbons example (incomplete): 
@@ -78,7 +79,8 @@ For kwextrn connectins this will need to be changed to either use the PUBLISHED 
                     ORIG_SURFACE_LATITUDE, 
                     ORIG_SURFACE_LONGITUDE
             FROM 
-                    BGS.CSD_UKOFFSHOREHC_WELL_WEB 
+                    BGS.CSD_UKOFFSHOREHC_WELL_WEB
+            WHERE 0=0
 </pre>
 
 <pre id="use-case-3">
@@ -86,12 +88,12 @@ For kwextrn connectins this will need to be changed to either use the PUBLISHED 
     
         Palaeosaurus example, as for 2 and append: 
         
-             WHERE SAMPLE_ID=
+             AND SAMPLE_ID=
               
               
         Offshore Hydrocarbons example, as for 2 and append: 
         
-            WHERE BOREHOLE_ID=
+            AND BOREHOLE_ID=
     
         
         3.1.    in addition, data object includes a hierarchical dictionary object (code,translation,description, array of child objects)
@@ -103,12 +105,12 @@ For kwextrn connectins this will need to be changed to either use the PUBLISHED 
         
         Palaeosaurus example, as for 2 and append: 
         
-             WHERE UPPER(TAXON_DESC) like upper('%:string%')
+             AND UPPER(TAXON_DESC) like upper('%:string%')
               
               
         Offshore Hydrocarbons example, as for 2 and append: 
         
-             WHERE UPPER(WELLNAME) like upper('%:string%')
+             AND UPPER(WELLNAME) like upper('%:string%')
             
         
         4.1. extended so that the specified search string is used in a google style search, where double quotes contain phrases to match exactly but
@@ -125,6 +127,26 @@ For kwextrn connectins this will need to be changed to either use the PUBLISHED 
 
 <pre id="use-case-7">
     7. Request all items where a dictionary object attribute matches a specified single value, returning the same response as 1
+    
+    
+    Palaeosaurus example to get options for dictionary object to search with (joins dictionary to the data view):
+    
+    SELECT distinct dic.code, dic.translation, dic.order_ctrl
+	FROM BGS.DIC_PAL_TAXON dic join BGS.PAL_SAMPLE_WEB_VIEW p
+	on  dic.code = p.taxon_code
+	ORDER BY order_ctrl
+	
+	Palaeosaurus example to use dictionary item in search: as for 2 and append
+	
+	AND TAXON_CODE = :code
+	
+	Hydrocarbons wells example to get options for dictionary object to search with(gets distinct values from the data view):
+	
+	SELECT distinct OPERATOR FROM BGS.CSD_UKOFFSHOREHC_WELL_WEB
+	
+	Hydrocarbons well example to use dictionary item in search: as for 2 and append
+	
+	AND OPERATOR = :operator
 </pre>
 
 <pre id="use-case-8">

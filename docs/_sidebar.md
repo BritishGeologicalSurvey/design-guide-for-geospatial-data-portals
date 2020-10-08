@@ -42,6 +42,7 @@
   - [BGS APIs](appendices/bgs-apis.md)
   - [Third-party APIs](appendices/third-party-apis.md)
   - [OGC Feature API specification](appendices/ogc-api.md)
+  - [SQL examples for use cases](appendices/sql-examples-for-use-cases.md)
 ---
 
 - [FAQ](other/faq.md)
