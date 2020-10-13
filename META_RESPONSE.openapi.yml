@@ -1,0 +1,149 @@
+openapi: 3.0.0
+info:
+  title: API Library
+  description: API Library
+  version: 0.1.0
+  termsOfService: //www.bgs.ac.uk/help/terms_of_use.html
+  contact:
+    email: www-bgs@bgs.ac.uk
+    name: BGS Webmaster
+    url: //www.bgs.ac.uk/contacts/people/home.html
+  license:
+    name: Open Government Licence
+    url: //www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+servers:
+  - url: tbc.dev.ac.uk
+    description: Development server
+  - url: tbc.live.ac.uk
+    description: Live server
+paths:
+  /search:
+    get:
+      description: Search for XXX
+      parameters:
+        - $ref: '#/components/parameters/Limit'
+        - $ref: '#/components/parameters/Offset'
+      responses:
+        '200':
+          description: Search results
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ResponseObj'
+components:
+  parameters:
+    Limit:
+      name: 'limit'
+      in: query
+      description: 'The number of items to return in a single page'
+      required: false
+      schema:
+        $ref: '#/components/schemas/Limit'
+      example: 20
+    Offset:
+      name: 'offset'
+      in: query
+      description: 'The number of items to skip over before the first item returned'
+      required: false
+      schema:
+        $ref: '#/components/schemas/Offset'
+      example: 0
+  schemas:
+    ResponseObj:
+      type: object
+      title: 'Response wrapper object'
+      description: 'Generic response wrapper object'
+      required:
+        - msg
+        - self
+        - type
+      properties:
+        self:
+          $ref: '#/components/schemas/EchoedRequestUrl'
+        msg:
+          $ref: '#/components/schemas/ResponseMsg'
+        errors:
+          $ref: '#/components/schemas/ResponseErrors'
+        type:
+          $ref: '#/components/schemas/ResponseType'
+        data:
+          $ref: '#/components/schemas/ResponseData'
+        paging:
+          $ref: '#/components/schemas/ResponsePaging'
+    ResponseErrors:
+      type: array
+      title: 'Response errors'
+      description: 'Array of errors that occured while dealing with the request'
+      minItems: 0
+      maxItems: 99
+      items:
+        $ref: '#/components/schemas/ResponseMsg'
+    ResponseMsg:
+      type: string
+      title: 'Response message'
+      description: 'Message giving details of the response'
+      minLength: 1
+      maxLength: 200
+    ResponseType:
+      type: string
+      title: 'Response type'
+      description: 'Response type'
+      enum:
+        - success
+        - nodata
+        - error
+    ResponseData:
+      type: array
+      title: 'Response data'
+      description: 'Array of the requested data items'
+      minItems: 0
+      maxItems: 1000
+      items:
+        $ref: '#/components/schemas/ResponseDataItem'
+    ResponsePaging:
+      title: 'Response Paging'
+      description: 'Response Paging'
+      type: object
+      properties:
+        offset:
+          $ref: '#/components/schemas/Offset'
+        limit:
+          $ref: '#/components/schemas/Limit'
+        numberMatched:
+          title: 'Number Matched'
+          description: 'The total count of records matched by the request criteria before paging applied'
+          type: integer
+          example: 10000
+        numberReturned:
+          title: 'Number Returned'
+          description: 'The number of records returned in the current paged response. Will equal the page size limit except on the final page of results'
+          type: integer
+          example: 9999
+        next:
+          type: string
+          description: 'url pointing to the next set of items returned'
+        previous:
+          type: string
+          description: 'url pointing to the previous set of items returned'
+    ResponseDataItem:
+      type: object
+      title: 'Response data item'
+      description: 'Response data item'
+      minProperties: 2
+    EchoedRequestUrl:
+      type: string
+      title: 'Requested URL'
+      description: 'The URL that was requested to generate this response'
+      format: uri
+    Limit:
+      type: integer
+      title: 'limit'
+      description: 'The number of items to return'
+      minimum: 1
+      maximum: 100
+    Offset:
+      type: integer
+      title: 'offset'
+      description: 'The number of items to skip over before the first item returned'
+      minimum: 0
+      maximum: 1000
