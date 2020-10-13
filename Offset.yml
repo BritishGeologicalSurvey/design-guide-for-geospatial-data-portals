@@ -1,5 +1,0 @@
-Offset
-   type: integer
-   title: 'offset'
-   description: 'The number of items to skip over before the first item returned'
-   minimum: 0

@@ -1,8 +1,0 @@
-ResponseErrors:
-  type: array
-  title: 'Response errors'
-  description: 'Array of errors that occured while dealing with the request'
-  minItems: 0
-  maxItems: 99
-  items:
-    $ref: 'ResponseMsg.yml'
