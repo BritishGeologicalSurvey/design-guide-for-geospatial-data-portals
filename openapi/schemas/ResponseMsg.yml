@@ -1,0 +1,6 @@
+ResponseMsg:
+  type: string
+  title: 'Response message'
+  description: 'Message giving details of the response'
+  minLength: 1
+  maxLength: 200

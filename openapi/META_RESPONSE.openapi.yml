@@ -1,0 +1,34 @@
+openapi: 3.0.0
+info:
+  title: API Library
+  description: API Library
+  version: 0.1.0
+  termsOfService: //www.bgs.ac.uk/help/terms_of_use.html
+  contact:
+    email: www-bgs@bgs.ac.uk
+    name: BGS Webmaster
+    url: //www.bgs.ac.uk/contacts/people/home.html
+  license:
+    name: Open Government Licence
+    url: //www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+servers:
+  - url: tbc.dev.ac.uk
+    description: Development server
+  - url: tbc.live.ac.uk
+    description: Live server
+paths:
+  /search:
+    get:
+      description: Search for XXX
+      parameters:
+        - $ref: 'parameters/limit.yml'
+        - $ref: 'parameters/offset.yml'
+      responses:
+        '200':
+          description: Search results
+          content:
+            application/json:
+              schema:
+                $ref: 'schemas/ResponseWrapper.yml'
+
+
