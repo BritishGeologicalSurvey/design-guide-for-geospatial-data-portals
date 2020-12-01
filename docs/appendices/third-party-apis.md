@@ -13,3 +13,8 @@ This is not a comprehensive list of external APIs.
 *  Various map tile services (OSM,ESRI) for web maps across loads of apps
 
 *  [Environmental Baseline Monitoring pages](https://www.bgs.ac.uk/research/groundwater/shaleGas/monitoring/vopDataSummary.html) API to get Air Quality data from WACL (key required)
+
+* SensorThingsAPI - https://github.com/opengeospatial/sensorthings. Better docs at https://developers.sensorup.com/docs/#introduction 
+
+* OGCAPI Collection - https://ogcapi.ogc.org/  
+

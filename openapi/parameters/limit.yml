@@ -1,0 +1,8 @@
+ limit:
+    name: 'limit'
+    in: query
+    description: 'The number of items to return in a single page'
+    required: false
+    schema:
+       $ref: '../schemas/Limit.yml'
+    example: 20
