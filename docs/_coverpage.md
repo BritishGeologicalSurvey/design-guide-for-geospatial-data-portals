@@ -2,18 +2,19 @@
 
 
 
-![logo](_media/api-logo.svg)
+![logo](_media/wireframe-flat-200.png)
 
-# API Guidance Documentation <small>0.1</small>
+# Wireframes and Design Guides for Geospatial Data Portals<small>0.1</small>
 
-**Making the API development more fun**
+**Making spatial data more accessible**
 
-- Develop APIs faster
-- Follow best practices
-- Find reference implementations
+- Design principles
+- Common frustrations of data portal users
+- Example wireframes
+- Frequently asked questions
 
 [Start Here](main-content/introduction)
-[Reference Implementations](reference-implementations/python)
+[Wireframes](main-content/stage-1)
 
 <!-- background color -->
 ![color](#4f4f4f)

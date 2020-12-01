@@ -2,55 +2,29 @@
 
 ---
 
-- Design
+- Wireframes
   
-  - [Designing APIs](main-content/designing-apis)
+  - [Stage 1 : Find](main-content/stage-1)
+  - [Stage 2: Search](main-content/stage-2)
+  - [Stage 3: Results](main-content/stage-3)
+  - [Stage 4: Explore](main-content/stage-4)
+  - [Stage 5: Use](main-content/stage-5)
 
 ---
 
-- Develop the specification
+- Recommendations
 
-  - [Using OpenAPI](main-content/openapi)
-  - [API URLs](main-content/urls-https-headers)
-  - [Common Patterns](main-content/common-patterns)
-  - [Response Formats](main-content/response-formats)
-  - [API and Data versioning](main-content/versioning-apis)
-
----
-
-- Reference Implementations
-
-  - [Python](reference-implementations/python)
-  - [Node.js](reference-implementations/node)
-  - [Java](reference-implementations/java)
-
-
----
-
-- Deploy
-  
-  - [Deploying APIs](main-content/deploying-apis)
+  - [General recommendations](main-content/general-recommendations)
+  - [FAQ](main-content/faq)
+  - [User Testing](main-content/user-testing)
 
 ---
 
 - Appendices
 
-  - [Schema Library](appendices/schema-library.md)
-  - [Javascript API usage examples](reference-implementations/javascript)
-  - [Architectural patterns](appendices/architecture.md)
-  - [HTTP and Headers](appendices/http-and-headers.md)
-  - [BGS APIs](appendices/bgs-apis.md)
-  - [Third-party APIs](appendices/third-party-apis.md)
-  - [OGC Feature API specification](appendices/ogc-api.md)
-  - [SQL examples for use cases](appendices/sql-examples-for-use-cases.md)
+  - [Example Spatial Data Portals](appendices/portal-examples.md)
+  
 ---
 
-- [FAQ](other/faq.md)
+- [About Us](other/about-us.md)
 - [Changelog](other/changelog.md)
-
----
-
-- [![Code](https://icongr.am/feather/code.svg?size=16&color=808080) Markdown Cheatsheet](https://jhildenbiddle.github.io/docsify-themeable/#/markdown)
-- [![Github](https://icongram.jgog.in/simple/github.svg?color=808080&size=16) Documentation on GitLab](https://kwvmxgit.ad.nerc.ac.uk/apis/api-guidance-docs/)
-<!-- - [![NPM](https://icongram.jgog.in/simple/npm.svg?colored&size=16)Template Documentation](https://docsify.now.sh/) -->
-<!-- - [![Twitter](https://icongram.jgog.in/simple/twitter.svg?colored&size=16)@jhildenbiddle](http://twitter.com/jhildenbiddle) -->

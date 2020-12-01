@@ -1,5 +1,0 @@
-Limit
-   type: integer
-   title: 'limit'
-   description: 'The number of items to return'
-   minimum: 1

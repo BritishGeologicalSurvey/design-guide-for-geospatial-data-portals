@@ -1,7 +1,0 @@
-## Summary
-
-
-
-## Details
-
-

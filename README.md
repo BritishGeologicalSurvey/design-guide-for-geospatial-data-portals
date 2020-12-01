@@ -1,4 +1,4 @@
-# API Guidance Documentation
+# Wireframes and Design Guides
 
 [API Guidance Docs on Gitlab pages](http://apis.glpages.ad.nerc.ac.uk/api-guidance-docs)
 

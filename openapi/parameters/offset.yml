@@ -1,8 +1,0 @@
-offset
-   name: 'offset'
-   in: query
-   description: 'The number of items to skip over before the first item returned'
-   required: false
-   schema:
-      $ref: '../schemas/Offset.yml'
-   example: 0
