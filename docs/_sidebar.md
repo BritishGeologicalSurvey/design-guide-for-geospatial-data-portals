@@ -12,11 +12,12 @@
 
 ---
 
-- Recommendations
+- Pages
 
-  - [General recommendations](main-content/general-recommendations)
-  - [FAQ](main-content/faq)
-  - [User Testing](main-content/user-testing)
+  - [Getting Started](#)
+  - [FAQ](#)
+  - [404 - Page not Found](#)
+  - [About Us](#)
 
 ---
 
