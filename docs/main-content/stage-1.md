@@ -1,5 +1,6 @@
 # Stage 1: Find
 
+> This stage/pattern is about...
 
 ## Pain points
 
