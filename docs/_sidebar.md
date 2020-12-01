@@ -2,7 +2,7 @@
 
 ---
 
-- Design  Patterns
+- Design Patterns
   
   - [Stage 1 : Find](main-content/stage-1)
   - [Stage 2: Search](main-content/stage-2)
