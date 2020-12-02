@@ -9,6 +9,6 @@ In 2018 user researchers and designers across the <u>Geo6</u> came together to e
 
 Throughout 2019 the Geo6 have worked on solutions to address the pain points identified in the <u>DD2 report</u>.
 
-## How to use it?
+## Using guidance
+The guidance as arranged in categories that make up a typical user journey from first finding a data portals through to applied use of a selected dataset. 
 
-## Components for each stage
