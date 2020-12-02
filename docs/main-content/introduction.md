@@ -1,20 +1,13 @@
 # Introduction
 
-
-## What is it?
-
-The goal of this resource is to support the design and development of spatial data portals. 
-
-Building on user research and experience of the <u>Geo6</u> we present a summary of user needs and the frustrations users encounter when using existing portals and make recomendations on how you might design services that satisfy these requirements.  
+Making spatial data portals more useful and usable. 
 
 ## Background
 Something really broad about the histpry of spatial data access (on the web?).
 
-In 2018.... Geo6 team involving....
+In 2018 user researchers and designers across the <u>Geo6</u> came together to explore the needs and frustrations experienced by the users of data portals containing spatial data.
 
-Conducted user reaserch and documented our findings in the <u>DD2 report</u>
-
-Throghout 2019/20 the Geo6 have worked on solutions to the user needs identified.
+Throughout 2019 the Geo6 have worked on solutions to address the pain points identified in the <u>DD2 report</u>.
 
 ## How to use it?
 
