@@ -2,13 +2,13 @@
 
 ---
 
-- Help users to
+- Help users to...
   
-  - [Find](main-content/stage-1)
-  - [Search](main-content/stage-2)
-  - [Results](main-content/stage-3)
-  - [Explore](main-content/stage-4)
-  - [Use](main-content/stage-5)
+  - [Find data sources](main-content/stage-1)
+  - [Search within a portal](main-content/stage-2)
+  - [Understand search results](main-content/stage-3)
+  - [Explore data records](main-content/stage-4)
+  - [Use selected data](main-content/stage-5)
 
 ---
 
