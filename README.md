@@ -4,7 +4,7 @@
 
 --- 
 
-## Hot to Edit Content
+## How to Edit Content
 
 * Landing page can be edited from `docs/_coverpage.md`
 * The sidebar can be edited from `docs/_sidebar.md`
