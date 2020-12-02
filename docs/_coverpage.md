@@ -4,7 +4,7 @@
 
 ![logo](_media/wireframe-flat-200.png)
 
-# Wireframes and Design Guides for Geospatial Data Portals<small>0.1</small>
+# Designing geospatial data portals <small>0.1</small>
 
 **Making spatial data more accessible**
 
