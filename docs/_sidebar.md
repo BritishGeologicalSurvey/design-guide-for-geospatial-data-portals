@@ -2,13 +2,13 @@
 
 ---
 
-- Wireframes
+- Help users to
   
-  - [Stage 1: Find](main-content/stage-1)
-  - [Stage 2: Search](main-content/stage-2)
-  - [Stage 3: Results](main-content/stage-3)
-  - [Stage 4: Explore](main-content/stage-4)
-  - [Stage 5: Use](main-content/stage-5)
+  - [Find](main-content/stage-1)
+  - [Search](main-content/stage-2)
+  - [Results](main-content/stage-3)
+  - [Explore](main-content/stage-4)
+  - [Use](main-content/stage-5)
 
 ---
 
