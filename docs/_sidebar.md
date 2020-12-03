@@ -4,7 +4,7 @@
 
 - Help users to...
   
-  - [Find data sources](main-content/stage-1)
+  - [Discover data sources](main-content/stage-1)
   - [Search within a portal](main-content/stage-2)
   - [Understand search results](main-content/stage-3)
   - [Explore data records](main-content/stage-4)
