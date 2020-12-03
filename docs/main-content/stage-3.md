@@ -73,5 +73,9 @@ Use this pattern when users are expecting returned search queries to be formatte
 
 
 ## Related research for this pattern
+
+```diff
++ This would link to relevant research
+```
 Read the blog post about *testing and iterating this pattern*.
 
