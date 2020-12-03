@@ -1,13 +1,25 @@
-# Stage 3: Results
+#### Guidance
+# Help users to: Make sense of search results
 
+Search results should allow users to sort, filter and refine results quickly in a format that they can understand.
 
 ## Pain points
 
-What are they?
+- Poor or invalid descriptions
+- Overwhelming amount of results / data returned
+- Multiple results contain the same data
+- Ranking by "best match" did not match user expectations
+- Frequency of search term per record is a bad descriptor of rank
+- Misinformation within data sets
+- Off the shelf search / sort and filter algorithms are often inadequate
+- Acronyms are difficult to interpret and understand
 
 ## Essential components
 
-## Wireframes and annotations
+## Design patterns
+### Overview
+
+### Component by component
 
 ## Design principles and recommendations
 
