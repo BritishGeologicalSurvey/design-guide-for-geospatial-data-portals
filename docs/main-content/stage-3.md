@@ -56,8 +56,15 @@ Search results should allow users to sort, filter and refine results quickly in 
 ## Design principles and recommendations
 ### When to use this pattern
 
+Use this pattern when users are expecting returned search queries to be formatted as a list of results with further options to sort / filter and refine results. Keeping this page scannable will save users from being overwhelmed with too much content.
+
 
 ### When not to use this pattern
+ 
+```diff
++ Can't think of any instance where this might not be relevant
+```
+
 
 ## Related research for this pattern
 Read the blog post about *testing and iterating this pattern*.
