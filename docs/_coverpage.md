@@ -2,7 +2,7 @@
 
 
 
-![logo](_media/wireframes.svg)
+![logo](_media/wireframes-v2.svg)
 
 # Designing geospatial data portals <small>0.1</small>
 
