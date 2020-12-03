@@ -19,7 +19,8 @@ Search results should allow users to sort, filter and refine results quickly in 
 ## Design patterns
 ### Overview
 
-// IMAGE OF OVERVIEW HERE //
+
+
 1. Number of returned results
 2. Faceted search / refine options
    -  a. Sort by
