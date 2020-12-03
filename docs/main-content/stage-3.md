@@ -19,6 +19,10 @@ Search results should allow users to sort, filter and refine results quickly in 
 ## Design patterns
 ### Overview
 
+```diff
++ The following image would contain annotations showing painpoints and how they have been addressed
+```
+
 ![Results page overview](/docs/_media/results-overview.png)
 
 1. Number of returned results
@@ -41,19 +45,19 @@ Search results should allow users to sort, filter and refine results quickly in 
 ### Component by component 
 1. Number of returned results
 
-![Results page overview](/docs/_media/results-component-number_of_results.png)
+![Number of returned results](/docs/_media/results-component-number_of_results.png =250x)
 
 2. Faceted search / refine options
 
-![Results page overview](/docs/_media/results-component-sort.png)
+![Sort by](/docs/_media/results-component-sort.png =250x)
 
-![Results page overview](/docs/_media/results-component-filter.png)
+![Filtered by](/docs/_media/results-component-filter.png =250x)
 
-![Results page overview](/docs/_media/results-component-spatial_search.png)
+![Spatial search](/docs/_media/results-component-spatial_search.png =250x)
 
 3. Result
 
-![Results page overview](/docs/_media/results-component-result.png)
+![Returned result](/docs/_media/results-component-result.png)
 
 ## Design principles and recommendations
 ### When to use this pattern
