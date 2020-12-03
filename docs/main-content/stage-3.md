@@ -19,10 +19,32 @@ Search results should allow users to sort, filter and refine results quickly in 
 ## Design patterns
 ### Overview
 
-### Component by component
+// IMAGE OF OVERVIEW HERE //
+1. Number of returned results
+2. Faceted search / refine options
+  2a. Sort by
+  2b. Applied filters
+  2c. Spatial search / filtering
+  2d. Filter by ...
+3. Result 
+  a. title 
+  b. description
+  c. meta tags
+  d. publisher
+  e. licence type
+  f. last update date
+  g. data quality
+  h. feedback
+
+### Component by component 
+
 
 ## Design principles and recommendations
+### When to use this pattern
 
-## Related research
 
-## Research background
+### When not to use this pattern
+
+## Related research for this pattern
+Read the blog post about *testing and iterating this pattern*.
+
