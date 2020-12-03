@@ -46,7 +46,9 @@ Search results should allow users to sort, filter and refine results quickly in 
 2. Faceted search / refine options
 
 ![Results page overview](/docs/_media/results-component-sort.png)
+
 ![Results page overview](/docs/_media/results-component-filter.png)
+
 ![Results page overview](/docs/_media/results-component-spatial_search.png)
 
 3. Result
