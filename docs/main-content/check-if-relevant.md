@@ -9,6 +9,6 @@ Doing this helps users save time as it tells them upfront whether a new portal i
 
 //wireframe image goes here
 
-## Essential components
+## Why use this 'pattern'
 
-## Wireframes and annotations
+//Explain which pain points it addresses
