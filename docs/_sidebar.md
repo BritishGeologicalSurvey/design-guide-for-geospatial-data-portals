@@ -4,7 +4,7 @@
 
 - Help users to...
   
-  - [Check if relevant](main-content/check-if-relevant)
+  - [Check if portal is relevant](main-content/check-if-relevant)
   - [Discover data sources](main-content/stage-1)
   - [Search within a portal](main-content/stage-2)
   - [Understand search results](main-content/stage-3)
