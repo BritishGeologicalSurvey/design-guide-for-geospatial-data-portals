@@ -43,6 +43,11 @@ Search results should allow users to sort, filter and refine results quickly in 
    -  h. feedback
 
 ### Component by component 
+
+```diff
++ How do I change the width of images?
+```
+
 1. Number of returned results
 
 ![Number of returned results](/docs/_media/results-component-number_of_results.png =250x)
