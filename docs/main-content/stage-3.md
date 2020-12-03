@@ -22,19 +22,20 @@ Search results should allow users to sort, filter and refine results quickly in 
 // IMAGE OF OVERVIEW HERE //
 1. Number of returned results
 2. Faceted search / refine options
-  2a. Sort by
-  2b. Applied filters
-  2c. Spatial search / filtering
-  2d. Filter by ...
+ -  a. Sort by
+ -  b. Applied filters
+ -  c. Spatial search / filtering
+ -  d. Filter by ...
+  
 3. Result 
-  a. title 
-  b. description
-  c. meta tags
-  d. publisher
-  e. licence type
-  f. last update date
-  g. data quality
-  h. feedback
+ -  a. title 
+ -  b. description
+ -  c. meta tags
+ -  d. publisher
+ -  e. licence type
+ -  f. last update date
+ -  g. data quality
+ -  h. feedback
 
 ### Component by component 
 
