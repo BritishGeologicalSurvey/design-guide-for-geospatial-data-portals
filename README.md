@@ -20,5 +20,6 @@
 
 ## Useful links
 
+* [Government Design Principles](https://www.gov.uk/guidance/government-design-principles)
 * [GDS Design Patterns](https://design-system.service.gov.uk/patterns/)
 * [UI Design Patterns](http://ui-patterns.com/)
