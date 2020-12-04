@@ -48,7 +48,7 @@ These are some of the common painpoints users might experience at this stage:
 
 ### Component by component 
 
-Below is a checklist of components that are essential for wireframes at EXPLORE stage.
+Below is a checklist of components that are essential for helping users explore a specific dataset.
 
 These components can be arranged in many ways, but the ones with highest importance should be the most visible.
 
@@ -85,7 +85,7 @@ This dataset details page provides users with information that they couldn't fin
 
 They might also also like, if possible, to visualise data in an appropriate format for its type and possibly preview a smaller sample of the whole dataset to avoid downloading large files or purchasing the wrong datasets.
 
-### Other dataset details pages
+### Examples from other data portals
 
 Geonetwork    |  The World Bank         |  data.gov.uk   |  ukgeos.ac.uk  
 :------------------:|:------------------------:|  :------------------------:| :------------------------:| 
