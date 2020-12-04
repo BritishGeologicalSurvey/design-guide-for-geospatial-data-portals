@@ -14,8 +14,6 @@ Search results should allow users to sort, filter and refine results quickly in 
 - Off the shelf search / sort and filter algorithms are often inadequate
 - Acronyms are difficult to interpret and understand
 
-## Essential components
-
 ## Design patterns
 ### Overview
 
@@ -44,15 +42,15 @@ Search results should allow users to sort, filter and refine results quickly in 
 
 1. Number of returned results
 
-![Number of returned results](../_media/results-component-number_of_results.png)
+![Number of returned results](../_media/results-component-number_of_results.png =250x)
 
 2. Faceted search / refine options
 
-![Sort by](../_media/results-component-sort.png)
+![Sort by](/../_media/results-component-sort.png =250x)
 
-![Filtered by](../_media/results-component-filter.png)
+![Filtered by](../_media/results-component-filter.png =250x)
 
-![Spatial search](../_media/results-component-spatial_search.png)
+![Spatial search](../_media/results-component-spatial_search.png =250x)
 
 3. Result
 
