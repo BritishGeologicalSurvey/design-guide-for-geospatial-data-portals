@@ -1,7 +1,7 @@
 #### Guidance
 # Help users to: Make sense of search results
 
-Search results should allow users to sort, filter and refine results quickly in a format that they can understand.
+> Search results should allow users to sort, filter and refine results quickly in a format that they can understand.
 
 ## Pain points
 

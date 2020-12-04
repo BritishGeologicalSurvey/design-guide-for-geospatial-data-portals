@@ -10,3 +10,10 @@ h1 {
     font-weight: 700;
     margin: 0;
 }
+
+/* Cover
+============================================================================= */
+:root {
+    --cover-background-color: white;
+    --cover-heading-color: var(--theme-color);;
+}
