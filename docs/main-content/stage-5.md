@@ -1,16 +1,16 @@
-# Stage 5: Use
-
+#### Guidance
+# Help users to: 
 
 ## Pain points
 
-What are they?
+- 
 
-## Essential components
+## Design patterns
+### Overview
 
-## Wireframes and annotations
+### Component by component 
 
-## Design principles and recommendations
+### When to use this pattern
 
-## Related research
+## Related research for this pattern
 
-## Research background
