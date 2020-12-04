@@ -1,5 +1,5 @@
 #### Guidance
-# Help users to: Make sense of search results
+# Help users to: Check if portal is relevant
 
 At the FIND stages users are presented only with a brief description of the dataset. And it usually is displayed in a list with many other datasets. That's why this information should be brief, easy to scan and human readable. Having a relating image that is relevant to the dataset can also help users evaluate the dataset at a glance.
 
