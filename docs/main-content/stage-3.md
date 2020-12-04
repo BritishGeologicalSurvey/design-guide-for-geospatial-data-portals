@@ -14,14 +14,9 @@ Search results should allow users to sort, filter and refine results quickly in 
 - Off the shelf search / sort and filter algorithms are often inadequate
 - Acronyms are difficult to interpret and understand
 
-## Essential components
-
 ## Design patterns
 ### Overview
 
-```diff
-+ The following image would contain annotations showing painpoints and how they have been addressed
-```
 
 ![Results page overview](../_media/results-overview.png)
 
@@ -44,21 +39,18 @@ Search results should allow users to sort, filter and refine results quickly in 
 
 ### Component by component 
 
-```diff
-+ How do I change the width of images?
-```
 
 1. Number of returned results
 
-![Number of returned results](../_media/results-component-number_of_results.png =250x)
+![Number of returned results](../_media/results-component-number_of_results.png)
 
 2. Faceted search / refine options
 
-![Sort by](/../_media/results-component-sort.png =250x)
+![Sort by](../_media/results-component-sort.png)
 
-![Filtered by](../_media/results-component-filter.png =250x)
+![Filtered by](../_media/results-component-filter.png)
 
-![Spatial search](../_media/results-component-spatial_search.png =250x)
+![Spatial search](../_media/results-component-spatial_search.png)
 
 3. Result
 
@@ -70,17 +62,7 @@ Search results should allow users to sort, filter and refine results quickly in 
 Use this pattern when users are expecting returned search queries to be formatted as a list of results with further options to sort / filter and refine results. Keeping this page scannable will save users from being overwhelmed with too much content.
 
 
-### When not to use this pattern
- 
-```diff
-+ Can't think of any instance where this might not be relevant
-```
-
-
 ## Related research for this pattern
 
-```diff
-+ This would link to relevant research
-```
 Read the blog post about *testing and iterating this pattern*.
 

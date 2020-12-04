@@ -3,7 +3,7 @@
 Making spatial data portals more useful and usable. Data portals can differ by the data they provide and the audiences they serve, so these recommendations are general and focus more on the frustrations and pain points users experience throughout different stages of their data discovery journey.
 
 ## Background
-Something really broad about the histpry of spatial data access (on the web?).
+//Something really broad about the histpry of spatial data access (on the web?).
 
 In 2018 user researchers and designers across the <u>Geo6</u> came together to explore the needs and frustrations experienced by the users of data portals containing spatial data.
 

@@ -15,15 +15,15 @@
 
 - Pages
 
-  - [Getting Started](#)
-  - [FAQ](#)
+  - [Homepage](#)
+  - [Search](#)
+  - [Search results](#)
   - [404 - Page not Found](#)
-  - [About Us](#)
 
 ---
 
-- Appendices
-
+- Evidence
+  - [User research](#)
   - [Example Spatial Data Portals](appendices/portal-examples.md)
   
 ---
