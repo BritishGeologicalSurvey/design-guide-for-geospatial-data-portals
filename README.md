@@ -23,3 +23,13 @@
 * [Government Design Principles](https://www.gov.uk/guidance/government-design-principles)
 * [GDS Design Patterns](https://design-system.service.gov.uk/patterns/)
 * [UI Design Patterns](http://ui-patterns.com/)
+
+## Running project locally
+
+You can also run the project locally, make the changes and then submit your changes to Github.
+
+* Install docsify: npm i docsify-cli -g
+* Pull the project to your computer
+* cd into `dd3-wireframes`
+* Run the project - docsify serve ./docs --open
+* View it on http://localhost:3000/
