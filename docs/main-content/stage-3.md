@@ -48,7 +48,7 @@ Search results should allow users to sort, filter and refine results quickly in 
 
 2. Faceted search / refine options
 
-![Sort by](/../_media/results-component-sort.png =250x)
+![Sort by](../_media/results-component-sort.png =250x)
 
 ![Filtered by](../_media/results-component-filter.png =250x)
 
