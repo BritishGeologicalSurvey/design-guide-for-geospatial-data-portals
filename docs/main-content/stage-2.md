@@ -1,5 +1,5 @@
 #### Guidance
-# Help users to: 
+# Help users to: search withn a portal
 
 This refers to being inside the data portal. The ‘Search screen’. How to use the site, the layout, keywords, filters etc.
 
