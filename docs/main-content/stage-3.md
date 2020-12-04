@@ -19,9 +19,6 @@ Search results should allow users to sort, filter and refine results quickly in 
 ## Design patterns
 ### Overview
 
-```diff
-+ The following image would contain annotations showing painpoints and how they have been addressed
-```
 
 ![Results page overview](../_media/results-overview.png)
 
@@ -44,9 +41,6 @@ Search results should allow users to sort, filter and refine results quickly in 
 
 ### Component by component 
 
-```diff
-+ How do I change the width of images?
-```
 
 1. Number of returned results
 
@@ -70,17 +64,7 @@ Search results should allow users to sort, filter and refine results quickly in 
 Use this pattern when users are expecting returned search queries to be formatted as a list of results with further options to sort / filter and refine results. Keeping this page scannable will save users from being overwhelmed with too much content.
 
 
-### When not to use this pattern
- 
-```diff
-+ Can't think of any instance where this might not be relevant
-```
-
-
 ## Related research for this pattern
 
-```diff
-+ This would link to relevant research
-```
 Read the blog post about *testing and iterating this pattern*.
 
