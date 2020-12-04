@@ -12,4 +12,4 @@ Throughout 2019 the Geo6 have worked on solutions to address the pain points ide
 ## Using guidance
 The guidance as arranged in categories that make up a typical user journey from first finding a data portals through to applied use of a selected dataset. Below is the archetypical journey people might go through in their search for data. It doesn’t mean that every user will go through the same stages, but they represent the steps the majority of people would have to complete in order to find, get access and make use of spatial data. 
 
-![User Journey Stages](../_media/spatial-data-journey.svg)
+![User Journey Stages](../_media/spatial-data-journey-v2.svg)
