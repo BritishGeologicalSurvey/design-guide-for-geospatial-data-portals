@@ -1,6 +1,6 @@
 # Spatial data portals
 
-Improve the discoverability and usefulness of spatial data through more effective portals. Data portals can differ by the data they provide and the audiences they serve, so these recommendations are general and focus more on the frustrations and pain points users experience throughout different stages of their data discovery journey.
+Increase the discoverability and usefulness of spatial databy designing data portals that satisfy user needs. Data portals differ by the data they provide and the audiences they serve, so these recommendations are general and focus on designs to address the frustrations that users experience at different stages of their data discovery journey.
 
 ## Background
 //Something really broad about the histpry of spatial data access (on the web?).
