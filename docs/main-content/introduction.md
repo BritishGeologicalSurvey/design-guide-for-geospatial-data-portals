@@ -2,8 +2,10 @@
 
 Increase the discoverability and usefulness of spatial databy designing data portals that satisfy user needs. Data portals differ by the data they provide and the audiences they serve, so these recommendations are general and focus on designs to address the frustrations that users experience at different stages of their data discovery journey.
 
-## Background
-Everything happens somewhere. Location is a fundamental aspect of many data and being able to combine and integrate seemingly diverse datasets using the places they relate can provide powerfuk insights. Although more and more spatial data is being made available on the internet there is concern that users are confused about where to go for authoritative, trustworthy information and concerns about what a dataset means and how it can be used for a new purpose.       
+## Everything happens somewhere
+Location is a fundamental aspect of many data and being able to combine and integrate seemingly diverse datasets using locality can provide powerful insights. 
+
+Although more and more spatial data is being made available online, there there are users who are confused about where to go, who to trust and which datsets are most relevant to answering their questions.       
 
 In 2018 user researchers and designers across the <u>Geo6</u> came together to explore the needs and frustrations experienced by the users of data portals containing spatial data.
 
