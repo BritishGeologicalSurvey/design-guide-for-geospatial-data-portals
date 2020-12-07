@@ -54,7 +54,7 @@ These components can be arranged in many ways, but the ones with highest importa
 
 To minimize information overload, the highest importance components can be grouped in a different tab.
 
-?> 1 - highest importance, 2 - medium importance, 3 - lowest importance
+?> 1 - relevance to user?, 2 - medium importance, 3 - lowest importance
 
 <!-- Table of component start -->
 
