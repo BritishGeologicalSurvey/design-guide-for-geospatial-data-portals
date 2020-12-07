@@ -1,4 +1,4 @@
-- [Making spatial data portals more useful and usable](main-content/introduction)
+- [Spatial data portals](main-content/introduction)
 
 ---
 
