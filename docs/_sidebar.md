@@ -16,8 +16,12 @@
 - Pages
 
   - [Homepage](#)
+  - [Help and support](#)
   - [Search](#)
   - [Search results](#)
+  - [Dataset details](#)
+  - [Map viewer](#)
+  - [Data viewer](#)
   - [404 - Page not Found](#)
 
 ---
