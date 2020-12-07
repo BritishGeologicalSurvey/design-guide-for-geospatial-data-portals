@@ -1,6 +1,6 @@
-# Introduction
+# Making spatial data portals more useful and usable
 
-Making spatial data portals more useful and usable. Data portals can differ by the data they provide and the audiences they serve, so these recommendations are general and focus more on the frustrations and pain points users experience throughout different stages of their data discovery journey.
+Data portals can differ by the data they provide and the audiences they serve, so these recommendations are general and focus more on the frustrations and pain points users experience throughout different stages of their data discovery journey.
 
 ## Background
 //Something really broad about the histpry of spatial data access (on the web?).
