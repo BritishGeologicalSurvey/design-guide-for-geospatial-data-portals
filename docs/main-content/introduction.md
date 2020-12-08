@@ -4,8 +4,7 @@ Increase the discoverability and usefulness of spatial data by designing data po
 
 Data portals differ by the data they provide and the audiences they serve, so these recommendations are general and focus on designs to address the frustrations that users experience at different stages of their data discovery journey.
 
-## Everything happens somewhere
-Location is a fundamental aspect of many data and being able to combine and integrate seemingly diverse datasets using locality can provide powerful insights. 
+Everything happens somewhere. Location is a fundamental aspect of many data and being able to combine and integrate seemingly diverse datasets using locality can provide powerful insights. 
 
 Although more and more spatial data is being made available online, there there are users who are confused about where to go, who to trust and which datsets are most relevant to answering their questions.       
 
@@ -13,18 +12,21 @@ In 2018 user researchers and designers across the <u>Geo6</u> came together to e
 
 Throughout 2019 the Geo6 have worked on solutions to address the pain points identified in the <u>DD2 report</u>.
 
+## Research your users
+We are presenting highlevel generic recommendations but the exact requirements for any given portal will vary according to the data volumes and subject matters covered as well as the needs of your targget audience. This resource is not a replacement for portal specific user research and design work.  
+
 ## User journey
 Users discover, access and interact with data portals in a range of ways depending on what they are trying to achive, who they are and whether they are a first time vistor or a regular user. We have identifed five broad stages of most user journeys. Below is the archetypical journey people might go through in their search for data. It doesn’t mean that every user will go through the same stages, but they represent the steps the majority of people would have to complete in order to find, get access and make use of spatial data. 
 
 ![User Journey Stages](../_media/spatial-data-journey-v3.svg)
 
 ### Help users to...
-//To do: Describe how certain tasks occur along the user journey and how our recomendations can address known pain points  
+As users progress therough their journey, they perform certain tasks, some spanning more than one of the high level stages (see below). Our recomendations in the [Helps User To...](main-content/steps/discover-data-sources) section address each of these user needs.   
 
 ![User tasks](../_media/UserJourney-tasks.jpg)
 
 ### Key pages
-//To do: Write this up 
+We have also provided guidance on design considerations for a selction of key portal pages such ast the [Homepage](main-content/pages/homepage) within the Pages section.
 
 ![User tasks](../_media/UserJourney-pages.jpg)
 
