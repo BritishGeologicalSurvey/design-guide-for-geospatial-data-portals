@@ -42,14 +42,14 @@ Our recommendations are designed to address the following painpoints:
 * Unclear signage //NEED TO CLARIFY
 * Difficulty understanding where data originates from
 * No one portal contains all the required data
-* 
+  
 ### 2. Search within data portal
 * Not knowing the best terminology to use
 * User interface allows limited search functionality
 * Inadequate filtering options - reset issues //NEED TO CLARIFY 
 * Require more temporal and flexible search parameters
 * Usability documentation is unhelpful
-* 
+  
 ### 3. Understand search results
 * Overwhelming amount of results / data returned
 * Multiple results contain the same data
@@ -59,7 +59,7 @@ Our recommendations are designed to address the following painpoints:
 * Off the shelf search / sort and filter algorithms are often inadequate //NEED TO CLARIFY
 * Ranking by “best match” did not match user expectations //NEED TO CLARIFY
 * Frequency of search term per record is a bad descriptor of rank //NEED TO CLARIFY
-* 
+  
 ### 4. Explore data records
 * No online preview of data
 * Data formats are not clearly defined or structured
@@ -71,7 +71,7 @@ Our recommendations are designed to address the following painpoints:
 * Lack of deatils about who to contact for further information and support
 * Lack of clarity on where the data originates from 
 * Improve trust/recognition of non-govt sources //NEED TO CLARIFY
-* 
+  
 ### 5. Use selected data
 * Mixed and variable formats
 * Not mobile friendly
