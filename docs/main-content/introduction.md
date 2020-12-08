@@ -33,7 +33,42 @@ User research conducted on behalf of the Geospatial Commision identifed many iss
 
 Our recommendations are designed to address the following painpoints:  
 1. Discover data sources
+* The right keywords or jargon to use
+* Lack of domain knowledge when searching
+* Reliance on colleagues to provide data and sources.
+* Unclear signage
+* Difficult to understand where data originates from.
+* Multiple sources
 2. Search within data portal
+* User interface allows limited search functionality
+* Not knowing the best terminology
+* Inadequate filtering options - reset issues
+* Usability documentation is unhelpful
+* Require more temporal and flexible search parameters.
 3. Understand search results
+* Poor or invalid descriptions
+* Overwhelming amount of results / data returned
+* Multiple results contain the same data
+* Ranking by “best match” did not match user expectations
+* Frequency of search term per record is a bad descriptor of rank
+* Misinformation within data sets
+* Off the shelf search / sort and filter algorithms are often inadequate
+* Acronyms are difficult to interpret and understand
 4. Explore data records
+* Poor or invalid descriptions
+* Overwhelming amount of data returned
+* Same data from multiple sources
+* Ranking by best match did not match user expectations
+* Frequency of search term in a record is a bad descriptor
+* Misinformation within data set
+* Off the shelf search algorithms are inadequate
+* Acronyms are difficult to understand and interpret
 5. Use selected data
+* Mixed and variable formats
+* Not mobile friendly
+* Too many steps restricting access
+* Different standards
+* No API access
+* Licensing restrictions
+* Reliance on others for interpretation
+* Character corruption
