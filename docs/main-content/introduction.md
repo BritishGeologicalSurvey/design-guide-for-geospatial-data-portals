@@ -33,11 +33,11 @@ User research conducted on behalf of the Geospatial Commision identifed many iss
 
 Our recommendations are designed to address the following painpoints:  
 1. Discover data sources
-* The right keywords or jargon to use
 * Lack of domain knowledge when searching
-* Reliance on colleagues to provide data and sources.
+* Uncertainty about which keywords to use in search engine
+* Reliance on personal recommendations rather than search engine results
 * Unclear signage
-* Difficult to understand where data originates from.
+* Difficulty understanding where data originates from
 * Multiple sources
 2. Search within data portal
 * User interface allows limited search functionality
