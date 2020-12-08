@@ -4,29 +4,29 @@
 
 - Help users to...
   
-  - [Discover data sources](main-content/discover-data-sources)
-  - [Discover your portal](main-content/discover-your-portal)
-  - [Check a portal is relevant](main-content/check-a-portal-is-relevant)
-  - [Navigate the portal](main-content/navigate-the-portal)
-  - [Search for data](main-content/search-for-data)
-  - [Make sense of search results](main-content/make-sense-of-search-results)
-  - [Assess dataset relevance](main-content/assess-dataset-relevance)
-  - [Assess data quality](main-content/assess-data-quality)
-  - [Explore data online](main-content/explore-data-online)
-  - [Use data](main-content/usedata)
+  - [Discover data sources](main-content/steps/discover-data-sources)
+  - [Discover your portal](main-content/steps/discover-your-portal)
+  - [Check a portal is relevant](main-content/steps/check-a-portal-is-relevant)
+  - [Navigate the portal](main-content/steps/navigate-the-portal)
+  - [Search for data](main-content/steps/search-for-data)
+  - [Make sense of search results](main-content/steps/make-sense-of-search-results)
+  - [Assess dataset relevance](main-content/steps/assess-dataset-relevance)
+  - [Assess data quality](main-content/steps/assess-data-quality)
+  - [Explore data online](main-content/steps/explore-data-online)
+  - [Use data](main-content/steps/use-data)
 
 ---
 
 - Pages
 
-  - [Homepage](#)
-  - [Help and support](#)
-  - [Search](#)
-  - [Search results](#)
-  - [Dataset details](#)
-  - [Map viewer](#)
-  - [Data viewer](#)
-  - [404 - Page not Found](#)
+  - [Homepage](main-content/pages/homepage)
+  - [Help and support](main-content/pages/help)
+  - [Search](main-content/pages/search)
+  - [Search results](main-content/pages/search-results)
+  - [Dataset details](main-content/pages/dataset-details)
+  - [Map viewer](main-content/pages/map-viewer)
+  - [Data viewer](main-content/pages/data-viewer)
+  - [404 - Page not Found](main-content/pages/404-page)
 
 ---
 
