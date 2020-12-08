@@ -17,3 +17,13 @@ Throughout 2019 the Geo6 have worked on solutions to address the pain points ide
 Users discover, access and interact with data portals in a range of ways depending on what they are trying to achive, who they are and whether they are a first time vistor or a regular user. We have identifed five broad stages of most user journeys. Below is the archetypical journey people might go through in their search for data. It doesn’t mean that every user will go through the same stages, but they represent the steps the majority of people would have to complete in order to find, get access and make use of spatial data. 
 
 ![User Journey Stages](../_media/spatial-data-journey-v2.svg)
+
+### Help users to...
+//To do: Describe how certain tasks occur along the user journey and how our recomendations can address known pain points  
+
+![User tasks](../_media/UserJourney-tasks.jpg)
+
+### Key pages
+//To do: Write this up 
+
+![User tasks](../_media/UserJourney-pages.jpg)
