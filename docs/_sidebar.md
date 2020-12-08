@@ -13,7 +13,7 @@
   - [Assess dataset relevance](main-content/assess-dataset-relevance)
   - [Assess data quality](main-content/assess-data-quality)
   - [Explore data online](main-content/explore-data-online)
-  - [Use data](main-content/use-data)
+  - [Use data](main-content/usedata)
 
 ---
 
