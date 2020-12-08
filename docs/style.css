@@ -17,3 +17,19 @@ h1 {
     --cover-background-color: white;
     --cover-heading-color: var(--theme-color);;
 }
+
+
+/* link style */
+
+.link1 a {
+    border-bottom: .05em solid #b4e7f8;
+    box-shadow: inset 0 -0.05em 0 #b4e7f8;
+    color: inherit;
+    transition: background-color .25s cubic-bezier(.33, .66, .66, 1);
+		text-decoration: none;
+}
+
+.link1 a:hover, .link1 a:focus, .link1 a:active {
+    background-color: #b4e7f8;
+    text-decoration: none;
+}
