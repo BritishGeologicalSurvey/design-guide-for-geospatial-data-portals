@@ -4,6 +4,7 @@
 
 - Help users to...
   
+  - [TEMPLATE](main-content/steps/_template)
   - [Discover data sources](main-content/steps/discover-data-sources)
   - [Discover your portal](main-content/steps/discover-your-portal)
   - [Check a portal is relevant](main-content/steps/check-a-portal-is-relevant)
@@ -19,6 +20,7 @@
 
 - Pages
 
+  - [TEMPLATE](main-content/pages/_template)
   - [Homepage](main-content/pages/homepage)
   - [Help and support](main-content/pages/help)
   - [Search](main-content/pages/search)

@@ -23,31 +23,34 @@ Users discover, access and interact with data portals in a range of ways dependi
 ### Help users to...
 As users progress therough their journey, they perform certain tasks, some spanning more than one of the high level stages (see below). Our recomendations in the [Helps User To...](main-content/steps/discover-data-sources) section address each of these user needs.   
 
-![User tasks](../_media/UserJourney-tasks.jpg)
+![User tasks](../_media/help-users.svg)
 
 ### Key pages
 We have also provided guidance on design considerations for a selction of key portal pages such ast the [Homepage](main-content/pages/homepage) within the Pages section.
 
-![User tasks](../_media/UserJourney-pages.jpg)
+![User tasks](../_media/key-pages.svg)
 
 ## Common painpoints for users
 User research conducted on behalf of the Geospatial Commision identifed many issues that led to users being confused and frustrated. Poor usability and functionality reduces trust and impact of potentially valuable data. 
 
 Our recommendations are designed to address the following painpoints:  
-1. Discover data sources
+
+### 1. Discover data sources
 * Lack of domain knowledge when searching
 * Uncertainty about which keywords to use in search engine
 * Reliance on personal recommendations rather than search engine results
 * Unclear signage //NEED TO CLARIFY
 * Difficulty understanding where data originates from
 * No one portal contains all the required data
-2. Search within data portal
+* 
+### 2. Search within data portal
 * Not knowing the best terminology to use
 * User interface allows limited search functionality
 * Inadequate filtering options - reset issues //NEED TO CLARIFY 
 * Require more temporal and flexible search parameters
 * Usability documentation is unhelpful
-3. Understand search results
+* 
+### 3. Understand search results
 * Overwhelming amount of results / data returned
 * Multiple results contain the same data
 * Poor or invalid descriptions
@@ -56,7 +59,8 @@ Our recommendations are designed to address the following painpoints:
 * Off the shelf search / sort and filter algorithms are often inadequate //NEED TO CLARIFY
 * Ranking by “best match” did not match user expectations //NEED TO CLARIFY
 * Frequency of search term per record is a bad descriptor of rank //NEED TO CLARIFY
-4. Explore data records
+* 
+### 4. Explore data records
 * No online preview of data
 * Data formats are not clearly defined or structured
 * Metadata titles are not written in plain English
@@ -67,7 +71,8 @@ Our recommendations are designed to address the following painpoints:
 * Lack of deatils about who to contact for further information and support
 * Lack of clarity on where the data originates from 
 * Improve trust/recognition of non-govt sources //NEED TO CLARIFY
-5. Use selected data
+* 
+### 5. Use selected data
 * Mixed and variable formats
 * Not mobile friendly
 * Too many steps restricting access
