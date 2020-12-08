@@ -40,3 +40,7 @@ h1 {
     padding: 8px;
     background: #F7F7F7;
 }
+
+summary {
+    cursor: pointer;
+}
