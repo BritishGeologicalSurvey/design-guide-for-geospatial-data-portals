@@ -4,12 +4,16 @@
 
 - Help users to...
   
-  - [Discover data sources](main-content/stage-1)
-  - [Check if portal is relevant](main-content/check-if-relevant)
-  - [Search within a portal](main-content/stage-2)
-  - [Understand search results](main-content/stage-3)
-  - [Explore data records](main-content/stage-4)
-  - [Use selected data](main-content/stage-5)
+  - [Discover data sources](main-content/discover-data-sources)
+  - [Discover your portal](main-content/discover-your-portal)
+  - [Check a portal is relevant](main-content/check-a-portal-is-relevant)
+  - [Navigate the portal](main-content/navigate-the-portal)
+  - [Search for data](main-content/search-for-data)
+  - [Make sense of search results](main-content/make-sense-of-search-results)
+  - [Assess dataset relevance](main-content/assess-dataset-relevance)
+  - [Assess data quality](main-content/assess-data-quality)
+  - [Explore data online](main-content/explore-data-online)
+  - [Use data](main-content/use-data)
 
 ---
 
