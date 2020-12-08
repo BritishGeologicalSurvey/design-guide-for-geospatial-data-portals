@@ -33,3 +33,10 @@ h1 {
     background-color: #b4e7f8;
     text-decoration: none;
 }
+
+/* image cointainer grey */
+
+.image-container {
+    padding: 8px;
+    background: #F7F7F7;
+}
