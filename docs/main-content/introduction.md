@@ -4,8 +4,7 @@ Increase the discoverability and usefulness of spatial data by designing data po
 
 Data portals differ by the data they provide and the audiences they serve, so these recommendations are general and focus on designs to address the frustrations that users experience at different stages of their data discovery journey.
 
-## Everything happens somewhere
-Location is a fundamental aspect of many data and being able to combine and integrate seemingly diverse datasets using locality can provide powerful insights. 
+Everything happens somewhere. Location is a fundamental aspect of many data and being able to combine and integrate seemingly diverse datasets using locality can provide powerful insights. 
 
 Although more and more spatial data is being made available online, there there are users who are confused about where to go, who to trust and which datsets are most relevant to answering their questions.       
 
