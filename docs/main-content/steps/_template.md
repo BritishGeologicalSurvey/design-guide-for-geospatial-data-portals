@@ -27,7 +27,7 @@
 
 [Explain which pain points it addresses]
 
-<p class="link1"><a href="/#/main-content/introduction?id=_2-search-within-data-portal" >Link to painpoints</a></p>
+<p class="link1"><a href="#/main-content/introduction?id=_2-search-within-data-portal" >Link to painpoints</a></p>
 
 ## Essential components
 
