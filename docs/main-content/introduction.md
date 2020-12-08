@@ -27,3 +27,13 @@ Users discover, access and interact with data portals in a range of ways dependi
 //To do: Write this up 
 
 ![User tasks](../_media/UserJourney-pages.jpg)
+
+## Common painpoints for users
+User research conducted on behalf of the Geospatial Commision identifed many issues that led to users being confused and frustrated. Poor usability and functionality reduces trust and impact of potentially valuable data. 
+
+Our recommendations are designed to address the following painpoints:  
+1. Discover data sources
+2. Search within data portal
+3. Understand search results
+4. Explore data records
+5. Use selected data
