@@ -21,12 +21,12 @@ Users discover, access and interact with data portals in a range of ways dependi
 ![User Journey Stages](../_media/spatial-data-journey-v2.svg)
 
 ### Help users to...
-As users progress therough their journey, they perform certain tasks as shown below, some of the tasks span more than one of the high level stages as shown in the following diagram. Our recomendations in the Helps User To.. section address each of these user needs.  
+As users progress therough their journey, they perform certain tasks, some spanning more than one of the high level stages (see below). Our recomendations in the [Helps User To...](main-content/steps/discover-data-sources) section address each of these user needs.   
 
 ![User tasks](../_media/UserJourney-tasks.jpg)
 
 ### Key pages
-//To do: Write this up 
+We have also provided guidance on design considerations for a selction of key portal pages such ast the [Homepage](main-content/pages/homepage) within the Pages section.
 
 ![User tasks](../_media/UserJourney-pages.jpg)
 
