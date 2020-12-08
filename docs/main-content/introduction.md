@@ -36,33 +36,35 @@ Our recommendations are designed to address the following painpoints:
 * Lack of domain knowledge when searching
 * Uncertainty about which keywords to use in search engine
 * Reliance on personal recommendations rather than search engine results
-* Unclear signage
+* Unclear signage //NEED TO CLARIFY
 * Difficulty understanding where data originates from
-* Multiple sources
+* No one portal contains all the required data
 2. Search within data portal
+* Not knowing the best terminology to use
 * User interface allows limited search functionality
-* Not knowing the best terminology
-* Inadequate filtering options - reset issues
+* Inadequate filtering options - reset issues //NEED TO CLARIFY 
+* Require more temporal and flexible search parameters
 * Usability documentation is unhelpful
-* Require more temporal and flexible search parameters.
 3. Understand search results
-* Poor or invalid descriptions
 * Overwhelming amount of results / data returned
 * Multiple results contain the same data
-* Ranking by “best match” did not match user expectations
-* Frequency of search term per record is a bad descriptor of rank
-* Misinformation within data sets
-* Off the shelf search / sort and filter algorithms are often inadequate
-* Acronyms are difficult to interpret and understand
-4. Explore data records
 * Poor or invalid descriptions
-* Overwhelming amount of data returned
-* Same data from multiple sources
-* Ranking by best match did not match user expectations
-* Frequency of search term in a record is a bad descriptor
-* Misinformation within data set
-* Off the shelf search algorithms are inadequate
-* Acronyms are difficult to understand and interpret
+* Misinformation within data sets 
+* Acronyms are difficult to interpret and understand
+* Off the shelf search / sort and filter algorithms are often inadequate //NEED TO CLARIFY
+* Ranking by “best match” did not match user expectations //NEED TO CLARIFY
+* Frequency of search term per record is a bad descriptor of rank //NEED TO CLARIFY
+4. Explore data records
+* No online preview of data
+* Data formats are not clearly defined or structured
+* Metadata titles are not written in plain English
+* It is not clear what 'last uodated' means
+* Cannot create a custom download
+* Lack of information about licences and terms of use
+* Titles and summaries are not informative
+* Lack of deatils about who to contact for further information and support
+* Lack of clarity on where the data originates from 
+* Improve trust/recognition of non-govt sources //NEED TO CLARIFY
 5. Use selected data
 * Mixed and variable formats
 * Not mobile friendly
