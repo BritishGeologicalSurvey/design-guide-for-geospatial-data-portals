@@ -37,8 +37,8 @@ h1 {
 /* image cointainer grey */
 
 .image-container {
-    padding: 8px;
-    background: #F7F7F7;
+    padding: 16px 32px;
+    background: #F9F9F9;
 }
 
 summary {

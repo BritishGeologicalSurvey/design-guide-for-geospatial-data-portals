@@ -21,15 +21,21 @@
 
 <!-- tabs:start -->
 
-#### **Main**
+#### **Wireframe**
 
 ![Explore - Home](../../_media/placeholder-image.png)
 
-#### **Additional Images**
+#### **Example**
+
+![Explore - Home](../../_media/placeholder-image.png)
+
+#### **Example with comments**
 
 ![Explore - Home](../../_media/placeholder-image.png)
 
 <!-- tabs:end -->
+
+[Additional details about the wireframes]
 
 ## Why/when to use this 'pattern'
 
@@ -66,6 +72,16 @@ These components can be arranged in many ways, but the ones with highest relevan
 <summary>Examples from other portals</summary>
 <br>
 
+<!-- Images start -->
+<div class="image-container">
+
 [A few examples from other portals can go here]
+
+![Google results](../../_media/stage-1/results-example-1.png)
+
+*Caption for the image*
+
+</div>
+<!-- Images end -->
 
 </details>
