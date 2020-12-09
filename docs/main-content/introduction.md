@@ -36,48 +36,48 @@ User research conducted on behalf of the Geospatial Commision identifed many iss
 Our recommendations are designed to address the following painpoints:  
 
 ### 1. Discover data sources
-* Lack of domain knowledge when searching
-* Uncertainty about which keywords to use in search engine
-* Reliance on personal recommendations rather than search engine results
-* Unclear signage //NEED TO CLARIFY
-* Difficulty understanding where data originates from
-* No one portal contains all the required data
-  
+*	Lack of domain knowledge when searching
+*	Uncertainty about which keywords to use in search engine
+*	Reliance on personal recommendations rather than search engine results
+*	Unclear inconsistent way to navigate a portal 
+*	Difficulty understanding where data originates from
+*	No one portal contains all the required data
+
 ### 2. Search within data portal
-* Not knowing the best terminology to use
-* User interface allows limited search functionality
-* Inadequate filtering options - reset issues //NEED TO CLARIFY 
-* Require more temporal and flexible search parameters
-* Usability documentation is unhelpful
-  
+*	Not knowing the best terminology to use
+*	User interface allows limited search functionality
+*	Not enough granularity when looking to filter search results
+*	Require more temporal and flexible search parameters
+*	Usability documentation is unhelpful
+
 ### 3. Understand search results
-* Overwhelming amount of results / data returned
-* Multiple results contain the same data
-* Poor or invalid descriptions
-* Misinformation within data sets 
-* Acronyms are difficult to interpret and understand
-* Off the shelf search / sort and filter algorithms are often inadequate //NEED TO CLARIFY
-* Ranking by “best match” did not match user expectations //NEED TO CLARIFY
-* Frequency of search term per record is a bad descriptor of rank //NEED TO CLARIFY
-  
+*	Overwhelming amount of results / data returned
+*	Multiple results contain the same data
+*	Poor or invalid descriptions
+*	Misinformation within data sets
+*	Acronyms are difficult to interpret and understand
+*	Inconsistent searching and sorting filters present unexpected search results
+*	Presenting search results by best match (ranked by frequency of keywords per record for a given search query), does not match the user’s expectation of ranked search results
+*	Clarity on how search results are ordered is often misunderstood
+
 ### 4. Explore data records
-* No online preview of data
-* Data formats are not clearly defined or structured
-* Metadata titles are not written in plain English
-* It is not clear what 'last uodated' means
-* Cannot create a custom download
-* Lack of information about licences and terms of use
-* Titles and summaries are not informative
-* Lack of deatils about who to contact for further information and support
-* Lack of clarity on where the data originates from 
-* Improve trust/recognition of non-govt sources //NEED TO CLARIFY
-  
+*	No online preview of data
+*	Data formats are not clearly defined or structured
+*	Metadata titles are not written in plain English
+*	It is not clear what ‘last updated’ means
+*	Cannot create a custom download
+*	Lack of information about licences and terms of use
+*	Titles and summaries are not informative
+*	Lack of details about who to contact for further information and support
+*	Lack of clarity on where the data originates from
+*	Lack of trust for data that originates from non-governmental organisations
+
 ### 5. Use selected data
-* Mixed and variable formats
-* Not mobile friendly
-* Too many steps restricting access
-* Different standards
-* No API access
-* Licensing restrictions
-* Reliance on others for interpretation
-* Character corruption
+*	Mixed and variable formats
+*	Not mobile friendly
+*	Too many steps restricting access
+*	Different standards
+*	No API access
+*	Licensing restrictions
+*	Reliance on others for interpretation
+*	Character corruption
