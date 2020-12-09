@@ -1,23 +1,29 @@
 ### Help users to
 # Explore data online
 
-> [A brief description of what is included in this step]
+> Many users emphasize the ability to visualize or preview the data before downloading it. For some it might be all they require - to get a specific value from a certain location, e.g. the flood risk in a specific location. If they can get that information from the portal directly, they don't need to download the data itself.
 
-[A longer description if needed goes here]
+How important the data exploration online, depends on the data being provided and the type of users who are accessing this data. Thus, some user research might be necessary to better understand the need for online data exploration.
 
 ## What it looks like
 
-[Wireframe image goes here. Images can be wrapped in grey container to make them stand out from the text.]
+There are multiple ways that the data can be explored online - tables, charts, maps.
+
+Users previewing the data online might have one of these goals:
+* Find a specific value for a location of interest
+* Preview the data online to get a better understanding of its contents
+
+If users require only a specific value, there is no need to display additional information. After a simple post code or location search they could be presented with a value for that location.
 
 <div class="image-container">
 
-![Google results](../../_media/stage-1/results-example-1.png)
+![Google results](../../_media/stage-4-explore/preview-example-1.png)
 
-*Caption for the image*
+*Flood risk information on gov.uk*
 
 </div>
 
-[If multiple images are required they can be grouped into TABS]
+If technology and resources allow a more detailed data preview can also help users evaluate the dataset and do an exploratory data analysis within the data portal.
 
 <!-- tabs:start -->
 
@@ -27,7 +33,7 @@
 
 #### **Example**
 
-![Explore - Home](../../_media/placeholder-image.png)
+![Explore - Home](../../_media/stage-4-explore/preview-wireframe.png)
 
 #### **Example with comments**
 
@@ -35,13 +41,13 @@
 
 <!-- tabs:end -->
 
-[Additional details about the wireframes]
-
 ## Why/when to use this 'pattern'
 
-[Explain which pain points it addresses]
+This pattern can be used when specific user needs can be addressed directly within the data portal - providing them the information they require without downloading the dataset.
 
-<p class="link1"><a href="#/main-content/introduction?id=_2-search-within-data-portal" >View common painpoints/frustrations</a></p>
+But this depends on the user needs and data type. If users require to download the whole dataset, then giving the option to preview it online can help them make a more informed decision about the usefulness of the dataset.
+
+<p class="link1"><a href="#/main-content/introduction?id=_4-explore-data-records" >View common painpoints/frustrations</a></p>
 
 ---
 
@@ -60,11 +66,13 @@ These components can be arranged in many ways, but the ones with highest relevan
 
 <!-- Table of component start -->
 
-| Component             | Description                                                                                                     |  Relevance |
-|-----------------------|-----------------------------------------------------------------------------------------------------------------|:----------:|
-| Title                 | Descriptive but not too long                                                                                    |     1      |
-| Description / Summary | A brief summary of the dataset outlining what is included in the dataset and for what purpose it was created.   |     2      |
-| Licence               | Brief description of the license the dataset is shared under A link to more details about the specific licence. |     3      |
+| Component         | Description                                                            | Relevance |
+|-------------------|------------------------------------------------------------------------|:---------:|
+| Location          | Coordinates or the postcode of the location                            |     2     |
+| Value of interest | Value of interest for that specific location                           |     2     |
+| Table preview     | Online preview of CSV data                                             |     3     |
+| Graph preview     | Bar charts visualizing the data                                        |     3     |
+| Map preview       | Map with markers showing the values at specific locations or a heatmap |     3     |
 
 </details>
 
@@ -75,11 +83,9 @@ These components can be arranged in many ways, but the ones with highest relevan
 <!-- Images start -->
 <div class="image-container">
 
-[A few examples from other portals can go here]
+![Google results](../../_media/stage-4-explore/preview-example-2.png)
 
-![Google results](../../_media/stage-1/results-example-1.png)
-
-*Caption for the image*
+*Kaggle data preview*
 
 </div>
 <!-- Images end -->
