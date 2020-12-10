@@ -24,7 +24,4 @@
 
 [A list of tasks]
 
-## Examples from other portals
-
-[A few examples from other portals can go here]
 

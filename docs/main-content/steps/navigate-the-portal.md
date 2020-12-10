@@ -23,7 +23,7 @@ This are some of the questions that should be answered when thinking about the o
 
 *Breadcrumbs allow users to easily jump to parent pages and see the website structure*
 
-![Google results](../../_media/help-navigate/navbar.png)
+![Google results](../../_media/help-navigate/titles.png)
 
 *Navbar allows users to navigate back to homepage and other top level pages*
 
@@ -32,7 +32,7 @@ This are some of the questions that should be answered when thinking about the o
 
 ## Why/when to use this 'pattern'
 
-Knowing where you are is essential on all the pages
+Knowing where you are is essential on all the pages.
 
 <p class="link1"><a href="#/main-content/introduction?id=_2-search-within-data-portal" >View common painpoints/frustrations</a></p>
 
@@ -58,4 +58,3 @@ These components can be arranged in many ways, but the ones with highest relevan
 | Page title     | A clear page title that can help users orient themselves |     1     |
 | Breadcrumbs    | Breadcrumbs allowing users easily jump to parent folders |     1     |
 | Navigation bar | Navigation bar including homepage link and search bar    |     1     |
-

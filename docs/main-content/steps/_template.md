@@ -68,20 +68,3 @@ These components can be arranged in many ways, but the ones with highest relevan
 
 </details>
 
-<details>
-<summary>Examples from other portals</summary>
-<br>
-
-<!-- Images start -->
-<div class="image-container">
-
-[A few examples from other portals can go here]
-
-![Google results](../../_media/stage-1/results-example-1.png)
-
-*Caption for the image*
-
-</div>
-<!-- Images end -->
-
-</details>
