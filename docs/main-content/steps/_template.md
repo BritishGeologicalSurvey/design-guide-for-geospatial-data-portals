@@ -1,4 +1,4 @@
-y ### Help users to
+### Help users to
 # [Heading]
 
 > [Briefly state what we want designers/developers to do in this pattern. Followed by a reason why it matters (possibly relate to painpoints).]
