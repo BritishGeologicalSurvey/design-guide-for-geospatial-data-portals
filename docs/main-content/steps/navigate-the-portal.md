@@ -17,7 +17,7 @@ Here are some of the questions that should be answered when thinking about the o
 
 ![Google results](../../_media/help-navigate/navbar.png)
 
-*Clear page heading help users make sense of where they are*
+*Navbar allows users to navigate back to homepage and other top level pages*
 
 <br>
 
@@ -29,8 +29,7 @@ Here are some of the questions that should be answered when thinking about the o
 
 ![Google results](../../_media/help-navigate/titles.png)
 
-*Navbar allows users to navigate back to homepage and other top level pages*
-
+*Clear page heading help users make sense of where they are*
 
 </div>
 
