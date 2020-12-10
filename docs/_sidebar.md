@@ -4,7 +4,6 @@
 
 - Help users to...
   
-  - [TEMPLATE](main-content/steps/_template)
   - [Discover your portal](main-content/steps/discover-your-portal)
   - [Check a portal is relevant](main-content/steps/check-a-portal-is-relevant)
   - [Navigate the portal](main-content/steps/navigate-the-portal)
@@ -14,12 +13,12 @@
   - [Assess data quality](main-content/steps/assess-data-quality)
   - [Explore data online](main-content/steps/explore-data-online)
   - [Use data](main-content/steps/use-data)
+  - [TEMPLATE](main-content/steps/_template)
 
 ---
 
 - Pages
 
-  - [TEMPLATE](main-content/pages/_template)
   - [Homepage](main-content/pages/homepage)
   - [Help and support](main-content/pages/help)
   - [Search](main-content/pages/search)
@@ -28,6 +27,7 @@
   - [Map viewer](main-content/pages/map-viewer)
   - [Data viewer](main-content/pages/data-viewer)
   - [404 - Page not Found](main-content/pages/404-page)
+  - [TEMPLATE](main-content/pages/_template)
 
 ---
 
