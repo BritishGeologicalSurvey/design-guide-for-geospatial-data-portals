@@ -1,4 +1,4 @@
-## Ready to desing or develop a geospatial portal?
+## Ready to design or develop a geospatial portal?
 
 * Start with the [introduction](main-content/introduction).
 
