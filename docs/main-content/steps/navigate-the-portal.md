@@ -16,14 +16,17 @@ Here are some of the questions that should be answered when thinking about the o
 <div class="image-container">
 
 ![Google results](../../_media/help-navigate/navbar.png)
+
 *Clear page heading help users make sense of where they are*
 
-
+</br>
 ![Google results](../../_media/help-navigate/breadcrumbs.png)
+
 *Breadcrumbs allow users to easily jump to parent pages and see the website structure*
 
-
+</br>
 ![Google results](../../_media/help-navigate/titles.png)
+
 *Navbar allows users to navigate back to homepage and other top level pages*
 
 
