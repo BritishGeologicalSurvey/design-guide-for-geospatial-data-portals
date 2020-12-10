@@ -50,8 +50,6 @@ This pattern is useful when introducing new users to the data portal. It can als
 <details>
 <summary>Essential components</summary>
 <br>
-[Brief description and a list of the most relevant components/information for this task]
-
 Below is a checklist of components/information that are relevant for this task.
 
 These components can be arranged in many ways, but the ones with highest relevance should be the most visible/accessible.
@@ -64,7 +62,7 @@ These components can be arranged in many ways, but the ones with highest relevan
 |----------------------------|------------------------------------------------------------------------|:---------:|
 | Purpose of the data portal | Why was this portal created?                                           |     1     |
 | Topics covered             | What topics does this data portal cover?                               |     1     |
-| Organization details       | Who is managing the data portal?                                       |     1     |
+| Organisation details       | Who is managing the data portal?                                       |     1     |
 | Licence details            | Is all the data shared under the same licence? If not - what are they? |     2     |
 | Geographical areas covered | Does this portal cover a specific geographical area?                   |     2     |
 
