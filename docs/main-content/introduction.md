@@ -73,11 +73,11 @@ Our recommendations are designed to address the following painpoints:
 *	Lack of trust for data that originates from non-governmental organisations
 
 ### 5. Use selected data
-*	Mixed and variable formats
-*	Not mobile friendly
-*	Too many steps restricting access
-*	Different standards
+*	Data is not available in the formats users prefer 
+*	Data viewers and exploration option are not optimised for mobile display
+*	Too many barriers such as user registration required pre-download
+*	Different standards //NEED TO CLARIFY
 *	No API access
-*	Licensing restrictions
+*	Licencing restrictions
 *	Reliance on others for interpretation
-*	Character corruption
+*	Character corruption within data or metadata
