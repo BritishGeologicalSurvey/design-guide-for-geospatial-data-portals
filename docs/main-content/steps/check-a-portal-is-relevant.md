@@ -9,7 +9,7 @@ Users might not always arrive via a data portal homepage, so this essential info
 
 The homepage should clearly answer these key questions:
 * What is the purpose of this data portal, what are the topics it covers?
-* Who is the organization managing this portal?
+* Who is the organisation managing this portal?
 * What licences are the data shared under?
 * Where do users start searching/exploring the data?
 
