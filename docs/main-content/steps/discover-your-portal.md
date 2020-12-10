@@ -1,11 +1,11 @@
 ### Help users to
 # Discover your portal
 
-> Most people looking geospatial data begin their search in search engines. The first contant with a new data portal will likely be through the search engine results.
+> Most people looking for spatial data begin their journey in search engines. The first contact with a new data portal will likely be through the search engine results.
 
-How the data portal will be presented in the search results depends on the search engine optimisation. A more detailed report and recommendations can be found in the report below.
+How the data portal will be presented in the search results depends on the search engine optimisation used by the portal developers. A more detailed report and recommendations can be found in the report below.
 
-!> Find more details in the [SEO Report]()
+!> Find more details in the [Search engine optimisation for publishers: Best practice guide](https://www.gov.uk/government/publications/search-engine-optimisation-for-publishers-best-practice-guide)
 
 ## What it looks like
 
