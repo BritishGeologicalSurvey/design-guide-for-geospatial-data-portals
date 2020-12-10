@@ -1,16 +1,16 @@
 ### Help users to
 # Navigate the portal
 
-> Users should always know where they are and have an easy way to jump to related content or back to data portal's homepage.
+> Users should always know where they are and have an easy way to jump to related content or back to the data portal homepage.
 
-Homepage will not be the entry point to a data portal to most of the users. Thus it important that they can easily make sense of where they are and how they can explore additional content.
+Homepage will not be the entry point to a data portal to most of the users. Thus it is important that they can easily make sense of where they are and how they can explore additional content.
 
 ## What it looks like
 
-This are some of the questions that should be answered when thinking about the overall navigation and navigation within a specific page:
+Here are some of the questions that should be answered when thinking about the overall site navigation as well as the navigation within a specific page:
 * Does a page have a clear title?
 * Does it have human readable breadcrumbs?
-* Is there an easy way to get back to homepage?
+* Is there an easy way to get back to the homepage?
 * If it's a dataset details page - is it possible to jump to the topic that this dataset belongs to?
 
 <div class="image-container">
