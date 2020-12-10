@@ -3,14 +3,14 @@
 
 > Clearly communicate what subject matters, geographical areas and data licensing users can expect to find within the portal. Doing this helps users save time as it tells them upfront whether a new portal is going to help them find the data they need.
 
-Users might not always arrive to data portals homepage, so this essential information should always be a few clicks away.
+Users might not always arrive via a data portal homepage, so this essential information should always be just a few clicks away.
 
 ## What it looks like
 
 The homepage should clearly answer these key questions:
 * What is the purpose of this data portal, what are the topics it covers?
 * Who is the organization managing this portal?
-* What licence is the data shared under?
+* What licences are the data shared under?
 * Where do users start searching/exploring the data?
 
 If users arrive at other pages, and not the homepage, they should be able to easily access the Home or the About Us pages.
