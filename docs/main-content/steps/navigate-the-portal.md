@@ -15,7 +15,7 @@ This are some of the questions that should be answered when thinking about the o
 
 <div class="image-container">
 
-![Google results](../../_media/stage-1/results-example-1.png)
+![Google results](../../_media/placeholder-image.png)
 
 *Caption for the image*
 
