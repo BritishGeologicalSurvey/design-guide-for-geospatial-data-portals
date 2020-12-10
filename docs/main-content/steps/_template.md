@@ -1,7 +1,7 @@
 ### Help users to
 # [Heading]
 
-> [A brief description of what is included in this step]
+> [Briefly state what we want designers/developers to do in this pattern. Followed by a reason why it matters (possibly relate to painpoints).]
 
 [A longer description if needed goes here]
 
