@@ -43,6 +43,10 @@
 
 <p class="link1"><a href="#/main-content/introduction?id=_2-search-within-data-portal" >View common painpoints/frustrations</a></p>
 
+## Related
+
+[Links to any related pages in the documentation. Exclude if none exists.]
+
 ---
 
 <!-- Additional information can be presented in dropdown menus -->
