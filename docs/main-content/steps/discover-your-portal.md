@@ -49,18 +49,3 @@ These components can be arranged in many ways, but the ones with highest relevan
 | Description / Summary | Short description should be no longer than a few paragraphs, since users are likely to see only the first one or two sentences of this summary in the search results.   |     1      |
 
 </details>
-
-
-<details>
-<summary>Examples from other portals</summary>
-<br>
-<div class="image-container">
-
-![Google results](../../_media/stage-1/results-example-1.png)
-
-*Search results for 'ukgeos glasgow data borehole soil gas'*
-
-</div>
-
-</details>
-
