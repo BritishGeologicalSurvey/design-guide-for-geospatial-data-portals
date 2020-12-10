@@ -19,12 +19,12 @@ Here are some of the questions that should be answered when thinking about the o
 
 *Clear page heading help users make sense of where they are*
 
-</br>
+<br>
 ![Google results](../../_media/help-navigate/breadcrumbs.png)
 
 *Breadcrumbs allow users to easily jump to parent pages and see the website structure*
 
-</br>
+<br>
 ![Google results](../../_media/help-navigate/titles.png)
 
 *Navbar allows users to navigate back to homepage and other top level pages*
