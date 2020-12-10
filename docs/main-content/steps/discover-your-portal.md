@@ -25,7 +25,7 @@ The dataset or the dataportal will be presented with a heading and a short descr
 
 ## Why/when to use this 'pattern'
 
-To ensure that the data portals the datasets it hosts are presented well in search engines it is important to ensure they have the correct and machine readable meta-data. 
+To ensure that data portals the datasets it contains are presented well in search engines it is important to ensure they have the correct and machine readable meta-data. 
 
 <p class="link1"><a href="#/main-content/introduction?id=_1-discover-data-sources" >View common painpoints/frustrations</a></p>
 
