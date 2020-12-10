@@ -15,35 +15,24 @@ This are some of the questions that should be answered when thinking about the o
 
 <div class="image-container">
 
-![Google results](../../_media/placeholder-image.png)
+![Google results](../../_media/help-navigate/navbar.png)
 
-*Caption for the image*
+*Clear page heading help users make sense of where they are*
+
+![Google results](../../_media/help-navigate/breadcrumbs.png)
+
+*Breadcrumbs allow users to easily jump to parent pages and see the website structure*
+
+![Google results](../../_media/help-navigate/navbar.png)
+
+*Navbar allows users to navigate back to homepage and other top level pages*
+
 
 </div>
 
-[If multiple images are required they can be grouped into TABS]
-
-<!-- tabs:start -->
-
-#### **Wireframe**
-
-![Explore - Home](../../_media/placeholder-image.png)
-
-#### **Example**
-
-![Explore - Home](../../_media/placeholder-image.png)
-
-#### **Example with comments**
-
-![Explore - Home](../../_media/placeholder-image.png)
-
-<!-- tabs:end -->
-
-[Additional details about the wireframes]
-
 ## Why/when to use this 'pattern'
 
-[Explain which pain points it addresses]
+Knowing where you are is essential on all the pages
 
 <p class="link1"><a href="#/main-content/introduction?id=_2-search-within-data-portal" >View common painpoints/frustrations</a></p>
 
@@ -64,28 +53,9 @@ These components can be arranged in many ways, but the ones with highest relevan
 
 <!-- Table of component start -->
 
-| Component             | Description                                                                                                     |  Relevance |
-|-----------------------|-----------------------------------------------------------------------------------------------------------------|:----------:|
-| Title                 | Descriptive but not too long                                                                                    |     1      |
-| Description / Summary | A brief summary of the dataset outlining what is included in the dataset and for what purpose it was created.   |     2      |
-| Licence               | Brief description of the license the dataset is shared under A link to more details about the specific licence. |     3      |
+| Component      | Description                                              | Relevance |
+|----------------|----------------------------------------------------------|:---------:|
+| Page title     | A clear page title that can help users orient themselves |     1     |
+| Breadcrumbs    | Breadcrumbs allowing users easily jump to parent folders |     1     |
+| Navigation bar | Navigation bar including homepage link and search bar    |     1     |
 
-</details>
-
-<details>
-<summary>Examples from other portals</summary>
-<br>
-
-<!-- Images start -->
-<div class="image-container">
-
-[A few examples from other portals can go here]
-
-![Google results](../../_media/stage-1/results-example-1.png)
-
-*Caption for the image*
-
-</div>
-<!-- Images end -->
-
-</details>
