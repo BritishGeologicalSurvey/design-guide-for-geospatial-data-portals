@@ -19,19 +19,19 @@ If users arrive at other pages, and not the homepage, they should be able to eas
 
 #### **Wireframe**
 
-<a href="../../_media/stage-1/homepage/wireframe-home-clean.png" target="_blank"><img src="../../_media/stage-1/homepage/wireframe-home-clean.png" data-no-zoom/></a>
+<a href="/../../_media/stage-1/homepage/wireframe-home-clean.png" target="_blank"><img src="../../_media/stage-1/homepage/wireframe-home-clean.png" data-no-zoom/></a>
 
 <!-- ![Explore - Home](../../_media/stage-1/homepage/wireframe-home-clean.png ":no-zoom") -->
 
 #### **Example**
 
-<a href="../../_media/stage-1/homepage/wireframe-home.png" target="_blank"><img src="../../_media/stage-1/homepage/wireframe-home.png" data-no-zoom/></a>
+<a href="/../../_media/stage-1/homepage/wireframe-home.png" target="_blank"><img src="../../_media/stage-1/homepage/wireframe-home.png" data-no-zoom/></a>
 
 <!-- ![Explore - Home](../../_media/stage-1/homepage/wireframe-home.png) -->
 
 #### **Example with comments**
 
-<a href="../../_media/stage-1/homepage/wireframe-home-annotations.png" target="_blank"><img src="../../_media/stage-1/homepage/wireframe-home-annotations.png" data-no-zoom/></a>
+<a href="/../../_media/stage-1/homepage/wireframe-home-annotations.png" target="_blank"><img src="../../_media/stage-1/homepage/wireframe-home-annotations.png" data-no-zoom/></a>
 
 <!-- ![Explore - Home](../../_media/stage-1/homepage/wireframe-home-annotations.png) -->
 
