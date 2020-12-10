@@ -3,9 +3,9 @@
 
 > Most people looking geospatial data begin their search in search engines. The first contant with a new data portal will likely be through the search engine results.
 
-How the data portal will be presented in the search results depends on the search engine optimisation. A more detailed report and recommendations can be found in the report below
+How the data portal will be presented in the search results depends on the search engine optimisation. A more detailed report and recommendations can be found in the report below.
 
-!> [SEO Report]()
+!> Find more details in the [SEO Report]()
 
 ## What it looks like
 
