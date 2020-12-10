@@ -70,6 +70,12 @@ if the initial search does not lead users to the dataset they are looking for, t
 
 ![Detailed search](../../_media/search-for-data/detailed-search.png)
 
+### 7. Show users' search query on the results page
+
+Don't erase the search query in the search field so users can easily remember what they search for and alter their search keywords if required.
+
+[TO DO - add an example]
+
 *Detailed search*
 
 ## Why/when to use this 'pattern'
