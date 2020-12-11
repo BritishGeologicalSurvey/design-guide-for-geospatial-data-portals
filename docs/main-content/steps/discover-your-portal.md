@@ -1,7 +1,7 @@
 ### Help users to
 # Discover your portal
 
-> Most people looking for spatial data begin their journey in search engines. The first contact with a new data portal will likely be through the search engine results.
+> Maximise the discoverability of data portals through search engine optimisation. This matters because most people looking for spatial data begin their journey in search engines. The first contact with a new data portal will likely be through the search engine results.
 
 How the data portal will be presented in the search results depends on the search engine optimisation used by the portal developers. A more detailed report and recommendations can be found in the report below.
 
