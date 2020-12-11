@@ -80,14 +80,3 @@ These components can be arranged in many ways, but the ones with highest relevan
 <summary>Examples from other portals</summary>
 <br>
 
-<!-- Images start -->
-<div class="image-container">
-
-![Google results](../../_media/stage-4-explore/preview-example-2.png)
-
-*Kaggle data preview*
-
-</div>
-<!-- Images end -->
-
-</details>
