@@ -19,12 +19,10 @@
 
 - Pages
 
-
   - [Search results](main-content/pages/search-results)
   - [Dataset details](main-content/pages/dataset-details)
   - [Map viewer](main-content/pages/map-viewer)
   - [Data viewer](main-content/pages/data-viewer)
-  
   - [TEMPLATE](main-content/pages/_template)
 
 <!--[404 - Page not Found](main-content/pages/404-page))-->
@@ -32,13 +30,10 @@
 <!--[Help and support](main-content/pages/help)-->
 <!--[Search](main-content/pages/search)-->
 
-- Evidence
+<!--Evidence-->
   
-  - [User research](#)
-  - [Example Spatial Data Portals](appendices/portal-examples.md)
+<!-- [User research](#)-->
+<!-- [Example Spatial Data Portals](appendices/portal-examples.md)-->
   
----
-
-- [About Us](other/about-us.md)
-- [Changelog](other/changelog.md)
-
+<!-- [About Us](other/about-us.md)-->
+<!-- [Changelog](other/changelog.md)-->
