@@ -20,16 +20,6 @@ Users discover, access and interact with data portals in a range of ways dependi
 
 ![User Journey Stages](../_media/spatial-data-journey-v3.svg)
 
-### Help users to...
-As users progress therough their journey, they perform certain tasks, some spanning more than one of the high level stages (see below). Our recomendations in the [Helps User To...](main-content/steps/discover-data-sources) section address each of these user needs.   
-
-![User tasks](../_media/help-users.svg)
-
-### Key pages
-We have also provided guidance on design considerations for a selction of key portal pages such ast the [Homepage](main-content/pages/homepage) within the Pages section.
-
-![User tasks](../_media/key-pages.svg)
-
 ## Common painpoints for users
 User research conducted on behalf of the Geospatial Commision identifed many issues that led to users being confused and frustrated. Poor usability and functionality reduces trust and impact of potentially valuable data. 
 
@@ -81,3 +71,15 @@ Our recommendations are designed to address the following painpoints:
 *	Licencing restrictions
 *	Reliance on others for interpretation
 *	Character corruption within data or metadata
+
+### Help users to...
+As users progress therough their journey, they perform certain tasks, some spanning more than one of the high level stages (described above). Our recomendations in the Help Users To... section address each of these user needs, for example [Helps User To... Discover your portal](main-content/steps/discover-your-portal) .   
+
+![User tasks](../_media/help-users.svg)
+
+### Key pages
+We have also provided guidance on design considerations for a selction of key portal pages such ast the [Homepage](main-content/pages/homepage) within the Pages section.
+
+![User tasks](../_media/key-pages.svg)
+
+
