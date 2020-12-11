@@ -3,7 +3,7 @@
 
 > Users should always know where they are and have an easy way to jump to related content or back to the data portal homepage.
 
-Homepage will not be the entry point to a data portal to most of the users. Thus it is important that they can easily make sense of where they are and how they can explore additional content.
+Homepage may not be the entry point to a data portal for many users, especially those who discover a specific dataset or search facility through direct links provided by search engine results. Thus it is important that they can easily make sense of where they are and how they can explore additional content.
 
 ## What it looks like
 
