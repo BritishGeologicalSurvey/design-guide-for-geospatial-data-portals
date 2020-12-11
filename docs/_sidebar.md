@@ -27,8 +27,7 @@
   
   - [TEMPLATE](main-content/pages/_template)
 
-<!--
-  - [404 - Page not Found](main-content/pages/404-page)
+[comment]: <> - [404 - Page not Found](main-content/pages/404-page)
   - [Homepage](main-content/pages/homepage)
   - [Help and support](main-content/pages/help)
   - [Search](main-content/pages/search)
@@ -43,4 +42,3 @@
 - [About Us](other/about-us.md)
 - [Changelog](other/changelog.md)
 
---!>
