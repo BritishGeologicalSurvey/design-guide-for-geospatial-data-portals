@@ -5,7 +5,7 @@
 
 Some users prefer to search for data using keywords, some by specifying a location and seeing what datasets are available in the area, and some require a combination of both methods.
 
-Ideally the data portal should support both of these methods - keywords search and map search. An exemption could be small data portals serving a limited amount of datasets. In such cases (datasets with <20 datasets) search might not be required since all the datasets could be presented on a single page.
+Ideally the data portal should support both of these methods - keywords search and map search. An exemption could be small data portals serving a limited amount of datasets. In such cases (for example portals with less than 20 datasets) search might not be required since all the datasets could be presented on a single page.
 
 ## What it looks like
 
