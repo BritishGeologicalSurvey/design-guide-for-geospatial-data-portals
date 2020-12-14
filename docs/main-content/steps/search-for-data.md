@@ -68,15 +68,17 @@ If some datasets have a 'near' match to search criteria they can be displayed as
 
 if the initial search does not lead users to the dataset they are looking for, they should be able narrow down their search using filtering and sorting methods.
 
-![Detailed search](../../_media/search-for-data/detailed-search.png)
-
 ### 7. Show users' search query on the results page
 
 Don't erase the search query in the search field so users can easily remember what they search for and alter their search keywords if required.
 
-![Detailed search](../../_media/search-for-data/search-results.png)
+![Detailed search](../../_media/search-for-data/search-terms.png)
 
-*Detailed search*
+*Search terms can be displayed on the results page, so that users don't have to remember what they searched for*
+
+![Detailed search](../../_media/search-for-data/search-terms-2.png)
+
+*Search terms should not get cleared from the search bar after search to make it easier to alter search terms if needed*
 
 ## Why/when to use this 'pattern'
 
