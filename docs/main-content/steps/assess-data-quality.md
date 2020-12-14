@@ -5,7 +5,7 @@
 
  If the dataset gets regular updates, it might also be important to know how frequent those updates are.
 
-!> Find more details in the [DD3-4 Maintenance and Updates report](#)
+!> Find more details in the [DD3-4 Maintenance and Updates report](#) and [The Government Data Quality Framework](https://www.gov.uk/government/publications/the-government-data-quality-framework/the-government-data-quality-framework)
 
 ## What it looks like
 
@@ -61,15 +61,3 @@ These components can be arranged in many ways, but the ones with highest relevan
 | Update frequency               | How often does it get updated |     2      |
 
 </details>
-
-
----
-
-### Help users to
-# Assess data quality 
-
-> TODO: What designers need to do and why it matters.
-
-TODO: Descibe how this user need relates to the GC recomendations / report on data quality.
-
-!> Find more details in the [The Government Data Quality Framework](https://www.gov.uk/government/publications/the-government-data-quality-framework/the-government-data-quality-framework)
