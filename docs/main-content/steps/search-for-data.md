@@ -62,7 +62,7 @@ If some datasets have a 'near' match to search criteria they can be displayed as
 
 ![Search history](../../_media/search-for-data/no-results.png)
 
-*No results page*
+*Handling no results*
 
 ### 6. Provide filtering and sorting options
 
