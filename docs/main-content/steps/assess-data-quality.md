@@ -44,7 +44,6 @@ Knowing the properties of the dataset that convey its quality are important both
 <details>
 <summary>Essential components</summary>
 <br>
-[Brief description and a list of the most relevant components/information for this task]
 
 Below is a checklist of components/information that are relevant for this task.
 

@@ -63,7 +63,6 @@ Download links to datasets should be accessible from dataset details page.
 <details>
 <summary>Essential components</summary>
 <br>
-[Brief description and a list of the most relevant components/information for this task]
 
 Below is a checklist of components/information that are relevant for this task.
 
