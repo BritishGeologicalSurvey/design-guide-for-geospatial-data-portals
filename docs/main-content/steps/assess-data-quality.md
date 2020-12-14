@@ -5,4 +5,4 @@
 
 TODO: Descibe how this user need relates to the GC recomendations / report on data quality.
 
-!> Find more details in the [GC Report xxxx](#)
+!> Find more details in the [The Government Data Quality Framework](https://www.gov.uk/government/publications/the-government-data-quality-framework/the-government-data-quality-framework)
