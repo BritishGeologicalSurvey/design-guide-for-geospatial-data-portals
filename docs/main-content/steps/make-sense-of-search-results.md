@@ -1,6 +1,44 @@
-# Make sense of search results 
+### Help users to
+# Make sense of search results
 
-To Do
+> ...
 
-//Consider if this, the homepage, navigation or some other place is the best home for this advice: Poor or invalid descriptions – users said that they wanted  progressive disclosure about the datasets, e.g not loads of information so we designed the service to have a page which lists all of the data available, with a short description and information users told us was important to allow them to decide they want to delve a bit further  https://use-land-property-data.service.gov.uk/
-Each dataset has a detailed guidance page with sample data available for some datasets. There are also technical specification documents for each dataset. We worked with a content designer to simplify the language and terminology where we could. 
+...
+
+...
+
+!> ...
+
+## What it looks like
+
+...
+<div class="image-container">
+
+![Google results](../../_media/stage-1/google-search-results.png)
+
+*Google search results*
+
+![Big results](../../_media/stage-1/bing-search-results.png)
+
+*Bing search results*
+
+</div>
+
+<details>
+
+<summary>Essential components</summary>
+<br>
+Below is a checklist of components/information that are relevant for this task.
+
+These components can be arranged in many ways, but the ones with highest relevance should be the most visible/accessible.
+
+?> 1 - high relevance, 2 - medium relevance, 3 - low relevance
+
+<!-- Table of component start -->
+
+| Component             | Description                                                                                                     |  Relevance |
+|-----------------------|-----------------------------------------------------------------------------------------------------------------|:----------:|
+| Title                 | This will be the first thing that users see in search results, so it has to clear and descriptive. Title could also include the organisation who generated the dataset.                                                                                  |     1      |
+| Description / Summary | Short description should be no longer than a few paragraphs, since users are likely to see only the first one or two sentences of this summary in the search results.   |     1      |
+
+</details>
