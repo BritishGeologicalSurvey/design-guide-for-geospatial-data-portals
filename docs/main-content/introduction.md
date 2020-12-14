@@ -77,9 +77,9 @@ As users progress therough their journey, they perform certain tasks, some spann
 
 ![User tasks](../_media/help-users.svg)
 
-### Key pages
-We have also provided guidance on design considerations for a selction of key portal pages such ast the [Homepage](main-content/pages/homepage) within the Pages section.
+<!--### Key pages-->
+<!--We have also provided guidance on design considerations for a selction of key portal pages such ast the [Homepage](main-content/pages/homepage) within the Pages section.-->
 
-![User tasks](../_media/key-pages.svg)
+<!--![User tasks](../_media/key-pages.svg)-->
 
 
