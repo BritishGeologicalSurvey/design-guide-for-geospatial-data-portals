@@ -44,7 +44,7 @@ Include a sample query in the search bar to suggest to users what they can searc
 
 ![Simple search](../../_media/search-for-data/search-bar.png)
 
-*Search in the navbar*
+*Example search criteria*
 
 ### 4. Show search history
 
