@@ -3,10 +3,12 @@
 
 > Maximise the discoverability of data portals through search engine optimisation. This matters because most people looking for spatial data begin their journey in search engines. The first contact with a new data portal will likely be through the search engine results.
 
-How the data portal will be presented in the search results depends on the search engine optimisation used by the portal developers. A more detailed report and recommendations can be found in the report below.
+How the data portal will be presented in the search results depends on the search engine optimisation used by the portal developers. 
+
+To ensure that data portals and the datasets they contain are presented well in search engines it is important to ensure they have the correct and machine readable meta-data. 
+A more detailed report and recommendations can be found in the report below.
 
 !> Find more details in the [Search engine optimisation for publishers: Best practice guide](https://www.gov.uk/government/publications/search-engine-optimisation-for-publishers-best-practice-guide)
-
 ## What it looks like
 
 The dataset or the dataportal will be presented with a heading and a short description in the search results. Depending on what the user searched for, they will end up the data portal's homepage or the specific dataset's details page.
@@ -22,14 +24,6 @@ The dataset or the dataportal will be presented with a heading and a short descr
 *Bing search results*
 
 </div>
-
-## Why/when to use this 'pattern'
-
-To ensure that data portals the datasets it contains are presented well in search engines it is important to ensure they have the correct and machine readable meta-data. 
-
-<p class="link1"><a href="#/main-content/introduction?id=_1-discover-data-sources" >View common painpoints/frustrations</a></p>
-
----
 
 <details>
 
