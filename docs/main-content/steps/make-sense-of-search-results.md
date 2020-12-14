@@ -1,7 +1,7 @@
 ### Help users to
 # Make sense of search results
 
-> ...
+> Clearly present search results matching keyword queries with sufficient sorting and filtering options to further refine and sort results. This is important in helping users identify relevant high quality data quickly in a format they can understand. 
 
 ...
 
@@ -11,20 +11,47 @@
 
 ## What it looks like
 
-...
+### 1. Overview / layout for the presentation of results
+
 <div class="image-container">
 
-![Google results](../../_media/stage-1/google-search-results.png)
-
-*Google search results*
-
-![Big results](../../_media/stage-1/bing-search-results.png)
-
-*Bing search results*
+![Google results](../../_media/overview/2.results.png)
 
 </div>
 
-<details>
+### 2. Number of results
+
+### 3. Faceted search (by parent / child categories)
+
+### 4. Remove filters
+
+### 5. Sort by
+
+### 6. Apply filters
+
+### 7. Presentation of results
+
+#### a. Ranked ordering by keyword relevance / data quality
+
+#### b. Spatial ordering by area
+
+### 8 Individual record / listing
+
+#### a. Title / description / publisher
+#### b. Key meta information
+#### c. Licence type
+#### d. Feedback for crowdsourcing data quality and relevancy
+
+## Why/when to use this 'pattern'
+
+...
+
+## Related
+* [Make sense of search results](main-content/steps/make-sense-of-search-results)
+* [Common painpoints/frustrations](main-content/introduction#2-search-within-data-portal)
+
+---
+<!-- Additional information can be presented in dropdown menus -->
 
 <summary>Essential components</summary>
 <br>
@@ -38,7 +65,6 @@ These components can be arranged in many ways, but the ones with highest relevan
 
 | Component             | Description                                                                                                     |  Relevance |
 |-----------------------|-----------------------------------------------------------------------------------------------------------------|:----------:|
-| Title                 | This will be the first thing that users see in search results, so it has to clear and descriptive. Title could also include the organisation who generated the dataset.                                                                                  |     1      |
-| Description / Summary | Short description should be no longer than a few paragraphs, since users are likely to see only the first one or two sentences of this summary in the search results.   |     1      |
+| ...                   | ...                                                                                                             |     1      |
 
 </details>
