@@ -1,3 +1,3 @@
-# Map viewer 
+# Map view
 
 To Do
