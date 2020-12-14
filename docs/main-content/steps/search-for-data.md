@@ -48,21 +48,21 @@ Include a sample query in the search bar to suggest to users what they can searc
 
 ### 4. Show search history
 
-Show recent and most popular queries.
+Show most recent or popular queries.
 
-[TO DO - add an example]
+![Search history](../../_media/search-for-data/search-history.png)
 
+*Search history in the search bar*
 
 ### 5. Don't return no results
 
 If the users query doesn't match any search results - provide an actionable message on what they could do differently.
 
-[TO DO - add an example]
+If some datasets have a 'near' match to search criteria they can be displayed as well.
 
-If some datasets have a 'near' match to search criteria they can be displayed as well
+![Search history](../../_media/search-for-data/no-results.png)
 
-[TO DO - add an example]
-
+*No results page*
 
 ### 6. Provide filtering and sorting options
 
@@ -74,7 +74,7 @@ if the initial search does not lead users to the dataset they are looking for, t
 
 Don't erase the search query in the search field so users can easily remember what they search for and alter their search keywords if required.
 
-[TO DO - add an example]
+![Detailed search](../../_media/search-for-data/search-results.png)
 
 *Detailed search*
 
@@ -97,7 +97,6 @@ Don't erase the search query in the search field so users can easily remember wh
 <details>
 <summary>Essential components</summary>
 <br>
-[Brief description and a list of the most relevant components/information for this task]
 
 Below is a checklist of components/information that are relevant for this task.
 
