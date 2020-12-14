@@ -20,7 +20,7 @@
 - Pages
 
   - [Dataset details](main-content/pages/dataset-details)
-  - [Map viewer](main-content/pages/map-viewer)
+  - [Map view](main-content/pages/map-viewer)
   - [TEMPLATE](main-content/pages/_template)
   
 <!--[Search results](main-content/pages/search-results)-->
