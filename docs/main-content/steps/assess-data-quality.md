@@ -3,6 +3,10 @@
 
 > Data quality may not always be in the hands of data portal's maintainers. To ensure that users can make and informed decision about the dataset, they should know who produced the dataset and when it was updated last.
 
+ If the dataset gets regular updates, it might also be important to know how frequent those updates are.
+
+!> Find more details in the [DD3-4 Maintenance and Updates report](#)
+
 ## What it looks like
 
 Knowing the organization that created the dataset and when it was updated last is important both on the Search Results and Dataset Details page.
@@ -11,41 +15,27 @@ User trusts datasets more from the organizations they are familiar with. And kno
 
 <div class="image-container">
 
-![Google results](../../_media/stage-1/results-example-1.png)
+![Google results](../../_media/assess-data-quality/details-card.png)
 
-*Caption for the image*
+*Search results card. Making this information accessible on the search results page can help users filter datasets more effectively*
+
+![Google results](../../_media/assess-data-quality/detaset-details-heading.png)
+
+*Dataset details heading. Dataset details page should make this information available at a glance as well*
 
 </div>
 
-[If multiple images are required they can be grouped into TABS]
-
-<!-- tabs:start -->
-
-#### **Wireframe**
-
-![Explore - Home](../../_media/placeholder-image.png)
-
-#### **Example**
-
-![Explore - Home](../../_media/placeholder-image.png)
-
-#### **Example with comments**
-
-![Explore - Home](../../_media/placeholder-image.png)
-
-<!-- tabs:end -->
-
-[Additional details about the wireframes]
 
 ## Why/when to use this 'pattern'
 
-[Explain which pain points it addresses]
+Knowing the properties of the dataset that convey its quality are important both at the searching stage and exploring a specific dataset.
 
 <p class="link1"><a href="#/main-content/introduction?id=_2-search-within-data-portal" >View common painpoints/frustrations</a></p>
 
 ## Related
 
-[Links to any related pages in the documentation. Exclude if none exists.]
+* [Make sense of search results](/main-content/steps/make-sense-of-search-results)
+* [Explore data online](/main-content/steps/explore-data-online)
 
 ---
 
@@ -66,9 +56,9 @@ These components can be arranged in many ways, but the ones with highest relevan
 
 | Component             | Description                                                                                                     |  Relevance |
 |-----------------------|-----------------------------------------------------------------------------------------------------------------|:----------:|
-| Title                 | Descriptive but not too long                                                                                    |     1      |
-| Description / Summary | A brief summary of the dataset outlining what is included in the dataset and for what purpose it was created.   |     2      |
-| Licence               | Brief description of the license the dataset is shared under A link to more details about the specific licence. |     3      |
+| Dataset author                 | Who produced the datasat? Do they have contact details?                                                                                   |     1      |
+| Last updated | When was the dataset updated last   |     1      |
+| Update frequency               | How often does it get updated |     2      |
 
 </details>
 
