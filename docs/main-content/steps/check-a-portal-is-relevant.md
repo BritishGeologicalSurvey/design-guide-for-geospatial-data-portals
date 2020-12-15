@@ -11,18 +11,25 @@ The homepage should clearly answer these key questions:
 
 ### 1. What is the purpose of this data portal, what are the topics it covers?
 
+<div class="image-container">
 
 ![Home heading](../../_media/check-portal-is-relevant/portal-purpose.png)
 
 *Heading for the homepage*
 
+</div>
+
 ### 2. Who is the organisation managing this portal?
 
 Users should be able to easily find more details about the organization managing the data portal either from the About Us page or the organization logo in the navbar.
 
+<div class="image-container">
+
 ![navbar](../../_media/check-portal-is-relevant/navbar.png)
 
 *Navigation bar with organization's logo and link to About Us page*
+
+</div>
 
 ### 3. What licences are the data shared under?
 
