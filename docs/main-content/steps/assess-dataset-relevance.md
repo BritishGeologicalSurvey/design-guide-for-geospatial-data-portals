@@ -3,43 +3,68 @@
 
 > For a more detailed overview of the dataset users might explore it on the dataset details page. It should provide all the essential information required to make a decision whether this specific dataset will be useful to them.
 
-The so called dataset details page usually is the first place that users might arrive from a search engine. Thus, it should be instantly clear whether this dataset is available for download or not, what license it is shared under and anything else that might effect how they use of how they are allowed to use the data.
+The so called [dataset details](../../main-content/pages/dataset-details) page usually is the first place that users might arrive from a search engine. Thus, it should be instantly clear whether this dataset is available for download or not, what license it is shared under and anything else that might effect how they use of how they are allowed to use the data.
 
 ## What it looks like
 
+### 1. Clear dataset title
+
+The first thing that users see will be the dataset title. It should be the main heading on the dataset details page.
+
 <div class="image-container">
 
-<!-- tabs:start -->
+![dataset heading](../../_media/assess-dataset-relevance/dataset-heading.png)
 
-#### **Wireframe**
-
-![Explore - Home](../../_media/placeholder-image.png)
-
-#### **Example**
-
-![Explore - Home](../../_media/stage-4-explore/explore-home-plain.png)
-
-#### **Example with comments**
-
-![Google results](../../_media/stage-4-explore/explore-home-comments.png)
-
-<!-- tabs:end -->
+*Heading section for dataset details*
 
 </div>
 
-Primary information should be the most the most visible. It includes:
-* dataset title
-* short description
-* topics
-* publisher name
-* created on date
-* lasted updated date
+### 2. Short description
+
+A short description summarizing the main properties of the dataset.
+
+### 3. Topics
+
+Topics that this dataset covers. Ideally, they should be linked to the topic pages where users could explore other datasets of the same topic.
+
+<div class="image-container">
+
+![topics](../../_media/assess-dataset-relevance/dataset-heading.png)
+
+*Dataset topics*
+
+</div>
+
+### 4. Publisher name
+
+Publisher name with a logo for easier recognition
+
+### 5. Licence details
+
+### 5. Created on date
+
+### 6. Lasted updated date
+
+### 7. Download link
 
 If the data is available for download, the download link should be easy to find and access on the page. Ideally it should always stay on the page as the users are exploring the dataset details page. If the dataset is not available for download, it should be indicated why and when it would become available.
 
-User should also be made aware of the licence details, so they can make an informed decision about using this dataset.
+### 8. Additional metadata
 
 Any additional metadata can have less visibility. To reduce the visual clutter on the screen it can be displayed in different tabs or dropdown menus.
+
+<div class="image-container">
+
+![Additional info](../../_media/assess-dataset-relevance/additional-information.png)
+
+*Dataset topics*
+
+</div>
+
+
+## Example page
+
+?> **[Dataset details](/main-content/pages/dataset-details)**
 
 ## Related
 
@@ -84,28 +109,3 @@ These components can be arranged in many ways, but the ones with highest relevan
 
 </details>
 
-<details>
-<summary>Examples from other portals</summary>
-<br>
-
-<div class="image-container">
-
-![Google results](../../_media/stage-4-explore/example-1.png)
-
-*Geonetwork dataset details page*
-
-![Google results](../../_media/stage-4-explore/example-2.png)
-
-*The World Bank dataset details page*
-
-![Google results](../../_media/stage-4-explore/example-3.png)
-
-*data.gov.uk dataset details page*
-
-![Google results](../../_media/stage-4-explore/example-4.png)
-
-*UKGEOS dataset details page*
-
-</div>
-
-</details>
