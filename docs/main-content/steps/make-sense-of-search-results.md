@@ -110,7 +110,4 @@ These components can be arranged in many ways, but the ones with highest relevan
 | Sort and filter | Assistance to the user for refining their search |     1      |
 | Spatial refinement filter | Help a user to refine their search by geographic region |     1      |
 
-
-
-
 </details>
