@@ -45,7 +45,14 @@ In case people get lost in the website structure, they should always be able to 
 
 ### 4. Easy way to explore related content
 
-If it's a dataset details page - is it possible to jump to the topic that this dataset belongs to?
+Can users easily find related datasets or datasets that belong to the same topic?
+
+<div class="image-container">
+
+![related datasets](../../_media/help-navigate/related-datasets.png)
+*Related datasets*
+
+</div>
 
 ### 5. Navigation should be consistent
 
@@ -53,12 +60,6 @@ If it's a dataset details page - is it possible to jump to the topic that this d
 * Links should have the same style
 * Breadcrumbs should have consistent structure.
 
-
-<div class="image-container">
-
-
-
-</div>
 
 ## Why/when to use this 'pattern'
 
