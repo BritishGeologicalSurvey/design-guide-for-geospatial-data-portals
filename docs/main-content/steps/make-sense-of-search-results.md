@@ -11,18 +11,18 @@ Users will always arrive at a 'search results' page after performing a search qu
 
 Search results should clearly answer:
 
-Which results are relevant to the search query?
-Are results ranked in order of data quality?
-How might users refine (sort and filter), search results?
-Where do users go to find out information about a single record?
++ Which results are relevant to the search query?
++ Are results ranked in order of data quality?
++ How might users refine (sort and filter), search results?
++ Where do users go to find out information about a single record?
 
 ### 1. Overview / layout for the presentation of results
 
-<div class="image-container">
+<!-- tabs:start -->
 
-![Google results](../../_media/overview/2.results.png)
-
-</div>
+#### **Wireframe**
+<a href="/dd3-wireframes/_media/overview/3.results.png" target="_blank"><img src="/dd3-wireframes/_media/overview/3.results.png" data-no-zoom/></a>
+<!-- tabs:end -->
 
 ### 2. Number of results
 
