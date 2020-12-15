@@ -24,11 +24,12 @@ Search results should clearly answer:
 
 ### 2. Number of results
 
-<a href="/dd3-wireframes/_media/overview/3.results.png" target="_blank"><img src="/dd3-wireframes/_media/overview/3.results.png" data-no-zoom/></a>
+<a href="/dd3-wireframes/_media/stage-3-results/2-number_of_results.png" target="_blank"><img src="/dd3-wireframes/_media/stage-3-results/2-number_of_results.png" data-no-zoom/></a>
+
 
 ### 3. Faceted search (by parent / child categories)
 
-<a href="/dd3-wireframes/_media/stage-3-results/2-number_of_results.png" target="_blank"><img src="/dd3-wireframes/_media/stage-3-results/2-number_of_results.png" data-no-zoom/></a>
+<a href="/dd3-wireframes/_media/stage-3-results/3-faceted_search.png" target="_blank"><img src="/dd3-wireframes/_media/stage-3-results/3-faceted_search.png" data-no-zoom/></a>
 
 ### 4. Remove filters
 
