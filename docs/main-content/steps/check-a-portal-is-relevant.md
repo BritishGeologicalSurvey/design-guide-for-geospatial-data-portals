@@ -22,7 +22,7 @@ If users arrive at other pages, and not the homepage, they should be able to eas
 
 <a href="/dd3-wireframes/_media/overview/1.landing.png" target="_blank"><img src="/dd3-wireframes/_media/overview/1.landing.png" data-no-zoom/></a>
 
-<!-- ![Explore - Home](../../_media/stage-1/homepage/wireframe-home-clean.png ":no-zoom") -->
+<!-- ![Explore - Home](../../_media/overview/1.landing.png ":no-zoom") -->
 
 #### **Example**
 
