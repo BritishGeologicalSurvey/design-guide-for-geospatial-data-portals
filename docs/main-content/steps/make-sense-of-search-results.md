@@ -23,35 +23,37 @@ Search results should clearly answer:
 <!-- tabs:end -->
 
 ### 2. Number of results
-
+<div class="image-container">
 <a href="/dd3-wireframes/_media/stage-3-results/2-number_of_results.png" target="_blank"><img src="/dd3-wireframes/_media/stage-3-results/2-number_of_results.png" style="max-width: 452px;"/></a>
 
 Information about the returned search should be presented to the user to help them identify when to change, refine or continue with their search query.
-
+</div>
 ### 3. Faceted search (by parent / child categories)
-
+<div class="image-container">
 <a href="/dd3-wireframes/_media/stage-3-results/3-faceted_search.png" target="_blank"><img src="/dd3-wireframes/_media/stage-3-results/3-faceted_search.png" data-no-zoom/></a>
 
 Faceted search allows users to refine search results through sorting (order of results), filtering (number of results) and categorisation (parent category). Sorting and filtering should be available to users at the time of entering keywords and not buried behind an advanced search option. In addition, Sorting and filtering are perceived as the same function and should therefore appear in the same part of the user interface.
-
+</div>
 ### 4. Remove filters
-
+<div class="image-container">
 <a href="/dd3-wireframes/_media/stage-3-results/4-clear_filters.png" target="_blank"><img src="/dd3-wireframes/_media/stage-3-results/4-clear_filters.png" style="max-width: 300px;"/></a>
 
 Users should be able to undo a selection quickly and easily 
-
+</div>
 ### 5. Sort by
-
+<div class="image-container">
 <a href="/dd3-wireframes/_media/stage-3-results/5-sort_by.png" target="_blank"><img src="/dd3-wireframes/_media/stage-3-results/5-sort_by.png" style="max-width: 232px;" data-no-zoom/></a>
 
 Clear and precise sorting information should be made available to the user to arrange results to their preference.
-
+</div>
 ### 6. Apply filters
+<div class="image-container">
 <a href="/dd3-wireframes/_media/stage-3-results/6-apply_filters.png" target="_blank"><img src="/dd3-wireframes/_media/stage-3-results/6-apply_filters.png" style="max-width: 304px;"/></a>
 
 Users should be able to quickly and easily apply filters remove results that are not of relevance to their search query.
-
+</div>
 ### 7. Presentation of results
+<div class="image-container">
 #### a. Ranked ordering by keyword relevance / data quality
 <a href="/dd3-wireframes/_media/stage-3-results/7a-presentation_of_results.png" target="_blank"><img src="/dd3-wireframes/_media/stage-3-results/7a-presentation_of_results.png" data-no-zoom/></a>
 
@@ -61,8 +63,7 @@ Each record should show a title, description, publisher information and publicat
 <a href="/dd3-wireframes/_media/stage-3-results/7b-presentation_of_results.png" target="_blank"><img src="/dd3-wireframes/_media/stage-3-results/7b-presentation_of_results.png" style="max-width: 299px;"/></a>
 
 Spatial presentation of results by preference of area should be made available for the user to refine their search to a specific location / spatial region.
-
-
+</div>
 <!-- ### 8. Pagination - TO ADD -->
 
 ## Why/when to use this 'pattern'
