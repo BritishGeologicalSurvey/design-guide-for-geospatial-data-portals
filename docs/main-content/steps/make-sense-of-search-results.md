@@ -72,7 +72,7 @@ When a user is searching for data to answer a specific research question.
 
 
 ## Related
-* [Make sense of search results](main-content/steps/make-sense-of-search-results)
+* [search for data](main-content/steps/search-for-data)
 * [Common painpoints/frustrations](main-content/introduction#2-search-within-data-portal)
 
 ---
