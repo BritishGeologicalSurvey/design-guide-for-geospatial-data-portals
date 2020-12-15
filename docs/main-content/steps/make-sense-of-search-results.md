@@ -24,7 +24,7 @@ Search results should clearly answer:
 
 ### 2. Number of results
 
-<a href="/dd3-wireframes/_media/stage-3-results/2-number_of_results.png" target="_blank"><img src="/dd3-wireframes/_media/stage-3-results/2-number_of_results.png" data-no-zoom/></a>
+<a href="/dd3-wireframes/_media/stage-3-results/2-number_of_results.png" target="_blank"><img src="/dd3-wireframes/_media/stage-3-results/2-number_of_results.png" style="max-width: 452px;"/></a>
 
 Information about the returned search should be presented to the user to help them identify when to change, refine or continue with their search query.
 
@@ -53,12 +53,12 @@ Users should be able to quickly and easily apply filters remove results that are
 
 ### 7. Presentation of results
 #### a. Ranked ordering by keyword relevance / data quality
-<a href="/dd3-wireframes/_media/stage-3-results/7a-presentation_of_results.png" target="_blank"><img src="/dd3-wireframes/_media/stage-3-results/7a-presentation_of_resultss.png" data-no-zoom/></a>
+<a href="/dd3-wireframes/_media/stage-3-results/7a-presentation_of_results.png" target="_blank"><img src="/dd3-wireframes/_media/stage-3-results/7a-presentation_of_results.png" data-no-zoom/></a>
 
 Each record should show a title, description, publisher information and publication / update dates, key meta data, licence type and an option to feedback on the result
 
 #### b. Spatial ordering by area
-<a href="/dd3-wireframes/_media/stage-3-results/7b-presentation_of_results.png" target="_blank"><img src="/dd3-wireframes/_media/stage-3-results/7b-presentation_of_resultss.png" data-no-zoom/></a>
+<a href="/dd3-wireframes/_media/stage-3-results/7b-presentation_of_results.png" target="_blank"><img src="/dd3-wireframes/_media/stage-3-results/7b-presentation_of_results.png" data-no-zoom/></a>
 
 Spatial presentation of results by preference of area should be made available for the user to refine their search to a specific location / spatial region.
 
