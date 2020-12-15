@@ -38,34 +38,15 @@ If the data portal does not not allow users to search for data directly from the
 
 If users arrive at other pages, and not the homepage, they should be able to easily access the Home or the About Us pages.
 
-<!-- tabs:start -->
-
-#### **Wireframe**
-
-
-<a href="/dd3-wireframes/_media/overview/1.landing.png" target="_blank"><img src="/dd3-wireframes/_media/overview/1.landing.png" data-no-zoom/></a>
-
-<!-- ![Explore - Home](../../_media/overview/1.landing.png ":no-zoom") -->
-
-#### **Example**
-
-<a href="/dd3-wireframes/_media/stage-1/homepage/wireframe-home.png" target="_blank"><img src="/dd3-wireframes/_media/stage-1/homepage/wireframe-home.png" data-no-zoom/></a>
-
-<!-- ![Explore - Home](../../_media/stage-1/homepage/wireframe-home.png) -->
-
-#### **Example with comments**
-
-<a href="/dd3-wireframes/_media/overview/homepage/wireframe-home-annotations.png" target="_blank"><img src="/dd3-wireframes/_media/stage-1/homepage/wireframe-home-annotations.png" data-no-zoom/></a>
-
-<!-- ![Explore - Home](../../_media/stage-1/homepage/wireframe-home-annotations.png) -->
-
-<!-- tabs:end -->
-
 ## Why/when to use this 'pattern'
 
 This pattern is useful when introducing new users to the data portal. It can also be handy for returning users who want to explore datasets by topic or check the licencing information for dataset(s) they used.
 
 <p class="link1"><a href="#/main-content/introduction?id=_1-discover-data-sources" >View common painpoints/frustrations</a></p>
+
+## Related
+
+* [Homepage](main-content/pages/homepage)
 
 ---
 

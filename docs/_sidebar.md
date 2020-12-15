@@ -19,6 +19,7 @@
 
 - Pages
 
+  - [Homepage](main-content/pages/homepage)
   - [Dataset details](main-content/pages/dataset-details)
   - [Map view](main-content/pages/map-viewer)
   - [TEMPLATE](main-content/pages/_template)
@@ -26,7 +27,7 @@
 <!--[Search results](main-content/pages/search-results)-->
 <!--[Data viewer](main-content/pages/data-viewer)-->
 <!--[404 - Page not Found](main-content/pages/404-page))-->
-<!--[Homepage](main-content/pages/homepage)-->
+
 <!--[Help and support](main-content/pages/help)-->
 <!--[Search](main-content/pages/search)-->
 
