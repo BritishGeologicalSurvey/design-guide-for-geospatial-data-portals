@@ -24,7 +24,7 @@ Search results should clearly answer:
 
 ### 2. Number of results
 
-<a href="/dd3-wireframes/_media/stage-3-results/2-number_of_results.png" target="_blank"><img src="/dd3-wireframes/_media/stage-3-results/2-number_of_results.png" data-no-zoom/></a>
+<a href="/dd3-wireframes/_media/stage-3-results/2-number_of_results.png" target="_blank"><img src="/dd3-wireframes/_media/stage-3-results/2-number_of_results.png" width="4453" data-no-zoom/></a>
 
 Information about the returned search should be presented to the user to help them identify when to change, refine or continue with their search query.
 
