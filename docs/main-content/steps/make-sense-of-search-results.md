@@ -3,11 +3,18 @@
 
 > Search results should be clearly presented with sufficient sorting and filtering options to help users further refine and sort their search results. It is important that users are given enough information to understand and identify relevant high quality results quickly.
 
-Search results are always given after a user has performed a search within the portal. See [search for data](main-content/steps/search-for-data).
+Users will always arrive at a 'search results' page after performing a search query using one of the available search input methods. See [search for data](main-content/steps/search-for-data).
 
 !> ...
 
 ## What it looks like
+
+Search results should clearly answer:
+
+Which results are relevant to the search query?
+Are results ranked in order of data quality?
+How might users refine (sort and filter), search results?
+Where do users go to find out information about a single record?
 
 ### 1. Overview / layout for the presentation of results
 
