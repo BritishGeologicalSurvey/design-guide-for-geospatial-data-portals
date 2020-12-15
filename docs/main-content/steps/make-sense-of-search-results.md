@@ -1,11 +1,9 @@
 ### Help users to
 # Make sense of search results
 
-> Clearly present search results matching keyword queries with sufficient sorting and filtering options to further refine and sort results. This is important in helping users identify relevant high quality data quickly in a format they can understand. 
+> Search results should be clearly presented with sufficient sorting and filtering options to help users further refine and sort their search results. It is important that users are given enough information to understand and identify relevant high quality results quickly.
 
-...
-
-...
+Search results are always given after a user has performed a search within the portal. See [search for data](main-content/steps/search-for-data).
 
 !> ...
 
@@ -35,16 +33,19 @@
 
 #### b. Spatial ordering by area
 
-### 8 Individual record / listing
+### 8. Individual record / listing
 
 #### a. Title / description / publisher
 #### b. Key meta information
 #### c. Licence type
 #### d. Feedback for crowdsourcing data quality and relevancy
 
+### 9. Pagination
+
 ## Why/when to use this 'pattern'
 
-...
+When a user is searching for data to answer a specific research question.
+
 
 ## Related
 * [Make sense of search results](main-content/steps/make-sense-of-search-results)
