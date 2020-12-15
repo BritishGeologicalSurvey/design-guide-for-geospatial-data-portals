@@ -25,9 +25,13 @@ If any licencing restrictions apply, they should be made clear upfront.
 
 Users should know what format the data is in before downloading it.
 
+<div class="image-container">
+
 ![Google results](../../_media/use-data/formats.png)
 
 *Data formats*
+
+</div>
 
 ### 4. API Access
 
@@ -41,10 +45,13 @@ If possible, allow users to select which files in the dataset to download. If no
 
 User might want to share links with colleagues or send a link to themselves for later use.
 
+<div class="image-container">
+
 ![Google results](../../_media/use-data/share-panel.png)
 
 *Download panel on dataset details page*
 
+</div>
 
 ## Why/when to use this 'pattern'
 

@@ -13,18 +13,25 @@ Ideally the data portal should support both of these methods - keywords search a
 
 Ideally data portals should have both a *simple* search for users who are browsing datasets and a *detailed* search for users who know exactly what they are looking for.
 
+<div class="image-container">
+
 <!-- tabs:start -->
 
 #### **Simple search**
 
 ![Simple search](../../_media/search-for-data/simple-search.png)
 
+*Search bar on the homepage*
+
 #### **Detailed search**
 
 ![Detailed search](../../_media/search-for-data/detailed-search.png)
 
+*Filtering options on the search page* [to do - update filtering options]
 
 <!-- tabs:end -->
+
+</div>
 
 ### 2. Display search field prominently
 
@@ -42,17 +49,25 @@ Search box should be easily noticeable. Since search is one of the primary funct
 
 Include a sample query in the search bar to suggest to users what they can search for.
 
+<div class="image-container">
+
 ![Simple search](../../_media/search-for-data/search-bar.png)
 
 *Example search criteria*
+
+</div>
 
 ### 4. Show search history
 
 Show most recent or popular queries.
 
+<div class="image-container">
+
 ![Search history](../../_media/search-for-data/search-history.png)
 
 *Search history in the search bar*
+
+</div>
 
 ### 5. Don't return no results
 
@@ -60,9 +75,13 @@ If the users query doesn't match any search results - provide an actionable mess
 
 If some datasets have a 'near' match to search criteria they can be displayed as well.
 
+<div class="image-container">
+
 ![Search history](../../_media/search-for-data/no-results.png)
 
 *Handling no results*
+
+</div>
 
 ### 6. Provide filtering and sorting options
 
@@ -72,6 +91,8 @@ if the initial search does not lead users to the dataset they are looking for, t
 
 Don't erase the search query in the search field so users can easily remember what they search for and alter their search keywords if required.
 
+<div class="image-container">
+
 ![Detailed search](../../_media/search-for-data/search-terms.png)
 
 *Search terms can be displayed on the results page, so that users don't have to remember what they searched for*
@@ -79,6 +100,8 @@ Don't erase the search query in the search field so users can easily remember wh
 ![Detailed search](../../_media/search-for-data/search-terms-2.png)
 
 *Search terms should not get cleared from the search bar after search to make it easier to alter search terms if needed*
+
+</div>
 
 ## Why/when to use this 'pattern'
 
