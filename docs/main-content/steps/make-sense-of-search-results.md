@@ -5,8 +5,6 @@
 
 Users will always arrive at a 'search results' page after performing a search query using one of the available search input methods. See [search for data](main-content/steps/search-for-data).
 
-!> ...
-
 ## What it looks like
 
 Search results should clearly answer:
@@ -26,28 +24,35 @@ Search results should clearly answer:
 
 ### 2. Number of results
 
+<a href="/dd3-wireframes/_media/overview/3.results.png" target="_blank"><img src="/dd3-wireframes/_media/overview/3.results.png" data-no-zoom/></a>
+
 ### 3. Faceted search (by parent / child categories)
+
+<a href="/dd3-wireframes/_media/stage-3-results/2-number_of_results.png" target="_blank"><img src="/dd3-wireframes/_media/stage-3-results/2-number_of_results.png" data-no-zoom/></a>
 
 ### 4. Remove filters
 
+<a href="/dd3-wireframes/_media/stage-3-results/4-clear_filters.png" target="_blank"><img src="/dd3-wireframes/_media/stage-3-results/4-clear_filters.png" data-no-zoom/></a>
+
 ### 5. Sort by
 
+<a href="/dd3-wireframes/_media/stage-3-results/5-sort_by.png" target="_blank"><img src="/dd3-wireframes/_media/stage-3-results/5-sort_by.png" data-no-zoom/></a>
+
+
 ### 6. Apply filters
+<a href="/dd3-wireframes/_media/stage-3-results/6-apply_filters.png" target="_blank"><img src="/dd3-wireframes/_media/stage-3-results/6-apply_filters.png" data-no-zoom/></a>
 
 ### 7. Presentation of results
-
 #### a. Ranked ordering by keyword relevance / data quality
+<a href="/dd3-wireframes/_media/stage-3-results/7a-presentation_of_results.png" target="_blank"><img src="/dd3-wireframes/_media/stage-3-results/7a-presentation_of_resultss.png" data-no-zoom/></a>
+
+Each record should show a title, description, publisher information and publication / update dates, key meta data, licence type and an option to feedback on the result
 
 #### b. Spatial ordering by area
+<a href="/dd3-wireframes/_media/stage-3-results/7b-presentation_of_results.png" target="_blank"><img src="/dd3-wireframes/_media/stage-3-results/7b-presentation_of_resultss.png" data-no-zoom/></a>
 
-### 8. Individual record / listing
 
-#### a. Title / description / publisher
-#### b. Key meta information
-#### c. Licence type
-#### d. Feedback for crowdsourcing data quality and relevancy
-
-### 9. Pagination
+<!-- ### 8. Pagination - TO ADD -->
 
 ## Why/when to use this 'pattern'
 
