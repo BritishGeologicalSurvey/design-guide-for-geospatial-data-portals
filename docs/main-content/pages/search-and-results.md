@@ -1,4 +1,4 @@
-# Homepage
+# Search / search results page
 
 > The search page should help users to quickly query the data contained within the portal and return relevant results ranked by data quality. This information should be presented concisely and and clearly, highlighting relevant search terms, parent categories, sorting options and filters appropriate to the user.
 
