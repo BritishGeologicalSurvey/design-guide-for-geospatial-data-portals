@@ -88,10 +88,13 @@ When a user is searching for data to answer a specific research question.
 * [Common painpoints/frustrations](main-content/introduction#2-search-within-data-portal)
 
 ---
+
 <!-- Additional information can be presented in dropdown menus -->
 
+<details>
 <summary>Essential components</summary>
 <br>
+
 Below is a checklist of components/information that are relevant for this task.
 
 These components can be arranged in many ways, but the ones with highest relevance should be the most visible/accessible.
@@ -102,6 +105,12 @@ These components can be arranged in many ways, but the ones with highest relevan
 
 | Component             | Description                                                                                                     |  Relevance |
 |-----------------------|-----------------------------------------------------------------------------------------------------------------|:----------:|
-| ...                   | ...                                                                                                             |     1      |
+| Faceted search        | Search input for the user with option to select a parent category, sorting options and filters                  |     1      |
+| Number of returned results |Presents information on the number of returned results to help the user quickly identify whether to modify their search criteria |     1      |
+| Sort and filter | Assistance to the user for refining their search |     1      |
+| Spatial refinement filter | Help a user to refine their search by geographic region |     1      |
+
+
+
 
 </details>
