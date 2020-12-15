@@ -7,29 +7,56 @@ Homepage may not be the entry point to a data portal for many users, especially 
 
 ## What it looks like
 
-Here are some of the questions that should be answered when thinking about the overall site navigation as well as the navigation within a specific page:
-* Does a page have a clear title?
-* Does it have human readable breadcrumbs?
-* Is there an easy way to get back to the homepage?
-* If it's a dataset details page - is it possible to jump to the topic that this dataset belongs to?
+### 1. Pages should have clear, easy to find titles
+
+The title should describe the contents of the page
 
 <div class="image-container">
 
-![Google results](../../_media/help-navigate/navbar.png)
+![Google results](../../_media/help-navigate/simple-title.png)
 
-*Navbar allows users to navigate back to homepage and other top level pages*
+*Page title*
 
-<br>
+</div>
+
+### 2. Human readable breadcrumbs
+
+Breadcrumbs allow users to easily jump to parent pages and see the website structure
+
+<div class="image-container">
 
 ![Google results](../../_media/help-navigate/breadcrumbs.png)
 
-*Breadcrumbs allow users to easily jump to parent pages and see the website structure*
+*Example breadcrumbs*
 
-<br>
+</div>
 
-![Google results](../../_media/help-navigate/titles.png)
+### 3. Easy way to get back to the homepage
 
-*Clear page heading help users make sense of where they are*
+In case people get lost in the website structure, they should always be able to get back to homepage easily.
+
+<div class="image-container">
+
+![navbar](../../_media/check-portal-is-relevant/navbar.png)
+
+*Navbar allows users to navigate back to homepage and other top level pages*
+
+</div>
+
+### 4. Easy way to explore related content
+
+If it's a dataset details page - is it possible to jump to the topic that this dataset belongs to?
+
+### 5. Navigation should be consistent
+
+* The titles should always be in the same place.
+* Links should have the same style
+* Breadcrumbs should have consistent structure.
+
+
+<div class="image-container">
+
+
 
 </div>
 
