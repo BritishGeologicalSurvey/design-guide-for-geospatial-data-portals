@@ -2,7 +2,9 @@
 
 Increase the discoverability and usefulness of spatial data by designing data portals that satisfy user needs. 
 
-Data portals differ by the data they provide and the audiences they serve, so these recommendations are general and focus on designs to address the frustrations that users experience at different stages of their data discovery journey. For the purposes of this work, data portals are described as web-based interfaces designed to help users find and access datasets. Optimally, they should be built around metadata records which describe datasets, provide pointers to where they can be located and explain any restrictions or limitations in their use. 
+Data portals differ by the data they provide and the audiences they serve, so these recommendations are general and focus on designs to address the frustrations that users experience at different stages of their data discovery journey. For the purposes of this guidance, data portals are described as web-based interfaces designed to help users find and access datasets. Optimally, they should be built around metadata records which describe datasets, provide pointers to where they can be located and explain any restrictions or limitations in their use. 
+
+!> This is not a design system for spatial data, we have not developed re-usable code or created style guides, if these are of interest please visit the [GOV.UK Design System](https://design-system.service.gov.uk/get-started/).
 
 Everything happens somewhere. Location is a fundamental aspect of many data and being able to combine and integrate seemingly diverse datasets using locality can provide powerful insights. 
 
