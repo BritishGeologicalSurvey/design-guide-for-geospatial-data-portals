@@ -60,3 +60,5 @@ These components can be arranged in many ways, but the ones with highest relevan
 | Page title     | A clear page title that can help users orient themselves |     1     |
 | Breadcrumbs    | Breadcrumbs allowing users easily jump to parent folders |     1     |
 | Navigation bar | Navigation bar including homepage link and search bar    |     1     |
+
+</details>

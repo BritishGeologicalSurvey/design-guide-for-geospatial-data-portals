@@ -76,7 +76,4 @@ These components can be arranged in many ways, but the ones with highest relevan
 
 </details>
 
-<details>
-<summary>Examples from other portals</summary>
-<br>
 
