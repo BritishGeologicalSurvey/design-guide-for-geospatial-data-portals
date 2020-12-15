@@ -36,18 +36,18 @@ Faceted search allows users to refine search results through sorting (order of r
 
 ### 4. Remove filters
 
-<a href="/dd3-wireframes/_media/stage-3-results/4-clear_filters.png" target="_blank"><img src="/dd3-wireframes/_media/stage-3-results/4-clear_filters.png" data-no-zoom/></a>
+<a href="/dd3-wireframes/_media/stage-3-results/4-clear_filters.png" target="_blank"><img src="/dd3-wireframes/_media/stage-3-results/4-clear_filters.png" style="max-width: 300px;"/></a>
 
 Users should be able to undo a selection quickly and easily 
 
 ### 5. Sort by
 
-<a href="/dd3-wireframes/_media/stage-3-results/5-sort_by.png" target="_blank"><img src="/dd3-wireframes/_media/stage-3-results/5-sort_by.png" data-no-zoom/></a>
+<a href="/dd3-wireframes/_media/stage-3-results/5-sort_by.png" target="_blank"><img src="/dd3-wireframes/_media/stage-3-results/5-sort_by.png" style="max-width: 232px;" data-no-zoom/></a>
 
 Clear and precise sorting information should be made available to the user to arrange results to their preference.
 
 ### 6. Apply filters
-<a href="/dd3-wireframes/_media/stage-3-results/6-apply_filters.png" target="_blank"><img src="/dd3-wireframes/_media/stage-3-results/6-apply_filters.png" data-no-zoom/></a>
+<a href="/dd3-wireframes/_media/stage-3-results/6-apply_filters.png" target="_blank"><img src="/dd3-wireframes/_media/stage-3-results/6-apply_filters.png" style="max-width: 304px;"/></a>
 
 Users should be able to quickly and easily apply filters remove results that are not of relevance to their search query.
 
@@ -58,7 +58,7 @@ Users should be able to quickly and easily apply filters remove results that are
 Each record should show a title, description, publisher information and publication / update dates, key meta data, licence type and an option to feedback on the result
 
 #### b. Spatial ordering by area
-<a href="/dd3-wireframes/_media/stage-3-results/7b-presentation_of_results.png" target="_blank"><img src="/dd3-wireframes/_media/stage-3-results/7b-presentation_of_results.png" data-no-zoom/></a>
+<a href="/dd3-wireframes/_media/stage-3-results/7b-presentation_of_results.png" target="_blank"><img src="/dd3-wireframes/_media/stage-3-results/7b-presentation_of_results.png" style="max-width: 299px;"/></a>
 
 Spatial presentation of results by preference of area should be made available for the user to refine their search to a specific location / spatial region.
 
