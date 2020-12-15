@@ -1,23 +1,28 @@
 ### Help users to
 # Make sense of search results
 
-> Clearly present search results matching keyword queries with sufficient sorting and filtering options to further refine and sort results. This is important in helping users identify relevant high quality data quickly in a format they can understand. 
+> Search results should be clearly presented with sufficient sorting and filtering options to help users further refine and sort their search results. It is important that users are given enough information to understand and identify relevant high quality results quickly.
 
-...
-
-...
+Users will always arrive at a 'search results' page after performing a search query using one of the available search input methods. See [search for data](main-content/steps/search-for-data).
 
 !> ...
 
 ## What it looks like
 
+Search results should clearly answer:
+
++ Which results are relevant to the search query?
++ Are results ranked in order of data quality?
++ How might users refine (sort and filter), search results?
++ Where do users go to find out information about a single record?
+
 ### 1. Overview / layout for the presentation of results
 
-<div class="image-container">
+<!-- tabs:start -->
 
-![Google results](../../_media/overview/2.results.png)
-
-</div>
+#### **Wireframe**
+<a href="/dd3-wireframes/_media/overview/3.results.png" target="_blank"><img src="/dd3-wireframes/_media/overview/3.results.png" data-no-zoom/></a>
+<!-- tabs:end -->
 
 ### 2. Number of results
 
@@ -35,16 +40,19 @@
 
 #### b. Spatial ordering by area
 
-### 8 Individual record / listing
+### 8. Individual record / listing
 
 #### a. Title / description / publisher
 #### b. Key meta information
 #### c. Licence type
 #### d. Feedback for crowdsourcing data quality and relevancy
 
+### 9. Pagination
+
 ## Why/when to use this 'pattern'
 
-...
+When a user is searching for data to answer a specific research question.
+
 
 ## Related
 * [Make sense of search results](main-content/steps/make-sense-of-search-results)

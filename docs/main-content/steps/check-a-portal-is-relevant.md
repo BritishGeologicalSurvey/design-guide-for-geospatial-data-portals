@@ -19,9 +19,10 @@ If users arrive at other pages, and not the homepage, they should be able to eas
 
 #### **Wireframe**
 
-<a href="/dd3-wireframes/_media/stage-1/homepage/wireframe-home-clean.png" target="_blank"><img src="/dd3-wireframes/_media/stage-1/homepage/wireframe-home-clean.png" data-no-zoom/></a>
 
-<!-- ![Explore - Home](../../_media/stage-1/homepage/wireframe-home-clean.png ":no-zoom") -->
+<a href="/dd3-wireframes/_media/overview/1.landing.png" target="_blank"><img src="/dd3-wireframes/_media/overview/1.landing.png" data-no-zoom/></a>
+
+<!-- ![Explore - Home](../../_media/overview/1.landing.png ":no-zoom") -->
 
 #### **Example**
 
@@ -31,7 +32,7 @@ If users arrive at other pages, and not the homepage, they should be able to eas
 
 #### **Example with comments**
 
-<a href="/dd3-wireframes/_media/stage-1/homepage/wireframe-home-annotations.png" target="_blank"><img src="/dd3-wireframes/_media/stage-1/homepage/wireframe-home-annotations.png" data-no-zoom/></a>
+<a href="/dd3-wireframes/_media/overview/homepage/wireframe-home-annotations.png" target="_blank"><img src="/dd3-wireframes/_media/stage-1/homepage/wireframe-home-annotations.png" data-no-zoom/></a>
 
 <!-- ![Explore - Home](../../_media/stage-1/homepage/wireframe-home-annotations.png) -->
 
