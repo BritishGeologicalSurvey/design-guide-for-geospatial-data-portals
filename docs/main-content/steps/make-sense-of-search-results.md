@@ -33,9 +33,11 @@ Information about the returned search should be presented to the user to help th
 ### 3. Faceted search (by parent / child categories)
 
 <div class="image-container">
+  
+Faceted search allows users to refine search results through sorting (order of results), filtering (number of results) and categorisation (parent category). Sorting and filtering should be available to users at the time of entering keywords and not buried behind an advanced search option. In addition, Sorting and filtering are perceived as the same function and should therefore appear in the same part of the user interface.
+
 <a href="/dd3-wireframes/_media/stage-3-results/3-faceted_search.png" target="_blank"><img src="/dd3-wireframes/_media/stage-3-results/3-faceted_search.png" data-no-zoom/></a>
 
-Faceted search allows users to refine search results through sorting (order of results), filtering (number of results) and categorisation (parent category). Sorting and filtering should be available to users at the time of entering keywords and not buried behind an advanced search option. In addition, Sorting and filtering are perceived as the same function and should therefore appear in the same part of the user interface.
 </div>
 
 ### 4. Remove filters
@@ -64,14 +66,18 @@ Users should be able to quickly and easily apply filters remove results that are
 
 ### 7. Presentation of results
 
-<div class="image-container">
+
 #### a. Ranked ordering by keyword relevance / data quality
+
+<div class="image-container">
 <a href="/dd3-wireframes/_media/stage-3-results/7a-presentation_of_results.png" target="_blank"><img src="/dd3-wireframes/_media/stage-3-results/7a-presentation_of_results.png" data-no-zoom/></a>
 
 Each record should show a title, description, publisher information and publication / update dates, key meta data, licence type and an option to feedback on the result
+</div>
 
 #### b. Spatial ordering by area
 
+<div class="image-container">
 <a href="/dd3-wireframes/_media/stage-3-results/7b-presentation_of_results.png" target="_blank"><img src="/dd3-wireframes/_media/stage-3-results/7b-presentation_of_results.png" style="max-width: 299px;"/></a>
 
 Spatial presentation of results by preference of area should be made available for the user to refine their search to a specific location / spatial region.
