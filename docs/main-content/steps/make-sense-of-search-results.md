@@ -32,16 +32,17 @@ Search results should clearly answer:
 <div class="image-container">
 <a href="/dd3-wireframes/_media/stage-3-results/2-number_of_results.png" target="_blank"><img src="/dd3-wireframes/_media/stage-3-results/2-number_of_results.png" style="max-width: 452px;"/></a>
 
-Information about the returned search should be presented to the user to help them identify when to change, refine or continue with their search query
+*Information about the returned search should be presented to the user to help them identify when to change, refine or continue with their search query*
+
 </div>
 
 ### 3. Faceted search (by parent / child categories)
 
 <div class="image-container">
 
-*Search field available for further refinement or for starting a new query*
-
 <a href="/dd3-wireframes/_media/stage-3-results/3-faceted_search.png" target="_blank"><img src="/dd3-wireframes/_media/stage-3-results/3-faceted_search.png" data-no-zoom/></a>
+
+*Search field available for further refinement or for starting a new query*
 
 </div>
 
