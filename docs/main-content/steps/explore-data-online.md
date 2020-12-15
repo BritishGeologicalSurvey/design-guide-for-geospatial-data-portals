@@ -7,6 +7,13 @@ How important the data exploration online, depends on the data being provided an
 
 ## What it looks like
 
+<!-- tabs:start -->
+
+#### **Wireframe**
+<a href="/dd3-wireframes/_media/overview/4.explore.png" target="_blank"><img src="/dd3-wireframes/_media/overview/4.explore.png" data-no-zoom/></a>
+<!-- tabs:end -->
+
+
 There are multiple ways that the data can be explored online - tables, charts, maps.
 
 Users previewing the data online might have one of these goals:
