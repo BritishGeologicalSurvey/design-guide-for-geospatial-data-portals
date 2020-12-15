@@ -12,7 +12,7 @@ In 2018 user researchers and designers across the <u>Geo6</u> came together to e
 
 Throughout 2019 the Geo6 have worked on solutions to address the pain points identified in the user research conducted for [Data Discoverability project](https://www.gov.uk/government/publications/finding-geospatial-data/finding-geospatial-data).
 
-!> This is not a design system for spatial data, we have not developed re-usable code or created style guides, if these are of interest please visit the [GOV.UK Design System](https://design-system.service.gov.uk/get-started/).
+!> This is not a design system for spatial data. We have not developed re-usable code or created style guides, if such resources are of interest please visit the [GOV.UK Design System](https://design-system.service.gov.uk/get-started/).
 
 ## Research your users
 We are presenting highlevel generic recommendations but the exact requirements for any given portal will vary according to the data volumes and subject matters covered as well as the needs of your targget audience. This resource is not a replacement for portal specific user research and design work.  
