@@ -1,6 +1,6 @@
 ## Ready to design or develop a geospatial portal?
 
-* Start with the [introduction](main-content/introduction).
+* Start with the [Introduction](main-content/introduction)
 
 ## Have a specific question?
 
