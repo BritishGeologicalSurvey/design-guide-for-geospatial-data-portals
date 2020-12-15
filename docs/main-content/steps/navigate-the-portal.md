@@ -50,6 +50,7 @@ Can users easily find related datasets or datasets that belong to the same topic
 <div class="image-container">
 
 ![related datasets](../../_media/help-navigate/related-datasets.png)
+
 *Related datasets*
 
 </div>
