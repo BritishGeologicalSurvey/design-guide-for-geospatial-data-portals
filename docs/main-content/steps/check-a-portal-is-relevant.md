@@ -8,10 +8,28 @@ Users might not always arrive via a data portal homepage, so this essential info
 ## What it looks like
 
 The homepage should clearly answer these key questions:
-* What is the purpose of this data portal, what are the topics it covers?
-* Who is the organisation managing this portal?
-* What licences are the data shared under?
-* Where do users start searching/exploring the data?
+
+### 1. What is the purpose of this data portal, what are the topics it covers?
+
+
+![Home heading](../../_media/check-portal-is-relevant/portal-purpose.png)
+
+*Heading for the homepage*
+
+### 2. Who is the organisation managing this portal?
+
+Users should be able to easily find more details about the organization managing the data portal either from the About Us page or the organization logo in the navbar.
+
+![navbar](../../_media/check-portal-is-relevant/navbar.png)
+
+*Navigation bar with organization's logo and link to About Us page*
+
+### 3. What licences are the data shared under?
+
+
+### 4. Where do users start searching/exploring the data?
+
+
 
 If users arrive at other pages, and not the homepage, they should be able to easily access the Home or the About Us pages.
 
