@@ -64,7 +64,7 @@ Can users easily find related datasets or datasets that belong to the same topic
 
 ## When to use
 
-To be used on every page throughout the data portal and to highlight which page the user is currently on
+To be used on every page throughout the data portal and to highlight which page the user is currently on.
 
 ---
 
