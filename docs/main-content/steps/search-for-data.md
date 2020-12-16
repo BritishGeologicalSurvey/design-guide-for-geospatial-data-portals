@@ -11,7 +11,7 @@ Ideally the data portal should support both of these methods - keywords search a
 
 ## 1. Search field
 
-Ideally data portals should have both a *simple* search for users who are browsing datasets and a *detailed* search for users who know exactly what they are looking for.
+Users should be able to search for data using keywords.
 <!-- some confusion over the wording here -->
 
 <div class="image-container">
