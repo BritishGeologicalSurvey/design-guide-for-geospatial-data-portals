@@ -124,7 +124,7 @@ Don't erase the search query in the search field so users can easily remember wh
 
 </div>
 
-## Why/when to use this 'pattern'
+## When to use
 
 * A simple search should be provided on the data portals landing page. 
 * A more detailed and map search can be provided on separate pages.
