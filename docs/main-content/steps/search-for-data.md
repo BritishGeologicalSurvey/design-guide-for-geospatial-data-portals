@@ -82,7 +82,7 @@ Show most recent or popular queries.
 
 </div>
 
-## 6. Don't return no results
+## 6. Don't return 'no results'
 
 If the users query doesn't match any search results - provide an actionable message on what they could do differently.
 
