@@ -64,9 +64,7 @@ Can users easily find related datasets or datasets that belong to the same topic
 
 ## When to use
 
-Knowing where you are is essential on all the pages.
-
-<p class="link1"><a href="#/main-content/introduction?id=_2-search-within-data-portal" >View common painpoints/frustrations</a></p>
+To be used on every page throughout the data portal and to highlight which page the user is currently on
 
 ---
 
