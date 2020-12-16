@@ -43,19 +43,19 @@ Publisher name with a logo for easier recognition
 
 Licence details and any relevant links to terms of use.
 
-## 5. Created on date
+## 6. Created on date
 
 Date when the dataset was created
 
-## 6. Lasted updated date
+## 7. Lasted updated date
 
 Date when the dataset was updated last and the frequency of updates
 
-## 7. Download link
+## 8. Download link
 
 If the data is available for download, the download link should be easy to find and access on the page. Ideally it should always stay on the page as the users are exploring the dataset details page. If the dataset is not available for download, it should be indicated why and when it would become available.
 
-## 8. Additional metadata
+## 9. Additional metadata
 
 Any additional metadata can have less visibility. To reduce the visual clutter on the screen it can be displayed in different tabs or dropdown menus.
 
