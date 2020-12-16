@@ -77,7 +77,7 @@ Any additional metadata can have less visibility. To reduce the visual clutter o
 * [Help users to explore data online](main-content/steps/explore-data-online)
 * [Best practice guidance and tools for geospatial data managers](https://www.gov.uk/government/collections/best-practice-guidance-and-tools-for-geospatial-data-managers)
 
-## Why/when to use this 'pattern'
+## When to use
 
 Dataset details page is used to present all available information related to a single specific dataset. 
 
