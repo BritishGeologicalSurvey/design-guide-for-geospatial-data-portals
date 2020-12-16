@@ -11,7 +11,7 @@
 
 Knowing the organization that created the dataset and when it was updated last is important both on the Search Results and Dataset Details page.
 
-### 1. Organization that produced the dataset should be clearly visible
+## 1. Organization that produced the dataset should be clearly visible
 
 It should be easy to find both on the [search results](#) page and the dataset [details pages](main-content/pages/dataset-details).
 
@@ -31,7 +31,7 @@ If a logo is available it should be displayed as well for easier recognition.
 
 </div>
 
-### 2. Last updated date and frequency of update
+## 2. Last updated date and frequency of update
 
  Knowing that the dataset has been updated recently can give them the confidence the dataset is being maintained. If the dataset is being updated frequently, that frequency should be made know to users as well.
 
