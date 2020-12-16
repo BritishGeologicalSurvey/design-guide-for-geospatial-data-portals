@@ -63,12 +63,12 @@ Search results should clearly answer:
 
 </div>
 
-### 6. Spatial filter
+### 6. Geospatial filter
 
 <div class="image-container">
 <a href="/dd3-wireframes/_media/stage-3-results/7b-presentation_of_results.png" target="_blank"><img src="/dd3-wireframes/_media/stage-3-results/7b-presentation_of_results.png" style="max-width: 299px;"/></a>
 
-*Spatial presentation of results by preference of area should be made available for the user to refine their search to a specific location / spatial region*
+*Geospatial presentation of results by preference of area should be made available for the user to refine their search to a specific location / spatial region*
 
 </div>
 
