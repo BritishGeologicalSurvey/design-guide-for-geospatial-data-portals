@@ -70,7 +70,7 @@ Any additional metadata can have less visibility. To reduce the visual clutter o
 
 ## Example page
 
-?> **[Dataset details](/main-content/pages/dataset-details)**
+* [Dataset details](/main-content/pages/dataset-details)
 
 ## Related
 
