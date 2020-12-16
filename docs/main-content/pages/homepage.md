@@ -11,10 +11,12 @@
 <a href="/dd3-wireframes/_media/overview/1.landing.png" target="_blank"><img src="/dd3-wireframes/_media/overview/1.landing.png" data-no-zoom/></a>
 
 ### **Example implementation**
-<a href="/dd3-wireframes/_media/overview/homepage/wireframe-home-annotations.png" target="_blank"><img src="/dd3-wireframes/_media/stage-1/homepage/wireframe-home-annotations.png" data-no-zoom/></a>
+<a href="/dd3-wireframes/_media/stage-1/homepage/wireframe-home.png" target="_blank"><img src="/dd3-wireframes/_media/stage-1/homepage/wireframe-home.png" data-no-zoom/></a>
 
 ### **Example implementation with annotations**
-<a href="/dd3-wireframes/_media/overview/1.landing.png" target="_blank"><img src="/dd3-wireframes/_media/overview/1.landing.png" data-no-zoom/></a> -->
+<a href="/dd3-wireframes/_media/stage-1/homepage/wireframe-home-annotations.png" target="_blank"><img src="/dd3-wireframes/_media/stage-1/homepage/wireframe-home-annotations.png" data-no-zoom/></a>
+
+
 <!-- tabs:end -->
 
 ## Components used in this example
