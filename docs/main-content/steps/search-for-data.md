@@ -9,29 +9,45 @@ Ideally the data portal should support both of these methods - keywords search a
 
 ## What it looks like
 
-### 1. Simple and detailed search
+### 1. Search using keywords
 
-Ideally data portals should have both a *simple* search for users who are browsing datasets and a *detailed* search for users who know exactly what they are looking for.
+Users should be able to search for data using keywords.
 
 <div class="image-container">
 
-<!-- tabs:start -->
-
-#### **Simple search**
-
 ![Simple search](../../_media/search-for-data/simple-search.png)
 
-*Search bar on the homepage*
-
-#### **Detailed search**
-
-![Detailed search](../../_media/search-for-data/detailed-search.png)
-
-*Filtering options on the search page* [to do - update filtering options]
-
-<!-- tabs:end -->
+*Search bar*
 
 </div>
+
+### 2. Advanced search
+
+Users should be able to specify more detailed search criteria
+
+?> More details can be found in [*Make sense of search results*](main-content/steps/make-sense-of-search-results)
+
+### 3. Spatial search
+
+There are multiple ways to search for spatial data:
+
+* Using post code / address
+* Specifying coordinates
+* Selecting an area on the map
+
+Whichever way is used, it should be made clear to the user what will be included in the search results and what coordinate system is used.
+
+
+
+<div class="image-container">
+
+![Map View](../../_media/search-for-data/map-view.png)
+
+*Map search*
+
+</div>
+
+The list of datasets matching the search criteria could also be displayed next to the map for easier browsing.
 
 ### 2. Display search field prominently
 
