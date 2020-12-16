@@ -62,7 +62,7 @@ Can users easily find related datasets or datasets that belong to the same topic
 * Breadcrumbs should have consistent structure.
 
 
-## Why/when to use this 'pattern'
+## When to use
 
 Knowing where you are is essential on all the pages.
 
