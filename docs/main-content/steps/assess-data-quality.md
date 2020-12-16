@@ -49,9 +49,8 @@ Knowing the properties of the dataset that convey its quality are important both
 
 ## Pages
 
-?> **[Search results](/main-content/pages/homepage)**
-<br>
-**[Dataset details](/main-content/pages/dataset-details)**
+* [Search results](/main-content/pages/homepage)
+* [Dataset details](/main-content/pages/dataset-details)
 
 ## Related
 

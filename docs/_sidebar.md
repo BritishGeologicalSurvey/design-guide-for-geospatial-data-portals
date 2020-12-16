@@ -13,7 +13,7 @@
   - [Assess data quality](main-content/steps/assess-data-quality)
   - [Explore data online](main-content/steps/explore-data-online)
   - [Use data](main-content/steps/use-data)
-  - [TEMPLATE](main-content/steps/_template)
+<!--  - [TEMPLATE](main-content/steps/_template) -->
 
 ---
 
@@ -22,7 +22,8 @@
   - [Homepage](main-content/pages/homepage)
   - [Search / Search results](main-content/pages/search-and-results)
   - [Dataset details](main-content/pages/dataset-details)
-  - [TEMPLATE](main-content/pages/_template)
+
+<!--   - [TEMPLATE](main-content/pages/_template) -->
   
 <!--[Search results](main-content/pages/search-results)-->
 <!--[Data viewer](main-content/pages/data-viewer)-->

@@ -7,7 +7,7 @@ The so called [dataset details](../../main-content/pages/dataset-details) page u
 
 ## What it looks like
 
-### 1. Clear dataset title
+## 1. Clear dataset title
 
 The first thing that users see will be the dataset title. It should be the main heading on the dataset details page.
 
@@ -19,11 +19,11 @@ The first thing that users see will be the dataset title. It should be the main 
 
 </div>
 
-### 2. Short description
+## 2. Short description
 
 A short description summarizing the main properties of the dataset.
 
-### 3. Topics
+## 3. Topics
 
 Topics that this dataset covers. Ideally, they should be linked to the topic pages where users could explore other datasets of the same topic.
 
@@ -35,27 +35,27 @@ Topics that this dataset covers. Ideally, they should be linked to the topic pag
 
 </div>
 
-### 4. Publisher name
+## 4. Publisher name
 
 Publisher name with a logo for easier recognition
 
-### 5. Licence details
+## 5. Licence details
 
 Licence details and any relevant links to terms of use.
 
-### 5. Created on date
+## 5. Created on date
 
 Date when the dataset was created
 
-### 6. Lasted updated date
+## 6. Lasted updated date
 
 Date when the dataset was updated last and the frequency of updates
 
-### 7. Download link
+## 7. Download link
 
 If the data is available for download, the download link should be easy to find and access on the page. Ideally it should always stay on the page as the users are exploring the dataset details page. If the dataset is not available for download, it should be indicated why and when it would become available.
 
-### 8. Additional metadata
+## 8. Additional metadata
 
 Any additional metadata can have less visibility. To reduce the visual clutter on the screen it can be displayed in different tabs or dropdown menus.
 

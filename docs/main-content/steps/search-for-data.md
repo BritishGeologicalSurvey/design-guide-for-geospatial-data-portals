@@ -9,9 +9,16 @@ Ideally the data portal should support both of these methods - keywords search a
 
 ## What it looks like
 
+<<<<<<< HEAD
 ### 1. Search using keywords
 
 Users should be able to search for data using keywords.
+=======
+## 1. Search field
+
+Ideally data portals should have both a *simple* search for users who are browsing datasets and a *detailed* search for users who know exactly what they are looking for.
+<!-- some confusion over the wording here -->
+>>>>>>> 5692ca91c1896a63c207cd5d017b8cc63e4bb054
 
 <div class="image-container">
 
@@ -47,9 +54,13 @@ Whichever way is used, it should be made clear to the user what will be included
 
 </div>
 
+<<<<<<< HEAD
 The list of datasets matching the search criteria could also be displayed next to the map for easier browsing.
 
 ### 2. Display search field prominently
+=======
+## 2. Display search field prominently
+>>>>>>> 5692ca91c1896a63c207cd5d017b8cc63e4bb054
 
 Search box should be easily noticeable. Since search is one of the primary functions of data portal, it should be accessible from any page of portal. A good place for it would be in the navigation bar.
 
@@ -61,7 +72,7 @@ Search box should be easily noticeable. Since search is one of the primary funct
 
 </div>
 
-### 3. Provide tips on what users can search for
+## 3. Provide tips on what users can search for
 
 Include a sample query in the search bar to suggest to users what they can search for.
 
@@ -73,7 +84,7 @@ Include a sample query in the search bar to suggest to users what they can searc
 
 </div>
 
-### 4. Show search history
+## 4. Show search history
 
 Show most recent or popular queries.
 
@@ -85,7 +96,7 @@ Show most recent or popular queries.
 
 </div>
 
-### 5. Don't return no results
+## 5. Don't return no results
 
 If the users query doesn't match any search results - provide an actionable message on what they could do differently.
 
@@ -99,11 +110,11 @@ If some datasets have a 'near' match to search criteria they can be displayed as
 
 </div>
 
-### 6. Provide filtering and sorting options
+## 6. Sort by and filter options
 
 if the initial search does not lead users to the dataset they are looking for, they should be able narrow down their search using filtering and sorting methods.
 
-### 7. Show users' search query on the results page
+## 7. Show users' search query on the results page
 
 Don't erase the search query in the search field so users can easily remember what they search for and alter their search keywords if required.
 

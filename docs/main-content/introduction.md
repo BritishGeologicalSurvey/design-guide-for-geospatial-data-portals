@@ -1,16 +1,16 @@
 # Spatial data portals
 
-Increase the discoverability and usefulness of spatial data by designing data portals that satisfy user needs. 
+Increase the discoverability and usefulness of spatial data by designing data portals that satisfy user needs.
 
-Data portals differ by the data they provide and the audiences they serve, so these recommendations are general and focus on designs to address the frustrations that users experience at different stages of their data discovery journey. For the purposes of this guidance, data portals are described as web-based interfaces designed to help users find and access datasets. Optimally, they should be built around metadata records which describe datasets, provide pointers to where they can be located and explain any restrictions or limitations in their use. 
+Data portals differ by the data they provide and the audiences they serve, so these recommendations are general and focus on designs to address frustrations that users experience during different stages of their journey from data discovery to usage. For the purposes of this guidance, data portals are described as web-based interfaces designed to help users find and access datasets. Optimally, they should be built around metadata records which describe datasets, provide pointers to where they can be located and explain any restrictions or limitations in their use.
 
 Everything happens somewhere. Location is a fundamental aspect of many data and being able to combine and integrate seemingly diverse datasets using locality can provide powerful insights. 
 
-Although more and more spatial data is being made available online, there there are users who are confused about where to go, who to trust and which datsets are most relevant to answering their questions.       
+Although more and more spatial data is being made available online, there are users who are confused about where to go, who to trust and which datasets are most relevant to answering their questions.
 
-In 2018 user researchers and designers across the <u>Geo6</u> came together to explore the needs and frustrations experienced by the users of data portals containing spatial data.
+In 2018 user researchers and designers across the Geo6 came together to explore the needs and frustrations experienced by users of data portals containing spatial data.
 
-Throughout 2019 the Geo6 have worked on solutions to address the pain points identified in the user research conducted for [Data Discoverability project](https://www.gov.uk/government/publications/finding-geospatial-data/finding-geospatial-data).
+Throughout 2019 the Geo6 have worked on solutions to address pain points identified by the user research conducted for the [Data Discoverability project](https://www.gov.uk/government/publications/finding-geospatial-data/finding-geospatial-data).
 
 !> This is not a design system for spatial data. We have not developed re-usable code or created style guides, if such resources are of interest please visit the [GOV.UK Design System](https://design-system.service.gov.uk/get-started/).
 
