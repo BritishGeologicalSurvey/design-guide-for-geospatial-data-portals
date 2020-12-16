@@ -84,7 +84,7 @@ Search results should clearly answer:
 
 <!-- ### 8. Pagination - TO ADD -->
 
-## When to use this 'pattern'
+## When to use
 
 When a user is searching for data to answer a specific research question.
 
