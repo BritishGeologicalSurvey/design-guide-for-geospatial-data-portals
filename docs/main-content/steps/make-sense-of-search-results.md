@@ -63,10 +63,17 @@ Search results should clearly answer:
 
 </div>
 
-## 6. Presentation of results
+### 6. Spatial filtering by region
 
+<div class="image-container">
+<a href="/dd3-wireframes/_media/stage-3-results/7b-presentation_of_results.png" target="_blank"><img src="/dd3-wireframes/_media/stage-3-results/7b-presentation_of_results.png" style="max-width: 299px;"/></a>
 
-### a. Ranked ordering by keyword relevance / data quality
+*Spatial presentation of results by preference of area should be made available for the user to refine their search to a specific location / spatial region*
+
+</div>
+
+## 7. Results listing
+
 
 <div class="image-container">
 <a href="/dd3-wireframes/_media/stage-3-results/7a-presentation_of_results.png" target="_blank"><img src="/dd3-wireframes/_media/stage-3-results/7a-presentation_of_results.png" data-no-zoom/></a>
@@ -75,14 +82,6 @@ Search results should clearly answer:
 
 </div>
 
-### b. Spatial ordering by area
-
-<div class="image-container">
-<a href="/dd3-wireframes/_media/stage-3-results/7b-presentation_of_results.png" target="_blank"><img src="/dd3-wireframes/_media/stage-3-results/7b-presentation_of_results.png" style="max-width: 299px;"/></a>
-
-*Spatial presentation of results by preference of area should be made available for the user to refine their search to a specific location / spatial region*
-
-</div>
 <!-- ### 8. Pagination - TO ADD -->
 
 ## When to use this 'pattern'
