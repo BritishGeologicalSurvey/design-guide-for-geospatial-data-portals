@@ -90,6 +90,6 @@ When a user is searching for data to answer a specific research question.
 
 ## Example page
 
-?> **[Search and search results pages](main-content/pages/search-and-results)**
+**[Search / search results](main-content/pages/search-and-results)**
 
 
