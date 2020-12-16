@@ -88,7 +88,7 @@ Search results should clearly answer:
 
 When a user is searching for data to answer a specific research question
 
-## Example page
+### Example page
 
 > [Search / Search results](main-content/pages/search-and-results)
 
