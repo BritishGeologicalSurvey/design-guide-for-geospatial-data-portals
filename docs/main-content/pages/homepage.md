@@ -25,6 +25,12 @@
 <!-- typo in the link url -->
 
 **[Chcck if a portal is relevant](main-content/steps/check-a-portal-is-relevant)**
+* [What is the purpose of this data portal, what are the topics it covers?](https://pautva.github.io/dd3-wireframes/#/main-content/steps/check-a-portal-is-relevant?id=_1-what-is-the-purpose-of-this-data-portal-what-are-the-topics-it-covers)
+* [Who is the organisation managing this portal?](https://pautva.github.io/dd3-wireframes/#/main-content/steps/check-a-portal-is-relevant?id=_2-who-is-the-organisation-managing-this-portal)
+* [What licences are the data shared under?](https://pautva.github.io/dd3-wireframes/#/main-content/steps/check-a-portal-is-relevant?id=_2-who-is-the-organisation-managing-this-portal)
+* [What licences are the data shared under?](https://pautva.github.io/dd3-wireframes/#/main-content/steps/check-a-portal-is-relevant?id=_3-what-licences-are-the-data-shared-under)
+* [Where do users start searching/exploring the data?](https://pautva.github.io/dd3-wireframes/#/main-content/steps/check-a-portal-is-relevant?id=_4-where-do-users-start-searchingexploring-the-data)
+* [Help users navigate to homepage](https://pautva.github.io/dd3-wireframes/#/main-content/steps/check-a-portal-is-relevant?id=_5-help-users-navigate-to-homepage)
 
 **[Navigate the portal](main-content/steps/search-for-data)**
 
