@@ -86,7 +86,7 @@ Search results should clearly answer:
 
 ## When to use
 
-When a user is searching for data to answer a specific research question.
+When a user is searching for data to answer a specific research question
 
 ## Example page
 
