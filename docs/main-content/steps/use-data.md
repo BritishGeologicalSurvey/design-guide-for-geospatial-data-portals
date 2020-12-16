@@ -5,13 +5,6 @@
 
 ## What it looks like
 
-<!-- tabs:start -->
-
-#### **Wireframe**
-<a href="/dd3-wireframes/_media/overview/5.use.png" target="_blank"><img src="/dd3-wireframes/_media/overview/5.use.png" data-no-zoom/></a>
-<!-- tabs:end -->
-
-
 <div class="image-container">
 
 ![Google results](../../_media/use-data/download-panel.png)

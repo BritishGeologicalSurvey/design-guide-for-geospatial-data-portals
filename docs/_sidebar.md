@@ -2,7 +2,7 @@
 
 ---
 
-- Help users to...
+- [Help users to...](main-content/steps/help-users-intro)
   
   - [Discover your portal](main-content/steps/discover-your-portal)
   - [Check a portal is relevant](main-content/steps/check-a-portal-is-relevant)
@@ -17,11 +17,13 @@
 
 ---
 
-- Pages
+- [Example pages](main-content/pages/pages-intro)
 
   - [Homepage](main-content/pages/homepage)
+  - [Search page](#)
+  - [Search results - list view](#)
+  - [Search results - map view](main-content/pages/map-viewer)
   - [Dataset details](main-content/pages/dataset-details)
-  - [Map view](main-content/pages/map-viewer)
   - [TEMPLATE](main-content/pages/_template)
   
 <!--[Search results](main-content/pages/search-results)-->

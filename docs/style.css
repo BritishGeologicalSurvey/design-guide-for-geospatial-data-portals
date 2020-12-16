@@ -11,13 +11,20 @@ h1 {
     margin: 0;
 }
 
+.sidebar p>a {
+    font-weight: bold;
+}
+
+.sidebar p>a:hover {
+    font-weight: bold;
+}
+
 /* Cover
 ============================================================================= */
 :root {
     --cover-background-color: white;
     --cover-heading-color: var(--theme-color);;
 }
-
 
 /* link style */
 
