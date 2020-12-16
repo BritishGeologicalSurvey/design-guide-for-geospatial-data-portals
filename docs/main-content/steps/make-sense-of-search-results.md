@@ -88,6 +88,8 @@ Search results should clearly answer:
 
 When a user is searching for data to answer a specific research question.
 
-## Example pages
-* [Search and search results pages](main-content/pages/search-and-results)
+## Example page
+
+?> **[Search and search results pages](main-content/pages/search-and-results)**
+
 
