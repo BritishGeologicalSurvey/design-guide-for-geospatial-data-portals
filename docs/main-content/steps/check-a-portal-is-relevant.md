@@ -21,7 +21,7 @@ What is the purpose of this data portal, what are the topics it covers?
 
 </div>
 
-## 2. Organization managing this portal?
+## 2. Organization managing this portal
 
 Users should be able to easily find more details about the organization managing the data portal either from the About Us page or the organization logo in the navbar.
 
@@ -42,10 +42,6 @@ If datasets have different licences,the information should be provided on each d
 ## 4. Where to start?
 
 Where do users start searching/exploring the data? If the data portal does not not allow users to search for data directly from the homepage, they should easily find instructions where to start.
-
-## 5. Navigate home
-
-Help users easily navigate to homepage. If users arrive at other pages, and not the homepage, they should be able to easily access the Home or the About Us pages.
 
 ## When to use
 

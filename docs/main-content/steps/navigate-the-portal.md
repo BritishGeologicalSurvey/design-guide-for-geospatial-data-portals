@@ -55,7 +55,12 @@ Can users easily find related datasets or datasets that belong to the same topic
 
 </div>
 
-## 5. Consistent navigation
+## 5. Navigate home
+
+Help users easily navigate to homepage. If users arrive at other pages, and not the homepage, they should be able to easily access the Home or the About Us pages.
+
+
+## 6. Consistent navigation
 
 * The titles should always be in the same place.
 * Links should have the same style
