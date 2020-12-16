@@ -2,45 +2,30 @@
 
 > The search page should help users to quickly query the data contained within the portal and return relevant results ranked by data quality. This information should be presented concisely and and clearly, highlighting relevant search terms, parent categories, sorting options and filters appropriate to the user.
 
-
-## What it looks like
-
-![Home heading](../../_media/overview/3.results.png)
-
-*Essential search and search results elements*
-
-<a href="/dd3-wireframes/_media/overview/homepage/wireframe-home-annotations.png" target="_blank"><img src="/dd3-wireframes/_media/stage-1/homepage/wireframe-home-annotations.png" data-no-zoom/></a>
-
-<a href="/dd3-wireframes/_media/overview/homepage/wireframe-home-annotations.png" target="_blank"><img src="/dd3-wireframes/_media/stage-1/homepage/wireframe-home-annotations.png" data-no-zoom/></a>
-
-*Search and search results pages with annotations*
+## 1. Example page for search / search results
 
 <!-- tabs:start -->
 
-<!-- #### **Wireframe**
+### **Wireframe**
+<a href="/dd3-wireframes/_media/overview/3.results.png" target="_blank"><img src="/dd3-wireframes/_media/overview/3.results.png" data-no-zoom/></a>
 
-<a href="/dd3-wireframes/_media/overview/1.landing.png" target="_blank"><img src="/dd3-wireframes/_media/overview/1.landing.png" data-no-zoom/></a> -->
+### **Example implementation**
+<a href="/dd3-wireframes/_media/overview/3.results.png" target="_blank"><img src="/dd3-wireframes/_media/overview/3.result-examples.png" data-no-zoom/></a>
 
-<!-- ![Explore - Home](../../_media/overview/1.landing.png ":no-zoom") -->
+### **Example implementation with annotations**
+<a href="/dd3-wireframes/_media/overview/3.results.png" target="_blank"><img src="/dd3-wireframes/_media/overview/3.results-example-annotated.png" data-no-zoom/></a>
 
-<!-- #### **Example**
-
-<a href="/dd3-wireframes/_media/stage-1/homepage/wireframe-home.png" target="_blank"><img src="/dd3-wireframes/_media/stage-1/homepage/wireframe-home.png" data-no-zoom/></a> -->
-
-<!-- ![Explore - Home](../../_media/stage-1/homepage/wireframe-home.png) -->
-
-<!-- #### **Example with comments**
-
-<a href="/dd3-wireframes/_media/overview/homepage/wireframe-home-annotations.png" target="_blank"><img src="/dd3-wireframes/_media/stage-1/homepage/wireframe-home-annotations.png" data-no-zoom/></a> -->
-
-<!-- ![Explore - Home](../../_media/stage-1/homepage/wireframe-home-annotations.png) -->
 
 <!-- tabs:end -->
 
-## What tasks should the users be able to complete on this page?
-
-* [search for data](main-content/steps/search-for-data)
-* [Make sense of search results](main-content/steps/make-sense-of-search-results)
+## Components used in this example
+### [Make sense of search results](main-content/steps/make-sense-of-search-results)
+* [Number of results](https://pautva.github.io/dd3-wireframes/#/main-content/steps/make-sense-of-search-results?id=_1-number-of-results)
+* [Faceted search](https://pautva.github.io/dd3-wireframes/#/main-content/steps/make-sense-of-search-results?id=_2-faceted-search-by-parent-child-categories)
+* [Remove filters](https://pautva.github.io/dd3-wireframes/#/main-content/steps/make-sense-of-search-results?id=_3-remove-filters)
+* [Sort by](https://pautva.github.io/dd3-wireframes/#/main-content/steps/make-sense-of-search-results?id=_4-sort-by)
+* [Apply filters](https://pautva.github.io/dd3-wireframes/#/main-content/steps/make-sense-of-search-results?id=_5-apply-filters)
+* [Presentation of results](https://pautva.github.io/dd3-wireframes/#/main-content/steps/make-sense-of-search-results?id=_6-presentation-of-results)
 
 
 

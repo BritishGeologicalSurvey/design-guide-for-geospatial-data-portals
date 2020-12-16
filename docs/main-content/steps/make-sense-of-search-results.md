@@ -18,16 +18,7 @@ Search results should clearly answer:
 + Easily access more information about a single record
 
 
-
-### 1. Overview / layout for the presentation of results
-
-<!-- tabs:start -->
-
-#### **Wireframe**
-<a href="/dd3-wireframes/_media/overview/3.results.png" target="_blank"><img src="/dd3-wireframes/_media/overview/3.results.png" data-no-zoom/></a>
-<!-- tabs:end -->
-
-### 2. Number of results
+## 1. Number of results
 
 <div class="image-container">
 <a href="/dd3-wireframes/_media/stage-3-results/2-number_of_results.png" target="_blank"><img src="/dd3-wireframes/_media/stage-3-results/2-number_of_results.png" style="max-width: 452px;"/></a>
@@ -36,7 +27,7 @@ Search results should clearly answer:
 
 </div>
 
-### 3. Faceted search (by parent / child categories)
+## 2. Faceted search (by parent / child categories)
 
 <div class="image-container">
 
@@ -46,7 +37,7 @@ Search results should clearly answer:
 
 </div>
 
-### 4. Remove filters
+## 3. Remove filters
 
 <div class="image-container">
 <a href="/dd3-wireframes/_media/stage-3-results/4-clear_filters.png" target="_blank"><img src="/dd3-wireframes/_media/stage-3-results/4-clear_filters.png" style="max-width: 300px;"/></a>
@@ -54,7 +45,7 @@ Search results should clearly answer:
 *Users should be able to undo a selection quickly and easily*
 </div>
 
-### 5. Sort by
+## 4. Sort by
 
 <div class="image-container">
 <a href="/dd3-wireframes/_media/stage-3-results/5-sort_by.png" target="_blank"><img src="/dd3-wireframes/_media/stage-3-results/5-sort_by.png" style="max-width: 232px;" data-no-zoom/></a>
@@ -63,7 +54,7 @@ Search results should clearly answer:
 
 </div>
 
-### 6. Apply filters
+## 5. Apply filters
 
 <div class="image-container">
 <a href="/dd3-wireframes/_media/stage-3-results/6-apply_filters.png" target="_blank"><img src="/dd3-wireframes/_media/stage-3-results/6-apply_filters.png" style="max-width: 304px;"/></a>
@@ -72,10 +63,10 @@ Search results should clearly answer:
 
 </div>
 
-### 7. Presentation of results
+## 6. Presentation of results
 
 
-#### a. Ranked ordering by keyword relevance / data quality
+### a. Ranked ordering by keyword relevance / data quality
 
 <div class="image-container">
 <a href="/dd3-wireframes/_media/stage-3-results/7a-presentation_of_results.png" target="_blank"><img src="/dd3-wireframes/_media/stage-3-results/7a-presentation_of_results.png" data-no-zoom/></a>
@@ -84,7 +75,7 @@ Search results should clearly answer:
 
 </div>
 
-#### b. Spatial ordering by area
+### b. Spatial ordering by area
 
 <div class="image-container">
 <a href="/dd3-wireframes/_media/stage-3-results/7b-presentation_of_results.png" target="_blank"><img src="/dd3-wireframes/_media/stage-3-results/7b-presentation_of_results.png" style="max-width: 299px;"/></a>
@@ -94,36 +85,10 @@ Search results should clearly answer:
 </div>
 <!-- ### 8. Pagination - TO ADD -->
 
-## Why/when to use this 'pattern'
+## When to use this 'pattern'
 
 When a user is searching for data to answer a specific research question.
 
+## Example pages
+* [Search and search results pages](main-content/pages/search-and-results)
 
-## Related
-* [search for data](main-content/steps/search-for-data)
-* [Common painpoints/frustrations](main-content/introduction#2-search-within-data-portal)
-
----
-
-<!-- Additional information can be presented in dropdown menus -->
-
-<details>
-<summary>Essential components</summary>
-<br>
-
-Below is a checklist of components/information that are relevant for this task.
-
-These components can be arranged in many ways, but the ones with highest relevance should be the most visible/accessible.
-
-?> 1 - high relevance, 2 - medium relevance, 3 - low relevance
-
-<!-- Table of component start -->
-
-| Component             | Description                                                                                                     |  Relevance |
-|-----------------------|-----------------------------------------------------------------------------------------------------------------|:----------:|
-| Faceted search        | Search input for the user with option to select a parent category, sorting options and filters                  |     1      |
-| Number of returned results |Presents information on the number of returned results to help the user quickly identify whether to modify their search criteria |     1      |
-| Sort and filter | Assistance to the user for refining their search |     1      |
-| Spatial refinement filter | Help a user to refine their search by geographic region |     1      |
-
-</details>
