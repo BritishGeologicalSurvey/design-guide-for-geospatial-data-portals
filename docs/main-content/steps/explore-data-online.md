@@ -17,9 +17,33 @@ If users require only a specific value, there is no need to display additional i
 
 ### 1. Preview data
 
+Allowing users to preview the files included in the dataset and their content can help them make a better decision on the usefulness of the dataset.
+
+<div class="image-container">
+
+![Explore data online](../../_media/explore-data-online/data-preview.png)
+
+*Preview the contents of CSV files*
+
+</div>
+
 ### 2. Visualize data
 
+If technology and resources allow a more detailed data preview can also help users evaluate the dataset and do an exploratory data analysis within the data portal.
+
+<div class="image-container">
+
+![Explore data online](../../_media/explore-data-online/visualize-data.png)
+
+*Data could preview in Map, Table and Chart form*
+
+</div>
+
 ### 3. Get specific information online
+
+There might be cases when users can get the information they need without downloading the dataset. This requires understanding the users needs and data properties.
+
+If it is clear what information the users are looking for, it should be possible to search for it directly and it should be displayed in a format that's directly useful to them.
 
 <div class="image-container">
 
@@ -29,25 +53,8 @@ If users require only a specific value, there is no need to display additional i
 
 </div>
 
-If technology and resources allow a more detailed data preview can also help users evaluate the dataset and do an exploratory data analysis within the data portal.
 
-<!-- tabs:start -->
-
-#### **Wireframe**
-
-![Explore - Home](../../_media/placeholder-image.png)
-
-#### **Example**
-
-![Explore - Home](../../_media/stage-4-explore/preview-wireframe.png)
-
-#### **Example with comments**
-
-![Explore - Home](../../_media/placeholder-image.png)
-
-<!-- tabs:end -->
-
-## Why/when to use this 'pattern'
+## When to use this
 
 This pattern can be used when specific user needs can be addressed directly within the data portal - providing them the information they require without downloading the dataset.
 
