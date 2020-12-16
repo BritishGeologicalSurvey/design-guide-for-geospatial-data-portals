@@ -11,7 +11,13 @@
 
 Knowing the organization that created the dataset and when it was updated last is important both on the Search Results and Dataset Details page.
 
-User trusts datasets more from the organizations they are familiar with. And knowing that the dataset has been updated recently can give them the confidence the dataset is being maintained.
+### 1. Organization that produced the dataset should be clearly visible
+
+It should be easy to find both on the [search results](#) page and the dataset [details pages](main-content/pages/dataset-details).
+
+User trusts datasets more from the organizations they are familiar with.
+
+If a logo is available it should be displayed as well for easier recognition.
 
 <div class="image-container">
 
@@ -25,12 +31,27 @@ User trusts datasets more from the organizations they are familiar with. And kno
 
 </div>
 
+### 2. Last updated date and frequency of update
+
+ Knowing that the dataset has been updated recently can give them the confidence the dataset is being maintained. If the dataset is being updated frequently, that frequency should be made know to users as well.
+
+<div class="image-container">
+
+![Frequency](../../_media/assess-data-quality/frequency.png)
+
+*The frequency of updates can be displayed on the dataset details page*
+
+</div>
 
 ## Why/when to use this 'pattern'
 
 Knowing the properties of the dataset that convey its quality are important both at the searching stage and exploring a specific dataset.
 
-<p class="link1"><a href="#/main-content/introduction?id=_2-search-within-data-portal" >View common painpoints/frustrations</a></p>
+## Pages
+
+?> **[Search results](/main-content/pages/homepage)**
+<br>
+**[Dataset details](/main-content/pages/dataset-details)**
 
 ## Related
 

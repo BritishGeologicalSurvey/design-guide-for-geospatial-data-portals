@@ -51,9 +51,9 @@ This pattern is useful when introducing new users to the data portal. It can als
 
 <p class="link1"><a href="#/main-content/introduction?id=_1-discover-data-sources" >View common painpoints/frustrations</a></p>
 
-## Related
+## Example page
 
-* [Homepage](main-content/pages/homepage)
+?> **[Homepage](/main-content/pages/homepage)**
 
 ---
 
