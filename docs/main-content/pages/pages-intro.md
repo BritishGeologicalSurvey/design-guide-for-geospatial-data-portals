@@ -7,9 +7,7 @@ It does not mean this is the only way to design/develop a geospatial data portal
 Below are some key data portal pages:
 
 * [Homepage](/main-content/pages/homepage)
-* [Search page]()
-* [Search results - list view]()
-* [Search results - map view](main-content/pages/map-viewer)
+* [Search / Search results](main-content/pages/search-and-results)
 * [Dataset details](/main-content/pages/dataset-details)
 
 Other pages that might be included in data portals are - **Help, FAQ, Contact Us, Latest/Most popular dataset pages, Featured Data**. These pages can be important as well, but they are not essential, so they are not discussed in this documentation.

@@ -20,7 +20,7 @@
 - [Example pages](main-content/pages/pages-intro)
 
   - [Homepage](main-content/pages/homepage)
-  - [search / search results](main-content/pages/search-and-results)
+  - [Search / Search results](main-content/pages/search-and-results)
   - [Dataset details](main-content/pages/dataset-details)
   - [TEMPLATE](main-content/pages/_template)
   

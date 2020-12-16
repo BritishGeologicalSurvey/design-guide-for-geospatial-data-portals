@@ -41,9 +41,15 @@ Publisher name with a logo for easier recognition
 
 ### 5. Licence details
 
+Licence details and any relevant links to terms of use.
+
 ### 5. Created on date
 
+Date when the dataset was created
+
 ### 6. Lasted updated date
+
+Date when the dataset was updated last and the frequency of updates
 
 ### 7. Download link
 
