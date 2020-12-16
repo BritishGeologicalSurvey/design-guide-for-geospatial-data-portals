@@ -4,7 +4,7 @@ Increase the discoverability and usefulness of spatial data by designing data po
 
 Data portals differ by the data they provide and the audiences they serve, so these recommendations are general and focus on designs to address frustrations that users experience during different stages of their journey from data discovery to usage. For the purposes of this guidance, data portals are described as web-based interfaces designed to help users find and access datasets. Optimally, they should be built around metadata records which describe datasets, provide pointers to where they can be located and explain any restrictions or limitations in their use.
 
-Everything happens somewhere. Location is a fundamental aspect of many data and being able to combine and integrate seemingly diverse datasets using locality can provide powerful insights. 
+Everything happens somewhere. Spatially referenced data can provide powerful insights when combining the application of data and locality. 
 
 Although more and more spatial data is being made available online, there are users who are confused about where to go, who to trust and which datasets are most relevant to answering their questions.
 
