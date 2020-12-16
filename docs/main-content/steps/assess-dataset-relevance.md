@@ -68,18 +68,20 @@ Any additional metadata can have less visibility. To reduce the visual clutter o
 </div>
 
 
-## Example page
+## When to use
 
-> [Dataset details](/main-content/pages/dataset-details)
+Dataset details page is used to present all available information related to a single specific dataset. 
+
+
+### Example page
+
+* [Dataset details](/main-content/pages/dataset-details)
 
 ## Related
 
 * [Help users to explore data online](main-content/steps/explore-data-online)
 * [Best practice guidance and tools for geospatial data managers](https://www.gov.uk/government/collections/best-practice-guidance-and-tools-for-geospatial-data-managers)
 
-## When to use
-
-Dataset details page is used to present all available information related to a single specific dataset. 
 
 ---
 
