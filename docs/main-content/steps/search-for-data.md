@@ -118,15 +118,12 @@ Don't erase the search query in the search field so users can easily remember wh
 
 ## When to use
 
-* A simple search should be provided on the data portals landing page. 
-* A more detailed and map search can be provided on separate pages.
+When a user is searching for data to answer a specific research question
 
-## Related
+## Example page
 
-* [Make sense of search results](main-content/steps/make-sense-of-search-results)
-* [Common painpoints/frustrations](main-content/introduction#2-search-within-data-portal)
+* [Search / search results](main-content/pages/search-and-results)
 
-<!-- <p class="link1"><a href="#/main-content/introduction?id=_2-search-within-data-portal" >Common painpoints/frustrations</a></p> -->
 
 ---
 
