@@ -75,7 +75,7 @@ To present information about a single dataset record.
 
 ### Example page
 
-* [Dataset details](/main-content/pages/dataset-details)
+> **[Dataset details](/main-content/pages/dataset-details)**
 
 ## Related
 
