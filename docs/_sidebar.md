@@ -13,7 +13,7 @@
   - [Assess data quality](main-content/steps/assess-data-quality)
   - [Explore data online](main-content/steps/explore-data-online)
   - [Use data](main-content/steps/use-data)
-  - [TEMPLATE](main-content/steps/_template)
+<!--  - [TEMPLATE](main-content/steps/_template) -->
 
 ---
 
