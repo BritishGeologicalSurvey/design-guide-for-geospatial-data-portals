@@ -68,7 +68,7 @@ Our recommendations are designed to address the following painpoints, grouped by
 *	Data is not available in the formats users prefer 
 *	Data viewers and exploration option are not optimised for mobile display
 *	Too many barriers such as user registration required pre-download
-*	Different standards //NEED TO CLARIFY
+*	Different standards of metadata between records
 *	No API access
 *	Licencing restrictions
 *	Reliance on others for interpretation
