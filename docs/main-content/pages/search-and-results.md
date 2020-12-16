@@ -11,7 +11,7 @@
 <a href="/dd3-wireframes/_media/overview/3.results.png" target="_blank"><img src="/dd3-wireframes/_media/overview/3.results.png" data-no-zoom/></a>
 
 ### **Example implementation**
-<a href="/dd3-wireframes/_media/overview/3.results.png" target="_blank"><img src="/dd3-wireframes/_media/overview/3.result-examples.png" data-no-zoom/></a>
+<a href="/dd3-wireframes/_media/example-pages/3.search-and-results-page.png" target="_blank"><img src="/dd3-wireframes/_media/example-pages/3.search-and-results-page.png" data-no-zoom/></a>
 
 ### **Example implementation with annotations**
 <a href="/dd3-wireframes/_media/overview/3.results.png" target="_blank"><img src="/dd3-wireframes/_media/overview/3.results-example-annotated.png" data-no-zoom/></a>
@@ -26,10 +26,10 @@
 <a href="/dd3-wireframes/_media/overview/3.results.png" target="_blank"><img src="/dd3-wireframes/_media/overview/3.results.png" data-no-zoom/></a>
 
 ### **Example implementation**
-<a href="/dd3-wireframes/_media/overview/3.results.png" target="_blank"><img src="/dd3-wireframes/_media/overview/3.result-examples.png" data-no-zoom/></a>
+<a href="/dd3-wireframes/_media/example-pages/3.results.png" target="_blank"><img src="/dd3-wireframes/_media/example-pages/3.result-examples.png" data-no-zoom/></a>
 
 ### **Example implementation with annotations**
-<a href="/dd3-wireframes/_media/overview/3.results.png" target="_blank"><img src="/dd3-wireframes/_media/overview/3.results-example-annotated.png" data-no-zoom/></a>
+<a href="/dd3-wireframes/_media/example-pages/3.search-and-results-page-annotated.png" target="_blank"><img src="/dd3-wireframes/_media/example-pages/3.search-and-results-page-annotated.png" data-no-zoom/></a>
 
 <!-- tabs:end -->
 
