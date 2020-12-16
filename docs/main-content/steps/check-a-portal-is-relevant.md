@@ -45,9 +45,9 @@ If the data portal does not not allow users to search for data directly from the
 
 If users arrive at other pages, and not the homepage, they should be able to easily access the Home or the About Us pages.
 
-## Why/when to use this 'pattern'
+## When to use
 
-This pattern is useful when introducing new users to the data portal. It can also be handy for returning users who want to explore datasets by topic or check the licencing information for dataset(s) they used.
+These concepts are useful when introducing new users to the data portal. It can also be handy for returning users who want to explore datasets by topic or check the licencing information for dataset(s) they used.
 
 <p class="link1"><a href="#/main-content/introduction?id=_1-discover-data-sources" >View common painpoints/frustrations</a></p>
 
