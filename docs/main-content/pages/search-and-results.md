@@ -34,6 +34,8 @@
 <!-- tabs:end -->
 
 ## Components used in this example
+### [Search for data](main-content/steps/search-for-data)
+
 ### [Make sense of search results](main-content/steps/make-sense-of-search-results)
 * [Number of results](https://pautva.github.io/dd3-wireframes/#/main-content/steps/make-sense-of-search-results?id=_1-number-of-results)
 * [Faceted search](https://pautva.github.io/dd3-wireframes/#/main-content/steps/make-sense-of-search-results?id=_2-faceted-search-by-parent-child-categories)
