@@ -7,7 +7,7 @@ Homepage may not be the entry point to a data portal for many users, especially 
 
 ## What it looks like
 
-### 1. Pages should have clear, easy to find titles
+## 1. Page title
 
 The title should describe the contents of the page
 
@@ -15,11 +15,11 @@ The title should describe the contents of the page
 
 ![Google results](../../_media/help-navigate/simple-title.png)
 
-*Page title*
+*Pages should have clear, easy to find titles*
 
 </div>
 
-### 2. Human readable breadcrumbs
+## 2. Breadcrumbs
 
 Breadcrumbs allow users to easily jump to parent pages and see the website structure
 
@@ -27,11 +27,11 @@ Breadcrumbs allow users to easily jump to parent pages and see the website struc
 
 ![Google results](../../_media/help-navigate/breadcrumbs.png)
 
-*Example breadcrumbs*
+*Human readable breadcrumbs*
 
 </div>
 
-### 3. Easy way to get back to the homepage
+## 3. Fixed main navigation bar
 
 In case people get lost in the website structure, they should always be able to get back to homepage easily.
 
@@ -43,7 +43,7 @@ In case people get lost in the website structure, they should always be able to 
 
 </div>
 
-### 4. Easy way to explore related content
+## 4. Related datasets
 
 Can users easily find related datasets or datasets that belong to the same topic?
 
@@ -51,11 +51,11 @@ Can users easily find related datasets or datasets that belong to the same topic
 
 ![related datasets](../../_media/help-navigate/related-datasets.png)
 
-*Related datasets*
+*Easy way to explore related content*
 
 </div>
 
-### 5. Navigation should be consistent
+## 5. Consistent navigation
 
 * The titles should always be in the same place.
 * Links should have the same style
