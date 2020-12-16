@@ -57,8 +57,6 @@ User might want to share links with colleagues or send a link to themselves for 
 
 Download links to datasets should be accessible from dataset details page.
 
-<p class="link1"><a href="#/main-content/introduction?id=_2-search-within-data-portal" >View common painpoints/frustrations</a></p>
-
 ## Related
 
 * [Explore data online](/main-content/steps/explore-data-online)

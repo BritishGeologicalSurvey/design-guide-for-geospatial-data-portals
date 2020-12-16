@@ -53,6 +53,9 @@ If it is clear what information the users are looking for, it should be possible
 
 </div>
 
+## Example Page
+
+>**[Dataset details](/main-content/pages/dataset-details)**
 
 ## When to use this
 

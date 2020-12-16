@@ -70,7 +70,7 @@ Any additional metadata can have less visibility. To reduce the visual clutter o
 
 ## Example page
 
-* [Dataset details](/main-content/pages/dataset-details)
+> [Dataset details](/main-content/pages/dataset-details)
 
 ## Related
 
@@ -80,8 +80,6 @@ Any additional metadata can have less visibility. To reduce the visual clutter o
 ## When to use
 
 Dataset details page is used to present all available information related to a single specific dataset. 
-
-<p class="link1"><a href="#/main-content/introduction?id=_4-explore-data-records">View common painpoints/frustrations</a></p>
 
 ---
 
