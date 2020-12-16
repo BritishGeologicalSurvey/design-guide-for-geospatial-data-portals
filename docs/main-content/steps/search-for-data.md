@@ -82,7 +82,7 @@ Show most recent or popular queries.
 
 </div>
 
-## 5. Don't return no results
+## 6. Don't return no results
 
 If the users query doesn't match any search results - provide an actionable message on what they could do differently.
 
@@ -96,11 +96,11 @@ If some datasets have a 'near' match to search criteria they can be displayed as
 
 </div>
 
-## 6. Sort by and filter options
+## 7. Sort by and filter options
 
 if the initial search does not lead users to the dataset they are looking for, they should be able narrow down their search using filtering and sorting methods.
 
-## 7. Show users' search query on the results page
+## 8. Show users' search query on the results page
 
 Don't erase the search query in the search field so users can easily remember what they search for and alter their search keywords if required.
 
