@@ -22,13 +22,13 @@ Users should be able to search for data using keywords. Search field should be e
 
 </div>
 
-### 2. Advanced search
+## 2. Advanced search
 
 Users should be able to specify more detailed search criteria
 
 ?> More details can be found in [*Make sense of search results*](main-content/steps/make-sense-of-search-results)
 
-### 3. Spatial search
+## 3. Spatial search
 
 There are multiple ways to search for spatial data:
 
@@ -58,7 +58,7 @@ The list of datasets matching the search criteria could also be displayed next t
 
 </div>
 
-## 3. Provide tips on what users can search for
+## 4. Provide tips on what users can search for
 
 Include a sample query in the search bar to suggest to users what they can search for.
 
@@ -70,7 +70,7 @@ Include a sample query in the search bar to suggest to users what they can searc
 
 </div>
 
-## 4. Show search history
+## 5. Show search history
 
 Show most recent or popular queries.
 
