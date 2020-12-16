@@ -51,7 +51,7 @@ These concepts are useful when introducing new users to the data portal. It can 
 
 ## Example page
 
-> [Homepage](/main-content/pages/homepage)
+> **[Homepage](/main-content/pages/homepage)**
 
 ---
 
