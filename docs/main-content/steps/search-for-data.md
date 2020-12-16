@@ -126,7 +126,7 @@ When a user is searching for data to answer a specific research question.
 
 ## Related
 
-* [Make sense of search results.md](/main-content/steps/make-sense-of-search-results.md)
+* [Make sense of search results](/main-content/steps/make-sense-of-search-results.md)
 
 
 ---
