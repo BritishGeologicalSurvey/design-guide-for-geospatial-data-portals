@@ -120,7 +120,7 @@ Don't erase the search query in the search field so users can easily remember wh
 
 When a user is searching for data to answer a specific research question.
 
-## Example page
+### Example page
 
 * [Search / search results](main-content/pages/search-and-results)
 
