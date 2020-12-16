@@ -45,13 +45,13 @@ If a logo is available it should be displayed as well for easier recognition.
 
 ## When to use
 
-Knowing the properties of the dataset that convey its quality are important both at the searching stage and exploring a specific dataset.
+Knowing the properties of the dataset that convey its quality are important both at the searching stage and exploring a specific dataset
 
-## Example Pages
+### Example Pages
 
->**[Search results](/main-content/pages/homepage)**
-<br>
-**[Dataset details](/main-content/pages/dataset-details)**
+* [Search results](/main-content/pages/homepage)
+
+* [Dataset details](/main-content/pages/dataset-details)
 
 ## Related
 
