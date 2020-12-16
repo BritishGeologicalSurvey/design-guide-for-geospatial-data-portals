@@ -22,19 +22,14 @@
 
 **[Search for data](main-content/steps/search-for-data)**
 
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-
-
+* [Search field](https://pautva.github.io/dd3-wireframes/#/main-content/steps/search-for-data?id=_1-search-field)
+* [Advanced search](https://pautva.github.io/dd3-wireframes/#/main-content/steps/search-for-data?id=_2-advanced-search)
+* [Spatial search](https://pautva.github.io/dd3-wireframes/#/main-content/steps/search-for-data?id=_3-spatial-search)
+* [Provide tips on what users can search for](https://pautva.github.io/dd3-wireframes/#/main-content/steps/search-for-data?id=_4-provide-tips-on-what-users-can-search-for)
+* [Show search history](https://pautva.github.io/dd3-wireframes/#/main-content/steps/search-for-data?id=_5-show-search-history)
+* [Don’t return ‘no results’](https://pautva.github.io/dd3-wireframes/#/main-content/steps/search-for-data?id=_6-dont-return-no-results)
+* [Sort by and filter options](https://pautva.github.io/dd3-wireframes/#/main-content/steps/search-for-data?id=_7-sort-by-and-filter-options)
+* [Show users’ search query on the results page](https://pautva.github.io/dd3-wireframes/#/main-content/steps/search-for-data?id=_8-show-users-search-query-on-the-results-page)
 
 **[Make sense of search results](main-content/steps/make-sense-of-search-results)**
 
