@@ -53,7 +53,7 @@ This pattern is useful when introducing new users to the data portal. It can als
 
 ## Example page
 
-?> **[Homepage](/main-content/pages/homepage)**
+* [Homepage](/main-content/pages/homepage)
 
 ---
 
