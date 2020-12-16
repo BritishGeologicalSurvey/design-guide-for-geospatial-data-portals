@@ -53,7 +53,7 @@ User might want to share links with colleagues or send a link to themselves for 
 
 </div>
 
-## Why/when to use this 'pattern'
+## When to use
 
 Download links to datasets should be accessible from dataset details page.
 
