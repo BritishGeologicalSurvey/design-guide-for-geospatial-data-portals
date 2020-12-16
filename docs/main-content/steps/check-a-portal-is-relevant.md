@@ -9,7 +9,9 @@ Users might not always arrive via a data portal homepage, so this essential info
 
 The homepage should clearly answer these key questions:
 
-### 1. What is the purpose of this data portal, what are the topics it covers?
+## 1. Purpose of data portal
+
+What is the purpose of this data portal, what are the topics it covers?
 
 <div class="image-container">
 
@@ -19,7 +21,7 @@ The homepage should clearly answer these key questions:
 
 </div>
 
-### 2. Who is the organisation managing this portal?
+## 2. Organisation managing this portal?
 
 Users should be able to easily find more details about the organization managing the data portal either from the About Us page or the organization logo in the navbar.
 
@@ -31,19 +33,19 @@ Users should be able to easily find more details about the organization managing
 
 </div>
 
-### 3. What licences are the data shared under?
+## 3. Licencing
 
 Ideally users should be able to find the licencing details on the homepage ([see #1](/main-content/steps/check-a-portal-is-relevant#1-what-is-the-purpose-of-this-data-portal-what-are-the-topics-it-covers))
 
 If datasets have different licences,the information should be provided on each dataset's details page.
 
-### 4. Where do users start searching/exploring the data?
+## 4. Where to start?
 
-If the data portal does not not allow users to search for data directly from the homepage, they should easily find instructions where to start.
+Where do users start searching/exploring the data? If the data portal does not not allow users to search for data directly from the homepage, they should easily find instructions where to start.
 
-### 5. Help users navigate to homepage
+## 5. Navigate home
 
-If users arrive at other pages, and not the homepage, they should be able to easily access the Home or the About Us pages.
+Help users easily navigate to homepage. If users arrive at other pages, and not the homepage, they should be able to easily access the Home or the About Us pages.
 
 ## When to use
 
