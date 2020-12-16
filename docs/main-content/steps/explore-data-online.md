@@ -7,13 +7,6 @@ How important the data exploration online, depends on the data being provided an
 
 ## What it looks like
 
-<!-- tabs:start -->
-
-#### **Wireframe**
-<a href="/dd3-wireframes/_media/overview/4.explore.png" target="_blank"><img src="/dd3-wireframes/_media/overview/4.explore.png" data-no-zoom/></a>
-<!-- tabs:end -->
-
-
 There are multiple ways that the data can be explored online - tables, charts, maps.
 
 Users previewing the data online might have one of these goals:
@@ -21,6 +14,12 @@ Users previewing the data online might have one of these goals:
 * Preview the data online to get a better understanding of its contents
 
 If users require only a specific value, there is no need to display additional information. After a simple post code or location search they could be presented with a value for that location.
+
+### 1. Visualize data online
+
+### 2. Preview data online
+
+### 3. Get specific information online
 
 <div class="image-container">
 
