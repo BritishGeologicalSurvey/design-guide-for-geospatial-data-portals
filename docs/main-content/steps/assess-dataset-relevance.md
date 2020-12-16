@@ -70,7 +70,7 @@ Any additional metadata can have less visibility. To reduce the visual clutter o
 
 ## When to use
 
-To present information about a single dataset record
+To present information about a single dataset record.
 
 
 ### Example page
