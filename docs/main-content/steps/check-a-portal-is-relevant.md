@@ -21,7 +21,7 @@ What is the purpose of this data portal, what are the topics it covers?
 
 </div>
 
-## 2. Organisation managing this portal?
+## 2. Organization managing this portal?
 
 Users should be able to easily find more details about the organization managing the data portal either from the About Us page or the organization logo in the navbar.
 
@@ -53,7 +53,7 @@ These concepts are useful when introducing new users to the data portal. It can 
 
 ## Example page
 
-> [Homepage](/main-content/pages/homepage)
+> **[Homepage](/main-content/pages/homepage)**
 
 ---
 
