@@ -55,13 +55,11 @@ If it is clear what information the users are looking for, it should be possible
 
 ## Example Page
 
-* [Dataset details](/main-content/pages/dataset-details)
+> **[Dataset details](/main-content/pages/dataset-details)**
 
 ## When to use this
 
 This pattern can be used to address specific user needs directly within the data portal. Previews give information on data quality and relevancy prior to download and use. Options to download a sample or a selection of the dataset are helpful to users who are on limited internet bandwidths.
-
-<p class="link1"><a href="#/main-content/introduction?id=_4-explore-data-records" >View common painpoints/frustrations</a></p>
 
 ---
 
