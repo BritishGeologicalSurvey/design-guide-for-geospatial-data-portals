@@ -15,9 +15,9 @@ Users previewing the data online might have one of these goals:
 
 If users require only a specific value, there is no need to display additional information. After a simple post code or location search they could be presented with a value for that location.
 
-### 1. Visualize data online
+### 1. Preview data
 
-### 2. Preview data online
+### 2. Visualize data
 
 ### 3. Get specific information online
 
@@ -47,9 +47,9 @@ If technology and resources allow a more detailed data preview can also help use
 
 <!-- tabs:end -->
 
-## When to use
+## Why/when to use this 'pattern'
 
-This approach should be used when specific user needs can be addressed directly within the data portal - providing them the information they require without downloading the dataset.
+This pattern can be used when specific user needs can be addressed directly within the data portal - providing them the information they require without downloading the dataset.
 
 But this depends on the user needs and data type. If users require to download the whole dataset, then giving the option to preview it online can help them make a more informed decision about the usefulness of the dataset.
 

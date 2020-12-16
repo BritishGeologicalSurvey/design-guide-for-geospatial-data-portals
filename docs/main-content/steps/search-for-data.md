@@ -11,7 +11,7 @@ Ideally the data portal should support both of these methods - keywords search a
 
 ## 1. Search field
 
-Users should be able to search for data using keywords.
+Users should be able to search for data using keywords. Search field should be easily noticeable. Since search is one of the primary functions of data portal, it should be accessible from any page of portal. 
 <!-- some confusion over the wording here -->
 
 <div class="image-container">
@@ -48,15 +48,7 @@ Whichever way is used, it should be made clear to the user what will be included
 
 </div>
 
-<<<<<<< HEAD
 The list of datasets matching the search criteria could also be displayed next to the map for easier browsing.
-
-### 2. Display search field prominently
-=======
-## 2. Display search field prominently
->>>>>>> 5692ca91c1896a63c207cd5d017b8cc63e4bb054
-
-Search box should be easily noticeable. Since search is one of the primary functions of data portal, it should be accessible from any page of portal. A good place for it would be in the navigation bar.
 
 <div class="image-container">
 
