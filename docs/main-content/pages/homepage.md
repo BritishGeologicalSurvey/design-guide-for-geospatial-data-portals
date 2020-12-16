@@ -21,10 +21,13 @@
 
 ## Components used in this example
 
-#### [Discover your portal](main-content/steps/discover-your-portal)
+**[Discover your portal](main-content/steps/discover-your-portal)**
 <!-- typo in the link url -->
-#### [Chcck if a portal is relevant](main-content/steps/check-a-portal-is-relevant)
-#### [Navigate the portal](main-content/steps/search-for-data)
+
+**[Chcck if a portal is relevant](main-content/steps/check-a-portal-is-relevant)**
+
+**[Navigate the portal](main-content/steps/search-for-data)**
+
 * [Search field](https://pautva.github.io/dd3-wireframes/#/main-content/steps/search-for-data?id=_1-search-field)
 * [Display search field prominently](https://pautva.github.io/dd3-wireframes/#/main-content/steps/search-for-data?id=_2-display-search-field-prominently)
 * [Provide tips on what users can search for](https://pautva.github.io/dd3-wireframes/#/main-content/steps/search-for-data?id=_3-provide-tips-on-what-users-can-search-for)
