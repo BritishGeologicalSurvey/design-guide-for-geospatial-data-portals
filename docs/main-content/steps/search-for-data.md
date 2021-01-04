@@ -38,8 +38,6 @@ There are multiple ways to search for spatial data:
 
 Whichever way is used, it should be made clear to the user what will be included in the search results and what coordinate system is used.
 
-
-
 <div class="image-container">
 
 ![Map View](../../_media/search-for-data/map-view.png)
@@ -48,13 +46,23 @@ Whichever way is used, it should be made clear to the user what will be included
 
 </div>
 
-The list of datasets matching the search criteria could also be displayed next to the map for easier browsing.
+If it's possible to search for datasets on a map, the search results should be combined with a list view for easier navigation.
 
 <div class="image-container">
 
-![Google results](../../_media/search-for-data/navbar-search.png)
+![Map View](../../_media/search-for-data/map-and-list.png)
 
-*Search in the navigation bar*
+*Search results in a list and map view*
+
+</div>
+
+User should also be able to easily switch between map view and list view.
+
+<div class="image-container">
+
+![Map View](../../_media/search-for-data/map-to-list.gif)
+
+*Switching between map and list view*
 
 </div>
 
