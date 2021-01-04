@@ -7,7 +7,7 @@ Homepage may not be the entry point to a data portal for many users, especially 
 
 ## What it looks like
 
-## 1. Page title
+### 1. Page title
 
 The title should describe the contents of the page
 
@@ -19,7 +19,7 @@ The title should describe the contents of the page
 
 </div>
 
-## 2. Breadcrumbs
+### 2. Breadcrumbs
 
 Breadcrumbs allow users to easily jump to parent pages and see the website structure
 
@@ -31,7 +31,7 @@ Breadcrumbs allow users to easily jump to parent pages and see the website struc
 
 </div>
 
-## 3. Fixed main navigation bar
+### 3. Fixed main navigation bar
 
 In case people get lost in the website structure, they should always be able to get back to homepage easily.
 
@@ -43,7 +43,7 @@ In case people get lost in the website structure, they should always be able to 
 
 </div>
 
-## 4. Related datasets
+### 4. Related datasets
 
 Can users easily find related datasets or datasets that belong to the same topic?
 
@@ -55,12 +55,12 @@ Can users easily find related datasets or datasets that belong to the same topic
 
 </div>
 
-## 5. Navigate home
+### 5. Navigate home
 
 Help users easily navigate to homepage. If users arrive at other pages, and not the homepage, they should be able to easily access the Home or the About Us pages.
 
 
-## 6. Consistent navigation
+### 6. Consistent navigation
 
 * The titles should always be in the same place.
 * Links should have the same style

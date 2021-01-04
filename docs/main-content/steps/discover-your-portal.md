@@ -11,11 +11,11 @@ A more detailed report and recommendations can be found in the report below.
 !> Find more details in the [Search engine optimisation for publishers: Best practice guide](https://www.gov.uk/government/publications/search-engine-optimisation-for-publishers-best-practice-guide)
 ## What it looks like
 
-## 1. Title
+### 1. Title
 
 The heading should briefly describe the dataset. If any extra text is used - organization name, date, etc. - it should be placed at the end of dataset name, e.g. **dataset-title | organization name | date-produced**.
 
-## 2. Description
+### 2. Description
 
 Only the first few lines of the description will be visible in the search results, so the first few sentences should have the most relevant information.
 

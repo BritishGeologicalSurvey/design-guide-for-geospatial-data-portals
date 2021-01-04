@@ -9,7 +9,7 @@ Ideally the data portal should support both of these methods - keywords search a
 
 ## What it looks like
 
-## 1. Search field
+### 1. Search field
 
 Users should be able to search for data using keywords. Search field should be easily noticeable. Since search is one of the primary functions of data portal, it should be accessible from any page of portal. 
 <!-- some confusion over the wording here -->
@@ -22,13 +22,13 @@ Users should be able to search for data using keywords. Search field should be e
 
 </div>
 
-## 2. Advanced search
+### 2. Advanced search
 
 Users should be able to specify more detailed search criteria
 
 ?> More details can be found in [*Make sense of search results*](main-content/steps/make-sense-of-search-results)
 
-## 3. Spatial search
+### 3. Spatial search
 
 There are multiple ways to search for spatial data:
 
@@ -58,7 +58,7 @@ The list of datasets matching the search criteria could also be displayed next t
 
 </div>
 
-## 4. Provide tips on what users can search for
+### 4. Provide tips on what users can search for
 
 Include a sample query in the search bar to suggest to users what they can search for.
 
@@ -70,7 +70,7 @@ Include a sample query in the search bar to suggest to users what they can searc
 
 </div>
 
-## 5. Show search history
+### 5. Show search history
 
 Show most recent or popular queries.
 
@@ -82,7 +82,7 @@ Show most recent or popular queries.
 
 </div>
 
-## 6. Don't return 'no results'
+### 6. Don't return 'no results'
 
 If the users query doesn't match any search results - provide an actionable message on what they could do differently.
 
@@ -96,11 +96,11 @@ If some datasets have a 'near' match to search criteria they can be displayed as
 
 </div>
 
-## 7. Sort by and filter options
+### 7. Sort by and filter options
 
 if the initial search does not lead users to the dataset they are looking for, they should be able narrow down their search using filtering and sorting methods.
 
-## 8. Show users' search query on the results page
+### 8. Show users' search query on the results page
 
 Don't erase the search query in the search field so users can easily remember what they search for and alter their search keywords if required.
 
