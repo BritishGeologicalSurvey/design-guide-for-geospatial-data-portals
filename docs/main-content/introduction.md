@@ -1,6 +1,6 @@
 # Spatial data portals
 
-Increase the discoverability and usefulness of spatial data by designing data portals that satisfy user needs.
+*Increase the discoverability and usefulness of spatial data by designing data portals that satisfy user needs.*
 
 Data portals differ by the data they provide and the audiences they serve, so these recommendations are general and focus on designs to address frustrations that users experience during different stages of their journey from data discovery to usage. For the purposes of this guidance, data portals are described as web-based interfaces designed to help users find and access datasets. Optimally, they should be built around metadata records which describe datasets, provide pointers to where they can be located and explain any restrictions or limitations in their use.
 
@@ -15,15 +15,16 @@ Throughout 2019 the Geo6 have worked on solutions to address pain points identif
 !> This is not a design system for spatial data. We have not developed re-usable code or created style guides, if such resources are of interest please visit the [GOV.UK Design System](https://design-system.service.gov.uk/get-started/).
 
 ## Research your users
-We are presenting highlevel generic recommendations but the exact requirements for any given portal will vary according to the data volumes and subject matters covered as well as the needs of your targget audience. This resource is not a replacement for portal specific user research and design work.  
+We are presenting high level generic recommendations but the exact requirements for any given portal will vary according to the data volumes and subject matters covered as well as the needs of your target audience. This resource is not a replacement for portal specific user research and design work.  
 
 ## User journey
-Users discover, access and interact with data portals in a range of ways depending on what they are trying to achive, who they are and whether they are a first time vistor or a regular user. We have identifed five broad stages of most user journeys. Below is the archetypical journey people might go through in their search for data. It doesn’t mean that every user will go through the same stages, but they represent the steps the majority of people would have to complete in order to find, get access and make use of spatial data. 
+Users discover, access and interact with data portals in a range of ways depending on what they are trying to achieve, who they are and whether they are a first time vistor or a regular user. We have identified five broad stages of most user journeys. Below is the archetypical journey people might go through in their search for data. It doesn’t mean that every user will go through the same stages, but they represent the steps the majority of people would have to complete in order to find, get access and make use of spatial data. 
 
 ![User Journey Stages](../_media/spatial-data-journey-v3.svg)
 
 ## Common painpoints for users
 User research conducted on behalf of the Geospatial Commision identifed many issues that led to users being confused and frustrated when [Finding Geospatial Data](https://www.gov.uk/government/publications/finding-geospatial-data/finding-geospatial-data). Poor usability and functionality reduces trust and impact of potentially valuable data. 
+
 
 Our recommendations are designed to address the following painpoints, grouped by user journey stage:  
 
