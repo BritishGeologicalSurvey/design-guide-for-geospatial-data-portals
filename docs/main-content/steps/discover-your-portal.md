@@ -11,7 +11,7 @@ A more detailed report and recommendations can be found in the report below.
 !> Find more details in the [Search engine optimisation for publishers: Best practice guide](https://www.gov.uk/government/publications/search-engine-optimisation-for-publishers-best-practice-guide)
 ## What it looks like
 
-Using the search engine, the users are most likely to discover either one of the datasets hosted by the data portal or the homepage of the portal itself. It is important that the datasets have easy to read and understand titles and descriptions and the portal has memorable url and brief description of its purpose.
+Using the search engine, the users are most likely to discover either one of the datasets hosted by the data portal or the homepage of the portal itself. It is important that the datasets have easy to read and understandable titles and descriptions and the portal has a memorable url and brief description of its purpose.
 
 ## 1. Dataset title
 
