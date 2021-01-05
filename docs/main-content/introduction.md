@@ -18,7 +18,7 @@ Throughout 2019 the Geo6 have worked on solutions to address pain points identif
 We are presenting high level generic recommendations but the exact requirements for any given portal will vary according to the data volumes and subject matters covered as well as the needs of your target audience. This resource is not a replacement for portal specific user research and design work.  
 
 ## User journey
-Users discover, access and interact with data portals in a range of ways depending on what they are trying to achieve, who they are and whether they are a first time vistor or a regular user. We have identified five broad stages of most user journeys. Below is the archetypical journey people might go through in their search for data. It doesn’t mean that every user will go through the same stages, but they represent the steps the majority of people would have to complete in order to find, get access and make use of spatial data. 
+Users discover, access and interact with data portals in a range of ways depending on what they are trying to achieve, who they are and whether they are a first time visitor or a regular user. We have identified five broad stages of most user journeys. Below is the archetypical journey people might go through in their search for data. It doesn’t mean that every user will go through the same stages, but they represent the steps the majority of people would have to complete in order to find, get access and make use of spatial data. 
 
 ![User Journey Stages](../_media/spatial-data-journey-v3.svg)
 

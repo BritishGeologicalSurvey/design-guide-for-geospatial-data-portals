@@ -1,5 +1,5 @@
 # Help users to...
-As users progress therough their journey, they perform certain tasks, some spanning more than one of the high level stages (described above). Our recomendations in the Help Users To... section address each of these user needs, for example [Helps User To... Discover your portal](main-content/steps/discover-your-portal) .   
+As users progress therough their journey, they perform certain tasks, some spanning more than one of the high level stages (described in the [introduction](/main-content/introduction)). Our recomendations in the Help Users To... section address each of these user needs, for example [Helps User To... Discover your portal](main-content/steps/discover-your-portal) .   
 
 ![User tasks](../../_media/help-users.svg)
 
