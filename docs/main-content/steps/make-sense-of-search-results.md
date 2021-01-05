@@ -18,7 +18,7 @@ Search results should clearly answer:
 + Easily access more information about a single record
 
 
-## 1. Number of results
+### 1. Number of results
 
 <div class="image-container">
 <a href="/dd3-wireframes/_media/stage-3-results/2-number_of_results.png" target="_blank"><img src="/dd3-wireframes/_media/stage-3-results/2-number_of_results.png" style="max-width: 452px;"/></a>
@@ -27,7 +27,7 @@ Search results should clearly answer:
 
 </div>
 
-## 2. Faceted search (by parent / child categories)
+### 2. Faceted search (by parent / child categories)
 
 <div class="image-container">
 
@@ -37,7 +37,7 @@ Search results should clearly answer:
 
 </div>
 
-## 3. Remove filters
+### 3. Remove filters
 
 <div class="image-container">
 <a href="/dd3-wireframes/_media/stage-3-results/4-clear_filters.png" target="_blank"><img src="/dd3-wireframes/_media/stage-3-results/4-clear_filters.png" style="max-width: 300px;"/></a>
@@ -45,7 +45,7 @@ Search results should clearly answer:
 *Users should be able to undo a selection quickly and easily*
 </div>
 
-## 4. Sort by
+### 4. Sort by
 
 <div class="image-container">
 <a href="/dd3-wireframes/_media/stage-3-results/5-sort_by.png" target="_blank"><img src="/dd3-wireframes/_media/stage-3-results/5-sort_by.png" style="max-width: 232px;" data-no-zoom/></a>
@@ -54,7 +54,7 @@ Search results should clearly answer:
 
 </div>
 
-## 5. Apply filters
+### 5. Apply filters
 
 <div class="image-container">
 <a href="/dd3-wireframes/_media/stage-3-results/6-apply_filters.png" target="_blank"><img src="/dd3-wireframes/_media/stage-3-results/6-apply_filters.png" style="max-width: 304px;"/></a>
@@ -63,7 +63,7 @@ Search results should clearly answer:
 
 </div>
 
-## 6. Geospatial filter
+### 6. Geospatial filter
 
 <div class="image-container">
 <a href="/dd3-wireframes/_media/stage-3-results/7b-presentation_of_results.png" target="_blank"><img src="/dd3-wireframes/_media/stage-3-results/7b-presentation_of_results.png" style="max-width: 299px;"/></a>
@@ -72,7 +72,7 @@ Search results should clearly answer:
 
 </div>
 
-## 7. Results list
+### 7. Results list
 
 
 <div class="image-container">

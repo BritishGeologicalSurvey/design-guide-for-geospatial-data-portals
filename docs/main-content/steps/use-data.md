@@ -13,15 +13,15 @@
 
 </div>
 
-## 1. Download button
+### 1. Download button
 
 Download link should be clearly visible on the dataset details page. If dataset is not available for download yet, it should be clearly indicated why and if/when the dataset will become available.
 
-## 2. Clear licencing information
+### 2. Clear licencing information
 
 If any licencing restrictions apply, they should be made clear upfront.
 
-## 3. Display data formats
+### 3. Display data formats
 
 Users should know what format the data is in before downloading it.
 
@@ -33,15 +33,15 @@ Users should know what format the data is in before downloading it.
 
 </div>
 
-## 4. API Access
+### 4. API Access
 
 If data can be accessed through an API, clear instructions how to do that should be easily accessible to users.
 
-## 5. File selection for partial downloads
+### 5. File selection for partial downloads
 
 If possible, allow users to select which files in the dataset to download. If not, they should at least know what is included in the download file
 
-## 6. Sharing options
+### 6. Sharing options
 
 User might want to share links with colleagues or send a link to themselves for later use.
 
