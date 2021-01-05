@@ -15,7 +15,7 @@ Using the search engine, the users are most likely to discover either one of the
 
 ## 1. Dataset title
 
-The heading should briefly describe the dataset. If any extra text is used - organization name, date, etc. - it should be placed at the end of dataset name, e.g. **dataset-title | organization name | date-produced**.
+The heading should briefly describe the dataset. If any extra text is used - organisation name, date, etc. - it should be placed at the end of dataset name, e.g. **dataset-title | organisation name | date-produced**.
 
 ## 2. Dataset description
 
