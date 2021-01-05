@@ -126,7 +126,7 @@ Don't erase the search query in the search field so users can easily remember wh
 
 ## When to use
 
-When a user is searching for data to answer a specific research question.
+Search functionality is important for data portals that have more datasets than can easily be presented on a single page.
 
 ### Example page
 
