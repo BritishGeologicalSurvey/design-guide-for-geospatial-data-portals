@@ -67,7 +67,7 @@ If there are multiple ways to access data (e.g. API access), instructions should
 
 ### 9. Location preview
 
-Clearly show the geographical extent of the data (pin on the map or polygon of area covered). If coordinates are included, provide information about the reference system used. If terrain elevation data is available it could be displayed together with the geographical extent.
+Clearly show the geographical extent of the data (pin on the map or polygon of area covered). If coordinates are included, provide information about the coordinate reference system used. If the terrain elevation is known it should be displayed together with the geographical extent.
 
 <div class="image-container">
 
@@ -91,13 +91,13 @@ Any additional metadata can have less visibility. To reduce the visual clutter o
 
 ### 11. Related datasets
 
-Related datasets can help users explore similar datasets. They can be displayed in a list and map view. 
+Related datasets can help users explore similar datasets. They can be displayed in a list or map view. 
 
-A few possible ways to group related datasets:
+A few possible ways to group and identify related datasets include:
 
-* Datasets nearby
-* Datasets from same topics
-* Datasets from the same provider
+* Nearby datasets
+* By topics and keywords
+* By provider or publisher
 
 <div class="image-container">
 
@@ -115,46 +115,12 @@ List view             |  Map view
 To present information about a single dataset record.
 
 
-### Example page
+## Example page
 
 > **[Dataset details](/main-content/pages/dataset-details)**
 
-## Related
+<!-- ## Related
 
 * [Help users to explore data online](main-content/steps/explore-data-online)
-* [Best practice guidance and tools for geospatial data managers](https://www.gov.uk/government/collections/best-practice-guidance-and-tools-for-geospatial-data-managers)
-
-
----
-
-<!-- Additional information can be presented in dropdown menus -->
-
-<details>
-<summary>Essential components</summary>
-<br>
-Below is a checklist of components/information that are relevant for this task.
-
-These components can be arranged in many ways, but the ones with highest relevance should be the most visible/accessible.
-
-?> 1 - high relevance, 2 - medium relevance, 3 - low relevance
-
-<!-- Table of component start -->
-
-| Component             | Description                                                                                                   | Relevance |
-|-----------------------|---------------------------------------------------------------------------------------------------------------|:---------:|
-| Title                 | Descriptive but not too long                                                                                  |     1     |
-| Description / Summary | A brief summary of the dataset outlining what is included in the dataset and for what purpose it was created. |     1     |
-| Topics                | Dataset topics which allow users to easily jump to them                                                       |     1     |
-| Organization name     | Organization that produced the dataset                                                                        |     1     |
-| Last updated          | When was the dataset updated last. Possibly a changelog if available                                          |     1     |
-| Created on            | When was the dataset created                                                                                  |     1     |
-| Data explorer         | An ability to preview the files included in the dataset and to select which ones to download                  |     3     |
-| Data preview          | An ability to preview the dataset in map, table or graph                                                      |     3     |
-| Related datasets      | Datasets related by topic, proximity or any other suitable property                                           |     2     |
-| Location preview      | Pin on the map or a polygon showing the geographical extent of the data                                       |     2     |
-| Citation details      | Details on how the dataset should be cited                                                                    |     2     |
-| Home link             | Easy way to get back to data portal's homepage                                                                |     2     |
-| Search bar            | An easy way to search for other dataset within the same portal                                                |     3     |
-
-</details>
+* [Best practice guidance and tools for geospatial data managers](https://www.gov.uk/government/collections/best-practice-guidance-and-tools-for-geospatial-data-managers) -->
 
