@@ -55,7 +55,27 @@ Date when the dataset was updated last and the frequency of updates
 
 If the data is available for download, the download link should be easy to find and access on the page. Ideally it should always stay on the page as the users are exploring the dataset details page. If the dataset is not available for download, it should be indicated why and when it would become available.
 
-### 9. Additional metadata
+<div class="image-container">
+
+![Additional info](../../_media/assess-dataset-relevance/download-panel.png)
+
+*Download link*
+
+</div>
+
+### 9. Location preview
+
+Clearly show the geographical extent of the data (pin on the map or polygon of area covered). If coordinates are included, provide information about the reference system used. If terrain elevation data is available it could be displayed together with the geographical extent.
+
+<div class="image-container">
+
+![Additional info](../../_media/assess-dataset-relevance/quick-overview.png)
+
+*Location preview*
+
+</div>
+
+### 10. Additional metadata
 
 Any additional metadata can have less visibility. To reduce the visual clutter on the screen it can be displayed in different tabs or dropdown menus.
 
@@ -67,6 +87,25 @@ Any additional metadata can have less visibility. To reduce the visual clutter o
 
 </div>
 
+### 11. Related datasets
+
+Related datasets can help users explore similar datasets. They can be displayed in a list and map view. 
+
+A few possible ways to group related datasets:
+
+* Datasets nearby
+* Datasets from same topics
+* Datasets from the same provider
+
+<div class="image-container">
+
+                                   List View                                   |                                   Map View
+:-----------------------------------------------------------------------------:|:----------------------------------------------------------------------------:
+![Additional info](../../_media/assess-dataset-relevance/similar-datasets.png) | ![Additional info](../../_media/assess-dataset-relevance/nearby-datasets.png)
+
+*Related datasets in list and map view*
+
+</div>
 
 ## When to use
 
@@ -108,7 +147,8 @@ These components can be arranged in many ways, but the ones with highest relevan
 | Created on            | When was the dataset created                                                                                  |     1     |
 | Data explorer         | An ability to preview the files included in the dataset and to select which ones to download                  |     3     |
 | Data preview          | An ability to preview the dataset in map, table or graph                                                      |     3     |
-| Related dataset       | Datasets related by topic, proximity or any other suitable property                                           |     2     |
+| Related datasets      | Datasets related by topic, proximity or any other suitable property                                           |     2     |
+| Location preview      | Pin on the map or a polygon showing the geographical extent of the data                                       |     2     |
 | Citation details      | Details on how the dataset should be cited                                                                    |     2     |
 | Home link             | Easy way to get back to data portal's homepage                                                                |     2     |
 | Search bar            | An easy way to search for other dataset within the same portal                                                |     3     |
