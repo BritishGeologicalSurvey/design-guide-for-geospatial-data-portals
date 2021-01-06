@@ -46,3 +46,36 @@
 * [API Access](https://pautva.github.io/dd3-wireframes/#/main-content/steps/use-data?id=_4-api-access)
 * [File selection for partial downloads](https://pautva.github.io/dd3-wireframes/#/main-content/steps/use-data?id=_5-file-selection-for-partial-downloads)
 * [Sharing options](https://pautva.github.io/dd3-wireframes/#/main-content/steps/use-data?id=_6-sharing-options)
+
+---
+
+<!-- Additional information can be presented in dropdown menus -->
+
+<details>
+<summary>Essential components</summary>
+<br>
+Below is a checklist of components/information that are relevant for this task.
+
+These components can be arranged in many ways, but the ones with highest relevance should be the most visible/accessible.
+
+?> 1 - high relevance, 2 - medium relevance, 3 - low relevance
+
+<!-- Table of component start -->
+
+| Component             | Description                                                                                                   | Relevance |
+|-----------------------|---------------------------------------------------------------------------------------------------------------|:---------:|
+| Title                 | Descriptive but not too long                                                                                  |     1     |
+| Description / Summary | A brief summary of the dataset outlining what is included in the dataset and for what purpose it was created. |     1     |
+| Topics                | Dataset topics which allow users to easily jump to them                                                       |     1     |
+| Organization name     | Organization that produced the dataset                                                                        |     1     |
+| Last updated          | When was the dataset updated last. Possibly a changelog if available                                          |     1     |
+| Created on            | When was the dataset created                                                                                  |     1     |
+| Data explorer         | An ability to preview the files included in the dataset and to select which ones to download                  |     3     |
+| Data preview          | An ability to preview the dataset in map, table or graph                                                      |     3     |
+| Related datasets      | Datasets related by topic, proximity or any other suitable property                                           |     2     |
+| Location preview      | Pin on the map or a polygon showing the geographical extent of the data                                       |     2     |
+| Citation details      | Details on how the dataset should be cited                                                                    |     2     |
+| Home link             | Easy way to get back to data portal's homepage                                                                |     2     |
+| Search bar            | An easy way to search for other dataset within the same portal                                                |     3     |
+
+</details>

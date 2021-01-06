@@ -53,9 +53,31 @@ Date when the dataset was updated last and the frequency of updates
 
 ### 8. Download link
 
-If the data is available for download, the download link should be easy to find and access on the page. Ideally it should always stay on the page as the users are exploring the dataset details page. If the dataset is not available for download, it should be indicated why and when it would become available.
+If the data is available for download, the download link should be easy to find and access on the dataset details page. Ideally it should always stay visible on the screen as the users are exploring the dataset details page. If the dataset is not available for download, it should be indicated why or when it would become available.
 
-### 9. Additional metadata
+If there are multiple ways to access data (e.g. API access), instructions should be provided on how to do that.
+
+<div class="image-container">
+
+![Additional info](../../_media/assess-dataset-relevance/download-panel.png)
+
+*Download link*
+
+</div>
+
+### 9. Location preview
+
+Clearly show the geographical extent of the data (pin on the map or polygon of area covered). If coordinates are included, provide information about the coordinate reference system used. If the terrain elevation is known it should be displayed together with the geographical extent.
+
+<div class="image-container">
+
+![Additional info](../../_media/assess-dataset-relevance/quick-overview.png)
+
+*Location preview*
+
+</div>
+
+### 10. Additional metadata
 
 Any additional metadata can have less visibility. To reduce the visual clutter on the screen it can be displayed in different tabs or dropdown menus.
 
@@ -67,51 +89,38 @@ Any additional metadata can have less visibility. To reduce the visual clutter o
 
 </div>
 
+### 11. Related datasets
+
+Related datasets can help users explore similar datasets. They can be displayed in a list or map view. 
+
+A few possible ways to group and identify related datasets include:
+
+* Nearby datasets
+* By topics and keywords
+* By provider or publisher
+
+<div class="image-container">
+
+
+List view             |  Map view
+:-------------------------:|:-------------------------:
+![Additional info](../../_media/assess-dataset-relevance/similar-datasets.png) | ![Additional info](../../_media/assess-dataset-relevance/nearby-datasets.png)
+
+*Related datasets in list and map view*
+
+</div>
 
 ## When to use
 
 To present information about a single dataset record.
 
 
-### Example page
+## Example page
 
 > **[Dataset details](/main-content/pages/dataset-details)**
 
-## Related
+<!-- ## Related
 
 * [Help users to explore data online](main-content/steps/explore-data-online)
-* [Best practice guidance and tools for geospatial data managers](https://www.gov.uk/government/collections/best-practice-guidance-and-tools-for-geospatial-data-managers)
-
-
----
-
-<!-- Additional information can be presented in dropdown menus -->
-
-<details>
-<summary>Essential components</summary>
-<br>
-Below is a checklist of components/information that are relevant for this task.
-
-These components can be arranged in many ways, but the ones with highest relevance should be the most visible/accessible.
-
-?> 1 - high relevance, 2 - medium relevance, 3 - low relevance
-
-<!-- Table of component start -->
-
-| Component             | Description                                                                                                   | Relevance |
-|-----------------------|---------------------------------------------------------------------------------------------------------------|:---------:|
-| Title                 | Descriptive but not too long                                                                                  |     1     |
-| Description / Summary | A brief summary of the dataset outlining what is included in the dataset and for what purpose it was created. |     1     |
-| Topics                | Dataset topics which allow users to easily jump to them                                                       |     1     |
-| Organization name     | Organization that produced the dataset                                                                        |     1     |
-| Last updated          | When was the dataset updated last. Possibly a changelog if available                                          |     1     |
-| Created on            | When was the dataset created                                                                                  |     1     |
-| Data explorer         | An ability to preview the files included in the dataset and to select which ones to download                  |     3     |
-| Data preview          | An ability to preview the dataset in map, table or graph                                                      |     3     |
-| Related dataset       | Datasets related by topic, proximity or any other suitable property                                           |     2     |
-| Citation details      | Details on how the dataset should be cited                                                                    |     2     |
-| Home link             | Easy way to get back to data portal's homepage                                                                |     2     |
-| Search bar            | An easy way to search for other dataset within the same portal                                                |     3     |
-
-</details>
+* [Best practice guidance and tools for geospatial data managers](https://www.gov.uk/government/collections/best-practice-guidance-and-tools-for-geospatial-data-managers) -->
 
