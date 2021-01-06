@@ -53,7 +53,9 @@ Date when the dataset was updated last and the frequency of updates
 
 ### 8. Download link
 
-If the data is available for download, the download link should be easy to find and access on the page. Ideally it should always stay on the page as the users are exploring the dataset details page. If the dataset is not available for download, it should be indicated why and when it would become available.
+If the data is available for download, the download link should be easy to find and access on the dataset details page. Ideally it should always stay visible on the screen as the users are exploring the dataset details page. If the dataset is not available for download, it should be indicated why or when it would become available.
+
+If there are multiple ways to access data (e.g. API access), instructions should be provided on how to do that.
 
 <div class="image-container">
 
@@ -99,8 +101,9 @@ A few possible ways to group related datasets:
 
 <div class="image-container">
 
-                                   List View                                   |                                   Map View
-:-----------------------------------------------------------------------------:|:----------------------------------------------------------------------------:
+
+List view             |  Map view
+:-------------------------:|:-------------------------:
 ![Additional info](../../_media/assess-dataset-relevance/similar-datasets.png) | ![Additional info](../../_media/assess-dataset-relevance/nearby-datasets.png)
 
 *Related datasets in list and map view*
