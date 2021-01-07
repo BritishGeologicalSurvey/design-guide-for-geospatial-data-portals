@@ -49,7 +49,7 @@ Provide users with information about when a dataset was created and the period o
 
 ### 7. Update frequency and last updated date
 
-Indicate how current datasets are to users with information about when a dataset was last updated and the frequency of updates.
+Indicate how current datasets are, providing users with information about when a dataset was last updated and the frequency of updates.
 
 <div class="image-container">
 

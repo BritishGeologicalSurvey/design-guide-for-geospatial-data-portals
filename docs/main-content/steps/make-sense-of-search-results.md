@@ -3,7 +3,7 @@
 
 > Search results should be clearly presented with sufficient sorting and filtering options to help users further refine and sort their search results. It is important that users are given enough information to understand and identify relevant high quality results quickly.
 
-Faceted search allow users to refine search results through sorting (order of results), filtering (number of results) and categorisation (parent category). Sorting and filtering should be available to users at the time of entering keywords and not hidden or buried behind an "advanced search option". In addition, Sorting and filtering are perceived as the same function and should therefore appear in the same part of the user interface.
+Faceted search allow users to refine search results through sorting (order of results), filtering (number of results) and categorisation (parent category). Sorting and filtering should be available to users at the time of entering keywords and not hidden or buried behind an "advanced search option". In addition, sorting and filtering are perceived as the same function and should therefore appear in the same part of the user interface.
 
 Users will always arrive at a 'search results' page after performing a search query using one of the available search input methods. See [search for 
 data](main-content/steps/search-for-data).
