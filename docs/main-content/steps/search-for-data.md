@@ -56,7 +56,7 @@ If it's possible to search for datasets on a map, the search results should be c
 
 </div>
 
-User should also be able to easily switch between map view and list view.
+Users often prefer to search for datasets using a map interface. If such functionality is available, it should be easily discoverable and well integrated with regular searching and filtering methods - users should be able to easily switch between map view and list view on the *[search results page](search-and-results)*.
 
 <div class="image-container">
 
