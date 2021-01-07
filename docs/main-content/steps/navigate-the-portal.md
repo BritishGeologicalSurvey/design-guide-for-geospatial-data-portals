@@ -7,9 +7,13 @@ Homepage may not be the entry point to a data portal for many users, especially 
 
 ## What it looks like
 
-### 1. Page title
+### 1. Consistent navigation across the website
 
-The title should describe the contents of the page
+Navigation should be consistent, enabling users to understand where in the website they are and how to find relevant information. Titles should always be in the same place, links should have the same style and breadcrumbs should have consistent structure. 
+
+### 2. Page title
+
+Pages titles help users understand the purpose of each page and ensure relevant pages appear higher in search engine rankings.
 
 <div class="image-container">
 
@@ -19,19 +23,7 @@ The title should describe the contents of the page
 
 </div>
 
-### 2. Breadcrumbs
-
-Breadcrumbs allow users to easily jump to parent pages and see the website structure
-
-<div class="image-container">
-
-![Google results](../../_media/help-navigate/breadcrumbs.png)
-
-*Human readable breadcrumbs*
-
-</div>
-
-### 3. Fixed main navigation bar
+### 3. Fixed position of the main navigation bar
 
 The navigation bar should include the portal name, logo and the most important links. It allows users switching between tabs to know where they are and how to get to the most important pages on the portal.
 
@@ -43,19 +35,25 @@ The navigation bar should include the portal name, logo and the most important l
 
 </div>
 
-### 4. Navigate home
+### 4. Breadcrumbs
+
+Breadcrumbs allow users to easily jump to parent pages and see the website structure
+
+<div class="image-container">
+
+![Google results](../../_media/help-navigate/breadcrumbs.png)
+
+*Human readable breadcrumbs*
+
+</div>
+
+### 5. Link back to homepage
 
 Similar to the point above - users should always be able to easily navigate back to homepage.
 
-### 5. Consistent navigation
-
-* The titles should always be in the same place.
-* Links should have the same style
-* Breadcrumbs should have consistent structure.
-
 ### 6. Related datasets
 
-Showing related datasets on the [dataset details pages](/main-content/pages/dataset-details) can help users explore other datasets in the same region or from the same topic. These recommendations shouldn't be generic (e.g Latest Datasets), but should be relevant to what the users searched for.
+Showing related datasets on the [dataset details pages](/main-content/pages/dataset-details) can help users explore other datasets in the same region or from the same topic. These recommendations should be specific and relevant to what users search for.
 
 If there is a risks for the *related datasets* lists becoming unwieldy, they should be split into groups according to topic, location or other relevant attribute.
 
