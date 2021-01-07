@@ -101,7 +101,6 @@ A few possible ways to group and identify related datasets include:
 
 <div class="image-container">
 
-
 List view             |  Map view
 :-------------------------:|:-------------------------:
 ![Additional info](../../_media/assess-dataset-relevance/similar-datasets.png) | ![Additional info](../../_media/assess-dataset-relevance/nearby-datasets.png)

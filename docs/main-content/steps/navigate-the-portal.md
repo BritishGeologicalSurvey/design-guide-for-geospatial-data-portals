@@ -61,9 +61,11 @@ If there is a risks for the *related datasets* lists becoming unwieldy, they sho
 
 <div class="image-container">
 
-![related datasets](../../_media/help-navigate/related-datasets.png)
+List view             |  Map view
+:-------------------------:|:-------------------------:
+![Additional info](../../_media/assess-dataset-relevance/similar-datasets.png) | ![Additional info](../../_media/assess-dataset-relevance/nearby-datasets.png)
 
-*Easy way to explore related content*
+*Related datasets in list and map view*
 
 </div>
 
