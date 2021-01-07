@@ -1,6 +1,6 @@
 # Designing geospatial data portals
 
-## User research driven guidance for developers and UX and service designers on how to create geospatial data portals that meet user needs.
+> User research driven guidance for developers and designers on how to create geospatial data portals that meet user needs.
 
 
 # Spatial data portals
