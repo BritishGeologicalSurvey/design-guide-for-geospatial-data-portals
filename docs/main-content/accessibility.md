@@ -1,4 +1,4 @@
-# Accessibility guidance
+# Accessibility
 
 > Accessibility should be considered from the outset to ensure that as many people as possible can use your services. 
 
