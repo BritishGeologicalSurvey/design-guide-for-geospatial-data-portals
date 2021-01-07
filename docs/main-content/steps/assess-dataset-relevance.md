@@ -37,7 +37,7 @@ Grouping datasets under parent topics can help users understand the relevancy of
 
 ### 4. Publisher name
 
-Publisher details such as publisher name, and an image of their logo will help users recognise the quality of a dataset and promote trust with reputable dataset sources.
+Publisher details such as publisher name, and an image of their logo could help users recognise the quality of a dataset and promote trust with reputable dataset sources.
 
 ### 5. Licence details
 
@@ -50,14 +50,6 @@ Provide users with information about when a dataset was created and the period o
 ### 7. Update frequency and last uodated date
 
 Indicate how current datasets are to users with information about when a dataset was last updated and the frequency of updates.
-
-<div class="image-container">
-
-![Additional info](../../_media/assess-dataset-relevance/update-information.png)
-
-*Dataset details relating to creation time and updates*
-
-</div>
 
 ### 8. Download link
 
@@ -93,7 +85,7 @@ Additional metadata can have less visibility in order to reduce the visual clutt
 
 ![Additional info](../../_media/assess-dataset-relevance/additional-information.png)
 
-*Additional metadata*
+*Dataset topics*
 
 </div>
 
