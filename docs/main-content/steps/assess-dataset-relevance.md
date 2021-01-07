@@ -41,15 +41,15 @@ Publisher name and if possible a logo for easier recognition help users to under
 
 ### 5. Licence details
 
-Licence details and any relevant links to terms of use.
+Licence details and any relevant links to terms of use help users to assess whether this data is compatible with there needs.
 
-### 6. Created on date
+### 6. Created on date and period it relates to
 
-Date when the dataset was created
+Date when the dataset was created and the period of time it relates to allow users to ifdentify if this data is relevant to their enquiry.
 
-### 7. Lasted updated date
+### 7. Update frequency and last uodated date
 
-Date when the dataset was updated last and the frequency of updates
+The date when the dataset was last updated and the frequency of updates provide users with a means to assess how current this data is.
 
 <div class="image-container">
 
@@ -87,7 +87,7 @@ Clearly show the geographical extent of the data (pin on the map or polygon of a
 
 ### 10. Additional metadata
 
-Any additional metadata can have less visibility. To reduce the visual clutter on the screen it can be displayed in different tabs or dropdown menus.
+Additional metadata can have less visibility in order to reduce the visual clutter on the screen by being displayed in a less prominant location such as different tabs or dropdown menus.
 
 <div class="image-container">
 
@@ -99,7 +99,7 @@ Any additional metadata can have less visibility. To reduce the visual clutter o
 
 ### 11. Related datasets
 
-Related datasets can help users explore similar datasets. They can be displayed in a list or map view. 
+Related datasets can help users to discover and explore similar datasets. They can be displayed in a list or map view. 
 
 A few possible ways to group and identify related datasets include:
 
@@ -116,15 +116,6 @@ List view             |  Map view
 *Related datasets in list and map view*
 
 </div>
-
-## When to use
-
-To present information about a single dataset record.
-
-
-## Example page
-
-> **[Dataset details](/main-content/pages/dataset-details)**
 
 <!-- ## Related
 
