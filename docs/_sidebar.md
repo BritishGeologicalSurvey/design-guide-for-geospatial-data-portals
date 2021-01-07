@@ -4,6 +4,7 @@
 
 - [Help users to...](main-content/steps/help-users-intro)
   
+  - [Accessibility](main-content/accessibility)
   - [Discover your portal](main-content/steps/discover-your-portal)
   - [Check a portal is relevant](main-content/steps/check-a-portal-is-relevant)
   - [Navigate the portal](main-content/steps/navigate-the-portal)
