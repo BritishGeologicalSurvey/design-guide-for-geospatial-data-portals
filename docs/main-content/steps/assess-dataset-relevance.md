@@ -3,7 +3,7 @@
 
 > For a more detailed overview of the dataset users might explore it on the dataset details page. It should provide all the essential information required to make a decision whether this specific dataset will be useful to them.
 
-The so called [dataset details](../../main-content/pages/dataset-details) page usually is the first place that users might arrive from a search engine. Thus, it should be instantly clear whether this dataset is available for download or not, what license it is shared under and anything else that might effect how they use of how they are allowed to use the data.
+The so called [dataset details](../../main-content/pages/dataset-details) page is usually the first place that users might arrive from a search engine. Thus, it should be instantly clear whether this dataset is available for download or not, what license it is shared under and anything else that might effect how they might make use of the data. Users should also be provided with route to understand the data portal in which this dataset record is described, this can be achieved through well design [navigation](/main-content/steps/navigate-the-portal). 
 
 ## What it looks like
 
