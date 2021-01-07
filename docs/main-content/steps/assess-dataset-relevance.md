@@ -21,7 +21,7 @@ The first thing that users see will be the dataset title. It should be the main 
 
 ### 2. Short description
 
-A short description summarizing the main properties of the dataset.
+A short description summarising the main properties of the dataset should provide users with a quick understanding of the relevance of this data.
 
 ### 3. Topics
 
