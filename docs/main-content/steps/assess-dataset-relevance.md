@@ -1,9 +1,9 @@
 ### Help users to
 # Assess dataset relevance
 
-> For a more detailed overview of the dataset users might explore it on the dataset details page. It should provide all the essential information required to make a decision whether this specific dataset will be useful to them.
+> Ensure datasets are represented accurately with essential metadata. Users often base their decision on whether to use a dataset by how clearly this information is presented to them.
 
-The so called [dataset details](../../main-content/pages/dataset-details) page usually is the first place that users might arrive from a search engine. Thus, it should be instantly clear whether this dataset is available for download or not, what license it is shared under and anything else that might effect how they use of how they are allowed to use the data.
+Users may often first arrive at a [dataset details page](../../main-content/pages/dataset-details) after performing a search from a search engine. Thus, it should be instantly clear whether a dataset is available for download or not, what license it is shared under and anything else that may effect how this dataset is used. Ensure users are also provided with a route to understand the data portal in which this dataset record is described, this can be achieved through well design [navigation](/main-content/steps/navigate-the-portal). 
 
 ## What it looks like
 
@@ -21,7 +21,7 @@ The first thing that users see will be the dataset title. It should be the main 
 
 ### 2. Short description
 
-A short description summarizing the main properties of the dataset.
+A short description summarising the main properties of the dataset should provide users with a quick understanding of the relevance of this data.
 
 ### 3. Topics
 
@@ -37,7 +37,7 @@ Topics that this dataset covers. Ideally, they should be linked to the topic pag
 
 ### 4. Publisher name
 
-Publisher name with a logo for easier recognition
+Publisher name and if possible a logo for easier recognition help users to understand the origin and trustworthyness of data.
 
 ### 5. Licence details
 
