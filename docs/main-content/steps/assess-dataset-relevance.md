@@ -109,15 +109,6 @@ List view             |  Map view
 
 </div>
 
-## When to use
-
-To present information about a single dataset record.
-
-
-## Example page
-
-> **[Dataset details](/main-content/pages/dataset-details)**
-
 <!-- ## Related
 
 * [Help users to explore data online](main-content/steps/explore-data-online)
