@@ -33,7 +33,7 @@ Breadcrumbs allow users to easily jump to parent pages and see the website struc
 
 ### 3. Fixed main navigation bar
 
-In case people get lost in the website structure, they should always be able to get back to homepage easily.
+The navigation bar should include the portal name, logo and the most important links. It allows users switching between tabs to know where they are and how to get to the most important pages on the portal.
 
 <div class="image-container">
 
@@ -43,9 +43,21 @@ In case people get lost in the website structure, they should always be able to 
 
 </div>
 
-### 4. Related datasets
+### 4. Navigate home
 
-Can users easily find related datasets or datasets that belong to the same topic?
+Similar to the point above - users should always be able to easily navigate back to homepage.
+
+### 5. Consistent navigation
+
+* The titles should always be in the same place.
+* Links should have the same style
+* Breadcrumbs should have consistent structure.
+
+### 6. Related datasets
+
+Showing related datasets on the [dataset details pages](/main-content/pages/dataset-details) can help users explore other datasets in the same region or from the same topic. These recommendations shouldn't be generic (e.g Latest Datasets), but should be relevant to what the users searched for.
+
+If there is a risks for the *related datasets* lists becoming unwieldy, they should be split into groups according to topic, location or other relevant attribute.
 
 <div class="image-container">
 
@@ -54,18 +66,6 @@ Can users easily find related datasets or datasets that belong to the same topic
 *Easy way to explore related content*
 
 </div>
-
-### 5. Navigate home
-
-Help users easily navigate to homepage. If users arrive at other pages, and not the homepage, they should be able to easily access the Home or the About Us pages.
-
-
-### 6. Consistent navigation
-
-* The titles should always be in the same place.
-* Links should have the same style
-* Breadcrumbs should have consistent structure.
-
 
 ## When to use
 

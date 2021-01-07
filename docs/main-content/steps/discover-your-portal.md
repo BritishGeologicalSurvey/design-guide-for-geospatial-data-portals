@@ -13,11 +13,11 @@ A more detailed report and recommendations can be found in the report below.
 
 Using the search engine, the users are most likely to discover either one of the datasets hosted by the data portal or the homepage of the portal itself. It is important that the datasets have easy to read and understandable titles and descriptions and the portal has a memorable url and brief description of its purpose.
 
-## 1. Dataset title
+### 1. Dataset title
 
 The heading should briefly describe the dataset. If any extra text is used - organisation name, date, etc. - it should be placed at the end of dataset name, e.g. **dataset-title | organisation name | date-produced**.
 
-## 2. Dataset description
+### 2. Dataset description
 
 Only the first few lines of the description will be visible in the search results, so the first few sentences should have the most relevant information.
 
@@ -33,15 +33,15 @@ Only the first few lines of the description will be visible in the search result
 
 </div>
 
-## 3. Portal URL
+### 3. Portal URL
 
 The URL should be short, relevant and memorable.
 
-## 4. Portal name
+### 4. Portal name
 
 Ideally the data portal URL and name should be the same. If it's not possible, it should still be human readable and memorable.
 
-## 5. Portal description
+### 5. Portal description
 
 The data portal should have a brief description telling its purpose and describing the type of data it serves.
 
