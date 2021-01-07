@@ -3,7 +3,15 @@
 
 > Help users download data in a format they prefer. The process for downloading data should be simple and straight-forward. If possible users should be able to select which files from the dataset they want to download. If not, it should be made clear what is included in the download file and how big the file size is.
 
+Regardless of whether the dataset is freely available or requires payment, users prefer being able to preview the data online and to know any other requirements for using the dataset upfront.
+
+The dataset would be usually downlaoded from the [dataset details page](/main-content/pages/dataset-details).
+
 ## What it looks like
+
+### 1. Download button
+
+Download link should be clearly visible on the dataset details page. If dataset is not available for download yet, it should be  indicated why and if/when the dataset will become available.
 
 <div class="image-container">
 
@@ -13,13 +21,17 @@
 
 </div>
 
-### 1. Download button
-
-Download link should be clearly visible on the dataset details page. If dataset is not available for download yet, it should be clearly indicated why and if/when the dataset will become available.
-
 ### 2. Clear licencing information
 
 If any licencing restrictions apply, they should be made clear upfront.
+
+<div class="image-container">
+
+![Google results](../../_media/use-data/license.png)
+
+*License information*
+
+</div>
 
 ### 3. Display data formats
 
@@ -27,7 +39,7 @@ Users should know what format the data is in before downloading it.
 
 <div class="image-container">
 
-![Google results](../../_media/use-data/formats.png)
+![Google results](../../_media/use-data/format.png)
 
 *Data formats*
 
@@ -41,6 +53,14 @@ If data can be accessed through an API, clear instructions how to do that should
 
 If possible, allow users to select which files in the dataset to download. If not, they should at least know what is included in the download file
 
+<div class="image-container">
+
+![Google results](../../_media/use-data/data-preview.png)
+
+*Option to select and preview the files included in the dataset*
+
+</div>
+
 ### 6. Sharing options
 
 User might want to share links with colleagues or send a link to themselves for later use.
@@ -49,17 +69,9 @@ User might want to share links with colleagues or send a link to themselves for 
 
 ![Google results](../../_media/use-data/share-panel.png)
 
-*Download panel on dataset details page*
+*Dataset sharing options*
 
 </div>
-
-## When to use
-
-Download links to datasets should be accessible from dataset details page.
-
-## Related
-
-* [Explore data online](/main-content/steps/explore-data-online)
 
 ---
 
