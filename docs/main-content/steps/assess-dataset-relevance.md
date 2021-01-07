@@ -41,15 +41,15 @@ Publisher name and if possible a logo for easier recognition help users to under
 
 ### 5. Licence details
 
-Licence details and any relevant links to terms of use.
+Licence details and any relevant links to terms of use help users to assess whether this data is compatible with there needs.
 
-### 6. Created on date
+### 6. Created on date and period it relates to
 
-Date when the dataset was created
+Date when the dataset was created and the period of time it relates to allow users to ifdentify if this data is relevant to their enquiry.
 
-### 7. Lasted updated date
+### 7. Update frequency and last uodated date
 
-Date when the dataset was updated last and the frequency of updates
+The date when the dataset was last updated and the frequency of updates provide users with a means to assess how current this data is.
 
 ### 8. Download link
 
