@@ -37,7 +37,7 @@ Topics that this dataset covers. Ideally, they should be linked to the topic pag
 
 ### 4. Publisher name
 
-Publisher name with a logo for easier recognition
+Publisher name and if possible a logo for easier recognition help users to understand the origin and trustworthyness of data.
 
 ### 5. Licence details
 
