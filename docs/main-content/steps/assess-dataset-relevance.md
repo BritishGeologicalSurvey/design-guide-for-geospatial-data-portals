@@ -9,7 +9,7 @@ Users may often first arrive at a [dataset details page](../../main-content/page
 
 ### 1. Clear dataset title
 
-The first thing that users see will be the dataset title. It should be the main heading on the dataset details page.
+Dataset titles should be clearly visible as the first heading users are presented with.
 
 <div class="image-container">
 
@@ -21,11 +21,11 @@ The first thing that users see will be the dataset title. It should be the main 
 
 ### 2. Short description
 
-A short description summarising the main properties of the dataset should provide users with a quick understanding of the relevance of this data.
+A short summary describing the main properties of a dataset will provide users with a quick understanding of how relevant a dataset is.
 
 ### 3. Topics
 
-Topics that this dataset covers. Ideally, they should be linked to the topic pages where users could explore other datasets of the same topic.
+Grouping datasets under parent topics can help users understand the relevancy of a dataset and act as navigation for potentially related datasets.
 
 <div class="image-container">
 
@@ -37,27 +37,19 @@ Topics that this dataset covers. Ideally, they should be linked to the topic pag
 
 ### 4. Publisher name
 
-Publisher name and if possible a logo for easier recognition help users to understand the origin and trustworthyness of data.
+Publisher details such as publisher name, and an image of their logo will help users recognise the quality of a dataset and promote trust with reputable dataset sources.
 
 ### 5. Licence details
 
-Licence details and any relevant links to terms of use help users to assess whether this data is compatible with there needs.
+Help users asses whether data is compatable with their needs by providing licence details and any relevant links to terms of use.
 
 ### 6. Created on date and period it relates to
 
-Date when the dataset was created and the period of time it relates to allow users to ifdentify if this data is relevant to their enquiry.
+Provide users with information about when a dataset was created and the period of time the data relates to.
 
 ### 7. Update frequency and last uodated date
 
-The date when the dataset was last updated and the frequency of updates provide users with a means to assess how current this data is.
-
-<div class="image-container">
-
-![Additional info](../../_media/assess-dataset-relevance/update-information.png)
-
-*Dataset details relating to creation time and updates*
-
-</div>
+Indicate how current datasets are to users with information about when a dataset was last updated and the frequency of updates.
 
 ### 8. Download link
 
