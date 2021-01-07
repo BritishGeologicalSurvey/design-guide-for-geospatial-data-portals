@@ -51,6 +51,14 @@ Date when the dataset was created
 
 Date when the dataset was updated last and the frequency of updates
 
+<div class="image-container">
+
+![Additional info](../../_media/assess-dataset-relevance/update-information.png)
+
+*Dataset details relating to creation time and updates*
+
+</div>
+
 ### 8. Download link
 
 If the data is available for download, the download link should be easy to find and access on the dataset details page. Ideally it should always stay visible on the screen as the users are exploring the dataset details page. If the dataset is not available for download, it should be indicated why or when it would become available.
