@@ -29,7 +29,7 @@ Topics that this dataset covers. Ideally, they should be linked to the topic pag
 
 <div class="image-container">
 
-![topics](../../_media/assess-dataset-relevance/dataset-heading.png)
+![topics](../../_media/assess-dataset-relevance/dataset-heading-topics.png)
 
 *Dataset topics*
 
