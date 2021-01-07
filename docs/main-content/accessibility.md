@@ -23,5 +23,5 @@ You can find out more about the regulations by reading the [latest guidance](htt
 
 ### Find out more
 Further guidance regarding accessibilty can be found at:
-+ [https://gds.blog.gov.uk/category/accessibility/](UK Government Digital Services - Accessibility blog)
-+ [https://www.gov.uk/service-manual/helping-people-to-use-your-service/making-your-service-accessible-an-introduction](UK Government - Making your service accessible: an introduction)
++ [UK Government Digital Services - Accessibility blog](https://gds.blog.gov.uk/category/accessibility/)
++ [UK Government - Making your service accessible: an introduction](https://www.gov.uk/service-manual/helping-people-to-use-your-service/making-your-service-accessible-an-introduction)
