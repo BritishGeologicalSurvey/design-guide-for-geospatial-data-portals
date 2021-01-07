@@ -91,7 +91,7 @@ Additional metadata can have less visibility in order to reduce the visual clutt
 
 ### 11. Related datasets
 
-Related datasets can help users explore similar datasets. They can be displayed in a list or map view. 
+Related datasets can help users to discover and explore similar datasets. They can be displayed in a list or map view. 
 
 A few possible ways to group and identify related datasets include:
 
