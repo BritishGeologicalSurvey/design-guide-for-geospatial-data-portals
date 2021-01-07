@@ -79,7 +79,7 @@ Clearly show the geographical extent of the data (pin on the map or polygon of a
 
 ### 10. Additional metadata
 
-Any additional metadata can have less visibility. To reduce the visual clutter on the screen it can be displayed in different tabs or dropdown menus.
+Additional metadata can have less visibility in order to reduce the visual clutter on the screen by being displayed in a less prominant location such as different tabs or dropdown menus.
 
 <div class="image-container">
 
