@@ -8,7 +8,7 @@ Although accessibility aims to provide the best possible experience for users wi
 + health - they may be tired, affected by injury or medical procedure
 + equipment - mobile device or an older browser
 
-According to the [guidance](https://www.gov.uk/service-manual/helping-people-to-use-your-service/making-your-service-accessible-an-introduction) provided by the [GDS accessibility community](https://www.gov.uk/service-manual/communities/accessibility-community): The UK government has set out accessibility standards to follow. If you fail to meet those standards, you could be breaking the law.
+According to the [service manual](https://www.gov.uk/service-manual/helping-people-to-use-your-service/making-your-service-accessible-an-introduction) provided by the [GDS accessibility community](https://www.gov.uk/service-manual/communities/accessibility-community): The UK government has set out accessibility standards to follow. If you fail to meet those standards, you could be breaking the law.
 
 Their guidance states: "To meet government accessibility requirements, digital services must:
 
