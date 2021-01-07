@@ -47,9 +47,17 @@ Help users asses whether data is compatable with their needs by providing licenc
 
 Provide users with information about when a dataset was created and the period of time the data relates to.
 
-### 7. Update frequency and last uodated date
+### 7. Update frequency and last updated date
 
 Indicate how current datasets are to users with information about when a dataset was last updated and the frequency of updates.
+
+<div class="image-container">
+
+![Additional info](../../_media/assess-dataset-relevance/update-information.png)
+
+*Dataset details relating to creation time and updates*
+
+</div>
 
 ### 8. Download link
 
