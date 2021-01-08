@@ -5,9 +5,21 @@
 
 Regardless of whether the dataset is freely available or requires payment, users prefer being able to preview the data online and to know any other requirements for using the dataset upfront.
 
-The dataset would be usually downlaoded from the [dataset details page](/main-content/pages/dataset-details).
+The dataset would be usually downloaded from the [dataset details page](/main-content/pages/dataset-details).
 
 ## What it looks like
+
+### 1. Preview data online
+
+Users would prefer to preview spatial data online if possible. It allows them to make an informed decision about the usefulness of the dataset and to quickly evaluate its quality.
+
+<div class="image-container">
+
+![Home heading](../../_media/overview/.png)
+
+*Previewing data online*
+
+</div>
 
 ### 1. Download button
 
@@ -23,7 +35,7 @@ Download link should be clearly visible on the dataset details page. If dataset 
 
 ### 2. Clear licencing information
 
-If any licencing restrictions apply, they should be made clear upfront.
+If any licencing restrictions apply, they should be made clear upfront with links to further information where appropriate.
 
 <div class="image-container">
 
@@ -35,7 +47,7 @@ If any licencing restrictions apply, they should be made clear upfront.
 
 ### 3. Display data formats
 
-Users should know what format the data is in before downloading it.
+Users should know what format the data is in before downloading it, ideally with access to definitions of those file types. Users are usually looking for data that can work with the tools they use.
 
 <div class="image-container">
 
@@ -45,13 +57,15 @@ Users should know what format the data is in before downloading it.
 
 </div>
 
-### 4. API Access
+### 3. Straightforward process for downloading data.
 
-If data can be accessed through an API, clear instructions how to do that should be easily accessible to users.
+### 4. Dynamic data access
+
+Sometimes users prefer to access data in a more flexible way, e.g API(application programming interface) access). If data can be accessed through other methods (e.g. API(application programming interface) access), clear instructions on how to do that should be easily accessible to users. 
 
 ### 5. File selection for partial downloads
 
-If possible, allow users to select which files in the dataset to download. If not, they should at least know what is included in the download file
+If possible, allow users to select which files in the dataset to download. If it's not possible, they should at least know what is included in the download file
 
 <div class="image-container">
 
@@ -73,9 +87,8 @@ User might want to share links with colleagues or send a link to themselves for 
 
 </div>
 
+<!-- 
 ---
-
-<!-- Additional information can be presented in dropdown menus -->
 
 <details>
 <summary>Essential components</summary>
@@ -87,8 +100,6 @@ These components can be arranged in many ways, but the ones with highest relevan
 
 ?> 1 - high relevance, 2 - medium relevance, 3 - low relevance
 
-<!-- Table of component start -->
-
 | Component       | Description                                                    | Relevance |
 |-----------------|----------------------------------------------------------------|:---------:|
 | Download button | Download link or instructions how to access data               |     1     |
@@ -97,5 +108,4 @@ These components can be arranged in many ways, but the ones with highest relevan
 | Data preview    | Preview all or parts of a dataset online before downloading it |     2     |
 | Licence details | Are there any limitation on how the data can be used?          |     1     |
 
-</details>
-
+</details> -->
