@@ -9,6 +9,18 @@ The dataset would be usually downloaded from the [dataset details page](/main-co
 
 ## What it looks like
 
+### 1. Preview data online
+
+Users would prefer to preview spatial data online if possible. It allows them to make an informed decision about the usefulness of the dataset and to quickly evaluate its quality.
+
+<div class="image-container">
+
+![Home heading](../../_media/overview/.png)
+
+*Previewing data online*
+
+</div>
+
 ### 1. Download button
 
 Download link should be clearly visible on the dataset details page. If dataset is not available for download yet, it should be  indicated why and if/when the dataset will become available.
