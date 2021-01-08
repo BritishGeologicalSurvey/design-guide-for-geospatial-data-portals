@@ -10,10 +10,6 @@
 
 *Example wireframe for data portal's homepage*
 
-</div>
-
-<div class="image-container">
-
 <!-- tabs:start -->
 
 ### **Example implementation**
