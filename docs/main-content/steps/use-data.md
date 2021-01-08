@@ -87,9 +87,7 @@ User might want to share links with colleagues or send a link to themselves for 
 
 </div>
 
-
-<!--
-
+<!-- 
 ---
 
 <details>
@@ -102,8 +100,6 @@ These components can be arranged in many ways, but the ones with highest relevan
 
 ?> 1 - high relevance, 2 - medium relevance, 3 - low relevance
 
-<!-- Table of component start -->
-
 | Component       | Description                                                    | Relevance |
 |-----------------|----------------------------------------------------------------|:---------:|
 | Download button | Download link or instructions how to access data               |     1     |
@@ -112,7 +108,4 @@ These components can be arranged in many ways, but the ones with highest relevan
 | Data preview    | Preview all or parts of a dataset online before downloading it |     2     |
 | Licence details | Are there any limitation on how the data can be used?          |     1     |
 
-</details>
-
--->
-
+</details> -->
