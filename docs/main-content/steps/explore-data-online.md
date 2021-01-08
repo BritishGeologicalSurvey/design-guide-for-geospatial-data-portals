@@ -25,7 +25,7 @@ Allowing users to preview the files included in the dataset and their contents c
 
 <div class="image-container">
 
-![Google results](../../_media/explore-data-online/explore-data.png)
+![Google results](../../_media/explore-data-online/explore-files.png)
 
 *Explore dataset before downloading it*
 
