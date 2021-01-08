@@ -44,14 +44,6 @@ If technology and resources allow, a more detailed data preview can help users e
 
 </div>
 
-<div class="image-container">
-
-![Explore data online](../../_media/explore-data-online/visualize-data.png)
-
-*Data could preview in Map, Table and Chart form*
-
-</div>
-
 ### 3. Get specific information online
 
 There might be cases when users can get the information they need without downloading the dataset. This requires understanding the users needs and data properties.
