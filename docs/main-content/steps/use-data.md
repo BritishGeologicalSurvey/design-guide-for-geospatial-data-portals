@@ -47,7 +47,7 @@ If any licencing restrictions apply, they should be made clear upfront with link
 
 ### 3. Display data formats
 
-Users should know what format the data is in before downloading it.
+Users should know what format the data is in before downloading it, ideally with access to definitions of those file types. Users are usually looking for data that can work with the tools they use.
 
 <div class="image-container">
 
@@ -57,9 +57,11 @@ Users should know what format the data is in before downloading it.
 
 </div>
 
-### 4. API Access
+### 3. Straightforward process for downloading data.
 
-If data can be accessed through an API, clear instructions how to do that should be easily accessible to users.
+### 4. Dynamic data access
+
+Sometimes users prefer to access data in a more flexible way, e.g API(application programming interface) access). If data can be accessed through other methods (e.g. API(application programming interface) access), clear instructions on how to do that should be easily accessible to users. 
 
 ### 5. File selection for partial downloads
 
