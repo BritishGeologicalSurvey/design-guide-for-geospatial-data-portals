@@ -1,47 +1,18 @@
 ### Help users to
 # Assess dataset quality 
 
-> Data quality may not always be in the hands of data portal's maintainers. To ensure that users can make and informed decision about the dataset, they should know who produced the dataset and when it was updated last.
-
- If the dataset gets regular updates, it might also be important to know how frequent those updates are.
+> Enable users to make informed decisions about the quality and relevancy of a dataset. Information such as, when a dataset was produced, last updated, frequency of updates and related metadata should be presented clearly to help with this assessment.
 
 !> Find more details in the [The Government Data Quality Framework](https://www.gov.uk/government/publications/the-government-data-quality-framework/the-government-data-quality-framework)
 
 ## What it looks like
 
-Knowing the organization that created the dataset and when it was updated last is important both on the Search Results and Dataset Details page.
-
-### 1. Dataset creator
-
-Organization that produced the dataset should be clearly visible. It should be easy to find this information both on the [search results](#) page and the dataset [details pages](main-content/pages/dataset-details).
-
-User trusts datasets more from the organizations they are familiar with.
-
-If a logo is available it should be displayed as well for easier recognition.
-
-<div class="image-container">
-
-![Google results](../../_media/assess-data-quality/details-card.png)
-
-*Search results card. Making this information accessible on the search results page can help users filter datasets more effectively*
-
-![Google results](../../_media/assess-data-quality/detaset-details-heading.png)
-
-*Dataset details heading. Dataset details page should make this information available at a glance as well*
-
-</div>
-
-### 2. Last updated
-
- Knowing that the dataset has been updated recently can give them the confidence the dataset is being maintained. If the dataset is being updated frequently, that frequency should be made know to users as well.
-
-<div class="image-container">
-
-![Frequency](../../_media/assess-data-quality/frequency.png)
-
-*The frequency of updates can be displayed on the dataset details page*
-
-</div>
+Display information relating to:
++ [Clear dataset title](main-content/pages/dataset-details?id=_1-clear-dataset-title)
++ [the organisation that created the dataset](main-content/pages/dataset-details?id=_4-publisher-name)
++ [Created on date and period it relates to](main-content/pages/dataset-details?id=_6-created-on-date-and-period-it-relates-to)
++ [Update frequency and last updated date](main-content/pages/dataset-details?id=_7-update-frequency-and-last-updated-date)
++ [Relevant metadata](main-content/pages/dataset-details?id=_10-additional-metadata)
 
 ## When to use
 
