@@ -10,11 +10,11 @@
 User's perception of dataset quality is driven by a number of different factors, such as publisher, publication date, frequency of updates, well-described metadata, complete dataset, clearly presented within the portal.
 
 Display information relating to:
-+ [Clear dataset title](main-content/pages/dataset-details?id=_1-clear-dataset-title)
-+ [the organisation that created the dataset](main-content/pages/dataset-details?id=_4-publisher-name)
-+ [Created on date and period it relates to](main-content/pages/dataset-details?id=_6-created-on-date-and-period-it-relates-to)
-+ [Update frequency and last updated date](main-content/pages/dataset-details?id=_7-update-frequency-and-last-updated-date)
-+ [Relevant metadata](main-content/pages/dataset-details?id=_10-additional-metadata)
++ [Clear dataset title](main-content/pages/assess-dataset-relevance?id=_1-clear-dataset-title)
++ [the organisation that created the dataset](main-content/pages/assess-dataset-relevance?id=_4-publisher-name)
++ [Created on date and period it relates to](main-content/pages/assess-dataset-relevance?id=_6-created-on-date-and-period-it-relates-to)
++ [Update frequency and last updated date](main-content/pages/assess-dataset-relevance?id=_7-update-frequency-and-last-updated-date)
++ [Relevant metadata](main-content/pages/assess-dataset-relevance?id=_10-additional-metadata)
 
 ## When to use
 
