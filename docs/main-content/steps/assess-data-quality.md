@@ -30,27 +30,3 @@ Knowing the properties of the dataset that convey its quality are important both
 
 * [Make sense of search results](/main-content/steps/make-sense-of-search-results)
 * [Explore data online](/main-content/steps/explore-data-online)
-
----
-
-<!-- Additional information can be presented in dropdown menus -->
-
-<details>
-<summary>Essential components</summary>
-<br>
-
-Below is a checklist of components/information that are relevant for this task.
-
-These components can be arranged in many ways, but the ones with highest relevance should be the most visible/accessible.
-
-?> 1 - high relevance, 2 - medium relevance, 3 - low relevance
-
-<!-- Table of component start -->
-
-| Component             | Description                                                                                                     |  Relevance |
-|-----------------------|-----------------------------------------------------------------------------------------------------------------|:----------:|
-| Dataset author                 | Who produced the datasat? Do they have contact details?                                                                                   |     1      |
-| Last updated | When was the dataset updated last   |     1      |
-| Update frequency               | How often does it get updated |     2      |
-
-</details>
