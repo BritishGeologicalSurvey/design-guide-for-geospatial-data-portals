@@ -23,6 +23,14 @@ If users require only a specific value, there is no need to display additional i
 Allowing users to preview the files included in the dataset and their contents can help them make a better decision on the usefulness of the dataset.
 
 
+<div class="image-container">
+
+![Google results](../../_media/explore-data-online/explore-data.png)
+
+*Explore dataset before downloading it*
+
+</div>
+
 
 ### 2. Visualise data
 
