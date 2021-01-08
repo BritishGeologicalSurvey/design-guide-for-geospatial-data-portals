@@ -1,6 +1,6 @@
 # Designing geospatial data portals
 
-> User research driven guidance for developers and designers on how to increase the discoverability and usefulness of geospatial data by designing data portals that satisfy user needs.
+> Guidance for developers and designers to increase the discoverability and usefulness of geospatial data through user focussed data portals.
 
 # Geospatial data portals
 
