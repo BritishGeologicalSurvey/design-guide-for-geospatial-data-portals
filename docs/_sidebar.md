@@ -1,4 +1,4 @@
-- [Spatial data portals](main-content/introduction)
+- [Introduction](main-content/introduction)
 
 ---
 
