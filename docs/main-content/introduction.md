@@ -77,6 +77,6 @@ Our recommendations are designed to address the following pain points, grouped b
 *	Character corruption within data or metadata
 
 ## Help users to...
-As users progress through their journey, they perform certain tasks, some spanning more than one of the high level user needs (described above). Our recommendations in the Help Users To... section address each of these user needs, for example [Helps User To... Discover your portal](main-content/steps/discover-your-portal) .   
+As users progress through their journey, they perform certain tasks, some spanning more than one of the high level user needs (see below). We present solutions that address pain points by describing how to Help Users To... perform these tasks, for example [Helps User To... Discover your portal](main-content/steps/discover-your-portal) .   
 
 ![User tasks](../_media/help-users.svg)
