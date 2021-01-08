@@ -5,7 +5,7 @@
 
 Regardless of whether the dataset is freely available or requires payment, users prefer being able to preview the data online and to know any other requirements for using the dataset upfront.
 
-The dataset would be usually downlaoded from the [dataset details page](/main-content/pages/dataset-details).
+The dataset would be usually downloaded from the [dataset details page](/main-content/pages/dataset-details).
 
 ## What it looks like
 
