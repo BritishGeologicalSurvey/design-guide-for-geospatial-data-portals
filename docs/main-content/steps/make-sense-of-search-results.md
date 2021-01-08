@@ -19,69 +19,62 @@ Search results should clearly answer:
 + Refine, sort and filter search results to identify the most relevant datasets
 + Easily access more information about a single record
 
+Ensure users are presented with enough information to help them identify when to change, refine or continue with their search query
 
 ### 1. Number of results
 
+Help users identify if results are too many or too few, to indicate if a search requires additional filtering or refinement.
+
 <div class="image-container">
 <a href="/dd3-wireframes/_media/stage-3-results/2-number_of_results.png" target="_blank"><img src="/dd3-wireframes/_media/stage-3-results/2-number_of_results.png" style="max-width: 452px;"/></a>
-
-*Information about the returned search should be presented to the user to help them identify when to change, refine or continue with their search query*
-
 </div>
 
 ### 2. Faceted search (by parent / child categories)
+
+Ensure users have access to glanceable information regarding the parent topic or category to help identify [dataset quality](main-content/pages/assess-dataset-relevance) and [relevance](main-content/pages/assess-dataset-relevance).
 
 <div class="image-container">
 
 <a href="/dd3-wireframes/_media/stage-3-results/3-faceted_search.png" target="_blank"><img src="/dd3-wireframes/_media/stage-3-results/3-faceted_search.png" data-no-zoom/></a>
 
-*Search field available for further refinement or for starting a new query*
-
 </div>
 
 ### 3. Remove filters
+Ensure users have effective tools to allow them to quickly remove applied filters
 
 <div class="image-container">
 <a href="/dd3-wireframes/_media/stage-3-results/4-clear_filters.png" target="_blank"><img src="/dd3-wireframes/_media/stage-3-results/4-clear_filters.png" style="max-width: 300px;"/></a>
-
-*Users should be able to undo a selection quickly and easily*
 </div>
 
 ### 4. Sort by
+Ensure users have an effective way to change how results are sorted to help promote relevant results first
 
 <div class="image-container">
 <a href="/dd3-wireframes/_media/stage-3-results/5-sort_by.png" target="_blank"><img src="/dd3-wireframes/_media/stage-3-results/5-sort_by.png" style="max-width: 232px;" data-no-zoom/></a>
-
-*Clear and precise sorting information should be made available to the user to arrange results to their preference*
-
 </div>
 
 ### 5. Apply filters
 
+Ensure users can quickly and easily apply filters to remove results that are not relevant to their search query
+
 <div class="image-container">
 <a href="/dd3-wireframes/_media/stage-3-results/6-apply_filters.png" target="_blank"><img src="/dd3-wireframes/_media/stage-3-results/6-apply_filters.png" style="max-width: 304px;"/></a>
-
-*Users should be able to quickly and easily apply filters remove results that are not of relevance to their search query*
-
 </div>
 
 ### 6. Geospatial filter
 
+Geospatial presentation of results by preference of area should be made available for the user to refine their search to a specific location / spatial region
+
 <div class="image-container">
 <a href="/dd3-wireframes/_media/stage-3-results/7b-presentation_of_results.png" target="_blank"><img src="/dd3-wireframes/_media/stage-3-results/7b-presentation_of_results.png" style="max-width: 299px;"/></a>
-
-*Geospatial presentation of results by preference of area should be made available for the user to refine their search to a specific location / spatial region*
-
 </div>
 
 ### 7. Results list
 
+Each result should show a title, description, publisher information, publication date, last updated, key meta data and licence type. There may be additional mechanisms to help identify higher quality datasets, such as crowdsourced user feedback forms and displaying information to distinguish (../../main-content/steps/assess-data-quality) search results.
 
 <div class="image-container">
 <a href="/dd3-wireframes/_media/stage-3-results/7a-presentation_of_results.png" target="_blank"><img src="/dd3-wireframes/_media/stage-3-results/7a-presentation_of_results.png" data-no-zoom/></a>
-
-*Each record should show a title, description, publisher information and publication / update dates, key meta data, licence type and an option to feedback on the result*
-
 </div>
 
 <!-- ### 8. Pagination - TO ADD -->
