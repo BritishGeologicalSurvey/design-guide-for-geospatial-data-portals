@@ -6,8 +6,6 @@
 
 Data portals differ by the data they provide and the audiences they serve, so these recommendations are general and focus on designs that address user frustrations experienced during their journey from data discovery to usage. For the purposes of this guidance, data portals are described as web-based interfaces designed to help users find and access datasets. Optimally, they should be built around metadata records which describe datasets, provide pointers to where they can be located and explain any restrictions or limitations in their use.
 
-Everything happens somewhere. Geospatially referenced data can provide powerful insights when combining the application of data and locality. 
-
 Although more and more geospatial data is being made available online, there are users who are confused about where to go, who to trust and which datasets are most relevant to answering their questions.
 
 In 2018 user researchers and designers across the Geo6 came together to explore the needs and frustrations experienced by users of data portals containing geospatial data.
@@ -20,7 +18,9 @@ Throughout 2019 the Geo6 have worked on solutions to address pain points identif
 We are presenting high level generic recommendations but the exact requirements for any given portal will vary according to the data volumes and subject matters covered as well as the needs of your target audience. This resource is not a replacement for portal specific user research and design work.  
 
 ## User journey
-Users discover, access and interact with data portals in a range of ways depending on what they are trying to achieve, who they are and whether they are a first time visitor or a regular user. We have identified five broad user journey stages that make up the archetypical journey people might go through in their search for data. It doesn’t mean that every user will go through the same stages, but they represent the high level user needs the majority of people need to satisfy in order to find, access and make use of geospatial data. 
+Everything happens somewhere. Geospatially referenced data can provide powerful insights when combining the application of data and locality. 
+
+Users often require information and data from a variety of sources in order to schieve their ultimate goal. Users will discover, access and interact with data portals in a range of ways depending on what they are trying to achieve, who they are and whether they are a first time visitor or a regular user. We have identified five high level user needs that make up the archetypical user journey people go through when searching for data. It doesn’t mean that every user will have the same needs in the same order, but they represent the needs expressed by the majority of people who contributed to our research. 
 
 ![User Journey Stages](../_media/spatial-data-journey-v3.svg)
 
