@@ -65,7 +65,7 @@ Sometimes users prefer to access data in a more flexible way, e.g API(applicatio
 
 ### 5. File selection for partial downloads
 
-If possible, allow users to select which files in the dataset to download. If not, they should at least know what is included in the download file
+If possible, allow users to select which files in the dataset to download. If it's not possible, they should at least know what is included in the download file
 
 <div class="image-container">
 
