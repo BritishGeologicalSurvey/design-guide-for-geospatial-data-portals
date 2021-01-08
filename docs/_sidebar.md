@@ -14,7 +14,7 @@
   - [Search for data](main-content/steps/search-for-data)
   - [Make sense of search results](main-content/steps/make-sense-of-search-results)
   - [Assess dataset relevance](main-content/steps/assess-dataset-relevance)
-  - [Assess data quality](main-content/steps/assess-data-quality)
+  - [Assess dataset quality](main-content/steps/assess-data-quality)
   - [Explore data online](main-content/steps/explore-data-online)
   - [Use data](main-content/steps/use-data)
 <!--  - [TEMPLATE](main-content/steps/_template) -->

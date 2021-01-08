@@ -57,3 +57,4 @@ Here is a roundup of best practice accessibility guidance to follow when conside
 Further guidance regarding accessibility can be found at:
 + [UK Government Digital Services - Accessibility blog](https://gds.blog.gov.uk/category/accessibility/)
 + [UK Government - Making your service accessible: an introduction](https://www.gov.uk/service-manual/helping-people-to-use-your-service/making-your-service-accessible-an-introduction)
++ [WCAG 2.1 Checklist-Guide to Accessibility](https://uxtricks.design/blogs/ux-design/accessibility)
