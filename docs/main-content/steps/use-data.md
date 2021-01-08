@@ -35,7 +35,7 @@ Download link should be clearly visible on the dataset details page. If dataset 
 
 ### 2. Clear licencing information
 
-If any licencing restrictions apply, they should be made clear upfront.
+If any licencing restrictions apply, they should be made clear upfront with links to further information where appropriate.
 
 <div class="image-container">
 
