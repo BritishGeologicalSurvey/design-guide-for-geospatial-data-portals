@@ -87,9 +87,10 @@ User might want to share links with colleagues or send a link to themselves for 
 
 </div>
 
----
 
-<!-- Additional information can be presented in dropdown menus -->
+<!--
+
+---
 
 <details>
 <summary>Essential components</summary>
@@ -112,4 +113,6 @@ These components can be arranged in many ways, but the ones with highest relevan
 | Licence details | Are there any limitation on how the data can be used?          |     1     |
 
 </details>
+
+-->
 
