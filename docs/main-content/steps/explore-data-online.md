@@ -26,8 +26,6 @@ Allowing users to preview the files included in the dataset and their contents c
 
 ### 2. Visualise data
 
-![Additional info](../../_media/explore-data-online/explore-map.png
-
 If technology and resources allow, a more detailed data preview can help users evaluate the dataset and do an exploratory data analysis within the data portal.
 
 <div class="image-container">
