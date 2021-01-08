@@ -7,6 +7,8 @@ Users may often first arrive at a [dataset details page](../../main-content/page
 
 ## What it looks like
 
+!> User’s perception of dataset quality is driven by a number of different factors, such as publisher, publication date, frequency of updates, well-described metadata, complete dataset, clearly presented within the portal. More information on the help you can give to your users can be found on the [assess data quality](../../main-content/steps/assess-data-quality) page.
+
 ### 1. Clear dataset title
 
 Dataset titles should be clearly visible as the first heading users are presented with.
