@@ -1,35 +1,42 @@
 ### Help users to
 # Explore data online
 
-> Many users emphasise the ability to visualise or preview the data before downloading it. For some it might be all they require - to get a specific value from a certain location, e.g. the flood risk in a specific location. If they can get that information from the portal directly, they don't need to download the data itself.
+> Many users emphasise the ability to visualise or preview the data before downloading it. For some it might be all they require - to get a single value from a certain location, e.g. the flood risk in a specific location. If they can get that information from the portal directly, they don't need to download the dataset itself.
 
-How important the data exploration online, depends on the data being provided and the type of users who are accessing this data. Thus, some user research might be necessary to better understand the need for online data exploration.
+The usefulness of data visualisation online depends on the data being provided, the type of users accessing the data and their needs. 
+
 
 ## What it looks like
 
-There are multiple ways that the data can be explored online - tables, charts, maps.
+There are multiple ways that the data can be explored online - maps, tables, charts. For spatial data, map interface would be the most useful method. 
+W
+For datasets that can not be previewed online, a written description of the data can also help users get a better understanding of what is included. It also makes them more [accessible](/main-content/accessibility) to users with visual impairments. 
 
 Users previewing the data online might have one of these goals:
 * Find a specific value for a location of interest; and
 * Preview the data online to get a better understanding of its contents.
 
-If users require only a specific value, there is no need to display additional information. After a simple postcode or location search they could be presented with a value for that location.
+If users require only a specific value, there is no need to display additional information. After a simple postcode or location search they should be presented with a value for that location.
 
 ### 1. Preview data
 
 Allowing users to preview the files included in the dataset and their contents can help them make a better decision on the usefulness of the dataset.
 
-<div class="image-container">
 
-![Explore data online](../../_media/explore-data-online/data-preview.png)
-
-*Preview the contents of CSV files*
-
-</div>
 
 ### 2. Visualise data
 
+![Additional info](../../_media/explore-data-online/explore-map.png
+
 If technology and resources allow, a more detailed data preview can help users evaluate the dataset and do an exploratory data analysis within the data portal.
+
+<div class="image-container">
+
+![Additional info](../../_media/explore-data-online/explore-map.png)
+
+*Previewing data on the map and downloading selected files*
+
+</div>
 
 <div class="image-container">
 
