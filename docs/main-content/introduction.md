@@ -24,10 +24,10 @@ Users discover, access and interact with data portals in a range of ways dependi
 
 ![User Journey Stages](../_media/spatial-data-journey-v3.svg)
 
-## Common painpoints for users
+## Common pain points for users
 User research conducted on behalf of the Geospatial Commission identified many issues that caused users to be confused or frustrated when [Finding Geospatial Data](https://www.gov.uk/government/publications/finding-geospatial-data/finding-geospatial-data). Poor usability reduces trust and limits the impact of potentially valuable data. 
 
-Our recommendations are designed to address the following painpoints, grouped by user needs:  
+Our recommendations are designed to address the following pain points, grouped by user needs:  
 
 ### 1. Discover data sources
 *	Lack of domain knowledge when searching
