@@ -1,5 +1,5 @@
 ### Help users to
-# Assess data quality 
+# Assess dataset quality 
 
 > Data quality may not always be in the hands of data portal's maintainers. To ensure that users can make and informed decision about the dataset, they should know who produced the dataset and when it was updated last.
 
