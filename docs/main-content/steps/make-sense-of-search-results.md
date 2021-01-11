@@ -72,8 +72,7 @@ Geospatial presentation of results by preference of area should be made availabl
 </div>
 
 ### 7. Results list
-
-Each result should show a title, description, publisher information, publication date, last updated, key meta data and licence type. There may be additional mechanisms to help identify higher quality datasets, such as crowdsourced user feedback forms and displaying information to distinguish (../../main-content/steps/assess-data-quality) search results.
+Each result should show a title, description, related publisher information, publication date, last updated, key meta data and licence type. There may be additional mechanisms to help identify higher quality datasets, such as crowdsourced user feedback forms and displaying information to distinguish (../../main-content/steps/assess-data-quality) search results.
 
 <div class="image-container">
 <a href="/dd3-wireframes/_media/stage-3-results/7a-presentation_of_results.png" target="_blank"><img src="/dd3-wireframes/_media/stage-3-results/7a-presentation_of_results.png" data-no-zoom/></a>
