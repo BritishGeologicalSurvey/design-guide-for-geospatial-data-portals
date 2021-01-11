@@ -17,9 +17,21 @@
 
 *Dataset overview*
 
+<a href="/dd3-wireframes/_media/example-pages/dataset-details/additional.png" target="_blank"><img src="/dd3-wireframes/_media/example-pages/dataset-details/additional.png" data-no-zoom/></a>
+
+*Additional dataset information*
+
+<a href="/dd3-wireframes/_media/example-pages/dataset-details/citation.png" target="_blank"><img src="/dd3-wireframes/_media/example-pages/dataset-details/citation.png" data-no-zoom/></a>
+
+*Dataset citation*
+
 <a href="/dd3-wireframes/_media/example-pages/dataset-details-annotated.png" target="_blank"><img src="/dd3-wireframes/_media/example-pages/dataset-details-annotated.png" data-no-zoom/></a>
 
 *Dataset preview*
+
+<a href="/dd3-wireframes/_media/example-pages/dataset-details/related-list.png" target="_blank"><img src="/dd3-wireframes/_media/example-pages/dataset-details/related-list.png" data-no-zoom/></a>
+
+*Related datasets*
 
 </div>
 
