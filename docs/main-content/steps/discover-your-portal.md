@@ -1,17 +1,16 @@
 ### Help users to
 # Discover your portal
 
-> Maximise the discoverability of data portals through search engine optimisation. This matters because most people looking for spatial data begin their journey in search engines. The first contact with a new data portal will likely be through the search engine results.
+> Maximise the discoverability of data portals through search engine optimisation. Most users begin their journey in search engines making discoverability an important part of the user experience. A user's first contact will likely be through a search engine's results page.
 
-How the data portal will be presented in the search results depends on the search engine optimisation used by the portal developers. 
+How a data portal is presented in search results depends on the search engine optimisation (SEO), undertaken as part of the development process which that data portal has undergone.
 
-To ensure that data portals and the datasets they contain are presented well in search engines it is important to ensure they have the correct and machine readable meta-data. 
-A more detailed report and recommendations can be found in the report below.
+Data portals and their datasets are well presented by ensuring that correct and machine readable metadata is made available to search engines as part of their crawling process. Recommendations on how to achieve this can be found in the following report:
 
-!> Find more details in the [Search engine optimisation for publishers: Best practice guide](https://www.gov.uk/government/publications/search-engine-optimisation-for-publishers-best-practice-guide)
+!> Find more information in the [Search engine optimisation for publishers: Best practice guide](https://www.gov.uk/government/publications/search-engine-optimisation-for-publishers-best-practice-guide)
 ## What it looks like
 
-Using the search engine, the users are most likely to discover either one of the datasets hosted by the data portal or the homepage of the portal itself. It is important that the datasets have easy to read and understandable titles and descriptions and the portal has a memorable url and brief description of its purpose.
+While using a search engine, users are most likely to discover either a dataset record hosted by the data portal or the homepage of the portal. Ensure datasets have easy to read and understandable titles and descriptions and the portal has a memorable url and brief description of its purpose.
 
 ### 1. Dataset title
 
@@ -39,11 +38,11 @@ The URL should be short, relevant and memorable.
 
 ### 4. Portal name
 
-Ideally the data portal URL and name should be the same. If it's not possible, it should still be human readable and memorable.
+Ensure the data portal URL and name are the same, or at the least, human readable and memorable.
 
 ### 5. Portal description
 
-The data portal should have a brief description telling its purpose and describing the type of data it serves.
+The data portal should have a brief description describing its purpose and the type of data served.
 
 <div class="image-container">
 
