@@ -5,7 +5,7 @@
 
 Faceted search allow users to refine search results through sorting (order of results), filtering (number of results) and categorisation (parent category). Sorting and filtering should be available to users at the time of entering keywords and not hidden or buried behind an "advanced search option". In addition, sorting and filtering are perceived as the same function and should therefore appear in the same part of the user interface.
 
-Users will always arrive at a 'search results' page after performing a search query using one of the available search input methods. See [search for 
+Ensure users arrive at a 'search results' page after performing a search query from one of the search input methods. See [search for 
 data](main-content/steps/search-for-data).
 
 ## What it looks like
@@ -21,7 +21,7 @@ Search results should clearly answer:
 + Refine, sort and filter search results to identify the most relevant datasets
 + Easily access more information about a single record
 
-Ensure users are presented with enough information to help them identify when to change, refine or continue with their search query
+Ensure users are presented with enough information to help them identify when to change, refine or continue with their search query.
 
 ### 1. Number of results
 
