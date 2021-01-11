@@ -12,15 +12,14 @@
 
 <!-- tabs:start -->
 
-### **Example implementation**
-![Home heading](../../_media/stage-4-explore/preview-wireframe.png)
 
-### **Example implementation with annotations**
+<a href="/dd3-wireframes/_media/example-pages/dataset-details/overview-annotated.png" target="_blank"><img src="/dd3-wireframes/_media/example-pages/dataset-details/overview-annotated.png" data-no-zoom/></a>
+
+*Dataset overview*
+
 <a href="/dd3-wireframes/_media/example-pages/dataset-details-annotated.png" target="_blank"><img src="/dd3-wireframes/_media/example-pages/dataset-details-annotated.png" data-no-zoom/></a>
 
-<!-- tabs:end -->
-
-*Example implementation and implementation with annotations*
+*Dataset preview*
 
 </div>
 
