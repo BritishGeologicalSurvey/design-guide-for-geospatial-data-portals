@@ -53,6 +53,7 @@
 * [File selection for partial downloads](/main-content/steps/use-data?id=_5-file-selection-for-partial-downloads)
 * [Sharing options](/main-content/steps/use-data?id=_6-sharing-options)
 
+<!--
 ---
 
 <!-- Additional information can be presented in dropdown menus -->
@@ -85,3 +86,4 @@ These components can be arranged in many ways, but the ones with highest relevan
 | Search bar            | An easy way to search for other dataset within the same portal                                                |     3     |
 
 </details>
+-->
