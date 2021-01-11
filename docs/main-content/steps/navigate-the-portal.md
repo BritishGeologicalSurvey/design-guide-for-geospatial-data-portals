@@ -1,9 +1,9 @@
 ### Help users to
 # Navigate the portal
 
-> Users should always know where they are and have an easy way to jump to related content or back to the data portal homepage.
+> Inform users with glanceable information about where they are in the data portal navigation. Ensure navigation is made easy with a quick way to jump to related content or back to the homepage.
 
-Homepage may not be the entry point to a data portal for many users, especially those who discover a specific dataset or search facility through direct links provided by search engine results. Thus it is important that they can easily make sense of where they are and how they can explore additional content.
+Its possible that the homepage may not be the entry point for users into your data portal. This is true of users who discover a specific dataset or search facility via direct links (e.g. from search engine results). Therefore, ensure users can easily make sense of where they are, and how they can explore additional content.
 
 ## What it looks like
 
@@ -13,7 +13,7 @@ Navigation should be consistent, enabling users to understand where in the websi
 
 ### 2. Page title
 
-Pages titles help users understand the purpose of each page and ensure relevant pages appear higher in search engine rankings.
+Page titles allow users to understand the purpose of each page and ensure relevant pages appear higher in search engine rankings. Titles displayed in the browser window give users a useful reference to easily find when switching between tabs in their web browser.
 
 <div class="image-container">
 
@@ -25,19 +25,19 @@ Pages titles help users understand the purpose of each page and ensure relevant 
 
 ### 3. Fixed position of the main navigation bar
 
-The navigation bar should include the portal name, logo and the most important links. It allows users switching between tabs to know where they are and how to get to the most important pages on the portal.
+A navigation bar should include the portal name, logo and the most important links.
 
 <div class="image-container">
 
 ![navbar](../../_media/check-portal-is-relevant/navbar.png)
 
-*Navbar allows users to navigate back to homepage and other top level pages*
+*The navigation bar allows users to navigate back to the homepage and other top level pages*
 
 </div>
 
 ### 4. Breadcrumbs
 
-Breadcrumbs allow users to easily jump to parent pages and see the website structure
+Breadcrumbs ensure users can easily navigate to parent pages within the website's navigation hierarchy.
 
 <div class="image-container">
 
@@ -47,15 +47,15 @@ Breadcrumbs allow users to easily jump to parent pages and see the website struc
 
 </div>
 
-### 5. Link back to homepage
+### 5. Links back to the homepage
 
-Similar to the point above - users should always be able to easily navigate back to homepage.
+Ensure users have a quick and consistent way to easily navigate back to the homepage.
 
 ### 6. Related datasets
 
-Showing related datasets on the [dataset details pages](/main-content/pages/dataset-details) can help users explore other datasets in the same region or from the same topic. These recommendations should be specific and relevant to what users search for.
+Showing related datasets on the [dataset details pages](/main-content/pages/dataset-details) can help users explore other datasets in the same region or from the same topic. Ensure any recommendations shown are specific and relevant to what a user is searching for.
 
-If there is a risks for the *related datasets* lists becoming unwieldy, they should be split into groups according to topic, location or other relevant attribute.
+Ensure large lists of *related datasets* are easily read by users by splitting them into groups according to topic, location or another relevant attribute.
 
 <div class="image-container">
 
@@ -66,31 +66,27 @@ List view             |  Map view
 *Related datasets in list and map view*
 
 </div>
-
+<!--
 ## When to use
-
 To be used on every page throughout the data portal and to highlight which page the user is currently on.
-
----
+-->
 
 <!-- Additional information can be presented in dropdown menus -->
-
+<!--
 <details>
 <summary>Essential components</summary>
 <br>
-
 Below is a checklist of components/information that are relevant for this task.
-
 These components can be arranged in many ways, but the ones with highest relevance should be the most visible/accessible.
-
 ?> 1 - high relevance, 2 - medium relevance, 3 - low relevance
-
+-->
 <!-- Table of component start -->
-
+<!--
 | Component      | Description                                              | Relevance |
 |----------------|----------------------------------------------------------|:---------:|
 | Page title     | A clear page title that can help users orient themselves |     1     |
 | Breadcrumbs    | Breadcrumbs allowing users easily jump to parent folders |     1     |
 | Navigation bar | Navigation bar including homepage link and search bar    |     1     |
-
+<!--
 </details>
+-->
