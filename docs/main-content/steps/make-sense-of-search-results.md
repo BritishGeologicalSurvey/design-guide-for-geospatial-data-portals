@@ -10,7 +10,9 @@ data](main-content/steps/search-for-data).
 
 ## What it looks like
 
-!> User’s perception of dataset quality is driven by a number of different factors, such as publisher, publication date, frequency of updates, well-described metadata, complete dataset, clearly presented within the portal. More information on the help you can give to your users can be found on the [assess data quality](main-content/steps/assess-data-quality) page.
+!> A user's perception of dataset quality is driven by a number of different factors, such as publisher, publication date, frequency of updates, well-described metadata, how complete the data is and a clear visual presentation within the portal itself.
+<br>
+More information on the help you can give to your users can be found on the [assess data quality](main-content/steps/assess-data-quality) page.
 
 Search results should clearly answer:
 
