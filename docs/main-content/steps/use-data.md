@@ -1,27 +1,27 @@
 ### Help users to
 # Use data
 
-> Help users download data in a format they prefer. The process for downloading data should be simple and straight-forward. If possible users should be able to select which files from the dataset they want to download. If it is not possible, it should be made clear what is included in the download file and how big the file size is.
+> Help users to download data in the format they prefer. Ensure this download process is simple and straight-forward. Where possible, allow for the partial download of datasets, giving users the option to select from files container within. Ensure the contents of the dataset are made clear, the size of the download and what formats are included.
 
-Regardless of whether the dataset is freely available or requires payment, users prefer being able to preview the data online and to know any other requirements for using the dataset upfront.
+Whether a dataset is freely available or requires payment, users prefer having the option to preview data prior to download, with information describing what is required to use the dataset.
 
-The dataset would be usually downloaded from the [dataset details page](/main-content/pages/dataset-details).
+Ensure datasets are downloaded from their [dataset details page](/main-content/pages/dataset-details) page.
 
 ## What it looks like
 
 ### 1. Preview data online
 
-Using the dataset can start directly in the portal. Read more about it in the ['Explore data online'](/main-content/steps/explore-data-online) section. 
+Ensure datasets can be assessed directly in the portal. Read more about it in the ['Explore data online'](/main-content/steps/explore-data-online) section. 
 
 ### 2. Straightforward process for downloading data
 
-People don't like when there are too many steps restricting access to datasets [(Data Discoverability project, 2020](https://www.gov.uk/government/publications/finding-geospatial-data/finding-geospatial-data)). Data downloading process should be as simple as possible. If any additional steps are required in order to access the datasets, they should be made clear upfront with easily findable instructions on how to perform them.
+Restricting access to datasets [(Data Discoverability project, 2020](https://www.gov.uk/government/publications/finding-geospatial-data/finding-geospatial-data)) can often lead to user frustration. Ensure the data download process is as simple as possible. If there are additional steps required to access data, they should be made accessible to the user, with clear instructions.
 
 ### 3. Download button
 
-Download links for datasets should be clearly visible and identifiable. If dataset is not available for download yet, it should be indicated why and if/when the dataset will become available.
+Download buttons and links for datasets should be clearly visible and identifiable. Any datasets that are not available for download (e.g. undergoing review for publication), should be described as such with information about when the dataset will become available.
 
-Using icons can also help users recognise download links. If icons are used in the data portal, they should be simple and always include a text label alongside the icon.
+The use of icons will help users recognise download links. If icons are used, they should be simple and always include a text label.
 
 <div class="image-container">
 
@@ -45,7 +45,7 @@ If any licencing restrictions apply, they should be made clear upfront with link
 
 ### 5. Display data formats
 
-Users should know what format the data is in before downloading it, ideally with access to definitions of those file types. Users are usually looking for data that can work with the tools they use.
+Ensure users know what format the data is in before download, ideally with access to definitions of those file types. Users are usually looking for data that can work with the tools they use.
 
 <div class="image-container">
 
@@ -57,11 +57,11 @@ Users should know what format the data is in before downloading it, ideally with
 
 ### 6. Dynamic data access
 
-Sometimes users prefer to access data in a more flexible way, e.g application programming interface (API) access. If data can be accessed through other methods, clear instructions on how to do that should be easily accessible.
+Users sometimes prefer to access data in a flexible way, e.g. application programming interface (API) access. If data can be accessed through other methods, clear instructions on how to do that should be made clear.
 
 ### 7. File selection for partial downloads
 
-If possible, allow users to select which files in the dataset they want to download. If it's not possible, they should at least know what is included in the download file.
+Where possible, allow users to select files from a dataset for a partial download. Datasets should be described with information about what is included.
 
 <div class="image-container">
 
@@ -73,7 +73,7 @@ If possible, allow users to select which files in the dataset they want to downl
 
 ### 8. Sharing options
 
-User might want to share links with colleagues or send a link to themselves for later use.
+A User might want to share links with colleagues or send a link to themselves for later use.
 
 <div class="image-container">
 
