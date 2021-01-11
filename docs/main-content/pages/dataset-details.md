@@ -54,21 +54,15 @@
 * [Sharing options](/main-content/steps/use-data?id=_6-sharing-options)
 
 <!--
----
-
-<!-- Additional information can be presented in dropdown menus -->
-
 <details>
 <summary>Essential components</summary>
 <br>
 Below is a checklist of components/information that are relevant for this task.
-
 These components can be arranged in many ways, but the ones with highest relevance should be the most visible/accessible.
-
 ?> 1 - high relevance, 2 - medium relevance, 3 - low relevance
-
+-->
 <!-- Table of component start -->
-
+<!--
 | Component             | Description                                                                                                   | Relevance |
 |-----------------------|---------------------------------------------------------------------------------------------------------------|:---------:|
 | Title                 | Descriptive but not too long                                                                                  |     1     |
@@ -84,6 +78,5 @@ These components can be arranged in many ways, but the ones with highest relevan
 | Citation details      | Details on how the dataset should be cited                                                                    |     2     |
 | Home link             | Easy way to get back to data portal's homepage                                                                |     2     |
 | Search bar            | An easy way to search for other dataset within the same portal                                                |     3     |
-
 </details>
 -->
