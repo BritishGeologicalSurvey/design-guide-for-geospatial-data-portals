@@ -80,17 +80,3 @@ Each result should show a title, description, publisher information, publication
 </div>
 
 <!-- ### 8. Pagination - TO ADD -->
-
-## When to use
-
-When a user is searching for data to answer a specific research question.
-
-### Example page
-
-> [Search / Search results](main-content/pages/search-and-results)
-
-## Related
-
-* [Search for data](/main-content/steps/search-for-data)
-
-
