@@ -13,10 +13,10 @@
 <!-- tabs:start -->
 
 ### **Example implementation**
-<a href="/dd3-wireframes/_media/stage-4-explore/preview-wireframe.png" target="_blank"><img src="/dd3-wireframes/_media/stage-4-explore/preview-wireframe.png" data-no-zoom/></a>
+![Home heading](../../_media/stage-4-explore/preview-wireframe.png)
 
 ### **Example implementation with annotations**
-<a href="/dd3-wireframes/_media/example-pages/5.use-page-annotated.png" target="_blank"><img src="/dd3-wireframes/_media/example-pages/dataset-details-annotated.png" data-no-zoom/></a>
+<a href="/dd3-wireframes/_media/example-pages/dataset-details-annotated.png" target="_blank"><img src="/dd3-wireframes/_media/example-pages/dataset-details-annotated.png" data-no-zoom/></a>
 
 <!-- tabs:end -->
 
