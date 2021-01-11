@@ -9,7 +9,8 @@
 
 A user's perception of dataset quality is driven by a number of different factors, such as publisher, publication date, frequency of updates, well-described metadata, how complete the data is and a clear visual presentation within the portal itself.
 
-Display information relating to:
+Presentation of dataset records, e.g. through search results, should be shown clearly. Ensure you display information relating to:
+
 + [Assess dataset relevance > 1. Clear dataset title](main-content/steps/assess-dataset-relevance?id=_1-clear-dataset-title)
 + [Assess dataset relevance > 4. Publisher name](main-content/steps/assess-dataset-relevance?id=_4-publisher-name)
 + [Assess dataset relevance > 6. Created on date and period it relates to](main-content/steps/assess-dataset-relevance?id=_6-created-on-date-and-period-it-relates-to)
