@@ -1,42 +1,42 @@
 ### Help users to
 # Search for data
 
-> Help users search for data within the data portal. 
+> Ensure users can search for data within your data portal by providing easy access to a search facility.
 
-Some users prefer to search for data using keywords, some by specifying a location and seeing what datasets are available in the area, and some require a combination of both methods.
+Users may search via a number of different methods. For example, by providing a keyword, specifying a location, or a combination of both.
 
-Ideally the data portal should support both of these methods - keywords search and map search. An exemption could be small data portals serving a limited amount of datasets. In such cases (for example portals with less than 20 datasets) search might not be required since all the datasets could be presented on a single page.
+Ideally your data portal should support both methods for searching by keywords and through a map search. Data portals with a small number of datasets could be exempt if those datasets all fit onto a single page or exist for one location only.
 
 ## What it looks like
 
 ### 1. Search field
 
-Users should be able to search for data using keywords. Search field should be easily noticeable. Since search is one of the primary functions of data portal, it should be accessible from any page of portal. 
+Ensure users are able to search for data using keywords. As a primary function search fields should be easily recognisable and accessible from all pages. 
 <!-- some confusion over the wording here -->
 
 <div class="image-container">
 
 ![Simple search](../../_media/search-for-data/simple-search.png)
 
-*Search bar*
+*Search field*
 
 </div>
 
 ### 2. Advanced search
 
-Users should be able to specify more detailed search criteria
+Ensure users can search by specifying more detailed criteria.
 
 ?> More details can be found in [*Make sense of search results*](main-content/steps/make-sense-of-search-results)
 
 ### 3. Spatial search
 
-There are multiple ways to search for spatial data:
+Give users multiple ways to search spatially for data:
 
-* Using post code / address
+* Using a post code / address
 * Specifying coordinates
-* Selecting an area on the map
+* Selecting an area of the map
 
-Whichever way is used, it should be made clear to the user what will be included in the search results and what coordinate system is used.
+ensuring it is clear to the user what is included in the search results and the coordinate system used.
 
 <div class="image-container">
 
@@ -56,7 +56,7 @@ If it's possible to search for datasets on a map, the search results should be c
 
 </div>
 
-Users often prefer to search for datasets using a map interface. If such functionality is available, it should be easily discoverable and well integrated with regular searching and filtering methods - users should be able to easily switch between map view and list view on the *[search results page](search-and-results)*.
+Users often prefer to search for datasets using a map interface. When available, ensure it is discoverable and well integrated with regular searching and filtering methods. Allow users to easily switch between map view and list view on the *[search results page](search-and-results)*.
 
 <div class="image-container">
 
@@ -68,7 +68,7 @@ Users often prefer to search for datasets using a map interface. If such functio
 
 ### 4. Provide tips on what users can search for
 
-Include a sample query in the search bar to suggest to users what they can search for.
+Include a sample query in the search bar as a suggestion for users of what they can search for.
 
 <div class="image-container">
 
@@ -92,9 +92,9 @@ Show most recent or popular queries.
 
 ### 6. Don't return 'no results'
 
-If the users query doesn't match any search results - provide an actionable message on what they could do differently.
+If a user's query doesn't find any data records - provide an actionable message on what they could do differently.
 
-If some datasets have a 'near' match to search criteria they can be displayed as well.
+If there are data records that have a 'close' resemblance to search criteria ensure they are displayed as suggestions.
 
 <div class="image-container">
 
@@ -106,11 +106,11 @@ If some datasets have a 'near' match to search criteria they can be displayed as
 
 ### 7. Sort by and filter options
 
-if the initial search does not lead users to the dataset they are looking for, they should be able narrow down their search using filtering and sorting methods.
+If a search query does not show any relevant data records ensure that query can be further refined through 'sort' and 'filter' methods.
 
-### 8. Show users' search query on the results page
+### 8. Show users their search query on the results page
 
-Don't erase the search query in the search field so users can easily remember what they search for and alter their search keywords if required.
+Ensure search queries are shown if entered to allow users to easily remember what they search for and adjust their search query if required.
 
 <div class="image-container">
 
@@ -123,36 +123,26 @@ Don't erase the search query in the search field so users can easily remember wh
 *Search terms should not get cleared from the search bar after search to make it easier to alter search terms if needed*
 
 </div>
-
+<!--
 ## When to use
-
 Search functionality is important for data portals that have more datasets than can easily be presented on a single page.
-
 ### Example page
-
 > **[Search / search results](main-content/pages/search-and-results)**
-
 ## Related
-
 * [Make sense of search results](/main-content/steps/make-sense-of-search-results.md)
-
-
 ---
-
+-->
 <!-- Additional information can be presented in dropdown menus -->
-
+<!--
 <details>
 <summary>Essential components</summary>
 <br>
-
 Below is a checklist of components/information that are relevant for this task.
-
 These components can be arranged in many ways, but the ones with highest relevance should be the most visible/accessible.
-
 ?> 1 - high relevance, 2 - medium relevance, 3 - low relevance
-
+-->
 <!-- Table of component start -->
-
+<!--
 | Component       | Description                                                               | Relevance |
 |-----------------|---------------------------------------------------------------------------|:---------:|
 | Homepage search | Simple search on data portals homepage                                    |     1     |
@@ -160,5 +150,5 @@ These components can be arranged in many ways, but the ones with highest relevan
 | Detailed search | A more detailed search page with additional filtering and sorting options |     1     |
 | Data filtering  | An option to filter search results                                        |     2     |
 | Data sorting    | An option to sort data search reults                                      |     1     |
-
 </details>
+-->
