@@ -12,8 +12,9 @@
 
 <!-- tabs:start -->
 
+
 ### **Example implementation**
-<a href="/dd3-wireframes/_media/stage-1/homepage/wireframe-home.png" target="_blank"><img src="/dd3-wireframes/_media/stage-1/homepage/wireframe-home.png" data-no-zoom/></a>
+![Home heading](../../_media/stage-1/homepage/wireframe-home.png)
 
 ### **Example implementation with annotations**
 <a href="/dd3-wireframes/_media/stage-1/homepage/wireframe-home-annotations.png" target="_blank"><img src="/dd3-wireframes/_media/stage-1/homepage/wireframe-home-annotations.png" data-no-zoom/></a>
