@@ -7,7 +7,7 @@
 
 ## What it looks like
 
-User's perception of dataset quality is driven by a number of different factors, such as publisher, publication date, frequency of updates, well-described metadata, complete dataset, clearly presented within the portal.
+A user's perception of dataset quality is driven by a number of different factors, such as publisher, publication date, frequency of updates, well-described metadata, how complete the data is and a clear visual presentation within the portal itself.
 
 Display information relating to:
 + [Assess dataset relevance > 1. Clear dataset title](main-content/steps/assess-dataset-relevance?id=_1-clear-dataset-title)
