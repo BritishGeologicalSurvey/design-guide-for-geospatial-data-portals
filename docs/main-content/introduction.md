@@ -83,11 +83,11 @@ As users progress through their journey, they perform certain tasks, some spanni
 
 ## Wireframes
 
-As part of this guidance, wireframes were produced for a generic geospatial data portal. 
+This guidance features mock components and page illustrations as a general wireframe for a generic geospatial data portal. 
 
-Wireframes are a visual representation of a user interface. They don't include the visual design or branding elements, but they help UX designers to convey the hierarchy of elements on the screen based on user needs. The user needs for geospatial data portals were discovered in the [Data Discoverability project](https://www.gov.uk/government/publications/finding-geospatial-data/finding-geospatial-data).
+Wireframes are visual representations of the user interface without branding or high fidelity styles. Their purpose is to assist user experience (UX) designers to convey the overall presentation of page elements, their hierarchy and layout. The user needs for geospatial data portals were discovered in the [Data Discoverability project](https://www.gov.uk/government/publications/finding-geospatial-data/finding-geospatial-data).
 
-The wireframes in this guidance show how a geospatial data portal could be potentially designed. It does not mean that is the only way to create a good portal. Each geospatial data portal will be slightly different and its primary concern should be to address user needs by serving the datasets in a way and format that helps them to achieve their goals. The structure of the user interface will follow from that.
+Wireframes in this guidance shows one possible implementation of a geospatial portal. Each geospatial data portal will differ depending on the needs of their users.
 
 The example wireframes can be found in the [example pages section](/main-content/pages/pages-intro).
 
