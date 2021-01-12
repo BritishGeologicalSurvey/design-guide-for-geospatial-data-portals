@@ -64,7 +64,7 @@
 
 ## Components used in this example
 
-The following lists provide a quick set of hyperlinks to associated user needs and guidance on how to help users to achive related tasks.
+The following lists provide a quick set of hyperlinks to associated user needs and guidance on how to help users to achieve related tasks.
 
 **[Assess dataset relevance](/main-content/steps/assess-dataset-relevance)**
 * [Clear dataset title](/main-content/steps/assess-dataset-relevance?id=_1-clear-dataset-title)
