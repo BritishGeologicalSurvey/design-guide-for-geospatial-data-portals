@@ -2,9 +2,9 @@
 
 > Guidance for developers and designers to increase the discoverability and usefulness of geospatial data through user focussed data portals.
 
-# Geospatial data portals
+## Geospatial data portals
 
-Data portals differ by the data they provide and the audiences they serve. This guidance provides general designs and recommendations from research into the frustrations experienced by users during their journey from data discovery to usage. 'Data portals' described within this guidance are referring to web-based interfaces designed to help users find and access datasets. Optimally, they should be built around metadata records which describe datasets, provide pointers to where they can be located and explain any restrictions or limitations in their use.
+Data portals differ by the data they provide and the audiences they serve. 'Data portals' described within this guidance are web-based interfaces designed to help users find and access datasets. Optimally, they should be built around metadata records which describe datasets, provide pointers to where they can be located and explain any restrictions or limitations in their use.
 
 Although more and more geospatial data is being made available online, there are users who are confused about where to go, who to trust and which datasets are most relevant to answering their questions.
 
