@@ -3,7 +3,7 @@
 
 > Maximise the discoverability of data portals through search engine optimisation. Most users begin their journey in search engines making discoverability an important part of the user experience. A user's first contact will likely be through a search engine's results page.
 
-How a data portal is presented in search results depends on the search engine optimisation (SEO), undertaken as part of the development process.
+How a data portal is presented in search results depends on the search engine optimisation (SEO), undertaken as part of the design and development process.
 
 Data portals and their datasets are well presented by ensuring that correct and machine readable metadata is made available to search engines as part of their crawling process. Recommendations on how to achieve this can be found in the following report:
 
