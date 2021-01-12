@@ -5,7 +5,7 @@
 
 Whether a dataset is freely available or requires payment, users prefer having the option to preview data prior to download, with information describing what is required to use the dataset. For more information read how to help users to... [explore data online](main-content/steps/explore-data-online).
 
-Ensure datasets are downloaded from their [dataset details page](/main-content/pages/dataset-details) page.
+Ensure datasets are downloadable from their [dataset details page](/main-content/pages/dataset-details) page.
 
 ## What it looks like
 
