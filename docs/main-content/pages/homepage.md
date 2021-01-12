@@ -1,6 +1,6 @@
 # Homepage
 
-> The homepage should help users understand whether the data portal is relevant for their needs, what topics it cover, what licence the data is shared under and how to start their search for data.
+> The homepage should help users understand whether the data portal is relevant for their needs, what topics it covers, what licence the data is shared under and how to start their search for data.
 
 ## Example homepage
 

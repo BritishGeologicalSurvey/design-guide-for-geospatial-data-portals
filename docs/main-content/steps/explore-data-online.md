@@ -1,27 +1,27 @@
 ### Help users to
 # Explore data online
 
-> Many users emphasise they want the ability to visualise or preview the data before downloading it. For some it might be all they require - to get a single value from a certain location, e.g. the flood risk in a specific location. If they can get that information from the portal directly, they don't need to download the dataset itself.
+> Allow users to visualise or preview data prior to requesting a dataset for download. Some users may only require an online preview of the data, for example, when wanting a single value from a certain location, e.g. the flood risk in a specific location. Giving access to this information ensures the user can save time if they do not require a download.
 
 The usefulness of data visualisation online depends on the data being provided, the type of users accessing the data and their needs.
 
-Dataset previews also give information on [data quality](/main-content/steps/assess-data-quality) and relevancy prior to download and use. Options to download a sample or a selection of the dataset are also helpful to users who are on limited internet bandwidths.
+By providing a dataset preview, users are able to quickly assess the relevancy and [data quality](/main-content/steps/assess-data-quality), prior to download and use. Options to download a sample or a selection of the dataset are also helpful to users who are on limited internet bandwidths.
 
-Dataset preview/visualisation would usually happen on the [search page](http://localhost:3000/#/main-content/steps/search-for-data) or the [dataset details](http://localhost:3000/#/main-content/steps/search-for-data) page.
+Dataset previews and visualisations should be presented on the [dataset details](/main-content/steps/search-for-data) page.
 
 ## What it looks like
 
-There are multiple ways that the data can be explored online - maps, tables, charts. For geospatial data, map interface would be the most useful method. 
+There are multiple ways that the data can be explored online - maps, tables, charts. For geospatial data, a map based interface would be the most appropriate method. 
 
-For datasets that can not be previewed online, a written description of the data can also help users get a better understanding of what is included. It also makes the data portal more [accessible](/main-content/accessibility) to users with visual impairments. 
+Any dataset that can not be previewed online should include a written description of the data to help users get a better understanding of what is included. This also ensures your data portal follows our [accessibility](/main-content/accessibility) guidance for users with visual impairments. 
 
-Users previewing the data online might have one of these goals:
-* Preview the data online to get a better understanding of its contents; and
-* Find a specific value for a location of interest.
+When previewing data online, users might have one of these goals:
+* Preview the data online to get a better understanding of its contents
+* Find a specific value for a location
   
 ### 1. Preview the contents of the dataset
 
-Allowing users to preview the files included in the dataset and their contents can help them make a better decision on the usefulness of the dataset.
+Allowing for users to preview the contents of a dataset, including any files, will help make better decisions on whether to use a dataset.
 
 <div class="image-container">
 
@@ -33,7 +33,7 @@ Allowing users to preview the files included in the dataset and their contents c
 
 ### 2. Visualise the data
 
-If technology and resources allow, a more detailed data preview can help users evaluate the dataset and do an exploratory data analysis within the data portal.
+If technology and resources allow, a more detailed data preview can enable users to analyse and evaluate a dataset within the data portal.
 
 <div class="image-container">
 
@@ -45,7 +45,7 @@ If technology and resources allow, a more detailed data preview can help users e
 
 ### 3. Get specific information online
 
-There might be cases when users can get the information they need directly in the data portal. This requires understanding the users needs and data properties.
+Understanding the user's needs when it comes to data and their properties will ensure when to display data directly in the data portal or when to provide quick access to a download.
 
 An example below shows the [flood warning data ](https://flood-warning-information.service.gov.uk/). Users can get the information they need directly in the browser without downloading the dataset.
 
