@@ -7,7 +7,7 @@ Ensure this information is just a few clicks away as users might not always arri
 
 ## What it looks like
 
-The homepage should clearly answer these key questions:
+The homepage should clearly present the following information:
 
 ### 1. Purpose of data portal
 
