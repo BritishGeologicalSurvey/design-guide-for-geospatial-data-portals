@@ -1,6 +1,6 @@
 # Search / search results page
 
-> A search facility should ensure users can quickly query the datasets contained within your portal and return relevant results ranked by data quality. Present this information clearly and concisely, highlighting relevant search terms, parent categories, sorting options and filters where appropriate to the user.
+> A search facility should ensure users can quickly query the datasets contained within your portal and return relevant results, ideally ranked by data quality. Present this information clearly and concisely, highlighting relevant search terms, parent categories, sorting options and filters where appropriate to the user.
 
 ## Example page for search
 
