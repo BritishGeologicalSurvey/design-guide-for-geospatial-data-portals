@@ -32,6 +32,8 @@
 
 ## Components used in this example
 
+The following lists provide a quick set of hyperlinks to associated user needs and guidance on how to help users to achive related tasks.
+
 **[Search for data](main-content/steps/search-for-data)**
 
 * [Search field](/main-content/steps/search-for-data?id=_1-search-field)
