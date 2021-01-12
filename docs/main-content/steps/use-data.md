@@ -1,7 +1,7 @@
 ### Help users to
 # Use data
 
-> Help users to download data in the format they prefer. Ensure this download process is simple and straight-forward. Where possible, allow for the partial download of datasets, giving users the option to select from files container within. Ensure the contents of the dataset are made clear, the size of the download and what formats are included.
+> Help users to download data in the format they prefer. Ensure this download process is simple and straight-forward. Where possible, allow for the partial download of datasets. Ensure the contents of the dataset are made clear, the size of the download and what formats are included.
 
 Whether a dataset is freely available or requires payment, users prefer having the option to preview data prior to download, with information describing what is required to use the dataset.
 
