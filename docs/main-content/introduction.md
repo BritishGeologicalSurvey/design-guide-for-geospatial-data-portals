@@ -10,7 +10,7 @@ Although more and more geospatial data is being made available online, there are
 
 In 2018 user researchers and designers across the Geo6 came together to explore the needs and frustrations experienced by users of data portals containing geospatial data.
 
-Throughout 2019 the Geo6 have worked on solutions to address pain points identified by the user research conducted for the [Data Discoverability project](https://www.gov.uk/government/publications/finding-geospatial-data/finding-geospatial-data).
+Throughout 2019 and 2020 the Geo6 have worked on solutions to address pain points identified by the user research conducted for the [Data Discoverability project](https://www.gov.uk/government/publications/finding-geospatial-data/finding-geospatial-data).
 
 !> This guidance material is not intended to be used as a comprehensive design system for all aspects of geospatial portals. Therefore there is no re-usable code or in-depth style guide provided. If such resources are of interest please visit the [GOV.UK Design System](https://design-system.service.gov.uk/get-started/).
 
