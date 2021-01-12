@@ -1,7 +1,7 @@
 ### Help users to
 # Make sense of search results
 
-> Search results should be clearly presented with sufficient sorting and filtering options to help users further refine and sort their search results. It is important that users are given enough information to understand and identify relevant high quality results quickly.
+> Search results should be clearly presented with sufficient sorting and filtering options to help users refine and sort returned dataset records. It is important that users are given enough information to understand and identify relevant high quality results quickly.
 
 Faceted search allow users to refine search results through sorting (order of results), filtering (number of results) and categorisation (parent category). Sorting and filtering should be available to users at the time of entering keywords and not hidden or buried behind an "advanced search option". In addition, sorting and filtering are perceived as the same function and should therefore appear in the same part of the user interface.
 
