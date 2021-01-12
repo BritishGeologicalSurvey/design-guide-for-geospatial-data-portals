@@ -27,7 +27,7 @@ Allowing for users to preview the contents of a dataset, including any files, wi
 
 ![Google results](../../_media/explore-data-online/explore-files.png)
 
-*Explore dataset before downloading it (dataset example - [kaggle.com](https://www.kaggle.com/utkarshxy/who-worldhealth-statistics-2020-complete)*
+*Explore dataset before downloading it (dataset example - [kaggle.com](https://www.kaggle.com/utkarshxy/who-worldhealth-statistics-2020-complete))*
 
 </div>
 
