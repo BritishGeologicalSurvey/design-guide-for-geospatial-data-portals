@@ -3,7 +3,7 @@
 
 > Help users to download data in the format they prefer. Ensure this download process is simple and straight-forward. Where possible, allow for the partial download of datasets. Ensure the contents of the dataset are made clear, the size of the download and what formats are included.
 
-Whether a dataset is freely available or requires payment, users prefer having the option to preview data prior to download, with information describing what is required to use the dataset.
+Whether a dataset is freely available or requires payment, users prefer having the option to preview data prior to download, with information describing what is required to use the dataset. For more information read how to help users to... [explore data online](main-content/steps/explore-data-online).
 
 Ensure datasets are downloaded from their [dataset details page](/main-content/pages/dataset-details) page.
 
