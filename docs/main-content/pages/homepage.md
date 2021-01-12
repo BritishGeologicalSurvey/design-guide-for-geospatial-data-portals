@@ -33,7 +33,7 @@
 
 ## Components used in this example
 
-The following lists provide a quick set of hyperlinks to associated user needs and guidance on how to help users to achive related tasks.
+The following lists provide a quick set of hyperlinks to associated user needs and guidance on how to help users to achieve related tasks.
 
 **[Discover your portal](main-content/steps/discover-your-portal)**
 <!-- typo in the link url -->
