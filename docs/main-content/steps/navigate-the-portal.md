@@ -55,7 +55,7 @@ Ensure users have a quick and consistent way to easily navigate back to the home
 
 Showing related datasets on the [dataset details pages](/main-content/pages/dataset-details) can help users explore other datasets in the same region or from the same topic. Ensure any recommendations shown are specific and relevant to what a user is searching for.
 
-Ensure large lists of *related datasets* are easily read by users by splitting them into groups according to topic, location or another relevant attribute.
+Ensure large lists of *related datasets* are easy to read by splitting them into groups according to topic, location or another relevant attribute.
 
 <div class="image-container">
 
