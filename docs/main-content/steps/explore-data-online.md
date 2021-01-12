@@ -45,7 +45,7 @@ If technology and resources allow, a more detailed data preview can enable users
 
 ### 3. Get specific information online
 
-Understanding the user's needs when it comes to data and their properties will ensure when to display data directly in the data portal or when to provide quick access to a download.
+Understanding the user's needs when it comes to data will ensure when to display data directly in the data portal or when to provide quick access to a download.
 
 An example below shows the [flood warning data ](https://flood-warning-information.service.gov.uk/). Users can get the information they need directly in the browser without downloading the dataset.
 
