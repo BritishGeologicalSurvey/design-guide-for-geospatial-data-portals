@@ -1,6 +1,6 @@
 # Accessibility
 
-> Accessibility should be considered from the outset to ensure that as many people as possible can use your services. Considering accessibility addresses many user needs ensuring websites are faster, easier to use and appear higher in search engine rankings.
+> Accessibility should be considered from the outset to ensure that as many people as possible can use your service. Considering accessibility addresses many user needs ensuring websites are faster, easier to use and appear higher in search engine rankings.
 
 Although accessibility aims to provide the best possible experience for users with disabilities, it also applies to anyone who's ability may be affected by their circumstances, for example:
 
