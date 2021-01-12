@@ -93,4 +93,4 @@ The example wireframes can be found in the [example pages section](/main-content
 
 ![Wireframe example](../_media/wireframe-example.png)
 
-*Example wireframe for geospatial dta portal*
+*Example wireframe for a geospatial data portal's homepage*
