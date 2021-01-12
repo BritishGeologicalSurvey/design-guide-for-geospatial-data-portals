@@ -3,7 +3,7 @@
 
 > Inform users with glanceable information about where they are in the data portal navigation. Ensure navigation is made easy with a quick way to jump to related content or back to the homepage.
 
-Its possible that the homepage may not be the entry point for users into your data portal. This is true of users who discover a specific dataset or search facility via direct links (e.g. from search engine results). Therefore, ensure users can easily make sense of where they are, and how they can explore additional content.
+It is possible that the homepage may not be the entry point for users into your data portal. This is true of users who discover a specific dataset or search facility via direct links (e.g. from search engine results). Therefore, ensure users can easily make sense of where they are, and how they can explore additional content.
 
 ## What it looks like
 
