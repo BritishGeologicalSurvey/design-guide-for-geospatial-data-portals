@@ -10,8 +10,11 @@
 
 *Example wireframe for dataset details page*
 
-<!-- tabs:start -->
+</div>
 
+<br>
+
+<div class="image-container">
 
 <a href="/dd3-wireframes/_media/example-pages/dataset-details/overview-annotated.png" target="_blank"><img src="/dd3-wireframes/_media/example-pages/dataset-details/overview-annotated.png" data-no-zoom/></a>
 
