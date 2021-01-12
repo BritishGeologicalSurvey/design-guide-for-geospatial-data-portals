@@ -89,7 +89,7 @@ Wireframes are a visual representation of a user interface. They don't include t
 
 The wireframes in this guidance show how a geospatial data portal could be potentially designed. It does not mean that is the only way to create a good portal. Each geospatial data portal will be slightly different and its primary concern should be to address user needs by serving the datasets in a way and format that helps them to achieve their goals. The structure of the user interface will follow from that.
 
-The example wireframes can be found on the [example pages section](/main-content/pages/pages-intro).
+The example wireframes can be found in the [example pages section](/main-content/pages/pages-intro).
 
 ![Wireframe example](../_media/wireframe-example.png)
 
