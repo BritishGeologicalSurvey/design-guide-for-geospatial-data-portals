@@ -6,9 +6,13 @@
 
 Data portals differ by the data they provide and the audiences they serve. 'Data portals' described within this guidance are web-based interfaces designed to help users find and access datasets. Optimally, they should be built around metadata records which describe datasets, provide pointers to where they can be located and explain any restrictions or limitations in their use.
 
+<div class="image-container">
+  
 ![Wireframe example](../_media/intro-wireframe_lofi.png)
 
 *Part of the Geospatial Data Portal homepage example: Examples can be found in the [example pages section](/main-content/pages/pages-intro).*
+
+</div>
 
 Although more and more geospatial data is being made available online, there are users who are confused about where to go, who to trust and which datasets are most relevant to answering their questions.
 
