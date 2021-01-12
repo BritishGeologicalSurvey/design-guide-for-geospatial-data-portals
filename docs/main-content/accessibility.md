@@ -21,7 +21,7 @@ You can find out more about the regulations by reading the [latest guidance](htt
 
 ### Accessibility best practice
 
-Here is a roundup of best practice accessibility guidance to follow when considering the design of a geospatial portal:
+Here is a roundup of best practice accessibility guidance to follow when considering the design of a geospatial data portal:
 
 #### Content
 + Ensure content is in a logical order so that users who tab through content can do so in an order that makes sense
