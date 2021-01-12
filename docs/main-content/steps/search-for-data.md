@@ -52,7 +52,7 @@ If it's possible to search for datasets on a map, the search results should be c
 
 ![Map View](../../_media/search-for-data/map-and-list.png)
 
-*Search results in a list and map view*
+*Search results in a list and map, highlighting a selected record in both*
 
 </div>
 
