@@ -57,7 +57,7 @@ Ensure users know what format the data is in before download, ideally with acces
 
 ### 6. Dynamic data access
 
-Users sometimes prefer to access data in a flexible way, e.g. application programming interface (API) access. If data can be accessed through other methods, clear instructions on how to do that should be made clear.
+Users sometimes prefer to access data in a flexible way, e.g. application programming interface (API) access. If data can be accessed through other methods, clear instructions on how to do that should be provided.
 
 ### 7. File selection for partial downloads
 
@@ -73,7 +73,7 @@ Where possible, allow users to select files from a dataset for a partial downloa
 
 ### 8. Sharing options
 
-A User might want to share links with colleagues or send a link to themselves for later use.
+A user might want to share links with colleagues or send a link to themselves for later use.
 
 <div class="image-container">
 
