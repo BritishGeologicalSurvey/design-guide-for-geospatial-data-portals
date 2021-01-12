@@ -1,7 +1,7 @@
 ### Help users to
 # Check if portal is relevant
 
-> Clearly communicate a subject matter, geographical areas and data licencing users can expect to find. Ensure users save time by confirming upfront whether your portal is relevant to their data needs.
+> Clearly communicate which subject matters, geographical areas and data licencing users can expect to find, helping users save time by confirming upfront whether your portal is relevant to their data needs.
 
 Ensure this information is just a few clicks away as users might not always arrive via a data portal homepage.
 
