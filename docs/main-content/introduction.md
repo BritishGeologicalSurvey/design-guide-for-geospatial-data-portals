@@ -33,9 +33,9 @@ Our recommendations are designed to address the following pain points, grouped b
 *	Lack of domain knowledge when searching
 *	Uncertainty about which keywords to use in a search engine
 *	Reliance on personal recommendations rather than search engine results
-*	Unclear inconsistent way to navigate a portal 
+*	Unclear or inconsistent ways to navigate a portal 
 *	Difficulty understanding where data originates from
-*	No one portal contains all the required data
+*	No single portal contains all the required data
 
 ### 2. Search within data portal
 *	Not knowing the best terminology to use
