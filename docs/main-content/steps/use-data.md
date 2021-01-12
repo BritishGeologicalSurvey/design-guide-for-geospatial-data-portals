@@ -15,7 +15,7 @@ Ensure datasets can be assessed directly in the portal. Read more about it in th
 
 ### 2. Straightforward process for downloading data
 
-Restricting access to datasets [(Data Discoverability project, 2020](https://www.gov.uk/government/publications/finding-geospatial-data/finding-geospatial-data)) can often lead to user frustration. Ensure the data download process is as simple as possible. If there are additional steps required to access data, they should be made accessible to the user, with clear instructions.
+Restricting access to datasets can often lead to user frustration [(Data Discoverability project, 2020](https://www.gov.uk/government/publications/finding-geospatial-data/finding-geospatial-data)). Ensure the data download process is as simple as possible. If there are additional steps required to access data, they should be made accessible to the user, with clear instructions.
 
 ### 3. Download button
 
