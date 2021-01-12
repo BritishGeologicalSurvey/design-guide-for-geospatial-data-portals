@@ -1,6 +1,6 @@
 # Dataset details 
 
-> Dataset details provide users access to each individual dataset record with enough information for them to assess the quality and relevance of the data. This information should be presented clearly with sub-sections as not to overwhelm the user with dense content.
+> Dataset details provide users with access to each individual dataset record, providing enough information for them to assess the quality and relevance of the data. This information should be presented clearly with thematic groupings or sub-sections as not to overwhelm the user with too much content.
 
 ## Example page for a dataset
 
