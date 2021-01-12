@@ -10,8 +10,14 @@
 
 *Example wireframe for data portal's homepage*
 
-<!-- tabs:start -->
 
+</div>
+
+<br>
+
+<div class="image-container">
+
+<!-- tabs:start -->
 
 ### **Example implementation**
 ![Home heading](../../_media/stage-1/homepage/wireframe-home.png)

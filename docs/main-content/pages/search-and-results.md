@@ -10,6 +10,12 @@
 
 *Example wireframe for search page*
 
+</div>
+
+<br>
+
+<div class="image-container">
+
 <!-- tabs:start -->
 
 ### **Example implementation**
