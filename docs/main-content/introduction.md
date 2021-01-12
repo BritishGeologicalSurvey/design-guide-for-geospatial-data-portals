@@ -91,6 +91,6 @@ The wireframes in this guidance show how a geospatial data portal could be poten
 
 The wireframes can be found on the [example pages section](/main-content/pages/pages-intro).
 
-![Wireframe example](../../_media/wireframe-example.png)
+![Wireframe example](../_media/wireframe-example.png)
 
 *Example wireframe for geospatial dta portal*
