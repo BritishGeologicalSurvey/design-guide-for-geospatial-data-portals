@@ -21,7 +21,7 @@ When previewing data online, users might have one of these goals:
   
 ### 1. Preview the contents of the dataset
 
-Allowing for users to preview the contents of a dataset, including any files, will help make better decisions on whether to use a dataset.
+Allowing for users to preview the contents of a dataset, including any files, will help them to make better decisions on whether to use a dataset.
 
 <div class="image-container">
 
