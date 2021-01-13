@@ -46,7 +46,7 @@
 
 <div class="image-container">
 
-<a href="/dd3-wireframes/_media/example-pages/dataset-details-annotated.png" target="_blank"><img src="/dd3-wireframes/_media/example-pages/dataset-details-annotated.png" data-no-zoom/></a>
+<a href="/dd3-wireframes/_media/example-pages/dataset-details/map-preview-annotated.png" target="_blank"><img src="/dd3-wireframes/_media/example-pages/dataset-details/map-preview-annotated.png" data-no-zoom/></a>
 
 *Dataset preview*
 
@@ -59,6 +59,16 @@
 <a href="/dd3-wireframes/_media/example-pages/dataset-details/related-list.png" target="_blank"><img src="/dd3-wireframes/_media/example-pages/dataset-details/related-list.png" data-no-zoom/></a>
 
 *Related datasets*
+
+</div>
+
+<br>
+
+<div class="image-container">
+
+<a href="/dd3-wireframes/_media/example-pages/dataset-details/partial-download-annotated.png" target="_blank"><img src="/dd3-wireframes/_media/example-pages/dataset-details/partial-download-annotated.png" data-no-zoom/></a>
+
+*Option to download selected files from a dataset*
 
 </div>
 
