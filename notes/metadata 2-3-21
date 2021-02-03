@@ -1,0 +1,33 @@
+# 2-3-21 Discussion Notes
+
+If the metadata is filled and maintained well, the users might not notice it directly. It becomes more visible, when the metadata is incomplete or not maintained (users are more aware when you are not using a metada stndard). When the underlying metadata is poor, the general UX and UI imporovents will have little effect.
+
+Not many people access the metadata in its original form. It's mostly relevent to organisations aggregating datasets.
+
+Metadata standards is one of the invisible pillars on which great user experience is build. 
+
+![UX pilllars](https://miro.medium.com/max/960/1*bnQWMFVzyRQS9YlxaJGOYw.png)
+
+Gemini is recommended for public geospatial datasets, but other sectors will benefit from using it as well. We could mention in the introduction that data portals will work better with well designed metadata. When we make all the other recommendations we assume that sufficient metadata is available.
+
+We could provide links to other tools that implement Gemini standards. At the moment there isn't any document describing why you need to manage your metadata well. If there was, we could link to it.
+
+**Related datasets**
+
+If the dataset was derived by processing another datasets, users might be interesting in knowing what was the original source of this dataset and where it can be found.
+
+Users should know what we mean by related datasets. they should be able to explore datasets related by various properties - time, location, topic. Which one is the most relevant will depend on the data portal's purpose.
+
+Another related dataset category could be - datasets captured in the same time period. 
+
+**How useful is it to know what metadata standard is used for people accessing data?**
+
+It is not that useful on dataset level, but quite valuable on organisational level. The details about metadata standard used could be indicated on the homepage. Using metadata standards gives more credibility to organisation.
+
+
+---
+
+**Actions:**
+
+- [ ] A section in the documentation that talks about metadata.
+- [ ] Sned details to peter and Howard on which elements in the guidance might relate to metadata guidance
