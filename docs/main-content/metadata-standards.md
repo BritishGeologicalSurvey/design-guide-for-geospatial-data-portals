@@ -41,7 +41,7 @@ Metadata standards are referred to throughout this guidance. Although there is n
 + [Assess dataset relevance](https://pautva.github.io/dd3-wireframes/#/main-content/steps/assess-dataset-relevance) > [Licence details](https://pautva.github.io/dd3-wireframes/#/main-content/steps/assess-dataset-relevance?id=_5-licence-details)
 + [Assess dataset relevance](https://pautva.github.io/dd3-wireframes/#/main-content/steps/assess-dataset-relevance) > [Additional metadata](https://pautva.github.io/dd3-wireframes/#/main-content/steps/assess-dataset-relevance?id=_10-additional-metadata)
 
-+ [https://pautva.github.io/dd3-wireframes/#/main-content/steps/assess-data-quality](Assess dataset quality)
++ [Assess dataset quality](https://pautva.github.io/dd3-wireframes/#/main-content/steps/assess-data-quality)
 
 > The geo6 will publish a report on metadata standards and can be found by visiting ( -- PLACEHOLDER TEXT - LINK TO GC-DD 3/2 --)
 
