@@ -12,8 +12,6 @@ Metadata standards are an important invisible pillar to support users through th
 
 You can find out more about the GEMINI metadata standard and schema by reading the [latest guidelines](https://www.agi.org.uk/agi-groups/standards-committee/uk-gemini/40-gemini/1052-metadata-guidelines-for-geospatial-data-resources-part-1).
 
-## Metadata catalogues 
-
 ## Implemention
 (// AUTHOR COMMENT //)
 
