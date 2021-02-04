@@ -28,7 +28,7 @@
 
 <div class="image-container">
 
-<a href="/dd3-wireframes/_media/overview/1.landing-annotations.png" target="_blank"><img src="/dd3-wireframes/_media/overview/1.landing-annotations.png" data-no-zoom/></a>
+<a href="/dd3-wireframes/_media/example-pages/homepage/1.landing-annotations.png" target="_blank"><img src="/dd3-wireframes/_media/example-pages/homepage/1.landing-annotations.png" data-no-zoom/></a>
 
 *Example homepage with annotations*
 
