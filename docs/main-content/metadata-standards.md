@@ -13,5 +13,5 @@ Several standards exist for describing and structuring your data.
   + Interoperability between applications that can digest metadata standards
   + 
 
-## Additional information and resources 
+## Find out more
 + https://www.agi.org.uk/agi-groups/standards-committee/uk-gemini/40-gemini/1052-metadata-guidelines-for-geospatial-data-resources-part-1
