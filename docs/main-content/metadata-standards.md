@@ -18,25 +18,19 @@ Is it worth including the relevant components where metadata standards are relev
 -->
 
 Metadata standards are referred to throughout this guidance. Although there is no explicitly stated reference made available its important to consider the following components as areas to introduce metadata standards to your users:
-
 + [Discover your portal](https://pautva.github.io/dd3-wireframes/#/main-content/steps/discover-your-portal?id=discover-your-portal) > [Dataset title](https://pautva.github.io/dd3-wireframes/#/main-content/steps/discover-your-portal?id=_1-dataset-title)
 + [Discover your portal](https://pautva.github.io/dd3-wireframes/#/main-content/steps/discover-your-portal?id=discover-your-portal) > [Dataset description](https://pautva.github.io/dd3-wireframes/#/main-content/steps/discover-your-portal?id=_2-dataset-description)
-
 + [Check if portal is relevant](https://pautva.github.io/dd3-wireframes/#/main-content/steps/check-a-portal-is-relevant) > [Purpose of data portal - topics covered](https://pautva.github.io/dd3-wireframes/#/main-content/steps/check-a-portal-is-relevant?id=_1-purpose-of-data-portal)
 + [Check if portal is relevant](https://pautva.github.io/dd3-wireframes/#/main-content/steps/check-a-portal-is-relevant) > [Organisation managing this portal/metadata](https://pautva.github.io/dd3-wireframes/#/main-content/steps/check-a-portal-is-relevant?id=_2-organisation-managing-this-portal)
 + [Check if portal is relevant](https://pautva.github.io/dd3-wireframes/#/main-content/steps/check-a-portal-is-relevant) > [Licencing](https://pautva.github.io/dd3-wireframes/#/main-content/steps/check-a-portal-is-relevant?id=_3-licencing)
-
 + [Navigate the portal](https://pautva.github.io/dd3-wireframes/#/main-content/steps/navigate-the-portal) > [Page title](https://pautva.github.io/dd3-wireframes/#/main-content/steps/navigate-the-portal?id=_2-page-title)
 + [Navigate the portal](https://pautva.github.io/dd3-wireframes/#/main-content/steps/navigate-the-portal) > [Related datasets](https://pautva.github.io/dd3-wireframes/#/main-content/steps/navigate-the-portal?id=_6-related-datasets)
-
 + [https://pautva.github.io/dd3-wireframes/#/main-content/steps/make-sense-of-search-results](https://pautva.github.io/dd3-wireframes/#/main-content/steps/make-sense-of-search-results) > [Apply filters](https://pautva.github.io/dd3-wireframes/#/main-content/steps/make-sense-of-search-results?id=_5-apply-filters)
 + [https://pautva.github.io/dd3-wireframes/#/main-content/steps/make-sense-of-search-results](https://pautva.github.io/dd3-wireframes/#/main-content/steps/make-sense-of-search-results) > [Results list](https://pautva.github.io/dd3-wireframes/#/main-content/steps/make-sense-of-search-results?id=_7-results-list)
-
 + [Assess dataset relevance](https://pautva.github.io/dd3-wireframes/#/main-content/steps/assess-dataset-relevance) > [Clear dataset title](https://pautva.github.io/dd3-wireframes/#/main-content/steps/assess-dataset-relevance?id=_1-clear-dataset-title)
 + [Assess dataset relevance](https://pautva.github.io/dd3-wireframes/#/main-content/steps/assess-dataset-relevance) > [Short description](https://pautva.github.io/dd3-wireframes/#/main-content/steps/assess-dataset-relevance?id=_2-short-description)
 + [Assess dataset relevance](https://pautva.github.io/dd3-wireframes/#/main-content/steps/assess-dataset-relevance) > [Licence details](https://pautva.github.io/dd3-wireframes/#/main-content/steps/assess-dataset-relevance?id=_5-licence-details)
 + [Assess dataset relevance](https://pautva.github.io/dd3-wireframes/#/main-content/steps/assess-dataset-relevance) > [Additional metadata](https://pautva.github.io/dd3-wireframes/#/main-content/steps/assess-dataset-relevance?id=_10-additional-metadata)
-
 + [Assess dataset quality](https://pautva.github.io/dd3-wireframes/#/main-content/steps/assess-data-quality)
 
 > The geo6 will publish a report on metadata standards and can be found by visiting ( -- PLACEHOLDER TEXT - LINK TO GC-DD 3/2 --)
