@@ -16,17 +16,39 @@
 
 <div class="image-container">
 
-<!-- tabs:start -->
+![Home heading](../../_media/example-pages/search/search-page.png)
 
-### **Example implementation**
-<a href="/dd3-wireframes/_media/example-pages/3.search-and-results-page.png" target="_blank"><img src="/dd3-wireframes/_media/example-pages/3.search-and-results-page.png" data-no-zoom/></a>
+*Example search page*
 
-### **Example implementation with annotations**
-<a href="/dd3-wireframes/_media/example-pages/3.search-and-results-page-annotated.png" target="_blank"><img src="/dd3-wireframes/_media/example-pages/3.search-and-results-page-annotated.png" data-no-zoom/></a>
+</div>
 
-<!-- tabs:end -->
+<br>
 
-*Example implementation and implementation with annotations*
+<div class="image-container">
+
+<a href="/dd3-wireframes/_media/example-pages/search/search-list-annotated.png" target="_blank"><img src="/dd3-wireframes/_media/example-pages/search/search-list-annotated.png" data-no-zoom/></a>
+
+*Example search page with results displayed as a list*
+
+</div>
+
+<br>
+
+<div class="image-container">
+
+<a href="/dd3-wireframes/_media/example-pages/search/search-map-annotated.png" target="_blank"><img src="/dd3-wireframes/_media/example-pages/search/search-map-annotated.png" data-no-zoom/></a>
+
+*Example search page with results displayed on a map*
+
+</div>
+
+<br>
+
+<div class="image-container">
+
+<a href="/dd3-wireframes/_media/example-pages/search/no-matches.png" target="_blank"><img src="/dd3-wireframes/_media/example-pages/search/no-matches.png" data-no-zoom/></a>
+
+*Example search page with no results*
 
 </div>
 

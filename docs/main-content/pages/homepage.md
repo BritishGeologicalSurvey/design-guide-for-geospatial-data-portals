@@ -17,17 +17,20 @@
 
 <div class="image-container">
 
-<!-- tabs:start -->
 
-### **Example implementation**
 ![Home heading](../../_media/stage-1/homepage/wireframe-home.png)
 
-### **Example implementation with annotations**
-<a href="/dd3-wireframes/_media/stage-1/homepage/wireframe-home-annotations.png" target="_blank"><img src="/dd3-wireframes/_media/stage-1/homepage/wireframe-home-annotations.png" data-no-zoom/></a>
+*Example homepage*
 
-<!-- tabs:end -->
+</div>
 
-*Example implementation and implementation with annotations*
+<br>
+
+<div class="image-container">
+
+<a href="/dd3-wireframes/_media/overview/1.landing-annotations.png" target="_blank"><img src="/dd3-wireframes/_media/overview/1.landing-annotations.png" data-no-zoom/></a>
+
+*Example homepage with annotations*
 
 </div>
 
