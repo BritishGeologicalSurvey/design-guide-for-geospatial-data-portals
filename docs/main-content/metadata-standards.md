@@ -5,7 +5,7 @@
 There are a number of metadata standards that relate to geospatial data. The Geo6 recommend GEMINI as an example standard for organising metadata and many public and private sector organisations have found value in using this standard for their geospatial data. You can find more information about the GEMINI standard at [https://www.agi.org.uk/agi-groups/standards-committee/uk-gemini](https://www.agi.org.uk/agi-groups/standards-committee/uk-gemini).
 
 ## Metadata standards to address user needs
-Metadata standards are an important invisible pillar to support users through their journey to discover, evaulate and use data. Some of the benefits to data portals by incorporatinng a metadata standard include:
+Metadata standards are an important invisible pillar to support users through their journey to discover, evaluate and use data. Some of the benefits to data portals by incorporatinng a metadata standard include:
 + Users recognise and prefer data that has a well defined metadata standard
 + Organised data is perceived as a trustworthy source
 + Interoperability of data between many applications and metadata catalogues
