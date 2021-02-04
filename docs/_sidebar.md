@@ -3,6 +3,7 @@
 ---
 
 - [Accessibility](main-content/accessibility)
+- [Metadata standards](main-content/metadata-standards)
 
 ---
 
