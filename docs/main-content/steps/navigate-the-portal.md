@@ -17,9 +17,9 @@ Page titles allow users to understand the purpose of each page and ensure releva
 
 <div class="image-container">
 
-![Google results](../../_media/help-navigate/simple-title.png)
+![Page title for geospatial data portal](../../_media/help-navigate/simple-title.png)
 
-*Pages should have clear, easy to find titles*
+*Clear and easy to find page titles*
 
 </div>
 
@@ -29,21 +29,21 @@ A navigation bar should include the portal name, logo and the most important lin
 
 <div class="image-container">
 
-![navbar](../../_media/check-portal-is-relevant/navbar.png)
+![Navigation bar for geospatial data portal](../../_media/check-portal-is-relevant/navbar.png)
 
-*The navigation bar allows users to navigate back to the homepage and other top level pages*
+*Navigation bar allowing users to get back to the homepage and other top level pages*
 
 </div>
 
 ### 4. Breadcrumbs
 
-Breadcrumbs ensure users can easily navigate to parent pages within the website's navigation hierarchy.
+Breadcrumbs ensure users can easily navigate to parent pages within the website's navigation hierarchy. They should be short, descriptive and human readable.
 
 <div class="image-container">
 
-![Google results](../../_media/help-navigate/breadcrumbs.png)
+![Breadcrumb component for geospatial data portal](../../_media/help-navigate/breadcrumbs.png)
 
-*Human readable breadcrumbs*
+*Breadcrumb component for geospatial data portal*
 
 </div>
 
@@ -61,9 +61,9 @@ Ensure large lists of *related datasets* are easy to read by splitting them into
 
 List view             |  Map view
 :-------------------------:|:-------------------------:
-![Additional info](../../_media/assess-dataset-relevance/similar-datasets.png) | ![Additional info](../../_media/assess-dataset-relevance/nearby-datasets.png)
+![Search results on geospatial data portal displayed as a list](../../_media/assess-dataset-relevance/similar-datasets.png) | ![Search results on geospatial data portal displayed on a map](../../_media/assess-dataset-relevance/nearby-datasets.png)
 
-*Related datasets in list and map view*
+*Related datasets in list and map views. Map source: [OpenStreetMap](https://www.openstreetmap.org)*
 
 </div>
 <!--

@@ -22,11 +22,11 @@ Only the first few lines of the description will be visible in the search result
 
 <div class="image-container">
 
-![Google results](../../_media/stage-1/google-search-results.png)
+![Google search results page](../../_media/stage-1/google-search-results.png)
 
 *Google search results*
 
-![Big results](../../_media/stage-1/bing-search-results.png)
+![Big search results page](../../_media/stage-1/bing-search-results.png)
 
 *Bing search results*
 
@@ -48,6 +48,6 @@ The data portal should have a brief description describing its purpose and the t
 
 ![Google results](../../_media/stage-1/kaggle-in-google.png)
 
-*Kaggle portal in search results*
+*[Kaggle](http://www.kaggle.com) portal in search results*
 
 </div>

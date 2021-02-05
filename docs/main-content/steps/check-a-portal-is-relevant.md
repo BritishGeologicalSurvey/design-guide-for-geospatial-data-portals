@@ -15,9 +15,9 @@ What is the purpose of your data portal, what are the topics it covers?
 
 <div class="image-container">
 
-![Home heading](../../_media/check-portal-is-relevant/portal-purpose.png)
+![Homepage heading for geospatial data portal](../../_media/check-portal-is-relevant/portal-purpose.png)
 
-*Heading for the homepage*
+*Homepage heading*
 
 </div>
 
@@ -27,7 +27,7 @@ Users should be able to easily find more information about the organisation mana
 
 <div class="image-container">
 
-![navbar](../../_media/check-portal-is-relevant/navbar.png)
+![Navigation bar for geospatial data portal](../../_media/check-portal-is-relevant/navbar.png)
 
 *Navigation bar with organisation's logo and a link to the 'About Us' page*
 

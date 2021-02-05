@@ -8,7 +8,7 @@ Data portals differ by the data they provide and the audiences they serve. 'Data
 
 <div class="image-container">
   
-![Wireframe example](../_media/intro-wireframe_lofi.png)
+![Geospatial data portal wireframe example](../_media/intro-wireframe_lofi.png)
 
 *Part of the Geospatial Data Portal homepage example: Examples can be found in the [example pages section](/main-content/pages/pages-intro).*
 
@@ -30,7 +30,13 @@ Everything happens somewhere. Geospatially referenced data can provide powerful 
 
 Users often require information and data from a variety of sources in order to achieve their ultimate goal. Users will discover, access and interact with data portals in a range of ways depending on what they are trying to achieve, who they are and whether they are a first time visitor or a regular user. We have identified five high level user needs that make up the archetypical user journey people go through when searching for data. It doesn’t mean that every user will have the same needs in the same order, but they represent the needs expressed by the majority of people who contributed to our research. 
 
-![User Journey Stages](../_media/spatial-data-journey-v3.svg)
+<div class="image-container">
+
+![User journey for discovering and accessing geospatial data](../_media/spatial-data-journey-v3.svg)
+
+*User journey for discovering and accessing geospatial data. Illustrations by [undraw.co](https://undraw.co/license)*
+
+</div>
 
 ## Common pain points for users
 User research conducted on behalf of the Geospatial Commission identified many issues that caused users to be confused or frustrated when [Finding Geospatial Data](https://www.gov.uk/government/publications/finding-geospatial-data/finding-geospatial-data). Poor usability reduces trust and limits the impact of potentially valuable data. 
@@ -85,9 +91,15 @@ Our recommendations are designed to address the following pain points, grouped b
 *	Character corruption within data or metadata
 
 ## Help users to...
-As users progress through their journey, they perform certain tasks, some spanning more than one high level user need (see below). This guidance presents solutions in a format that addresses those pain points. These solutions are phrased as a statement to 'Help Users To...' perform tasks, for example [Helps User To... Discover your portal](main-content/steps/discover-your-portal).   
+As users progress through their journey, they perform certain tasks, some spanning more than one high level user need (see below). This guidance presents solutions in a format that addresses those pain points. These solutions are phrased as a statement to 'Help Users To...' perform tasks, for example [Helps User To... Discover your portal](main-content/steps/discover-your-portal).  
 
-![User tasks](../_media/help-users.svg)
+<div class="image-container">
+
+![Diagram showing user needs and user tasks](../_media/help-users.svg)
+
+*User needs and related tasks*
+
+</div>
 
 ## Wireframes
 
@@ -99,6 +111,10 @@ Wireframes in this guidance show one possible implementation of a geospatial por
 
 The example wireframes can be found in the [example pages section](/main-content/pages/pages-intro).
 
+<div class="image-container">
+
 ![Wireframe example](../_media/wireframe-example.png)
 
 *Example wireframe for a geospatial data portal's homepage*
+
+</div>
