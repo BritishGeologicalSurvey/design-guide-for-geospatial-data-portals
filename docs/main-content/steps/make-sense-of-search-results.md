@@ -28,7 +28,11 @@ Ensure users are presented with enough information to help them identify when to
 Help users identify if results are too many or too few, to indicate if a search requires additional filtering or refinement.
 
 <div class="image-container">
-<a href="/dd3-wireframes/_media/stage-3-results/2-number_of_results.png" target="_blank"><img src="/dd3-wireframes/_media/stage-3-results/2-number_of_results.png" style="max-width: 452px;"/></a>
+
+![Number of results on the search page in geospatial data portal](../../_media/stage-3-results/2-number_of_results.png)
+
+*Number of results on the search page*
+
 </div>
 
 ### 2. Faceted search (by parent / child categories)
@@ -37,7 +41,9 @@ Ensure users have access to glanceable information regarding the parent topic or
 
 <div class="image-container">
 
-<a href="/dd3-wireframes/_media/stage-3-results/3-faceted_search.png" target="_blank"><img src="/dd3-wireframes/_media/stage-3-results/3-faceted_search.png" data-no-zoom/></a>
+![Faced search example in geospatial data portal](../../_media/stage-3-results/3-faceted_search.png)
+
+*Faceted search*
 
 </div>
 
@@ -45,14 +51,22 @@ Ensure users have access to glanceable information regarding the parent topic or
 Ensure users have effective tools to allow them to quickly remove applied filters
 
 <div class="image-container">
-<a href="/dd3-wireframes/_media/stage-3-results/4-clear_filters.png" target="_blank"><img src="/dd3-wireframes/_media/stage-3-results/4-clear_filters.png" style="max-width: 300px;"/></a>
+
+![Search filters with remove icon ](../../_media/stage-3-results/4-clear_filters.png)
+
+*Search filters that can easily be removed*
+
 </div>
 
 ### 4. Sort by
 Ensure users have an effective way to change how results are sorted to help promote relevant results first
 
 <div class="image-container">
-<a href="/dd3-wireframes/_media/stage-3-results/5-sort_by.png" target="_blank"><img src="/dd3-wireframes/_media/stage-3-results/5-sort_by.png" style="max-width: 232px;" data-no-zoom/></a>
+
+![Dropdown for sorting search results](../../_media/stage-3-results/5-sort_by.png)
+
+*Dropdown for sorting search results*
+
 </div>
 
 ### 5. Apply filters
@@ -60,7 +74,11 @@ Ensure users have an effective way to change how results are sorted to help prom
 Ensure users can quickly and easily apply filters to remove results that are not relevant to their search query
 
 <div class="image-container">
-<a href="/dd3-wireframes/_media/stage-3-results/6-apply_filters.png" target="_blank"><img src="/dd3-wireframes/_media/stage-3-results/6-apply_filters.png" style="max-width: 304px;"/></a>
+
+![Search filter list on search results page](../../_media/stage-3-results/6-apply_filters.png)
+
+*Search filters on search results page*
+
 </div>
 
 ### 6. Geospatial filter
@@ -68,14 +86,23 @@ Ensure users can quickly and easily apply filters to remove results that are not
 Geospatial presentation of results by preference of area should be made available for the user to refine their search to a specific location / spatial region
 
 <div class="image-container">
-<a href="/dd3-wireframes/_media/stage-3-results/7b-presentation_of_results.png" target="_blank"><img src="/dd3-wireframes/_media/stage-3-results/7b-presentation_of_results.png" style="max-width: 299px;"/></a>
+
+![Geospatial filter on search results page](../../_media/stage-3-results/7b-presentation_of_results.png)
+
+*Geospatial filter on search results page. Map source: [OpenStreetMap](https://www.openstreetmap.org)*
+
 </div>
 
 ### 7. Results list
 Each result should show a title, description, related publisher information, publication date, last updated, key meta data and licence type. There may be additional mechanisms to help identify higher quality datasets, such as crowdsourced user feedback forms and displaying information to distinguish (../../main-content/steps/assess-data-quality) search results.
 
 <div class="image-container">
-<a href="/dd3-wireframes/_media/stage-3-results/7a-presentation_of_results.png" target="_blank"><img src="/dd3-wireframes/_media/stage-3-results/7a-presentation_of_results.png" data-no-zoom/></a>
+
+![Results list on search results page](../../_media/stage-3-results/7a-presentation_of_results.png)
+
+*Results list on search results page*
+
+
 </div>
 
 <!-- ### 8. Pagination - TO ADD -->

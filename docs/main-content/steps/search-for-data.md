@@ -16,9 +16,9 @@ Ensure users are able to search for data using keywords. As a primary function s
 
 <div class="image-container">
 
-![Simple search](../../_media/search-for-data/simple-search.png)
+![Search field in a geospatial data portal](../../_media/search-for-data/simple-search.png)
 
-*Search field*
+*Search field with sample search queries*
 
 </div>
 
@@ -40,9 +40,9 @@ ensuring it is clear to the user what is included in the search results and the 
 
 <div class="image-container">
 
-![Map View](../../_media/search-for-data/map-view.png)
+![Map search interface for geospatial data portal](../../_media/search-for-data/map-view.png)
 
-*Map search*
+*Spatial search. Map source: [OpenStreetMap](https://www.openstreetmap.org)*
 
 </div>
 
@@ -50,9 +50,9 @@ If it's possible to search for datasets on a map, the search results should be c
 
 <div class="image-container">
 
-![Map View](../../_media/search-for-data/map-and-list.png)
+![Search results on a map in a geospatial data portal](../../_media/search-for-data/map-and-list.png)
 
-*Search results in a list and map, highlighting a selected record in both*
+*Search results on a map with a list view on a side. Map source: [OpenStreetMap](https://www.openstreetmap.org)*
 
 </div>
 
@@ -60,7 +60,7 @@ Users often prefer to search for datasets using a map interface. When available,
 
 <div class="image-container">
 
-![Map View](../../_media/search-for-data/map-to-list.gif)
+![Animation showing  map and list view interaction on a geospatial data portal](../../_media/search-for-data/map-to-list.gif)
 
 *Switching between map and list view*
 
@@ -72,7 +72,7 @@ Include a sample query in the search bar as a suggestion for users of what they 
 
 <div class="image-container">
 
-![Simple search](../../_media/search-for-data/search-bar.png)
+![Search bar with sxample search criteria](../../_media/search-for-data/search-bar.png)
 
 *Example search criteria*
 
@@ -84,7 +84,7 @@ Show most recent or popular queries.
 
 <div class="image-container">
 
-![Search history](../../_media/search-for-data/search-history.png)
+![Search bar with search history](../../_media/search-for-data/search-history.png)
 
 *Search history in the search bar*
 
@@ -98,9 +98,9 @@ If there are data records that have a 'close' resemblance to search criteria ens
 
 <div class="image-container">
 
-![Search history](../../_media/search-for-data/no-results.png)
+![No search results page on geospatial data portal](../../_media/search-for-data/no-results.png)
 
-*Handling no results*
+*No results page with suggestions to improve the search*
 
 </div>
 
@@ -114,11 +114,17 @@ Ensure search queries are shown if entered to allow users to easily remember wha
 
 <div class="image-container">
 
-![Detailed search](../../_media/search-for-data/search-terms.png)
+![Search terms displayed on search results page in a geospatial data portal](../../_media/search-for-data/search-terms.png)
 
 *Search terms can be displayed on the results page, so that users don't have to remember what they searched for*
 
-![Detailed search](../../_media/search-for-data/search-terms-2.png)
+</div>
+
+<br>
+
+<div class="image-container">
+
+![Search terms in the search bar should not get cleared after search](../../_media/search-for-data/search-terms-2.png)
 
 *Search terms should not get cleared from the search bar after search to make it easier to alter search terms if needed*
 
