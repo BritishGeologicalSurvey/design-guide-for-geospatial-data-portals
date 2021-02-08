@@ -1,5 +1,5 @@
 ### Help users to
-# Check if portal is relevant
+# check a portal is relevant
 
 > Clearly communicate which subject matters, geographical areas and data licencing users can expect to find, helping users save time by confirming upfront whether your portal is relevant to their data needs.
 
