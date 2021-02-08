@@ -62,7 +62,7 @@ Users often prefer to search for datasets using a map interface. When available,
 
 ![Animation showing  map and list view interaction on a geospatial data portal](../../_media/search-for-data/map-to-list.gif)
 
-*Switching between map and list view*
+*Switching between map and list view. Map source: [OpenStreetMap](https://www.openstreetmap.org)*
 
 </div>
 
