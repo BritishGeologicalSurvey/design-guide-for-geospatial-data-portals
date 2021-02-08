@@ -5,7 +5,7 @@
 
 The usefulness of data visualisation online depends on the data being provided, the type of users accessing the data and their needs.
 
-By providing a dataset preview, users are able to quickly assess the relevancy and [data quality](/main-content/steps/assess-data-quality), prior to download and use. Options to download a sample or a selection of the dataset are also helpful to users who are on limited internet bandwidths.
+By providing a dataset preview, users are able to quickly assess the relevance and [data quality](/main-content/steps/assess-data-quality), prior to download and use. Options to download a sample or a selection of the dataset are also helpful to users who are on limited internet bandwidths.
 
 Dataset previews and visualisations should be presented on the [dataset details](/main-content/steps/search-for-data) page.
 
@@ -13,7 +13,7 @@ Dataset previews and visualisations should be presented on the [dataset details]
 
 There are multiple ways that the data can be explored online - maps, tables, charts. For geospatial data, a map based interface would be the most appropriate method. 
 
-Any dataset that can not be previewed online should include a written description of the data to help users get a better understanding of what is included. This also ensures your data portal follows our [accessibility](/main-content/accessibility) guidance for users with visual impairments. 
+Any dataset that can not be previewed online should include a written description or example visualisation of the data to help users get a better understanding of what is included. This also ensures your data portal follows our [accessibility](/main-content/accessibility) guidance for users with visual impairments. 
 
 When previewing data online, users might have one of these goals:
 * Preview the data online to get a better understanding of its contents
