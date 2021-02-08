@@ -11,7 +11,7 @@ The homepage should clearly present the following information:
 
 ### 1. Purpose of data portal
 
-What is the purpose of your data portal, what are the topics it covers?
+The purpose of your data portal and the topics covered.
 
 <div class="image-container">
 
