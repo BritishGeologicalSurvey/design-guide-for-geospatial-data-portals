@@ -3,7 +3,7 @@
 
 > Ensure datasets are represented accurately with essential metadata. Users often base their decision on whether to use a dataset by how clearly this information is presented to them.
 
-Users may often first arrive at a [dataset details page](../../main-content/pages/dataset-details) after performing a search from a search engine. Thus, it should be instantly clear whether a dataset is available for download or not, what license it is shared under and anything else that may effect how this dataset is used. Ensure users are also provided with a route to understand the data portal in which this dataset record is described, this can be achieved through well design [navigation](/main-content/steps/navigate-the-portal). 
+Users may often first arrive at a [dataset details page](../../main-content/pages/dataset-details) after performing a search from a search engine. Thus, it should be instantly clear whether a dataset is available for download or not, what license it is shared under and anything else that may effect how this dataset is used. Ensure users are also provided with a route to understand the data portal in which this dataset record is described, this can be achieved through well designed [navigation](/main-content/steps/navigate-the-portal). 
 
 ## What it looks like
 
