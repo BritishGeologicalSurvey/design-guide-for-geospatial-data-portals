@@ -1,11 +1,11 @@
 # Metadata standards
 
-> Metadata helps users interpret the meaning of their data. Standard metadata documents best practice experience and encourages consistency across and between portals. This is achieved by providing an organisational scheme with which to structure and define data. Metadata standards are also relevant for providing data portals with information to index, search and sort their data records.
+> Metadata helps users interpret meaning from different data sources. Standard metadata encourages consistency and ensures best practice across and between portals. This is achieved by providing an organisational scheme with which to structure and define data. Metadata standards are also relevant for providing data portals with information to index, search and sort their data records.
 
-There are a number of metadata standards that relate to geospatial data. The UK government recommends GEMINI as the standard for organising metadata about geospatial information and many public and private sector organisations have found value in using this standard for their geospatial data. GEMINI is based on international standards, which means that a variety of software supports it. There are well-defined mappings to web-friendly metadata standards like DCAT and Schema.org. You can find more information about the GEMINI standard at [https://www.agi.org.uk/gemini](https://www.agi.org.uk/gemini).
+There are a number of metadata standards that relate to geospatial data. The UK government recommends GEMINI as the standard for organising geospatial information as metadata and many public and private sector organisations have found value in using this standard. GEMINI is based on international standards that are consistent with a variety of software which support it. There are well-defined mappings to web-friendly metadata standards like DCAT and Schema.org. You can find more information about the GEMINI standard at [https://www.agi.org.uk/gemini](https://www.agi.org.uk/gemini).
 
 ## Metadata standards to address user needs
-Metadata standards are an important invisible pillar to support users through their journey to discover, evaluate and use data. Some of the benefits to data portals by incorporating a metadata standard include:
+Metadata standards are an important invisible pillar to support users through their journey to discover, evaluate and use data. By incorporating metadata standards as part of your data portal, benefits include:
 + Users recognise and prefer data that has a well defined metadata standard
 + Organised data is perceived as a trustworthy source
 + Interoperability of data between many applications and metadata catalogues
@@ -15,7 +15,7 @@ Metadata standards are an important invisible pillar to support users through th
 Is it worth including the relevant components where metadata standards are relevant
 -->
 
-Each page in your portal can largely be created from the metadata about that dataset. Metadata standards are referred to throughout this guidance. Although there is no explicitly stated reference made available its important to consider the following components as areas to introduce metadata standards to your users. This table suggests whcih GEMINI elements are relevant to which aspect of your portal:
+Many pages within your data portal containing information about a dataset can largely be created from the metadata. Although there is no explicitly stated reference made available its important to consider the following components as areas to introduce metadata standards to your users. This table suggests whcih GEMINI elements are relevant to which aspect of your portal:
 
 | Page | Section | relevant GEMINI element(s) |
 | ---- | ------- | -------------------------- |
@@ -41,15 +41,13 @@ Each page in your portal can largely be created from the metadata about that dat
 | [Assess dataset relevance](https://pautva.github.io/dd3-wireframes/#/main-content/steps/assess-dataset-relevance) | [Location preview](https://pautva.github.io/dd3-wireframes/#/main-content/steps/assess-dataset-relevance?id=_9-location-preview) | Browse graphic (3) | 
 | [Assess dataset quality](https://pautva.github.io/dd3-wireframes/#/main-content/steps/assess-data-quality) | | see also Data quality |
 
-Note: Some GEMINI elements can be repeated and/or have sub-elements, see GEMINI for further details how to find the bit you want
+**Important considerations for GEMINI**
++ Some GEMINI elements can be repeated and/or have sub-elements, see [GEMINI](https://www.agi.org.uk/gemini) for further details
++ If the purpose of your portal is not pre-defined, you may be able to aggregate it from the keywords in the records in the portal
++ Search engines and search result pages often have limited space to display metadata such as a title and the description. Therefore, it is important to recognise that the first 150 characters of the abstract are the most valued for SEO and GEMINI.
++ Although "Browse graphic" is not described in GEMINI, it is a commonly used element in the underlying ISO standard
 
-Note 1: If the purpose of your portal is not pre-defined, you may be able to aggregate it from the keywords in the records in the portal.
-
-Note 2: SEO and GEMINI for the Abstract is that the most important things are in the first 150 characters, recognising that in some pages (e.g. results lists) only some text can be presented.
-
-Note 3: "Browse graphic" is not described in GEMINI but is a commonly used element in the underlying ISO standard
-
-> The geo6 will publish a report on metadata standards and can be found by visiting ( -- PLACEHOLDER TEXT - LINK TO GC-DD 3/2 --)
+<!-- The geo6 will publish a report on metadata standards and can be found by visiting ( -- PLACEHOLDER TEXT - LINK TO GC-DD 3/2 --) -->
 
 ## Find out more
 + [GEMINI metadata standard](https://www.agi.org.uk/agi-groups/standards-committee/uk-gemini/40-gemini/1052-metadata-guidelines-for-geospatial-data-resources-part-1)
