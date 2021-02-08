@@ -1,6 +1,6 @@
 # Designing geospatial data portals
 
-> Guidance for developers and designers to increase the discoverability and usefulness of geospatial data through user focussed data portals.
+> Guidance for developers and designers to increase the discoverability and usefulness of geospatial data through user-focused data portals.
 
 ## Geospatial data portals
 
@@ -23,7 +23,7 @@ Throughout 2019 and 2020 the Geo6 have worked on solutions to address pain point
 !> This guidance material is not intended to be used as a comprehensive design system for all aspects of geospatial portals. There is no re-usable code or in-depth style guide provided. If such resources are of interest please visit the [GOV.UK Design System](https://design-system.service.gov.uk/get-started/).
 
 ## Research your users
-This guidance provides high level general recommendations, however, exact requirements for any given portal will vary depending on the needs of your target audience and according to the data volumes and subject matters covered. This resource is not a replacement for portal specific user research and design work. 
+This guidance provides high-level general recommendations, however, exact requirements for any given portal will vary depending on the needs of your target audience and according to the data volumes and subject matters covered. This resource is not a replacement for portal-specific user research and design work. 
 
 ## User journey
 Everything happens somewhere. Geospatially referenced data can provide powerful insights when combining the application of data and locality. 
