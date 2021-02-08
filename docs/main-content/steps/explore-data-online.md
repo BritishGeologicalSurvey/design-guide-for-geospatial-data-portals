@@ -25,9 +25,9 @@ Allowing for users to preview the contents of a dataset, including any files, wi
 
 <div class="image-container">
 
-![Google results](../../_media/explore-data-online/explore-files.png)
+![Dataset preview in a table](../../_media/explore-data-online/explore-files.png)
 
-*Explore dataset before downloading it (dataset example - [kaggle.com](https://www.kaggle.com/utkarshxy/who-worldhealth-statistics-2020-complete))*
+*Dataset preview in a table. Dataset source: [kaggle.com](https://www.kaggle.com/utkarshxy/who-worldhealth-statistics-2020-complete))*
 
 </div>
 
@@ -37,9 +37,9 @@ If technology and resources allow, a more detailed data preview can enable users
 
 <div class="image-container">
 
-![Additional info](../../_media/explore-data-online/explore-map.png)
+![Dataset preview on a map](../../_media/explore-data-online/explore-map.png)
 
-*Previewing data (map - https://ourworldindata.org/)*
+*Dataset preview on a map. Map source: https://ourworldindata.org/*
 
 </div>
 
@@ -53,7 +53,7 @@ An example below shows the [flood warning data ](https://flood-warning-informati
 
 ![Google results](../../_media/explore-data-online/flood-data.png)
 
-*Flood risk information on https://flood-warning-information.service.gov.uk/*
+*Flood risk information online. Source: https://flood-warning-information.service.gov.uk/*
 
 </div>
 
