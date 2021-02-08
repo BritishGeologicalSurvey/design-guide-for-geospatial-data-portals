@@ -25,7 +25,7 @@ The use of icons will help users recognise download links. If icons are used, th
 
 <div class="image-container">
 
-![Google results](../../_media/use-data/download-panel.png)
+![Download card on dataset details page. It highlights the download button. The whole card includes download and preview buttons, file information, and license details.](../../_media/use-data/download-panel.png)
 
 *Download panel on dataset details page*
 
@@ -37,7 +37,7 @@ If any licencing restrictions apply, they should be made clear upfront with link
 
 <div class="image-container">
 
-![Google results](../../_media/use-data/license.png)
+![Download card on dataset details page. It highlights the license details. The whole card includes download and preview buttons, file information, and license details.](../../_media/use-data/license.png)
 
 *License information*
 
@@ -49,7 +49,7 @@ Ensure users know what format the data is in before download, ideally with acces
 
 <div class="image-container">
 
-![Google results](../../_media/use-data/format.png)
+![Download card on dataset details page. It highlights dataset format. The whole card includes download and preview buttons, file information, and license details.](../../_media/use-data/format.png)
 
 *Data formats*
 
@@ -65,7 +65,7 @@ Where possible, allow users to select files from a dataset for a partial downloa
 
 <div class="image-container">
 
-![Google results](../../_media/use-data/data-preview.png)
+![Download modal for a dataset. It shows the functionality for selecting individual files from the dataset for download](../../_media/use-data/data-preview.png)
 
 *Option to select and preview the files included in the dataset*
 
@@ -77,7 +77,7 @@ A user might want to share links with colleagues or send a link to themselves fo
 
 <div class="image-container">
 
-![Google results](../../_media/use-data/share-panel.png)
+![Dataset sharing options. The example shows options for copying a link to dataset, sharing it on twitter, facebook, linked-in or sending it in an email ](../../_media/use-data/share-panel.png)
 
 *Dataset sharing options*
 
