@@ -36,7 +36,7 @@ Give users multiple ways to search spatially for data:
 * Specifying coordinates
 * Selecting an area of the map
 
-ensuring it is clear to the user what is included in the search results and the coordinate system used.
+Ensure it is clear to the user what is included in the search results and the coordinate system used.
 
 <div class="image-container">
 
