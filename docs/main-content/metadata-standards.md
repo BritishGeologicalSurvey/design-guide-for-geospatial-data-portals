@@ -52,4 +52,4 @@ Many pages within your data portal containing information about a dataset can la
 ## Find out more
 + [GEMINI metadata standard](https://www.agi.org.uk/agi-groups/standards-committee/uk-gemini/40-gemini/1052-metadata-guidelines-for-geospatial-data-resources-part-1)
 + [AGI metadata](https://www.agi.org.uk/agi-groups/standards-committee/uk-gemini)
-+ [Geo6 metadata report / TBC ](#)
+<!-- + [Geo6 metadata report / TBC ](#) -->
