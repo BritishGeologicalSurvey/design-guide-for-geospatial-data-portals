@@ -72,7 +72,7 @@ Include a sample query in the search bar as a suggestion for users of what they 
 
 <div class="image-container">
 
-![Search bar with sxample search criteria](../../_media/search-for-data/search-bar.png)
+![Search bar with example search criteria](../../_media/search-for-data/search-bar.png)
 
 *Example search criteria*
 

@@ -17,7 +17,7 @@ Dataset titles should be clearly visible as the first heading users are presente
 
 <div class="image-container">
 
-![dataset heading](../../_media/assess-dataset-relevance/dataset-heading.png)
+![Dataset heading on dataset details page](../../_media/assess-dataset-relevance/dataset-heading.png)
 
 *Heading section for dataset details*
 
@@ -33,7 +33,7 @@ Grouping datasets under parent topics can help users understand the relevancy of
 
 <div class="image-container">
 
-![topics](../../_media/assess-dataset-relevance/dataset-heading-topics.png)
+![Dataset heading on dataset details page. It highlights the topics for this example dataset.](../../_media/assess-dataset-relevance/dataset-heading-topics.png)
 
 *Dataset topics*
 
@@ -57,7 +57,7 @@ Indicate how current datasets are, providing users with information about when a
 
 <div class="image-container">
 
-![Additional info](../../_media/assess-dataset-relevance/update-information.png)
+![Additional information for dataset showing the dataset creation time and frequency of updates](../../_media/assess-dataset-relevance/update-information.png)
 
 *Dataset details relating to creation time and updates*
 
@@ -71,7 +71,7 @@ If there are multiple ways to access data (e.g. API access), instructions should
 
 <div class="image-container">
 
-![Additional info](../../_media/assess-dataset-relevance/download-panel.png)
+![Download link, file details and license information for a](../../_media/assess-dataset-relevance/download-panel.png)
 
 *Download link*
 
@@ -83,9 +83,9 @@ Clearly show the geographical extent of the data (pin on the map or polygon of a
 
 <div class="image-container">
 
-![Additional info](../../_media/assess-dataset-relevance/quick-overview.png)
+![Location preview for the datasets on dataset details page. ](../../_media/assess-dataset-relevance/quick-overview.png)
 
-*Location preview*
+*Location preview. Map source: [OpenStreetMap](https://www.openstreetmap.org)*
 
 </div>
 
@@ -97,7 +97,7 @@ Additional metadata can have less visibility in order to reduce the visual clutt
 
 ![Additional info](../../_media/assess-dataset-relevance/additional-information.png)
 
-*Dataset topics*
+*Extra metadata items in human-readable format*
 
 </div>
 
@@ -115,9 +115,9 @@ A few possible ways to group and identify related datasets include:
 
 List view             |  Map view
 :-------------------------:|:-------------------------:
-![Additional info](../../_media/assess-dataset-relevance/similar-datasets.png) | ![Additional info](../../_media/assess-dataset-relevance/nearby-datasets.png)
+![Related datasets shown as a list](../../_media/assess-dataset-relevance/similar-datasets.png) | ![Datasets nearby shown on a map](../../_media/assess-dataset-relevance/nearby-datasets.png)
 
-*Related datasets in list and map view*
+*Related datasets in list and map view. Map source: [OpenStreetMap](https://www.openstreetmap.org)*
 
 </div>
 
