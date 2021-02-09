@@ -1,6 +1,6 @@
 # Metadata standards
 
-> Metadata helps users interpret meaning from different data sources. Standard metadata encourages consistency and ensures best practice across and between portals. This is achieved by providing an organisational scheme with which to structure and define data. Metadata standards are also relevant for providing data portals with information to index, search and sort their data records.
+> Metadata helps users understand data by providing a description for what the data represents. This information gives greater context and helps your users to find and understand datasets. Metadata standards encourage consistency and ensure best practice across and between data portals. This is achieved by providing an organisational scheme with which to structure and define data. Metadata standards are also relevant for providing data portals with information to index, search and sort their data records.
 
 There are a number of metadata standards that relate to geospatial data. The UK government recommends GEMINI as the standard for organising geospatial information as metadata and many public and private sector organisations have found value in using this standard. GEMINI is based on international geographic ISO standards that are widely supported by software vendors and organisations. Standards ensure that datasets are web-friendly and follow well-defined descriptions such as Vocabulary (DCAT) and Schema.org. You can find more information about the GEMINI standard at [https://www.agi.org.uk/gemini](https://www.agi.org.uk/gemini).
 
