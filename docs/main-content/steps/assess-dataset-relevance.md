@@ -1,4 +1,5 @@
-### Help users to
+<div class="small-heading">Help users to</div>
+
 # Assess dataset relevance
 
 > Ensure datasets are represented accurately with essential metadata. Users often base their decision on whether to use a dataset by how clearly this information is presented to them.

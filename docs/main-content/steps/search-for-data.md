@@ -1,4 +1,5 @@
-### Help users to
+<div class="small-heading">Help users to</div>
+
 # Search for data
 
 > Ensure users can search for data within your data portal by providing easy access to a search facility.

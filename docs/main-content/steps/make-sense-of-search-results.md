@@ -1,4 +1,5 @@
-### Help users to
+<div class="small-heading">Help users to</div>
+
 # Make sense of search results
 
 > Search results should be clearly presented with sufficient sorting and filtering options to help users refine and sort returned dataset records. It is important that users are given enough information to understand and identify relevant high quality results quickly.

@@ -1,4 +1,5 @@
-### Help users to
+<div class="small-heading">Help users to</div>
+
 # Navigate the portal
 
 > Inform users with glanceable information about where they are in the data portal navigation. Ensure navigation is made easy with a quick way to jump to related content or back to the homepage.

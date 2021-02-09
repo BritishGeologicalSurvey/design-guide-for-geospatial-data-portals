@@ -19,6 +19,12 @@ h1 {
     font-weight: bold;
 }
 
+.small-heading {
+    font-size: 22px;
+    font-weight: 600;
+    color: #0b87da;
+}
+
 /* Cover
 ============================================================================= */
 :root {

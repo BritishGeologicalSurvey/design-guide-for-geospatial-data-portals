@@ -1,4 +1,5 @@
-### Help users to
+<div class="small-heading">Help users to</div>
+
 # Check a portal is relevant
 
 > Clearly communicate which subject matters, geographical areas and data licencing users can expect to find. This helps, helping users save time by confirming upfront whether your portal is relevant to their data needs.

@@ -1,4 +1,5 @@
-### Help users to
+<div class="small-heading">Help users to</div>
+
 # Explore data online
 
 > Allow users to visualise or preview data prior to requesting a dataset for download. Some users may only require an online preview of the data, for example, when wanting a single value from a certain location, e.g. the flood risk in a specific location. Giving access to this information ensures the user can save time if they do not require a download.

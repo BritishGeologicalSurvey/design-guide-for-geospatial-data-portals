@@ -1,4 +1,5 @@
-### Help users to
+<div class="small-heading">Help users to</div>
+
 # Use data
 
 > Help users to download data in the format they prefer. Ensure this download process is simple and straight-forward. Where possible, allow for the partial download of datasets. Ensure the contents of the dataset are made clear, the size of the download and what formats are included.

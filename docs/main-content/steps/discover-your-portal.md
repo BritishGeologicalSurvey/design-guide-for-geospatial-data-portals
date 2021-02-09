@@ -1,4 +1,5 @@
-### Help users to
+<div class="small-heading">Help users to</div>
+
 # Discover your portal
 
 > Maximise the discoverability of data portals through search engine optimisation. Most users begin their journey in search engines making discoverability an important part of the user experience. A user's first contact will likely be through a search engine's results page.
