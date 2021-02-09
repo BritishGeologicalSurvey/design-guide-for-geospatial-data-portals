@@ -2,13 +2,14 @@
 
 > Metadata helps users interpret meaning from different data sources. Standard metadata encourages consistency and ensures best practice across and between portals. This is achieved by providing an organisational scheme with which to structure and define data. Metadata standards are also relevant for providing data portals with information to index, search and sort their data records.
 
-There are a number of metadata standards that relate to geospatial data. The UK government recommends GEMINI as the standard for organising geospatial information as metadata and many public and private sector organisations have found value in using this standard. GEMINI is based on international standards that are consistent with a variety of software which support it. There are well-defined mappings to web-friendly metadata standards like Data Catalog Vocabulary (DCAT) and Schema.org. You can find more information about the GEMINI standard at [https://www.agi.org.uk/gemini](https://www.agi.org.uk/gemini).
+There are a number of metadata standards that relate to geospatial data. The UK government recommends GEMINI as the standard for organising geospatial information as metadata and many public and private sector organisations have found value in using this standard. GEMINI is based on international geographic ISO standards that are widely supported by software vendors and organisations. Standards ensure that datasets are web-friendly and follow well-defined descriptions such as Vocabulary (DCAT) and Schema.org. You can find more information about the GEMINI standard at [https://www.agi.org.uk/gemini](https://www.agi.org.uk/gemini).
 
 ## Metadata standards to address user needs
 Metadata standards are an important invisible pillar to support users through their journey to discover, evaluate and use data. By incorporating metadata standards as part of your data portal, benefits include:
 + Users recognise and prefer data that has a well defined metadata standard
 + Organised data is perceived as a trustworthy source
 + Interoperability of data between many applications and metadata catalogues
++ Satisfy the obligation many organisations may have with conforming to a metadata ISO standard
 
 ## Implemention
 <!--
