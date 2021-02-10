@@ -1,6 +1,5 @@
-<div class="small-heading">Help users to</div>
-
-# Use data
+<div class="small-heading" style="margin-top: 45px; font-size: 32px;">Help users to...</div>
+<h1 id="use-data" style="margin-top: 0px">Use data</h1>
 
 > Help users to download data in the format they prefer. Ensure this download process is simple and straight-forward. Where possible, allow for the partial download of datasets. Ensure the contents of the dataset are made clear, the size of the download and what formats are included.
 
