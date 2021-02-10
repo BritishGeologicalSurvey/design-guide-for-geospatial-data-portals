@@ -1,6 +1,5 @@
-<div class="small-heading">Help users to</div>
-
-# Navigate the portal
+<div class="small-heading" style="margin-top: 45px; font-size: 32px;">Help users to...</div>
+<h1 id="navigate-the-portal" style="margin-top: 0px">Navigate the portal</h1>
 
 > Inform users with glanceable information about where they are in the data portal navigation. Ensure navigation is made easy with a quick way to jump to related content or back to the homepage.
 
