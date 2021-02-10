@@ -64,7 +64,7 @@ Our recommendations are designed to address the following pain points, grouped b
 *	Overwhelming amount of results / data returned
 *	Multiple results contain the same data
 *	Poor or invalid descriptions
-*	Misinformation within data sets
+*	Misinformation within datasets
 *	Acronyms are difficult to interpret and understand
 *	Inconsistent searching and sorting filters present unexpected search results
 *	Presenting search results by best match (ranked by frequency of keywords per record for a given search query), does not match the user’s expectation of ranked search results
