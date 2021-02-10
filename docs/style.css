@@ -6,6 +6,10 @@ h1 {
     --zoomimage-overlay-background: rgba(0, 0, 0, 0.875);
 }
 
+.sidebar {
+    width: 21rem;
+}
+
 .sidebar li>p {
     font-weight: 700;
     margin: 0;
