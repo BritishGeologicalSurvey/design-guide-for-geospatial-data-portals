@@ -1,6 +1,5 @@
-<div class="small-heading">Help users to</div>
-
-# Assess dataset relevance
+<div class="small-heading" style="margin-top: 45px; font-size: 32px;">Help users to...</div>
+<h1 id="assess-dataset-relevance" style="margin-top: 0px">Assess dataset relevance</h1>
 
 > Ensure datasets are represented accurately with essential metadata. Users often base their decision on whether to use a dataset by how clearly this information is presented to them.
 
