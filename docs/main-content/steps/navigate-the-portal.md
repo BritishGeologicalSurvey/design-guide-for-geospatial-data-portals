@@ -17,7 +17,7 @@ Page titles allow users to understand the purpose of each page and ensure releva
 
 <div class="image-container">
 
-![Page title for geospatial data portal](../../_media/help-navigate/simple-title.png)
+![Page title for a data portal](../../_media/help-navigate/simple-title.png)
 
 *Clear and easy to find page titles*
 

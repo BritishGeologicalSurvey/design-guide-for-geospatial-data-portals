@@ -3,7 +3,7 @@
 > A search facility should ensure users can quickly query the datasets contained within your portal and return relevant results, ideally ranked by data quality. Present this information clearly and concisely, highlighting relevant search terms, parent categories, sorting options and filters where appropriate to the user.
 
 
-!> The example pages provided are not intended to be used as a comprehensive design system for all aspects of geospatial portals. There is no re-usable code or in-depth style guide provided and any examples should only be considered as a part of your own resaech.
+!> The example pages provided are not intended to be used as a comprehensive design system for all aspects of geospatial portals. There is no re-usable code or in-depth style guide provided and any examples should only be considered as a part of your own research.
 
 ## Example page for search
 

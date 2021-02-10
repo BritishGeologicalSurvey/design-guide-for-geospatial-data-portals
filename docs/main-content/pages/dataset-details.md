@@ -3,7 +3,7 @@
 > Dataset details provide users with access to each individual dataset record, providing enough information for them to assess the quality and relevance of the data. This information should be presented clearly with thematic groupings or sub-sections as not to overwhelm the user with too much content.
 
 
-!> The example pages provided are not intended to be used as a comprehensive design system for all aspects of geospatial portals. There is no re-usable code or in-depth style guide provided and any examples should only be considered as a part of your own resaech.
+!> The example pages provided are not intended to be used as a comprehensive design system for all aspects of geospatial portals. There is no re-usable code or in-depth style guide provided and any examples should only be considered as a part of your own research.
 
 ## Example page for a dataset
 

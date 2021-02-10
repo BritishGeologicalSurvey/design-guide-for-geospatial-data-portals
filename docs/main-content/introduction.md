@@ -43,7 +43,7 @@ We have identified five high level user needs that make up the archetypical user
 ## Common pain points for users
 User research conducted on behalf of the Geospatial Commission identified many issues that caused users to be confused or frustrated when [Finding Geospatial Data](https://www.gov.uk/government/publications/finding-geospatial-data/finding-geospatial-data). Poor usability reduces trust and limits the impact of potentially valuable data. 
 
-Our recommendations are designed to address the following pain points, grouped by user needs:  
+Our [recommendations](https://pautva.github.io/dd3-wireframes/#/main-content/introduction?id=help-users-to) are designed to address the following pain points, grouped by user needs:  
 
 ### 1. Discover data sources
 *	Lack of domain knowledge when searching
@@ -64,7 +64,7 @@ Our recommendations are designed to address the following pain points, grouped b
 *	Overwhelming amount of results / data returned
 *	Multiple results contain the same data
 *	Poor or invalid descriptions
-*	Misinformation within data sets
+*	Misinformation within datasets
 *	Acronyms are difficult to interpret and understand
 *	Inconsistent searching and sorting filters present unexpected search results
 *	Presenting search results by best match (ranked by frequency of keywords per record for a given search query), does not match the user’s expectation of ranked search results
