@@ -1,6 +1,5 @@
-<div class="small-heading">Help users to</div>
-
-# Assess dataset quality 
+<div class="small-heading" style="margin-top: 45px; font-size: 32px;">Help users to...</div>
+<h1 id="assess-dataset-quality" style="margin-top: 0px">Assess dataset quality </h1>
 
 > Enable users to make informed decisions about the quality and relevance of a dataset. Information such as, when a dataset was produced, last updated, frequency of updates and related metadata should be presented clearly to help with this assessment.
 
