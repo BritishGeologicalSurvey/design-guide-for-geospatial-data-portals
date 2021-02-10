@@ -1,4 +1,4 @@
-<div class="small-heading" style="margin-top: 45px; font-size: 34px;">Help users to</div>
+<div class="small-heading" style="margin-top: 45px; font-size: 32px;">Help users to...</div>
 <h1 id="discover-your-portal" style="margin-top: 0px">Discover your portal</h1>
 
 > Maximise the discoverability of data portals through search engine optimisation. Most users begin their journey in search engines making discoverability an important part of the user experience. A user's first contact will likely be through a search engine's results page.
