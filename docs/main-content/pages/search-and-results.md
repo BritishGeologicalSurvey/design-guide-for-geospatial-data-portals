@@ -2,6 +2,9 @@
 
 > A search facility should ensure users can quickly query the datasets contained within your portal and return relevant results, ideally ranked by data quality. Present this information clearly and concisely, highlighting relevant search terms, parent categories, sorting options and filters where appropriate to the user.
 
+
+!> The example pages provided are not intended to be used as a comprehensive design system for all aspects of geospatial portals. There is no re-usable code or in-depth style guide provided and any examples should only be considered as a part of your own resaech.
+
 ## Example page for search
 
 <div class="image-container">
@@ -54,7 +57,10 @@
 
 ## Components used in this example
 
-The following lists provide a quick set of hyperlinks to associated user needs and guidance on how to help users to achieve related tasks.
+
+There may be additional components shown as part of this example which do not feature elsewhere in the guidance as they are not considered to be an essential component. For details on our research into geospatial portals, please refer to the [research and analysis for finding geospatial data](https://www.gov.uk/government/publications/finding-geospatial-data/finding-geospatial-data).
+
+The following lists provide a quick set of hyperlinks to essential user needs and guidance on how to help users to achieve related tasks. 
 
 **[Search for data](main-content/steps/search-for-data)**
 
