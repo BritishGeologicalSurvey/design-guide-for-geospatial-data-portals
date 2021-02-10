@@ -1,6 +1,5 @@
-<div class="small-heading">Help users to</div>
-
-# Make sense of search results
+<div class="small-heading" style="margin-top: 45px; font-size: 32px;">Help users to...</div>
+<h1 id="make-sense-of-search-results" style="margin-top: 0px">Make sense of search results</h1>
 
 > Search results should be clearly presented with sufficient sorting and filtering options to help users refine and sort returned dataset records. It is important that users are given enough information to understand and identify relevant high quality results quickly.
 
