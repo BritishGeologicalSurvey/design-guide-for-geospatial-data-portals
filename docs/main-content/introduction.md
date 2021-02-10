@@ -28,7 +28,7 @@ This guidance provides high-level general recommendations, however, exact requir
 ## User journey
 Geospatially referenced data enables users to connect data through the language of location for greater insights, better decisions and smarter outcomes.  
 
-Users often require information and data from a variety of sources in order to achieve their ultimate goal. Users will discover, access and interact with data portals in a range of ways depending on what they are trying to achieve, who they are and whether they are a first time visitor or a regular user. We have identified five high level user needs that make up the archetypical user journey people go through when searching for data. It doesn’t mean that every user will have the same needs in the same order, but they represent the needs expressed by the majority of people who contributed to our research. 
+Users often require information and data from a variety of sources in order to achieve their ultimate goal. A typical journey for most users when searching for and downloading / using data can be represented as follows:
 
 <div class="image-container">
 
@@ -37,6 +37,8 @@ Users often require information and data from a variety of sources in order to a
 *User journey for discovering and accessing geospatial data. Illustrations by [undraw.co](https://undraw.co/license)*
 
 </div>
+
+We have identified five high level user needs that make up the archetypical user journey people go through when searching for data. Users will discover, access and interact with data portals in a range of ways depending on what they are trying to achieve, who they are and whether they are a first time visitor or a regular user. It doesn’t mean that every user will have the same needs in the same order, but most needs have been expressed by the majority of people who contributed to our research. 
 
 ## Common pain points for users
 User research conducted on behalf of the Geospatial Commission identified many issues that caused users to be confused or frustrated when [Finding Geospatial Data](https://www.gov.uk/government/publications/finding-geospatial-data/finding-geospatial-data). Poor usability reduces trust and limits the impact of potentially valuable data. 
