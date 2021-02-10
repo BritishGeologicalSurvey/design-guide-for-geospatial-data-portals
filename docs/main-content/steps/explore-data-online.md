@@ -1,6 +1,5 @@
-<div class="small-heading">Help users to</div>
-
-# Explore data online
+<div class="small-heading" style="margin-top: 45px; font-size: 32px;">Help users to...</div>
+<h1 id="explore-data-online" style="margin-top: 0px">Explore data online</h1>
 
 > Allow users to visualise or preview data prior to requesting a dataset for download. Some users may only require an online preview of the data, for example, when wanting a single value from a certain location, e.g. the flood risk in a specific location. Giving access to this information ensures the user can save time if they do not require a download.
 
