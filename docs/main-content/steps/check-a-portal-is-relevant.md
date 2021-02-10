@@ -1,6 +1,5 @@
-<div class="small-heading">Help users to</div>
-
-# Check a portal is relevant
+<div class="small-heading" style="margin-top: 45px; font-size: 32px;">Help users to...</div>
+<h1 id="check-a-portal-is-relevant" style="margin-top: 0px">Check a portal is relevant</h1>
 
 > Clearly communicate which subject matters, geographical areas and data licencing users can expect to find. This helps, helping users save time by confirming upfront whether your portal is relevant to their data needs.
 
