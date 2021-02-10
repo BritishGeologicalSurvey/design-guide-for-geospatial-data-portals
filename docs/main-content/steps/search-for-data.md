@@ -1,6 +1,5 @@
-<div class="small-heading">Help users to</div>
-
-# Search for data
+<div class="small-heading" style="margin-top: 45px; font-size: 32px;">Help users to...</div>
+<h1 id="search-for-data" style="margin-top: 0px">Search for data</h1>
 
 > Ensure users can search for data within your data portal by providing easy access to a search facility.
 
