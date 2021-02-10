@@ -89,7 +89,7 @@ Clearly show the geographical extent of the data (pin on the map or polygon of a
 
 </div>
 
-### 10. File format
+### 10. Spatial data file format
 
 Two primary formats for spatial data are [vector and raster](https://en.wikipedia.org/wiki/GIS_file_formats). It was discovered in our research that users would like to know the data format before downloading any file(s). Making this information easily findable will help them make an informed decision on whether this data will be useful for their specific task or problem.
 
