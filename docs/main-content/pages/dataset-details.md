@@ -2,6 +2,9 @@
 
 > Dataset details provide users with access to each individual dataset record, providing enough information for them to assess the quality and relevance of the data. This information should be presented clearly with thematic groupings or sub-sections as not to overwhelm the user with too much content.
 
+
+!> The example pages provided are not intended to be used as a comprehensive design system for all aspects of geospatial portals. There is no re-usable code or in-depth style guide provided and any examples should only be considered as a part of your own resaech.
+
 ## Example page for a dataset
 
 <div class="image-container">
@@ -74,7 +77,7 @@
 
 ## Components used in this example
 
-The following lists provide a quick set of hyperlinks to associated user needs and guidance on how to help users to achieve related tasks.
+There may be additional components shown as part of this example which do not feature elsewhere in the guidance as they are not considered to be an essential component. For details on our research into geospatial portals, please refer to the [research and analysis for finding geospatial data](https://www.gov.uk/government/publications/finding-geospatial-data/finding-geospatial-data).
 
 **[Assess dataset relevance](/main-content/steps/assess-dataset-relevance)**
 * [Clear dataset title](/main-content/steps/assess-dataset-relevance?id=_1-clear-dataset-title)
