@@ -7,7 +7,7 @@
 
 ---
 
-- [Help users to...](main-content/steps/help-users-intro)
+- [Help users to...](https://pautva.github.io/dd3-wireframes/#/main-content/introduction?id=help-users-to)
   
   - [Discover your portal](main-content/steps/discover-your-portal)
   - [Check a portal is relevant](main-content/steps/check-a-portal-is-relevant)
