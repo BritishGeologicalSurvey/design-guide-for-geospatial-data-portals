@@ -33,7 +33,8 @@ h1 {
 ============================================================================= */
 :root {
     --cover-background-color: white;
-    --cover-heading-color: var(--theme-color);;
+    --cover-heading-color: var(--theme-color);
+    --sidebar-width: 21rem; /* Sidebar width */
 }
 
 /* link style */
