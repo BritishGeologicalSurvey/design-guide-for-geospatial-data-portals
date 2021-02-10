@@ -71,7 +71,7 @@ If there are multiple ways to access data (e.g. API access), instructions should
 
 <div class="image-container">
 
-![Download link, file details and license information for a](../../_media/assess-dataset-relevance/download-panel.png)
+![Download link, file details and license information](../../_media/assess-dataset-relevance/download-panel.png)
 
 *Download link*
 
@@ -89,7 +89,19 @@ Clearly show the geographical extent of the data (pin on the map or polygon of a
 
 </div>
 
-### 10. Additional metadata
+### 10. File format
+
+Two primary formats for spatial data are [vector and raster](https://en.wikipedia.org/wiki/GIS_file_formats). It was discovered in our research that users would like to know the data format before downloading any file(s). Making this information easily findable will help them make an informed decision on whether this data will be useful for their specific task or problem.
+
+<div class="image-container">
+
+![Data format information next to download link](../../_media/assess-dataset-relevance/vector-raster.png)
+
+*Data format information next to download link*
+
+</div>
+
+### 11. Additional metadata
 
 Additional metadata can have less visibility in order to reduce the visual clutter on the screen by being displayed in a less prominant location such as different tabs or dropdown menus.
 
@@ -101,7 +113,7 @@ Additional metadata can have less visibility in order to reduce the visual clutt
 
 </div>
 
-### 11. Related datasets
+### 12. Related datasets
 
 Related datasets can help users to discover and explore similar datasets. They can be displayed in a list or map view. 
 
