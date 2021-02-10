@@ -2,6 +2,9 @@
 
 > The homepage should help users understand whether the data portal is relevant for their needs, what topics it covers, what licence the data is shared under and how to start their search for data.
 
+
+!> The example pages provided are not intended to be used as a comprehensive design system for all aspects of geospatial portals. There is no re-usable code or in-depth style guide provided and any examples should only be considered as a part of your own resaech. <br /><br />There may be additional components shown as part of this example which do not feature elsewhere in the guidance as  they are not considered to be an essential component. For details on our research into geospatial portals, please refer to the [research and analysis for finding geospatial data](https://www.gov.uk/government/publications/finding-geospatial-data/finding-geospatial-data).
+
 ## Example homepage
 
 <div class="image-container">
