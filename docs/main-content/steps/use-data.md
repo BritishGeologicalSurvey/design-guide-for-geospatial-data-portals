@@ -71,7 +71,19 @@ Where possible, allow users to select files from a dataset for a partial downloa
 
 </div>
 
-### 8. Sharing options
+### 8. Contact information
+
+Some users might have questions about a specific dataset. They could arise before or after downloading it. If contact information of people who could answer these questions is available, it should be easily findable on the dataset details page and it should be included in the data download.
+
+<div class="image-container">
+
+![Contact information on the dataset details page. It highlights organization name and contact details](../../_media/use-data/contact-information.png)
+
+*Contact information for a dataset*
+
+</div>
+
+### 9. Sharing options
 
 A user might want to share links with colleagues or send a link to themselves for later use.
 
