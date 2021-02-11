@@ -120,3 +120,16 @@ The example wireframes can be found in the [example pages section](/main-content
 *Example wireframe for a geospatial data portal's homepage*
 
 </div>
+
+## Other considerations
+
+This guidance primarily focuses on the user interface (UI) design aspect of geospatial data portals. However, good design is only one of the pillars on which good user experience (UX) is founded. Business analysis and technological capabilities also play a big role in creating data portals that meet user needs and are easy to use. In the next two sections we briefly discuss accessibility and metadata standards before diving into recommendations for designing geospatial data portals. 
+
+<div class="image-container">
+
+![Wireframe example](../_media/ux-formula.png)
+
+*Formula for good user experience*
+
+</div>
+
