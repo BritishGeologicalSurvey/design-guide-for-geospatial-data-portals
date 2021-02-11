@@ -91,8 +91,7 @@ Clearly show the geographical extent of the data (pin on the map or polygon of a
 
 ### 10. Spatial data file format
 
-Two primary formats for spatial data are [vector and raster](https://en.wikipedia.org/wiki/GIS_file_formats). It was discovered in our research that users would like to know the data format before downloading any file(s). Making this information easily findable will help them make an informed decision on whether this data will be useful for their specific task or problem.
-
+Spatial data can be formatted into one of several different data types, for example, [vector and raster](https://en.wikipedia.org/wiki/GIS_file_formats) based file formats. Our research showed that users find this information useful prior to downloading a dataset. Clearly presenting this information will help ensure that your users can make an informed decision on the validity of a dataset download.
 <div class="image-container">
 
 ![Data format information next to download link](../../_media/assess-dataset-relevance/vector-raster.png)
