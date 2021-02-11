@@ -127,7 +127,7 @@ This guidance primarily focuses on the user interface (UI) design aspect of geos
 
 <div class="image-container">
 
-![Wireframe example](../_media/ux-formula.png)
+![Venn diagram for good user experience. It shows that design, business and technology need to be joined to create good user experience for geospatial data portals.](../_media/ux-formula.png)
 
 *Formula for good user experience*
 
