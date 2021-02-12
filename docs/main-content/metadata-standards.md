@@ -16,7 +16,7 @@ Metadata standards are an important invisible pillar to support users through th
 Is it worth including the relevant components where metadata standards are relevant
 -->
 
-Many pages within your data portal containing information about a dataset can largely be created from the metadata. Although there is no explicitly stated reference made available its important to consider the following components as areas to introduce metadata standards to your users. This table suggests whcih GEMINI elements are relevant to which aspect of your portal:
+Many pages within your data portal containing information about a dataset can largely be created from the metadata. This table suggests whcih GEMINI elements are relevant to which aspect of your portal:
 
 | Page | Section | relevant GEMINI element(s) |
 | ---- | ------- | -------------------------- |
