@@ -26,7 +26,7 @@ Throughout 2019 and 2020 the Geo6 have worked on solutions to address pain point
 This guidance provides high-level general recommendations, however, exact requirements for any given portal will vary depending on the needs of your target audience and according to the data volumes and subject matters covered. This resource is not a replacement for portal-specific user research and design work. 
 
 ## User journey
-Geospatially referenced data enables users to connect data through the language of location for greater insights, better decisions and smarter outcomes.  
+Everything happens somewhere. Geospatially referenced data enables users to connect data through the language of location for greater insights, better decisions and smarter outcomes.  
 
 Users often require information and data from a variety of sources in order to achieve their ultimate goal. A typical journey for most users when searching for and downloading / using data can be represented as follows:
 
