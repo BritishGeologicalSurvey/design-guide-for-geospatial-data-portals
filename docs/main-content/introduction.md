@@ -87,7 +87,7 @@ Our [recommendations](https://pautva.github.io/dd3-wireframes/#/main-content/int
 *	Data viewers and exploration option are not optimised for mobile display
 *	Too many barriers such as user registration required pre-download
 *	Different standards of metadata between records
-*	No API access
+*	No application programming interface (API) access
 *	Licencing restrictions
 *	Reliance on others for interpretation
 *	Character corruption within data or metadata
