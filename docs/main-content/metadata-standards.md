@@ -9,7 +9,7 @@ Metadata standards are an important invisible pillar to support users through th
 + Users recognise and prefer data that has a well defined metadata standard
 + Organised data is perceived as more trustworthy
 + Interoperability of data between many applications and metadata catalogues
-+ Satisfy the obligation many organisations may have with conforming to a metadata ISO standard
++ Satisfying the obligation many organisations may have with conforming to a metadata ISO standard
 
 ## Implemention
 <!--
