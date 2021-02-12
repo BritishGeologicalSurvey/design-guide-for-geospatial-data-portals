@@ -7,7 +7,7 @@ There are a number of metadata standards that relate to geospatial data. The UK 
 ## Metadata standards to address user needs
 Metadata standards are an important invisible pillar to support users through their journey to discover, evaluate and use data. By incorporating metadata standards as part of your data portal, benefits include:
 + Users recognise and prefer data that has a well defined metadata standard
-+ Organised data is perceived as a trustworthy source
++ Organised data is perceived as more trustworthy
 + Interoperability of data between many applications and metadata catalogues
 + Satisfy the obligation many organisations may have with conforming to a metadata ISO standard
 
