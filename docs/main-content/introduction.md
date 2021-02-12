@@ -55,7 +55,7 @@ Our [recommendations](https://pautva.github.io/dd3-wireframes/#/main-content/int
 ### 2. Search within data portal
 *	Unclear or inconsistent ways to navigate a portal 
 *	Not knowing the best terminology to use
-*	User interface allows limited search functionality
+*	User interfaces that provide limited search functionality
 *	Not enough granularity when looking to filter search results
 *	Require more temporal and flexible search parameters
 *	Usability documentation is unhelpful
