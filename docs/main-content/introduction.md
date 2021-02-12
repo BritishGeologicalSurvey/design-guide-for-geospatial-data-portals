@@ -49,11 +49,11 @@ Our [recommendations](https://pautva.github.io/dd3-wireframes/#/main-content/int
 *	Lack of domain knowledge when searching
 *	Uncertainty about which keywords to use in a search engine
 *	Reliance on personal recommendations rather than search engine results
-*	Unclear or inconsistent ways to navigate a portal 
 *	Difficulty understanding where data originates from
 *	No single portal contains all the required data
 
 ### 2. Search within data portal
+*	Unclear or inconsistent ways to navigate a portal 
 *	Not knowing the best terminology to use
 *	User interface allows limited search functionality
 *	Not enough granularity when looking to filter search results
