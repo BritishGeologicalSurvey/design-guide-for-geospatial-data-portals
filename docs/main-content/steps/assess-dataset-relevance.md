@@ -3,11 +3,11 @@
 
 > Ensure datasets are represented accurately with essential metadata. Users often base their decision on whether to use a dataset by how clearly this information is presented to them.
 
-Users may often first arrive at a [dataset details page](https://pautva.github.io/dd3-wireframes/#/main-content/pages/dataset-details) after performing a search from a search engine. Thus, it should be instantly clear whether a dataset is available for download or not, what license it is shared under and anything else that may effect how this dataset is used. Ensure users are also provided with a route to understand the data portal in which this dataset record is described, this can be achieved through well designed [navigation](/main-content/steps/navigate-the-portal). 
+Users may often first arrive at a [dataset details page](https://pautva.github.io/dd3-wireframes/#/main-content/pages/dataset-details) after performing a search from a search engine. Thus, it should be instantly clear whether a dataset is available for download or not, what license it is shared under and anything else that may affect how this dataset is used. Make sure users are also provided with a route to understand the data portal in which this dataset record is described. This can be achieved through well-designed [navigation](/main-content/steps/navigate-the-portal). 
 
 ## What it looks like
 
-!> A user's perception of dataset quality is driven by a number of different factors, such as publisher, publication date, frequency of updates, well-described metadata, how complete the data is and a clear visual presentation within the portal itself.<br>
+!> A user's perception of dataset quality is driven by several different factors, such as publisher, publication date, frequency of updates, well-described metadata, how complete the data is and a clear visual presentation within the portal itself.<br>
 <br>
 For more information read how to help users to... [assess data quality](main-content/steps/assess-data-quality).
 
@@ -41,11 +41,11 @@ Grouping datasets under parent topics can help users understand the relevancy of
 
 ### 4. Publisher name
 
-Publisher details such as publisher name, and an image of their logo could help users recognise the quality of a dataset and promote trust with reputable dataset sources.
+Publisher details such as publisher name, and logo could help users recognise the quality of a dataset and promote trust with reputable dataset sources.
 
 ### 5. Licence details
 
-Help users asses whether data is compatable with their needs by providing licence details and any relevant links to terms of use.
+Help users assess whether data is compatible with their needs by providing licence details and any relevant links to terms of use.
 
 ### 6. Created on date and period it relates to
 
@@ -53,7 +53,7 @@ Provide users with information about when a dataset was created and the period o
 
 ### 7. Update frequency and last updated date
 
-Indicate how current datasets are, providing users with information about when a dataset was last updated and the frequency of updates.
+Indicate how current datasets are by providing users with information about when a dataset was last updated and the frequency of updates.
 
 <div class="image-container">
 
@@ -65,9 +65,9 @@ Indicate how current datasets are, providing users with information about when a
 
 ### 8. Download link
 
-If the data is available for download, the download link should be easy to find and access on the dataset details page. Ideally it should always stay visible on the screen as the users are exploring the dataset details page. If the dataset is not available for download, it should be indicated why or when it would become available.
+If the data is available for download, the download link should be easy to find and access on the dataset details page. Ideally, it should always stay visible on the screen as the users are exploring the dataset details page. If the dataset is not available for download, it should indicate why or when it would become available.
 
-If there are multiple ways to access data (e.g. API access), instructions should be provided on how to do that.
+If there are multiple ways to access data, e.g. API access, instructions should be provided on how to do that.
 
 <div class="image-container">
 
@@ -79,7 +79,7 @@ If there are multiple ways to access data (e.g. API access), instructions should
 
 ### 9. Location preview
 
-Clearly show the geographical extent of the data (pin on the map or polygon of area covered). If coordinates are included, provide information about the coordinate reference system used. If the terrain elevation is known it should be displayed together with the geographical extent.
+Clearly show the geographical extent using, for example a pin on the map or a polygon of area covered. If coordinates are included, provide information about the coordinate reference system used. If the terrain elevation is known it should be displayed together with the geographical extent.
 
 <div class="image-container">
 
