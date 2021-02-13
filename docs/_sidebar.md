@@ -7,10 +7,10 @@
 
 ---
 
-- [Help users to...](main-content/introduction?id=help-users-to)
+- [Help users to...]
   
   - [Discover your portal](main-content/steps/discover-your-portal)
-  - [Check a portal is relevant](main-content/steps/check-a-portal-is-relevant)
+  - [Check if a portal is relevant](main-content/steps/check-a-portal-is-relevant)
   - [Navigate the portal](main-content/steps/navigate-the-portal)
   - [Search for data](main-content/steps/search-for-data)
   - [Make sense of search results](main-content/steps/make-sense-of-search-results)
