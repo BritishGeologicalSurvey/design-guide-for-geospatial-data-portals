@@ -39,12 +39,13 @@ Many pages within your data portal containing information about a dataset can la
 | [Assess dataset relevance](https://pautva.github.io/dd3-wireframes/#/main-content/steps/assess-dataset-relevance) | [Download link](https://pautva.github.io/dd3-wireframes/#/main-content/steps/assess-dataset-relevance?id=_8-download-link) | Resource locator |
 | [Assess dataset relevance](https://pautva.github.io/dd3-wireframes/#/main-content/steps/assess-dataset-relevance) | [Location preview](https://pautva.github.io/dd3-wireframes/#/main-content/steps/assess-dataset-relevance?id=_9-location-preview) | Browse graphic (3) | 
 
-**Important considerations for GEMINI**
-+ Some GEMINI elements can be repeated and/or have sub-elements, see [GEMINI](https://www.agi.org.uk/gemini) for further details
-+ If the purpose of your portal is not pre-defined, you may be able to aggregate it from the keywords in the records in the portal
-+ Search engines and search result pages often have limited space to display metadata such as a title and the description. Therefore, it is important to recognise that the first 150 characters of the abstract are the most valued for SEO and GEMINI.
-+ Although "Browse graphic" is not described in GEMINI, it is a commonly used element in the underlying ISO standard
+Note 1: If the purpose of your portal is not pre-defined, you may be able to aggregate it from the keywords in the records in the portal
 
+Note 2: Search engines and search result pages often have limited space to display metadata such as a title and the description. Therefore, it is important to recognise that the first 150 characters of the abstract are the most valued for SEO and GEMINI.
+
+Note 3: Although "Browse graphic" is not described in GEMINI, it is a commonly used element in the underlying ISO standard
+
+Some GEMINI elements can be repeated and/or have sub-elements, see [GEMINI](https://www.agi.org.uk/gemini) for further details
 <!-- The geo6 will publish a report on metadata standards and can be found by visiting ( -- PLACEHOLDER TEXT - LINK TO GC-DD 3/2 --) -->
 
 ## Find out more
