@@ -110,13 +110,13 @@ When presented with a large number of search results, users can struggle to iden
 
 ### 8. Show users their search query on the results page
 
-Ensure search queries are shown if entered to allow users to easily remember what they search for and adjust their search query if required.
+Display search queries alongside search results to allow users to easily remember what they searched for and to easily adjust their search query if required.
 
 <div class="image-container">
 
 ![Search terms displayed on search results page in a geospatial data portal](../../_media/search-for-data/search-terms.png)
 
-*Search terms can be displayed on the results page, so that users don't have to remember what they searched for*
+*Search terms can be displayed on the results page so that users don't have to remember what they searched for.*
 
 </div>
 
@@ -126,7 +126,7 @@ Ensure search queries are shown if entered to allow users to easily remember wha
 
 ![Search terms in the search bar should not get cleared after search](../../_media/search-for-data/search-terms-2.png)
 
-*Search terms should not get cleared from the search bar after search to make it easier to alter search terms if needed*
+*Search terms should not get cleared from the search bar after search to make it easier to alter search terms if needed.*
 
 </div>
 <!--
