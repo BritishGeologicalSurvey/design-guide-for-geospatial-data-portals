@@ -42,7 +42,7 @@ Ensure the data portal URL and name are the same, or at the least, human readabl
 
 ### 5. Portal description
 
-The data portal should have a brief description describing its purpose and the type of data served.
+The data portal should have a brief description of its purpose and the type of data served.
 
 <div class="image-container">
 
