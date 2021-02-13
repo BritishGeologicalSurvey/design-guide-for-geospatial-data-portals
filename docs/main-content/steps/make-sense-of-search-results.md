@@ -1,9 +1,9 @@
 <div class="small-heading" style="margin-top: 45px; font-size: 32px;">Help users to...</div>
 <h1 id="make-sense-of-search-results" style="margin-top: 0px">Make sense of search results</h1>
 
-> Search results should be clearly presented with sufficient sorting and filtering options to help users refine and sort returned dataset records. It is important that users are given enough information to understand and identify relevant high quality results quickly.
+> Search results should be clearly presented with sufficient sorting and filtering options to help users refine and sort returned dataset records. It is important that users are given enough information to understand and identify relevant high-quality results quickly.
 
-Faceted search allow users to refine search results through sorting (order of results), filtering (number of results) and categorisation (parent category). Sorting and filtering should be available to users at the time of entering keywords and not hidden or buried behind an "advanced search option". In addition, sorting and filtering are perceived as the same function and should therefore appear in the same part of the user interface.
+Faceted search allows users to refine search results through sorting (order of results), filtering (number of results) and categorisation (parent category). Sorting and filtering should be available to users at the time of entering keywords and not hidden or buried behind an "advanced search option". In addition, sorting and filtering are perceived as the same function and should therefore appear in the same part of the user interface.
 
 Ensure users arrive at a 'search results' page after performing a search query from one of the search input methods. See [search for 
 data](main-content/steps/search-for-data).
@@ -25,7 +25,7 @@ Ensure users are presented with enough information to help them identify when to
 
 ### 1. Number of results
 
-Help users identify if results are too many or too few, to indicate if a search requires additional filtering or refinement.
+Help users identify if results are too many or too few to indicate if a search requires additional filtering or refinement.
 
 <div class="image-container">
 
@@ -35,7 +35,7 @@ Help users identify if results are too many or too few, to indicate if a search 
 
 </div>
 
-### 2. Faceted search (by parent / child categories)
+### 2. Faceted search (by parent/child categories)
 
 Ensure users have access to glanceable information regarding the parent topic or category to help identify [dataset quality](main-content/pages/assess-dataset-relevance) and [relevance](main-content/pages/assess-dataset-relevance).
 
