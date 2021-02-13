@@ -24,10 +24,10 @@ You can find out more about the regulations by reading the [latest guidance](htt
 Here is a roundup of best practice accessibility guidance to follow when considering the design of a geospatial data portal:
 
 #### Content
-+ Ensure content is in a logical order so that users who tab through content can do so in an order that makes sense
++ Content has to be in a logical order so that users who tab through can do so in an order that makes sense
 + Make sure headings and sections stand out with each section having its own heading
-+ Ensure links are self-describing, independent to any surrounding text and front-loaded with the most notable keywords first
-+ Ensure the order descriptions are read out are tested with screen readers
++ Links should be self-describing, independent to any surrounding text and front-loaded with the most notable keywords first
++ Ensure the order descriptions are read out in are tested with screen readers
 + Text should be resizable and legible when resized
 
 #### Images
@@ -42,7 +42,7 @@ Here is a roundup of best practice accessibility guidance to follow when conside
 + Ensure all interactive elements have intentional styles for applied states: focus, hover, active, and visited
 
 #### Forms
-+ Ensure forms are in single column, have descriptive labels, avoid placeholder text and include clear error states
++ Ensure forms are in a single column, have descriptive labels, avoid placeholder text and include clear error states
 + Ensure labels are assigned to each form element
 
 #### Touch targets
@@ -50,7 +50,7 @@ Here is a roundup of best practice accessibility guidance to follow when conside
 + On mobile: Ensure primary actions are achieved with either the left or right thumb and touch targets are at least 48px and separated by 8px.
 
 #### Colour contrast
-+ Ensure that there is sufficient contrast between colours, 4.5:1 for small text and 3:1 for large text
++ Make sure there is sufficient contrast between colours, 4.5:1 for small text and 3:1 for large text
 
 
 ### Find out more
