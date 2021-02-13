@@ -91,7 +91,7 @@ Clearly show the geographical extent using, for example a pin on the map or a po
 
 ### 10. Spatial data file format
 
-Spatial data can be formatted into one of several different data types, for example, [vector and raster](https://en.wikipedia.org/wiki/GIS_file_formats) based file formats. Our research showed that users find this information useful prior to downloading a dataset. Clearly presenting this information will help ensure that your users can make an informed decision on the validity of a dataset download.
+Geospatial data can be formatted in several different data types, users may require a speific [GIS format](https://en.wikipedia.org/wiki/GIS_file_formats). Clearly presenting whether a dataset is a raster or vector format will help users to make an informed decision on the suitability of the data.
 <div class="image-container">
 
 ![Data format information next to download link](../../_media/assess-dataset-relevance/vector-raster.png)
@@ -102,7 +102,7 @@ Spatial data can be formatted into one of several different data types, for exam
 
 ### 11. Additional metadata
 
-Additional metadata can have less visibility in order to reduce the visual clutter on the screen by being displayed in a less prominant location such as different tabs or dropdown menus.
+Additional metadata can have less visibility in order to reduce the visual clutter on the screen. It can be displayed in a less promenant location such as different tabs or dropdown menus.
 
 <div class="image-container">
 
