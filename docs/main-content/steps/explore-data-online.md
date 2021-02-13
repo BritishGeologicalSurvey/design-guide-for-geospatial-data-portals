@@ -11,9 +11,9 @@ Dataset previews and visualisations should be presented on the [dataset details]
 
 ## What it looks like
 
-There are multiple ways that the data can be explored online - maps, tables, charts. For geospatial data, a map based interface would be the most appropriate method. 
+There are multiple ways that the data can be explored online - maps, tables, charts. For geospatial data, a map-based interface would be the most appropriate method. 
 
-Any dataset that can not be previewed online should include a written description or example visualisation of the data to help users get a better understanding of what is included. This also ensures your data portal follows our [accessibility](/main-content/accessibility) guidance for users with visual impairments. 
+Any dataset that cannot be previewed online should include a written description or example visualisation of the data to help users get a better understanding of what is included. This also ensures your data portal follows our [accessibility](/main-content/accessibility) guidance for users with visual impairments. 
 
 When previewing data online, users might have one of these goals:
 * Preview the data online to get a better understanding of its contents
@@ -21,7 +21,7 @@ When previewing data online, users might have one of these goals:
   
 ### 1. Preview the contents of the dataset
 
-Allowing for users to preview the contents of a dataset, including any files, will help them to make better decisions on whether to use a dataset.
+Allowing for users to preview the contents of a dataset, including any files, will help them make better decisions on whether to use a dataset.
 
 <div class="image-container">
 
@@ -45,7 +45,7 @@ If technology and resources allow, a more detailed data preview can enable users
 
 ### 3. Get specific information online
 
-Understanding the user's needs when it comes to data will ensure when to display data directly in the data portal or when to provide quick access to a download.
+Understanding the user's needs when it comes to data will inform when to display data directly in the data portal or when to provide quick access to a download.
 
 An example below shows the [flood warning data ](https://flood-warning-information.service.gov.uk/). Users can get the information they need directly in the browser without downloading the dataset.
 
