@@ -3,11 +3,11 @@
 
 > Enable users to make informed decisions about the quality and relevance of a dataset. Information such as, when a dataset was produced, last updated, frequency of updates and related metadata should be presented clearly to help with this assessment.
 
-!> Find more details in the [The Government Data Quality Framework](https://www.gov.uk/government/publications/the-government-data-quality-framework/the-government-data-quality-framework)
+!> Find more details in [The Government Data Quality Framework](https://www.gov.uk/government/publications/the-government-data-quality-framework/the-government-data-quality-framework)
 
 ## What it looks like
 
-A user's perception of dataset quality is driven by a number of different factors, such as publisher, publication date, frequency of updates, well-described metadata, how complete the data is and a clear visual presentation within the portal itself.
+A user's perception of dataset quality is driven by several factors, such as publisher, publication date, frequency of updates, well-described metadata, how complete the data is and a clear visual presentation within the portal itself.
 
 Presentation of dataset records, e.g. through search results, should be shown clearly. Ensure you display information relating to:
 
