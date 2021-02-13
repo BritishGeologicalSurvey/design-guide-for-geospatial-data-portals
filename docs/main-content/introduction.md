@@ -61,7 +61,7 @@ Our [recommendations](https://pautva.github.io/dd3-wireframes/#/main-content/int
 *	Usability documentation is unhelpful
 
 ### 3. Understand search results
-*	Overwhelming amount of results / data returned
+*	Overwhelming amount of results/data returned
 *	Multiple results contain the same data
 *	Poor or invalid descriptions
 *	Misinformation within datasets
@@ -93,7 +93,7 @@ Our [recommendations](https://pautva.github.io/dd3-wireframes/#/main-content/int
 *	Character corruption within data or metadata
 
 ## Help users to...
-As users progress through their journey, they perform certain tasks, some spanning more than one high level user need (see below). This guidance presents solutions in a format that addresses those pain points. These solutions are phrased as a statement to 'Help Users To...' perform tasks, for example [Helps User To... Discover your portal](main-content/steps/discover-your-portal).  
+As users progress through their journey, they perform certain tasks, some spanning more than one high-level user need (see below). This guidance presents solutions in a format that addresses those pain points. These solutions are phrased as a statement to 'Help Users To...' perform tasks, for example [Helps User To... Discover your portal](main-content/steps/discover-your-portal).  
 
 <div class="image-container">
 
@@ -107,7 +107,7 @@ As users progress through their journey, they perform certain tasks, some spanni
 
 This guidance features mock components and page illustrations as a general wireframe for a generic geospatial data portal. 
 
-Wireframes are visual representations of the user interface without branding or high fidelity styles. Their purpose is to assist user experience (UX) designers to convey the overall presentation of page elements, their hierarchy and layout. The user needs for geospatial data portals were discovered in the [Data Discoverability project](https://www.gov.uk/government/publications/finding-geospatial-data/finding-geospatial-data).
+Wireframes are visual representations of the user interface without branding or high-fidelity styles. Their purpose is to assist user experience (UX) designers to convey the overall presentation of page elements, their hierarchy and layout. The user needs for geospatial data portals were discovered in the [Data Discoverability project](https://www.gov.uk/government/publications/finding-geospatial-data/finding-geospatial-data).
 
 Wireframes in this guidance show one possible implementation of a geospatial portal. Each geospatial data portal will differ depending on the needs of their users.
 
