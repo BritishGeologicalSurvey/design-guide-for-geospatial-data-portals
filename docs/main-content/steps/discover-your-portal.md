@@ -38,7 +38,7 @@ The URL should be short, relevant and memorable.
 
 ### 4. Portal name
 
-Ensure the data portal URL and name are the same, or at the least, human readable and memorable.
+Ensure the data portal URL and name are the same, or at the least, human-readable and memorable.
 
 ### 5. Portal description
 
