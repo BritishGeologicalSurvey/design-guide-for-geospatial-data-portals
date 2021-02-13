@@ -20,7 +20,7 @@ In 2018 user researchers and designers across the Geo6 came together to explore 
 
 Throughout 2019 and 2020 the Geo6 have worked on solutions to address pain points identified by the user research conducted for the [Data Discoverability project](https://www.gov.uk/government/publications/finding-geospatial-data/finding-geospatial-data).
 
-!> This guidance material is not intended to be used as a comprehensive design system for all aspects of geospatial portals. There is no re-usable code or in-depth style guide provided. If such resources are of interest please visit the [GOV.UK Design System](https://design-system.service.gov.uk/get-started/).
+!> This guidance material is not intended to be used as a comprehensive design system for all aspects of geospatial portals. There is no re-usable code or in-depth style guide provided. If such resources are of interest, please visit the [GOV.UK Design System](https://design-system.service.gov.uk/get-started/).
 
 ## Research your users
 This guidance provides high-level general recommendations, however, exact requirements for any given portal will vary depending on the needs of your target audience and according to the data volumes and subject matters covered. This resource is not a replacement for portal-specific user research and design work. 
@@ -38,7 +38,7 @@ Users often require information and data from a variety of sources in order to a
 
 </div>
 
-We have identified five high level user needs that make up the archetypical user journey people go through when searching for data. Users will discover, access and interact with data portals in a range of ways depending on what they are trying to achieve, who they are and whether they are a first time visitor or a regular user. It doesn’t mean that every user will have the same needs in the same order, but most needs have been expressed by the majority of people who contributed to our research. 
+We have identified five high-level user needs that make up the archetypical user journey people go through when searching for data. Users will discover, access and interact with data portals in a range of ways depending on what they are trying to achieve, who they are and whether they are a first-time visitor or a regular user. It doesn’t mean that every user will have the same needs in the same order, but most needs have been expressed by the majority of people who contributed to our research. 
 
 ## Common pain points for users
 User research conducted on behalf of the Geospatial Commission identified many issues that caused users to be confused or frustrated when [Finding Geospatial Data](https://www.gov.uk/government/publications/finding-geospatial-data/finding-geospatial-data). Poor usability reduces trust and limits the impact of potentially valuable data. 
