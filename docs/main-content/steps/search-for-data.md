@@ -106,7 +106,7 @@ If there are data records that have a 'close' resemblance to search criteria ens
 
 ### 7. Sort by and filter options
 
-If a search query does not show any relevant data records ensure that query can be further refined through 'sort' and 'filter' methods.
+When presented with a large number of search results, users can struggle to identify relevant records, make sure the query can be further refined through 'sort' and 'filter' methods.
 
 ### 8. Show users their search query on the results page
 
