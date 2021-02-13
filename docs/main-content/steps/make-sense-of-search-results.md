@@ -48,7 +48,7 @@ Ensure users have access to glanceable information regarding the parent topic or
 </div>
 
 ### 3. Remove filters
-Ensure users have effective tools to allow them to quickly remove applied filters
+Ensure users have effective tools to allow them to quickly remove applied filters.
 
 <div class="image-container">
 
@@ -59,7 +59,7 @@ Ensure users have effective tools to allow them to quickly remove applied filter
 </div>
 
 ### 4. Sort by
-Ensure users have an effective way to change how results are sorted to help promote relevant results first
+Ensure users have an effective way to change how results are sorted to help promote relevant results first.
 
 <div class="image-container">
 
@@ -71,7 +71,7 @@ Ensure users have an effective way to change how results are sorted to help prom
 
 ### 5. Apply filters
 
-Ensure users can quickly and easily apply filters to remove results that are not relevant to their search query
+Ensure users can quickly and easily apply filters to remove results that are not relevant to their search query.
 
 <div class="image-container">
 
@@ -83,7 +83,7 @@ Ensure users can quickly and easily apply filters to remove results that are not
 
 ### 6. Geospatial filter
 
-Geospatial presentation of results by preference of area should be made available for the user to refine their search to a specific location / spatial region
+Geospatial presentation of results by preference of area should be made available for the user to refine their search to a specific location / spatial region.
 
 <div class="image-container">
 
@@ -94,7 +94,7 @@ Geospatial presentation of results by preference of area should be made availabl
 </div>
 
 ### 7. Results list
-Each result should show a title, description, related publisher information, publication date, last updated, key meta data and licence type. There may be additional mechanisms to help identify higher quality datasets, such as crowdsourced user feedback forms and displaying information to distinguish (../../main-content/steps/assess-data-quality) search results.
+Each result should show a title, description, related publisher information, publication date, last updated, key metadata and licence type. There may be additional mechanisms to help identify higher quality datasets, such as crowdsourced user feedback forms and displaying information to distinguish search results.
 
 <div class="image-container">
 
