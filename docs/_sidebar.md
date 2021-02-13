@@ -7,7 +7,7 @@
 
 ---
 
-- [Help users to...]
+- Help users to...
   
   - [Discover your portal](main-content/steps/discover-your-portal)
   - [Check if a portal is relevant](main-content/steps/check-a-portal-is-relevant)
