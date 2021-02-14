@@ -39,9 +39,9 @@ Grouping datasets under parent topics can help users understand the relevancy of
 
 </div>
 
-### 4. Publisher name
+### 4. Publisher details
 
-Publisher details such as publisher name, and logo could help users recognise the quality of a dataset and promote trust with reputable dataset sources.
+Publisher details such as publisher name, and logo could help users recognise the quality of a dataset and promote trust with reputable dataset sources. Users may want to see a contact point in order to find out more about the data.
 
 ### 5. Licence details
 
