@@ -57,7 +57,7 @@ Ensure users know what format the data is in before downloading, ideally with ac
 
 ### 6. Dynamic data access
 
-If data can be accessed through other methods, clear instructions on how to do that should be provided. For example, users may prefer to access data in a flexible way, such as through an application programming interface (API).
+If data can be accessed through other methods, clear instructions on how to do that should be provided. For example, users may prefer to access data in a flexible way, such as through an application programming interface (API). If providing API’s, consider whether to apply usage limits and security. It is also important for a portal to provide information on the expected availability of the API (e.g. 99.9% uptime). This helps teams work out how they can best make use of a shared API. 
 
 ### 7. File selection for partial downloads
 
