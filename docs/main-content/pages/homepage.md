@@ -1,6 +1,6 @@
 # Homepage
 
-> The homepage should help users understand whether the data portal is relevant for their needs, what topics it covers, what licence the data is shared under and how to start their search for data.
+> The homepage should help users understand whether the data portal is relevant for their needs, what topics it covers, what licence(s) the data is shared under and how to start their search for data.
 
 
 !> The example pages provided are not intended to be used as a comprehensive design system for all aspects of geospatial portals. There is no re-usable code or in-depth style guide provided and any examples should only be considered as a part of your own research.
@@ -41,12 +41,12 @@
 
 There may be additional components shown as part of this example which do not feature elsewhere in the guidance as they are not considered to be an essential component. For details on our research into geospatial portals, please refer to the [research and analysis for finding geospatial data](https://www.gov.uk/government/publications/finding-geospatial-data/finding-geospatial-data).
 
-The following lists provide a quick set of hyperlinks to essential user needs and guidance on how to help users to achieve related tasks. 
+The following lists provide a quick set of hyperlinks to essential user needs and guidance on how to help users achieve related tasks. 
 
 **[Discover your portal](main-content/steps/discover-your-portal)**
 <!-- typo in the link url -->
 
-**[Chcck if a portal is relevant](main-content/steps/check-a-portal-is-relevant)**
+**[Check if a portal is relevant](main-content/steps/check-a-portal-is-relevant)**
 * [What is the purpose of this data portal, what are the topics it covers?](/main-content/steps/check-a-portal-is-relevant?id=_1-what-is-the-purpose-of-this-data-portal-what-are-the-topics-it-covers)
 * [Who is the organisation managing this portal?](/main-content/steps/check-a-portal-is-relevant?id=_2-who-is-the-organisation-managing-this-portal)
 * [What licences are the data shared under?](#/main-content/steps/check-a-portal-is-relevant?id=_2-who-is-the-organisation-managing-this-portal)
