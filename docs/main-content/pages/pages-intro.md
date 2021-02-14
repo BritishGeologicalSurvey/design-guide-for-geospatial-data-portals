@@ -7,7 +7,7 @@ It does not mean this is the only way to design and develop a geospatial data po
 Below are some key data portal pages:
 
 * [Homepage](/main-content/pages/homepage)
-* [Search / Search results](main-content/pages/search-and-results)
+* [Search/Search results](main-content/pages/search-and-results)
 * [Dataset details](/main-content/pages/dataset-details)
 
 Other pages may form part of a geospatial data portal, for example: **Help, FAQ, Contact Us, Latest/Most popular dataset pages, Featured Data**. Although these pages are important, they are not considered an essential part of the guidance relating to geospatial portals, therefore a greater emphasis has been placed on those pages and components considered as essential.
