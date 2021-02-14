@@ -1,9 +1,9 @@
 <div class="small-heading" style="margin-top: 45px; font-size: 32px;">Help users to...</div>
 <h1 id="use-data" style="margin-top: 0px">Use data</h1>
 
-> Help users to download data in the format they prefer. Ensure this download process is simple and straight-forward. Where possible, allow for the partial download of datasets. Ensure the contents of the dataset are made clear, the size of the download and what formats are included.
+> Help users to download data in the format they prefer. Make sure this download process is simple and straight-forward. Where possible, allow for the partial download of datasets. Ensure the contents of the dataset are made clear, the size of the download and what formats are included.
 
-Whether a dataset is freely available or requires payment, users prefer having the option to preview data prior to download, with information describing what is required to use the dataset. For more information read how to help users to... [explore data online](main-content/steps/explore-data-online).
+State whether a dataset is freely available, subject to any use contraints, licences or fees. Users prefer having the option to preview data prior to download, with information describing what is required to use the dataset. For more information read how to help users to... [explore data online](main-content/steps/explore-data-online).
 
 Ensure datasets are downloadable from their [dataset details page](/main-content/pages/dataset-details).
 
@@ -11,7 +11,7 @@ Ensure datasets are downloadable from their [dataset details page](/main-content
 
 ### 1. Preview data online
 
-Ensure datasets can be assessed directly in the portal. Read more about it in the ['Explore data online'](/main-content/steps/explore-data-online) section. 
+Make sure datasets can be assessed directly in the portal. Read more about it in the ['Explore data online'](/main-content/steps/explore-data-online) section. 
 
 ### 2. Straightforward process for downloading data
 
@@ -19,7 +19,7 @@ Restricting access to datasets can often lead to user frustration [(Data Discove
 
 ### 3. Download button
 
-Download buttons and links for datasets should be clearly visible and identifiable. Any datasets that are not available for download (e.g. undergoing review for publication), should be described as such with information about when the dataset will become available.
+Download buttons and links for datasets should be clearly visible and identifiable. Any datasets that are not available for download (e.g. those undergoing review for publication), should be described as such with information about when the dataset will become available.
 
 The use of icons will help users recognise download links. If icons are used, they should be simple and always include a text label.
 
@@ -45,7 +45,7 @@ If any licencing restrictions apply, they should be made clear upfront with link
 
 ### 5. Display data formats
 
-Ensure users know what format the data is in before download, ideally with access to definitions of those file types. Users are usually looking for data that can work with the tools they use.
+Ensure users know what format the data is in before downloading, ideally with access to definitions of those file types. Users are usually looking for data that can work with the tools they use.
 
 <div class="image-container">
 
@@ -57,7 +57,7 @@ Ensure users know what format the data is in before download, ideally with acces
 
 ### 6. Dynamic data access
 
-Users sometimes prefer to access data in a flexible way, e.g. application programming interface (API) access. If data can be accessed through other methods, clear instructions on how to do that should be provided.
+If data can be accessed through other methods, clear instructions on how to do that should be provided. For example, users may prefer to access data in a flexible way, such as through an application programming interface (API).
 
 ### 7. File selection for partial downloads
 
