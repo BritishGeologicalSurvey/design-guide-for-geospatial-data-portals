@@ -45,7 +45,7 @@ Publisher details such as publisher name, and logo could help users recognise th
 
 ### 5. Licence details
 
-Help users assess whether data is compatible with their needs by providing licence details and any relevant links to terms of use.
+Help users assess whether data is compatible with their needs by providing licence details, an explanation of what it means to them including any relevant links to terms of use.
 
 ### 6. Created on date and period it relates to
 
@@ -102,7 +102,7 @@ Geospatial data can be formatted in several different data types, users may requ
 
 ### 11. Additional metadata
 
-Additional metadata can have less visibility in order to reduce the visual clutter on the screen. It can be displayed in a less promenant location such as different tabs or dropdown menus.
+Additional metadata can have less visibility in order to reduce the visual clutter on the screen. The exact details of which attributes your users consider 'additional' may vary. This inforation can be displayed in a less promenant location such as different tabs or dropdown menus.
 
 <div class="image-container">
 
