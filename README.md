@@ -21,7 +21,7 @@
 * [GDS Design Patterns](https://design-system.service.gov.uk/patterns/)
 * [UI Design Patterns](http://ui-patterns.com/)
 
-## Articles
+## Related articles
 * [Why GOV.UK content should be published in HTML and not PDF](https://gds.blog.gov.uk/2018/07/16/why-gov-uk-content-should-be-published-in-html-and-not-pdf/)
 * [DVSA's strategy for 2017 to 2022, and how it was written](https://dvsadigital.blog.gov.uk/2017/07/20/dvsas-strategy-for-2017-to-2022-and-how-it-was-written/)
 * [Bye bye PDF, hello HTML!](https://phescreening.blog.gov.uk/2016/11/18/bye-bye-pdf-hello-html/)
