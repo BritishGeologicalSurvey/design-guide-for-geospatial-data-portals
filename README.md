@@ -21,7 +21,9 @@ Guidance for developers and designers to increase the discoverability and useful
 * [govspeak tool](https://github.com/alphagov/govspeak)
 * [html to govspeak](https://github.com/alphagov/paste-html-to-govspeak)
 
-## How to Edit Content
+## How to edit this content
+
+This documentation is created using [Docsify documentation site generator](https://docsify.js.org/#/).
 
 * Landing page can be edited from `docs/_coverpage.md`
 * The sidebar can be edited from `docs/_sidebar.md`
