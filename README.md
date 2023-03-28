@@ -6,14 +6,6 @@ Guidance for developers and designers to increase the discoverability and useful
 
 * **[View Online Guidance Document](https://britishgeologicalsurvey.github.io/design-guide-for-geospatial-data-portals/)**
 
-## How to Edit Content
-
-* Landing page can be edited from `docs/_coverpage.md`
-* The sidebar can be edited from `docs/_sidebar.md`
-* New pages can be created/edited from the `docs` folder
-* Existing pages can be accessed and edit using `Edit on Github` button on the top right of documentation
-
-
 ## Useful links
 
 * [Government Design Principles](https://www.gov.uk/guidance/government-design-principles)
@@ -28,6 +20,13 @@ Guidance for developers and designers to increase the discoverability and useful
 ## Tools
 * [govspeak tool](https://github.com/alphagov/govspeak)
 * [html to govspeak](https://github.com/alphagov/paste-html-to-govspeak)
+
+## How to Edit Content
+
+* Landing page can be edited from `docs/_coverpage.md`
+* The sidebar can be edited from `docs/_sidebar.md`
+* New pages can be created/edited from the `docs` folder
+* Existing pages can be accessed and edit using `Edit on Github` button on the top right of documentation
 
 ## Running project locally
 
