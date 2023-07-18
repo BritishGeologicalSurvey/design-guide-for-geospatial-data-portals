@@ -25,6 +25,9 @@ Throughout 2019 and 2020 the Geo6 have worked on solutions to address pain point
 ## Research your users
 This guidance provides high-level general recommendations, however, exact requirements for any given portal will vary depending on the needs of your target audience and according to the data volumes and subject matters covered. This resource is not a replacement for portal-specific user research and design work. 
 
+## Methodology
+These recommendations are drawn from user research conducted for ['Geo6' Data Discoverability 2](https://geospatialcommission.blog.gov.uk/2020/08/25/how-the-uk-government-is-transforming-the-way-it-shares-geospatial-data/) between August and November 2019. The research involved face-to-face interviews with diverse user groups who use data portals. A total of 25 interviews were conducted, representing various organizations and covering six user archetypes: Storytellers and consumers (2 interviews), Strategic leads (3 interviews), Solution innovators (4 interviews), Curious researchers (3 interviews), Geo data engineers (10 interviews), and Non-geo data engineers (3 interviews). The primary objective of these interviews was to gain insights into users' data access requirements, pain points, and priorities regarding usability and data quality. The information collected provided valuable context and insights to inform the Design Guide for Geospatial Data Portals.
+
 ## User journey
 Everything happens somewhere. Geospatially referenced data enables users to connect data through the language of location for greater insights, better decisions and smarter outcomes.  
 
